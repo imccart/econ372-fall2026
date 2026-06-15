@@ -30,7 +30,8 @@ Full spec: `healthcare-markets/assessment.md`. (Supersedes the earlier draft tha
 ## Status
 - [x] Copy and adapt site scaffold from fall2025-site (`_quarto.yml`, infra, index, syllabus)
 - [x] Update syllabus for the new assessment structure + AI-required policy
-- [x] Schedule skeleton drafted — 28 Tue/Thu sessions (8/27–12/8), 4 modules, all 7 sims, all 6 quizzes. **Midterm Thu 11/19** covers insurance + physicians + hospitals (before Thanksgiving, not adjacent to any break; 11/17 is review). Topics/readings, exact quiz↔sim placement, and per-class pages + slide links still to refine
+- [x] Schedule built — 28 Tue/Thu sessions (8/27–12/8), 4 modules, all 7 sims, all 6 quizzes, HW due-date rows. **Midterm Thu 11/19** covers insurance + physicians + hospitals (before Thanksgiving, not adjacent to a break; 11/17 review). Fall-2025-style linked module tables with slides + book-chapter + assignment icons. **No per-class Detail pages** (dropped — redundant with slides + a maintenance burden). Topics/readings + exact quiz↔sim placement still tunable
+- **Gotcha:** absolute local links (`/assignments/…`) render with a Windows backslash (`..\`) and break; use relative `.qmd` links (`../assignments/homework1.qmd`) and always `quarto render` the whole project (per-file render breaks cross-`.qmd` resolution)
 - [x] Course logistics filled — Tue/Thu 2:30–3:45pm, New Psychology Building 225, term 8/26–12/9/2026, office hours Thu 1–2pm RRR 418 (TA name still TBD in `syllabus.qmd`)
 - [ ] Carry over / refresh resources (worksheets, reviews); `resources/index.qmd` is a placeholder
 - [ ] Confirm the GitHub repo name used in `_quarto.yml` (`imccart/econ372-fall2026`) and create it

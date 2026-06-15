@@ -7,6 +7,6 @@ Practice worksheets, review materials, and supplemental readings will be posted 
 
 In the meantime, the main course materials live alongside this site:
 
-- **Slides** for each module, linked from the [schedule](/schedule/).
+- **Slides** for each module, linked from the [schedule](../schedule/index.qmd).
 - The **online book** for the course (a work in progress).
 - **All Day TA**, a course-trained practice and Q&A assistant for working through the material outside of class.
