@@ -1,0 +1,151 @@
+---
+title: "Syllabus"
+# subtitle: "Fall 2026"
+page-layout: full
+format: html
+---
+
+## Course description
+
+This course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We will focus specifically on insurance markets, informational asymmetries between physicians and patients, hospital pricing and competition, and prescription drug markets.
+
+**Prerequisites:** Economics 101 (Principles of Microeconomics). Some basic knowledge of calculus and derivatives is also required, but not necessarily the official Math 111 (Calculus I) course at Emory.
+
+## Learning outcomes
+
+The broad goal of the class is to understand the structure of health care markets in the U.S. The course is designed around three areas, reflecting the different interactions an individual would have when navigating the health care system --- first choosing an insurance plan, then visiting a physician, and ultimately receiving healthcare. For each segment, we will examine underlying theoretical model(s), consider empirical evidence in the area, and discuss relevant health care policy. My specific goals are that, by the end of this course, you will be able to:
+
+1. Explain the structure of the U.S. health care system, its main components, and its history;
+
+2. Model adverse selection in health insurance, examine its effects on health insurance markets, and support your arguments with existing data;
+
+3. Explain the physician agency problem, use a model of physician agency to examine financial incentives in health care, and summarize empirical evidence on the presence of physician agency;
+
+4. Describe hospital pricing, negotiation with insurers, and explain (qualitatively and quantitatively) the differences between charges and prices;
+
+5. Summarize key elements of prescription drug markets, including the role of patents, generic drugs, and the FDA; and
+
+6. Analyze hospital data in a real-life setting and discuss the likely effects of real-life policies.
+
+## Course materials
+
+### Where to go
+If you're here, then you know where to find our class website. Well done! This is where I host most of our course materials such as notes/slides, assignments, practice problems, etc. I'll also use Canvas to distribute any papers or specific readings that aren't available publicly, as well as post information that I don't want public like grades.
+
+
+### Readings
+There are a few optional textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, another is an older health economics textbook that was pretty good at the time but is no longer updated, and the last is a newer book that is an easy read but not necessarily very formal. These books are in no way required, but they may be helpful for some students as an additional resource.
+
+  - @pindyck2018
+  - @sloan2012
+  - @friedson2023
+
+We will supplement these textbooks with other readings as well as online presentations, policy papers, and videos. I'm also writing an online book specifically for this class (still very much a work in progress). A comprehensive list of materials and potential readings are available from the [schedule](/schedule/) page.
+
+
+### Software and AI tools
+The empirical homework in this class involves real data analysis in `R` or `Python`. You are expected to use an AI coding assistant (for example, GitHub Copilot, which is free for students through the Emory GitHub program, or a tool of your choice) to help write the code. The mechanical work of producing code is now essentially free, so the homework is built around the judgment that surrounds it --- directing the tool, checking what it returns, and catching it when it is confidently wrong. More on this under [AI and assignments](#ai-and-assignments) below. This is **not** a statistics or econometrics class, and you are not expected to arrive with programming experience.
+
+
+### Accessing data
+Data for each homework assignment is linked from the [assignments](/assignments/) page. For transparency, I will also point you to the original public sources (CMS, HCRIS, and similar) where available.
+
+
+
+## Course policies
+
+**Be nice. Be honest. Don't cheat.**
+
+Various policies for this course are described below. Basically, let's all work to be good citizens and take seriously our various roles as a student, teacher, friend, colleague, human, etc.
+
+### Class meetings
+
+All regular class meetings will take place in the **New Psychology Building, Room 225** on Tuesdays and Thursdays from 2:30pm to 3:45pm. The term runs from August 26 to December 9, 2026.
+
+
+### Office hours
+
+My designated office hours are held on Thursdays from 1:00pm to 2:00pm in the R. Randall Rollins Building, Room 418. My office hours are in-person, as I want to encourage everyone to come visit face-to-face if at all possible. Even if you're planning to visit during normal office hours, please schedule an appointment [here](https://mccarthy-meetings.youcanbook.me/). This just ensures that everyone has the proper time for a meeting.
+
+While we call these "office hours" they really should be "student hours". These are set times dedicated to all of you. This means that I will be in my office waiting for you to come by with whatever questions you have. Take a look at this video for a more interesting presentation of what office hours really are and why you should come!
+
+<iframe src="https://player.vimeo.com/video/270014784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
+
+For any questions that you don't think need a meeting, you can always reach out to me through email. I do my best to respond within 24 hours to all emails.
+
+### Teaching Assistants
+
+We have an excellent economics PhD student as our teaching assistant this year. They will be available to help with questions about the material and assignments, and they will grade the empirical homework. Please be nice. They are here to help you.
+
+  - **[TA name and contact TBD]**
+
+### Turning things in
+
+Most of this course is assessed **in class**, so there is little to turn in outside of the empirical homework.
+
+  - **Empirical homework** is submitted as a **rendered notebook** (Quarto or Jupyter) on Canvas --- a single document containing your code, its output, your written answers, and a short verification note (see [AI and assignments](#ai-and-assignments)). Please make sure the rendered file is legible and well organized; misaligned or unreadable submissions will be treated as late until corrected.
+  - **Quizzes** are taken in class through our class platform (Commons), are timed, and are graded automatically.
+  - **The midterm** is taken in class.
+
+There is no group project and no final exam in this course.
+
+### Academic integrity
+
+The Emory University Honor Code is taken seriously and governs all work in this course. Details about the Honor Code are available [here](http://catalog.college.emory.edu/policies/honor-code.html). By taking this course, you affirm that it is a violation of the code to cheat on exams, to plagiarize, to deviate from the instructions about collaboration on work that is submitted for grades, to give false information to a faculty member, and to undertake any other form of academic misconduct. You agree that the teacher is entitled to move you to another seat during examinations, without explanation. You also affirm that if you witness others violating the code you have a duty to report them to the honor council.
+
+### AI and assignments
+
+This course treats AI tools as a normal part of doing applied economics, and the policy depends on the assessment.
+
+On the **empirical homework, AI use is expected.** Modern AI assistants can write clean code and produce plausible output for free, and equally for everyone. That means the code itself is no longer the skill being graded. What is graded is the economic judgment around it --- choosing the right comparison, checking that the output makes sense, catching the assistant when it is confidently wrong, and interpreting the result in the language of this course. Each homework asks you to flag, somewhere in your submission, one specific point where the AI's first answer was wrong, incomplete, or misleading, and to explain in economic terms how you knew. "It ran without errors" does not count. The goal is to grade the catch, not the craft.
+
+On **quizzes and the midterm, AI is not used.** These are completed individually and in class, and they assess your own understanding of the material. Representing AI-generated work as your own where it is not permitted, or using prohibited aids during in-class assessments, is a violation of the Honor Code.
+
+If you are ever unsure whether a particular use of an AI tool is appropriate, ask me.
+
+### Accessibility services
+
+If you anticipate issues related to the format or requirements of this course, please meet with me. I would like us to discuss ways to ensure your full participation in the course. If you determine that accommodations are necessary, you may register with Accessibility Services at (404)727-9877 or via e-mail at accessibility@emory.edu. To register with OAS, students must self identify and initiate contact with the OAS office.
+
+### Class-wide announcements
+
+I will post regular announcements to the class on **Canvas**, so please set up your notifications accordingly. I will also use Canvas to post all grades and any other information that needs to stay in the class. All other course materials will be available on our class website.
+
+### Lauren's Promise
+
+**I will listen and believe you if someone is threatening you.**
+
+Lauren McCluskey, a 21-year-old honors student athlete, [was murdered on October 22, 2018 by a man she briefly dated on the University of Utah campus](https://www.sltrib.com/opinion/commentary/2019/02/10/commentary-failing-lauren/). We must all take action to ensure that this never happens again.
+
+If you are in immediate danger, call 911 or Emory police (404-727-6111).
+
+Any form of sexual harassment or violence will not be excused or tolerated at Emory. If you are experiencing sexual assault, domestic violence, or stalking, please report it to me or directly to [Emory's Office of Respect](http://respect.emory.edu/index.html) (470-270-5360).
+
+
+## Assignments and grades
+
+Detailed descriptions of all assignments are on the [assignments](/assignments/) page. The course is worth **300 points**, and most of the grade is earned in class.
+
+| Component | Points | Share |
+|---|---:|---:|
+| Attendance | 20 | 7% |
+| Q&A panel | 45 | 15% |
+| Q&A audience | 30 | 10% |
+| Simulations (best 5 of 7) | 25 | 8% |
+| Quizzes (best 5 of 6) | 60 | 20% |
+| Midterm | 60 | 20% |
+| Empirical homework (best 2 of 3) | 60 | 20% |
+| **Total** | **300** | **100%** |
+
+About 80% of the grade is earned through in-class work (attendance, Q&A, simulations, quizzes, and the midterm), and about 20% through the take-home empirical homework. Several components build in slack: your lowest quiz of six is dropped, your lowest homework of three is dropped, two of the seven simulations may be skipped, and attendance allows for several absences before it affects your grade.
+
+Your final percentage grade comes from your total points as a percent of all 300 available points. That percent then translates to a letter grade as follows:
+
+| Grade | Range | Grade | Range |
+|---|---|---|---|
+| A | 93–100% | C | 73–76% |
+| A− | 90–92% | C− | 70–72% |
+| B+ | 87–89% | D+ | 67–69% |
+| B | 83–86% | D | 63–66% |
+| B− | 80–82% | D− | 60–62% |
+| C+ | 77–79% | F | < 60% |

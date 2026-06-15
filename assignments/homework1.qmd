@@ -1,0 +1,89 @@
+---
+title: "Homework 1 — Adverse Selection in Real Markets"
+format: html
+#format:
+#  pdf: default
+---
+
+## Instructions
+
+This homework covers health insurance purchasing and adverse selection. It is
+**empirical only** — the theory for this module is assessed in class (quizzes
+and the midterm).
+
+**You are required to use an AI coding assistant for this assignment.** Use
+GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and
+let it write the R or Python. Your job is *not* to produce the code. Your job is
+to direct the tool, check what it returns, and interpret it as a health
+economist. The AI will frequently hand you a confident, clean, and **wrong**
+answer. Catching that is the assignment.
+
+**Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
+code, its output, and your written answers. Each part is worth 3 points, graded:
+
+- **3 points:** correct, with sound economic reasoning
+- **2 points:** close, minor error or thin reasoning
+- **1 point:** attempted but the economic judgment is missing or wrong
+- **0 points:** no work, or the unexamined AI output pasted in
+
+**Verification note (required, embedded):** somewhere in your notebook, flag one
+specific point where the AI's first output was wrong, incomplete, or misleading,
+and explain *in economic terms* how you knew. "It ran without errors" does not
+count. This is folded into the parts below, not a separate line item.
+
+Homework 1 is due by **midnight on Friday, September 25**.
+
+## Q1 — New Jersey's individual market, 2000–2008 (15 pts)
+
+Data: `hwk1_nj.csv` on the shared OneDrive (link on Canvas). Monthly family
+premiums and year-end "standard" enrollment for three plans in the Individual
+Health Coverage (IHC) program: Horizon BCBS of NJ Plan D ($1,000 deductible),
+Aetna Life Plan D ($1,000 deductible), and Celtic Insurance Plan C ($2,500
+deductible).
+
+a. Have the AI build a table of annual premiums for the three plans and total
+   standard enrollment, and plot premiums and enrollment over time.
+
+b. New Jersey's market is often called a textbook "death spiral." Shown rising
+   premiums and falling enrollment, the AI will likely confirm that label. State
+   the *precise economic mechanism* a death spiral requires — not just the
+   pattern, the mechanism — and explain why the rising-premium / falling-
+   enrollment pattern alone is **consistent with but not proof of** it.
+
+c. Two of these plans carry $1,000 deductibles and one carries $2,500, and you
+   are comparing nominal dollars across 2000–2008. Identify how *each* of these
+   makes a raw premium comparison misleading, and have the AI correct at least
+   one of them. Show what changed.
+
+d. What would you need to *observe* to confirm that selection is driving the
+   premium increases, and why is it absent from this dataset?
+
+e. Give your bottom-line verdict — death spiral, or premium growth that merely
+   looks like one? Defend it in three sentences.
+
+## Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)
+
+Data: `hwk1_medicare.csv` on the shared OneDrive. Medicare Advantage (MA)
+enrollment and Medicare fee-for-service (FFS) spending by year.
+
+a. Have the AI plot MA enrollment and FFS spending over 2010–2018 and describe
+   both trends.
+
+b. The intuitive story is "healthy people pick MA, sicker people stay in FFS, so
+   FFS costs rise." But the *direction* of selection here is the opposite of the
+   classic uninsured death-spiral case. Name what kind of selection this is from
+   the plan's perspective, and explain why the valence flips when everyone is
+   already insured and the choice is *across* plan types rather than in-or-out.
+
+c. One of your FFS series is a total and behaves differently from a per-enrollee
+   version. If MA enrollment grows, what happens to *total* FFS spending
+   mechanically, even with flat per-person costs? Have the AI compute both the
+   total and the per-enrollee series, and show which one supports a selection
+   story and which is just composition.
+
+d. Risk adjustment pays MA plans more for sicker enrollees. Explain how it
+   should bend the relationship between your two series over time, and whether
+   the data are consistent with that.
+
+e. Suggest one *additional* mechanism (besides risk adjustment) that would
+   dampen selection across plan types, grounded in the course model.

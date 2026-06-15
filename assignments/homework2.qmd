@@ -1,0 +1,97 @@
+---
+title: "Homework 2 — Physician Agency and Payment Changes"
+format: html
+#format:
+#  pdf: default
+---
+
+## Instructions
+
+This homework covers physician treatment decisions, payment incentives, and
+agency. It is **empirical only** — the theory for this module is assessed in
+class (quizzes and the midterm).
+
+**You are required to use an AI coding assistant for this assignment.** Use
+GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and
+let it write the R or Python. Your job is *not* to produce the code. Your job is
+to direct the tool, check what it returns, and interpret it as a health
+economist. The AI will frequently hand you a confident, clean, and **wrong**
+answer. Catching that is the assignment.
+
+**Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
+code, its output, and your written answers. Each part is worth 3 points, graded:
+
+- **3 points:** correct, with sound economic reasoning
+- **2 points:** close, minor error or thin reasoning
+- **1 point:** attempted but the economic judgment is missing or wrong
+- **0 points:** no work, or the unexamined AI output pasted in
+
+**Verification note (required, embedded):** somewhere in your notebook, flag one
+specific point where the AI's first output was wrong, incomplete, or misleading,
+and explain *in economic terms* how you knew. "It ran without errors" does not
+count.
+
+Homework 2 is due by **midnight on Friday, October 9**.
+
+## Q4 — Epidural steroid injection payment cut (15 pts)
+
+In January 2014, CMS reduced its payments to physicians for epidural steroidal
+injections (CPT codes 62310, 62311, 62318, 62319) as part of adjusting
+"potentially misvalued services," then raised them again in 2015. Use the
+Medicare Provider Utilization and Payment Data, 2013–2015 (`hwk2_data_q4` on the
+shared OneDrive, available as `.Rdata` or tab-delimited `.txt`).
+
+a. Have the AI compute the average number of injections per physician in each
+   year, 2013–2015. Report the trend.
+
+b. Does that yearly average tell a clean story about how physicians responded to
+   the 2014 cut? What population is being averaged over in each year, and does it
+   change? Identify at least one reason the year-over-year average could move for
+   a reason that has nothing to do with physician agency.
+
+c. Ask the AI to find the physicians with the largest drop in injections from
+   2013 to 2014. Look hard at what it returns — some of the "largest reductions"
+   are not behavioral responses to the payment cut at all. Which ones, and why
+   does including them mislead the agency interpretation? Re-pose the task so the
+   result isolates the behavioral response, and show what changed.
+
+d. Connect to the model. Payment fell in 2014 and rose in 2015. State what
+   physician-agency theory predicts for utilization in each year, and whether
+   your corrected data are consistent. Where they are not, give the most
+   plausible economic reason.
+
+e. Plot the corrected set of largest-responders over time and say, in one
+   sentence, whether the 2015 rebound shows up and what that implies about
+   physician responsiveness to payment.
+
+## Q5 — E&M fee schedule and budget neutrality (15 pts)
+
+In January 2021, CMS raised payments for Evaluation and Management (E&M, i.e.
+office-visit) codes. Because of budget-neutrality requirements, it offset this
+by lowering the overall conversion factor — making more expensive services
+relatively less profitable while E&M payments rose. Use the Medicare Provider
+Utilization and Payment Data for Georgia physicians (`hwk2_data_q5` on the
+shared OneDrive). See the [CMS Final Rule primer](cms-em-2021-finalrule.pdf) for
+the policy details and percentage changes.
+
+a. Identify the set of HCPCS codes that capture physician office visits (E&M).
+   The AI will offer a set from general knowledge — *verify it against the actual
+   code descriptions in the data* and show how you confirmed it. A wrong code set
+   silently corrupts everything downstream.
+
+b. Identify the top 10 Georgia physicians by E&M volume in 2020, by raw count
+   and by payment-weighted volume. Does the ranking change? Which denominator is
+   the right one for this question, and why?
+
+c. Have the AI compute how much these physicians stand to gain from the higher
+   E&M RVU rate. Then ask: *what did it leave out?* The budget-neutral
+   conversion-factor cut. Explain why the net impact depends on each physician's
+   overall service mix, and identify which kind of physician could actually come
+   out behind even as E&M pay rises.
+
+d. In the context of physician agency, what do you predict happens to
+   utilization of the more expensive (now relatively less profitable) services
+   after the 2021 update?
+
+e. State which physician type gains and which loses under the combined change,
+   in economic terms, and use this question for your required verification note.

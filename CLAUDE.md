@@ -14,24 +14,31 @@ Semester-specific Quarto site for Econ 372 (Health Economics) at Emory, Fall 202
 ## Based On
 Fall 2025 site: `../fall2025-site/`
 
-## Assessment Components
-| Component | Description | Grading |
+## Assessment Components (300 pts, ~80% in-class)
+| Component | Points | Grading |
 |---|---|---|
-| Simulations (7 total) | In-class, 20-30 min play + setup/debrief | Participation credit |
-| Empirical homeworks (2-3) | Real data analysis | TA graded |
-| Theory quizzes | Timed, in-class, auto-graded | Auto-graded |
-| In-class activities | Polls, quick problems, discussion | Completion credit |
-| Individual presentation | 1 slide, 3 min, random selection + Zoom backup | Light rubric |
+| Attendance | 20 | 1 pt/check-in (Commons) |
+| Q&A panel | 45 | 4-level rubric when randomly drawn |
+| Q&A audience | 30 | 2 pts/question (Commons queue), cap 30 |
+| Simulations | 25 | best 5 of 7; 3 play + 2 reflection |
+| Quizzes | 60 | best 5 of 6, 12 pts, in-class auto-graded (Commons) |
+| Midterm | 60 | in-class |
+| Empirical homework | 60 | best 2 of 3, AI-required, TA-graded |
+
+Full spec: `healthcare-markets/assessment.md`. (Supersedes the earlier draft that had a 1-slide individual presentation + generic in-class activities.)
 
 ## Status
-- [ ] Copy and adapt site scaffold from fall2025-site
-- [ ] Update syllabus for new assessment structure
-- [ ] Build schedule around simulation days
+- [x] Copy and adapt site scaffold from fall2025-site (`_quarto.yml`, infra, index, syllabus)
+- [x] Update syllabus for the new assessment structure + AI-required policy
+- [x] Schedule skeleton drafted — 28 Tue/Thu sessions (8/27–12/8), 4 modules, all 7 sims, all 6 quizzes. **Midterm Thu 11/19** covers insurance + physicians + hospitals (before Thanksgiving, not adjacent to any break; 11/17 is review). Topics/readings, exact quiz↔sim placement, and per-class pages + slide links still to refine
+- [x] Course logistics filled — Tue/Thu 2:30–3:45pm, New Psychology Building 225, term 8/26–12/9/2026, office hours Thu 1–2pm RRR 418 (TA name still TBD in `syllabus.qmd`)
+- [ ] Carry over / refresh resources (worksheets, reviews); `resources/index.qmd` is a placeholder
+- [ ] Confirm the GitHub repo name used in `_quarto.yml` (`imccart/econ372-fall2026`) and create it
 - [x] Set up fall2026-extra/
 
 ## Last Session
-- **Date**: 2026-04-03
-- Designed full course assessment structure (simulations, empirical HW, timed quizzes, in-class activities, 1-slide individual presentations with random selection)
-- Established teaching ecosystem architecture: slides/, book/, gaming/, commons/ under healthcare-markets/, with VS Code workspace linking all components plus semester folders
-- Detailed game mechanics for simulations 1A (buy/skip insurance) and 1B (set premiums, compete for simulated buyers)
-- Next: build 1A and 1B implementations, starting with 1A (scaffold FastAPI + WebSocket project, then game logic)
+- **Date**: 2026-06-15
+- Scaffolded the buildable Quarto site from fall2025-site: copied infra (`_extensions/`, `files/`, `html/`), wrote `_quarto.yml` (navbar/sidebar for the new structure — no exam/project pages), an R-free `index.qmd`, and a `syllabus.qmd` adapted to the 300-pt assessment + AI-required policy (grade tables as plain markdown, not R chunks). Added placeholder `schedule/index.qmd` and `resources/index.qmd`.
+- Site renders clean (`quarto render`, 8 pages, no warnings, citations resolve). The AI-era assignments (index + homework1-3) are wired into the nav/sidebar.
+- Dropped the fall2025 Google Drive bib-fetch from `index.qmd` (uses the static `files/bib/references.bib` instead, so the render needs no Google auth or kernel).
+- Open: real schedule + logistics (all TBD placeholders), resources to carry over, confirm/create the `econ372-fall2026` repo.

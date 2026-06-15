@@ -1,0 +1,92 @@
+---
+title: "Assignments"
+---
+
+This page describes each graded component for the semester. Most of your grade
+is earned **in class** — attendance, Q&A panels, simulations, quizzes, and the
+midterm. The take-home portion is three short empirical homeworks. Details for
+each homework live on its own page; check the due dates carefully.
+
+## Grade at a glance
+
+The course is worth **300 points total**, with 80% earned in class.
+
+| Component | Points | How it works |
+|---|---:|---|
+| Attendance | 20 | 1 pt per check-in (cap at 20) |
+| Q&A panel | 45 | Rubric-scored when you are drawn to the panel |
+| Q&A audience | 30 | 2 pts per question asked (cap at 30) |
+| Simulations | 25 | Play + reflection, best 5 of 7 |
+| Quizzes | 60 | Best 5 of 6, in-class, auto-graded |
+| Midterm | 60 | One in-class exam |
+| Empirical homework | 60 | Best 2 of 3, 30 pts each |
+
+Every in-class component has more opportunities than you need for full credit,
+so an occasional absence or off day will not sink your grade. The syllabus has
+the complete policy.
+
+## Empirical homework
+
+Three homeworks, **30 points each, and only your best two count** — so one can
+be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose
+2% per day.
+
+- [Homework 1 — Adverse Selection in Real Markets](homework1.qmd) (due Sep 25)
+- [Homework 2 — Physician Agency and Payment Changes](homework2.qmd) (due Oct 9)
+- [Homework 3 — Hospital Competition and Pricing](homework3.qmd) (due Nov 13)
+
+**These are empirical only.** The theory for each module is assessed in class,
+through quizzes and the midterm. The homeworks are where you work with real
+health care data.
+
+**You are required to use an AI coding assistant** — GitHub Copilot is free with
+your Emory GitHub account, or use the tool of your choice. Let it write the R or
+Python. The mechanical coding is assumed to be free now, which is exactly why
+these assignments ask for genuine data work rather than the pre-cleaned,
+Excel-friendly exercises of past years. Your job is not to produce code. Your
+job is to direct the tool, check what it returns, and interpret it as a health
+economist. The AI will frequently hand you a confident, clean, and **wrong**
+answer, and catching that is the point of the assignment.
+
+**Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
+code, its output, and your written answers. Each part is worth 3 points:
+
+- **3 points:** correct, with sound economic reasoning
+- **2 points:** close, minor error or thin reasoning
+- **1 point:** attempted but the economic judgment is missing or wrong
+- **0 points:** no work, or the unexamined AI output pasted in
+
+Somewhere in each notebook you must include a **verification note**: one
+specific point where the AI's first output was wrong, incomplete, or misleading,
+and an explanation *in economic terms* of how you knew. "It ran without errors"
+does not count.
+
+## Quizzes
+
+Six short quizzes over the semester, **best five count** (one is dropped). They
+are timed, taken in class, and auto-graded through our course platform. Quizzes
+carry the lighter theory for each module — definitions and one-step
+applications — so keeping up with the readings and slides is enough to do well.
+
+## Midterm
+
+One in-class exam worth 60 points, covering the heavier theory and derivations.
+This is the place to show your work and earn partial credit. There is no final
+exam. Documented absences can be made up; otherwise the midterm has no built-in
+slack, so plan for the date on the schedule.
+
+## In-class participation
+
+Attendance, Q&A panels, Q&A audience questions, and simulations together make up
+120 points and are all handled in class through our course platform.
+
+- **Attendance** — check in at the start of class for 1 point, up to 20.
+- **Q&A panels** — on discussion days a few students are drawn at random to a
+  panel and scored on a short rubric for how well their contribution draws on
+  the assigned material.
+- **Q&A audience** — ask a question through the hand-raise queue for 2 points,
+  up to 30 over the semester.
+- **Simulations** — play the in-class simulation and submit a short reflection
+  on your own decisions; the best five of seven count.
+
+The mechanics of each are explained in class and in the syllabus.

@@ -1,0 +1,50 @@
+---
+title: "Schedule"
+page-layout: full
+---
+
+The course runs in four modules, mirroring the path a person takes through the health care system: **insurance**, **physicians**, **hospitals**, and **pharmaceuticals**.
+
+Class days come in a few recurring formats:
+
+- **Q&A days**, where a randomly drawn panel discusses the assigned material and the rest of the class asks questions.
+- **Simulation days**, where you play both sides of a health care market in a short in-class game and then debrief.
+- **Quiz days**, where a short, auto-graded quiz opens at the start of class (then a normal Q&A day).
+- The **midterm**, taken in class.
+
+Check-in, the Q&A panel draw, quizzes, and the question queue all run through our class platform (Commons).
+
+The schedule below is provisional --- topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds.
+
+| # | Date | Module | Topic | This class |
+|--:|---|---|---|---|
+| 1 | Thu 8/27 | Intro | The U.S. health care system; how this class works | — |
+| 2 | Tue 9/1 | Insurance | Coverage & cost-sharing | Q&A |
+| 3 | Thu 9/3 | Insurance | Cost-sharing & networks; worked examples | **Quiz 1** |
+| 4 | Tue 9/8 | Insurance | Buying insurance | **Sim 1A** |
+| 5 | Thu 9/10 | Insurance | Risk & the demand for insurance | Q&A |
+| 6 | Tue 9/15 | Insurance | Risk premium & willingness to pay | **Quiz 2** |
+| 7 | Thu 9/17 | Insurance | Setting premiums | **Sim 1B** |
+| 8 | Tue 9/22 | Insurance | Public insurance: Medicare & Medicaid | Q&A |
+| 9 | Thu 9/24 | Insurance | Adverse selection & unraveling | Q&A |
+| 10 | Tue 9/29 | Insurance | Risk adjustment; adverse-selection synthesis | **Quiz 3** |
+| 11 | Thu 10/1 | Insurance | Insurance wrap-up | Q&A |
+| 12 | Tue 10/6 | Physicians | Physician agency & payment models | Q&A |
+| 13 | Thu 10/8 | Physicians | Patient & treatment decisions | **Sim 2A** |
+|  | Mon–Tue 10/12–13 |  | *Fall break — no class* |  |
+| 14 | Thu 10/15 | Physicians | Physician learning & geographic variation | Q&A |
+| 15 | Tue 10/20 | Physicians | Physician decisions | **Sim 2B** |
+| 16 | Thu 10/22 | Physicians | Physician synthesis & policy | **Quiz 4** |
+| 17 | Tue 10/27 | Hospitals | Hospital objectives & behavior | Q&A |
+| 18 | Thu 10/29 | Hospitals | Pricing; charges vs. prices; cost-shifting | Q&A |
+| 19 | Tue 11/3 | Hospitals | Choosing a hospital | **Sim 3A** |
+| 20 | Thu 11/5 | Hospitals | Competition, HHI & mergers | Q&A |
+| 21 | Tue 11/10 | Hospitals | Pricing & HHI worked examples | **Quiz 5** |
+| 22 | Thu 11/12 | Hospitals | Insurer–hospital negotiation | **Sim 3B** |
+| 23 | Tue 11/17 | Hospitals | Consolidation & policy; midterm review | Q&A |
+| 24 | Thu 11/19 | — | Insurance + physicians + hospitals | **Midterm** |
+| 25 | Tue 11/24 | Pharma | Monopoly & generic pricing | Q&A |
+|  | Wed–Fri 11/25–27 |  | *Thanksgiving — no class* |  |
+| 26 | Tue 12/1 | Pharma | R&D and innovation | **Sim 4A** |
+| 27 | Thu 12/3 | Pharma | Patents, Hatch-Waxman & the FDA; innovation policy | **Quiz 6** |
+| 28 | Tue 12/8 | Wrap-up | Course synthesis & policy capstone | Q&A |
