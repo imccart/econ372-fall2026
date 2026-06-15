@@ -34,12 +34,11 @@ Full spec: `healthcare-markets/assessment.md`. (Supersedes the earlier draft tha
 - **Gotcha:** absolute local links (`/assignments/…`) render with a Windows backslash (`..\`) and break; use relative `.qmd` links (`../assignments/homework1.qmd`) and always `quarto render` the whole project (per-file render breaks cross-`.qmd` resolution)
 - [x] Course logistics filled — Tue/Thu 2:30–3:45pm, New Psychology Building 225, term 8/26–12/9/2026, office hours Thu 1–2pm RRR 418 (TA name still TBD in `syllabus.qmd`)
 - [ ] Carry over / refresh resources (worksheets, reviews); `resources/index.qmd` is a placeholder
-- [ ] Confirm the GitHub repo name used in `_quarto.yml` (`imccart/econ372-fall2026`) and create it
+- [x] Repo created + site **published** — live at `imccart.github.io/econ372-fall2026/` (GitHub Pages from `main/docs`; push over SSH with `GIT_SSH_COMMAND` = system OpenSSH). Update loop: edit → `quarto render` → commit → push (Pages auto-rebuilds)
 - [x] Set up fall2026-extra/
 
 ## Last Session
 - **Date**: 2026-06-15
-- Scaffolded the buildable Quarto site from fall2025-site: copied infra (`_extensions/`, `files/`, `html/`), wrote `_quarto.yml` (navbar/sidebar for the new structure — no exam/project pages), an R-free `index.qmd`, and a `syllabus.qmd` adapted to the 300-pt assessment + AI-required policy (grade tables as plain markdown, not R chunks). Added placeholder `schedule/index.qmd` and `resources/index.qmd`.
-- Site renders clean (`quarto render`, 8 pages, no warnings, citations resolve). The AI-era assignments (index + homework1-3) are wired into the nav/sidebar.
-- Dropped the fall2025 Google Drive bib-fetch from `index.qmd` (uses the static `files/bib/references.bib` instead, so the render needs no Google auth or kernel).
-- Open: real schedule + logistics (all TBD placeholders), resources to carry over, confirm/create the `econ372-fall2026` repo.
+- Scaffolded the site from fall2025-site and **published it** — live at `imccart.github.io/econ372-fall2026/`. Wrote `_quarto.yml`, R-free `index.qmd` (dropped the fall2025 Google-Drive bib-fetch; uses static `files/bib/`), and `syllabus.qmd` (300-pt assessment + AI-required policy, markdown grade tables). Logistics filled (Tue/Thu 2:30–3:45, New Psych 225, 8/26–12/9, OH Thu 1–2 RRR418).
+- Built the full **28-session schedule** with linked module tables (slides + book-chapter + homework icons) and an **Assessment** column (Quiz/Sim/Midterm/homework; blank = Q&A day). Midterm Thu 11/19 over ins+phys+hosp. Per-class Detail pages deliberately dropped (redundant with slides). All links verified (no Windows-backslash breakage; see Gotcha above).
+- **Open:** TA name (TBD in `syllabus.qmd`); resources carry-over (`resources/index.qmd` placeholder); optional per-class readings refinement.
