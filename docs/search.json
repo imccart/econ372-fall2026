@@ -92,6 +92,26 @@
     ]
   },
   {
+    "objectID": "assignments/index.html#simulations",
+    "href": "assignments/index.html#simulations",
+    "title": "Assignments",
+    "section": "Simulations",
+    "text": "Simulations\nSeven in-class simulations across the semester, best five count (two can be missed). On a simulation day we trade the usual discussion for an interactive, multiplayer game run through the course platform, then debrief what happened. You earn credit by playing and by submitting a short reflection on the decisions you made. As with the quizzes, the spare two mean an occasional absence won’t hurt.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#sec-panels",
+    "href": "assignments/index.html#sec-panels",
+    "title": "Assignments",
+    "section": "Q&A panels",
+    "text": "Q&A panels\nMost class days are discussion days built around a panel. A few students are drawn at random through the course platform to work through the day’s reading at the front of the room, while everyone else asks questions (the Q&A audience points below). You’re scored on a short four-level rubric for how well your contribution draws on the assigned material — so the payoff is coming with the reading done, not talking the most. You’ll be drawn several times over the semester, and a single off day won’t sink you. The last class flips the format into a reverse panel, where guests put the questions to you, now that you’re the experts.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
     "objectID": "assignments/index.html#midterm",
     "href": "assignments/index.html#midterm",
     "title": "Assignments",
@@ -106,7 +126,7 @@
     "href": "assignments/index.html#in-class-participation",
     "title": "Assignments",
     "section": "In-class participation",
-    "text": "In-class participation\nAttendance, Q&A panels, Q&A audience questions, and simulations together make up 120 points and are all handled in class through our course platform.\n\nAttendance — check in at the start of class for 1 point, up to 20.\nQ&A panels — on discussion days a few students are drawn at random to a panel and scored on a short rubric for how well their contribution draws on the assigned material.\nQ&A audience — ask a question through the hand-raise queue for 2 points, up to 30 over the semester.\nSimulations — play the in-class simulation and submit a short reflection on your own decisions; the best five of seven count.\n\nThe mechanics of each are explained in class and in the syllabus.",
+    "text": "In-class participation\nAttendance and audience questions round out the in-class points; together with the panels and simulations above, in-class work is 120 points, all handled through our course platform.\n\nAttendance — check in at the start of class for 1 point, up to 20.\nQ&A audience — ask a question through the hand-raise queue for 2 points, up to 30 over the semester.\n\nThe mechanics of each are explained in class and in the syllabus.",
     "crumbs": [
       "Assignments"
     ]
@@ -262,48 +282,48 @@
     "href": "schedule/index.html",
     "title": "Schedule",
     "section": "",
-    "text": "Below is the plan for each class day. The  icon links to the relevant chapter of the online class book and the  icon to that day’s slides. The Assessment column flags the graded events — quizzes, simulations, the midterm, and homework due dates (the  icon links to the homework). A blank Assessment cell is a regular discussion day.\nMost class days are Q&A days: a randomly drawn panel discusses the reading while the rest of the class asks questions. Simulation days replace discussion with an in-class game and a debrief, and a few days open with a short auto-graded quiz. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds."
+    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides. The Activity column shows the day’s format and any graded event: a lecture (), a Q&A panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment.\nOn lecture days we develop the model at the board and work an example. On Q&A panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions, and simulation days replace discussion with an in-class game and a debrief. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds."
   },
   {
     "objectID": "schedule/index.html#module-0-welcome-to-the-class",
     "href": "schedule/index.html#module-0-welcome-to-the-class",
     "title": "Schedule",
     "section": "Module 0: Welcome to the Class!",
-    "text": "Module 0: Welcome to the Class!\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nAssessment\n\n\n\n\n1\nThu 8/27\nThe U.S. health care system; how this class works"
+    "text": "Module 0: Welcome to the Class!\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n1\nThu 8/27\nThe U.S. health care paradox"
   },
   {
     "objectID": "schedule/index.html#module-1-health-insurance",
     "href": "schedule/index.html#module-1-health-insurance",
     "title": "Schedule",
     "section": "Module 1: Health Insurance",
-    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nAssessment\n\n\n\n\n2\nTue 9/1\nCoverage & cost-sharing\n\n\n\n\n\n3\nThu 9/3\nCost-sharing & networks; worked examples\n\n\nQuiz 1\n\n\n4\nTue 9/8\nBuying insurance\n\n\nSim 1A\n\n\n5\nThu 9/10\nRisk & the demand for insurance\n\n\n\n\n\n6\nTue 9/15\nRisk premium & willingness to pay\n\n\nQuiz 2\n\n\n7\nThu 9/17\nSetting premiums\n\n\nSim 1B\n\n\n8\nTue 9/22\nPublic insurance: Medicare & Medicaid\n\n\n\n\n\n9\nThu 9/24\nAdverse selection & unraveling\n\n\n\n\n\n\nFri 9/25\nHomework 1 due\n\n\n\n\n\n10\nTue 9/29\nRisk adjustment; adverse-selection synthesis\n\n\nQuiz 3\n\n\n11\nThu 10/1\nInsurance wrap-up"
+    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n2\nTue 9/1\nHow insurance actually works\n\n\n\n\n\n3\nThu 9/3\nWhere private coverage comes from\n\n\n \n\n\n4\nTue 9/8\nPick a plan\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n \n\n\n7\nThu 9/17\nSet the premium\n\n\n\n\n\n8\nTue 9/22\nWho the government covers\n\n\n\n\n\n9\nThu 9/24\nAdverse selection and the death spiral\n\n\n\n\n\n\nFri 9/25\nHomework 1 due\n\n\n\n\n\n10\nTue 9/29\nMaking insurance markets work\n\n\n \n\n\n11\nThu 10/1\nInsurance in the real world"
   },
   {
     "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
     "href": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
     "title": "Schedule",
     "section": "Module 2: Physician Agency and Treatment Decisions",
-    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nAssessment\n\n\n\n\n12\nTue 10/6\nPhysician agency & payment models\n\n\n\n\n\n13\nThu 10/8\nPatient & treatment decisions\n\n\nSim 2A\n\n\n\nFri 10/9\nHomework 2 due\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n14\nThu 10/15\nPhysician learning & geographic variation\n\n\n\n\n\n15\nTue 10/20\nPhysician decisions\n\n\nSim 2B\n\n\n16\nThu 10/22\nPhysician synthesis & policy\n\n\nQuiz 4"
+    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n12\nTue 10/6\nDoes your doctor work for you?\n\n\n\n\n\n13\nThu 10/8\nYou’re the patient\n\n\n\n\n\n\nFri 10/9\nHomework 2 due\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n14\nThu 10/15\nHow doctors learn\n\n\n\n\n\n15\nTue 10/20\nYou’re the doctor\n\n\n\n\n\n16\nThu 10/22\nDoctors in the real world"
   },
   {
     "objectID": "schedule/index.html#module-3-hospital-pricing-and-competition",
     "href": "schedule/index.html#module-3-hospital-pricing-and-competition",
     "title": "Schedule",
     "section": "Module 3: Hospital Pricing and Competition",
-    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nAssessment\n\n\n\n\n17\nTue 10/27\nHospital objectives & behavior\n\n\n\n\n\n18\nThu 10/29\nPricing; charges vs. prices; cost-shifting\n\n\n\n\n\n19\nTue 11/3\nChoosing a hospital\n\n\nSim 3A\n\n\n20\nThu 11/5\nCompetition, HHI & mergers\n\n\n\n\n\n21\nTue 11/10\nPricing & HHI worked examples\n\n\nQuiz 5\n\n\n22\nThu 11/12\nInsurer–hospital negotiation\n\n\nSim 3B\n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n23\nTue 11/17\nConsolidation & policy; midterm review"
+    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n17\nTue 10/27\nWhat is a hospital price?\n\n\n\n\n\n18\nThu 10/29\nHow hospitals set prices\n\n\n\n\n\n19\nTue 11/3\nPick a hospital\n\n\n\n\n\n20\nThu 11/5\nInsurer–hospital bargaining\n\n\n\n\n\n21\nTue 11/10\nWhen hospitals merge\n\n\n \n\n\n22\nThu 11/12\nMake the deal\n\n\n\n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n23\nTue 11/17\nHospital policy and midterm review"
   },
   {
     "objectID": "schedule/index.html#midterm",
     "href": "schedule/index.html#midterm",
     "title": "Schedule",
     "section": "Midterm",
-    "text": "Midterm\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nAssessment\n\n\n\n\n24\nThu 11/19\nIn-class exam — insurance, physicians & hospitals\n\n\nMidterm"
+    "text": "Midterm\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n24\nThu 11/19\nInsurance, physicians, and hospitals\n\n\nMidterm"
   },
   {
     "objectID": "schedule/index.html#module-4-prescription-drugs",
     "href": "schedule/index.html#module-4-prescription-drugs",
     "title": "Schedule",
     "section": "Module 4: Prescription Drugs",
-    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nAssessment\n\n\n\n\n25\nTue 11/24\nMonopoly & generic pricing\n\n\n\n\n\n\nWed–Fri 11/25–27\nThanksgiving — no class\n\n\n\n\n\n26\nTue 12/1\nR&D and innovation\n\n\nSim 4A\n\n\n27\nThu 12/3\nPatents, Hatch-Waxman & the FDA; innovation policy\n\n\nQuiz 6\n\n\n28\nTue 12/8\nCourse synthesis & policy capstone"
+    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n25\nTue 11/24\nThe life of a drug\n\n\n\n\n\n\nWed–Fri 11/25–27\nThanksgiving — no class\n\n\n\n\n\n26\nTue 12/1\nWhy new drugs cost so much\n\n\n\n\n\n27\nThu 12/3\nGenerics and the patent cliff\n\n\n \n\n\n28\nTue 12/8\nReverse panel"
   }
 ]

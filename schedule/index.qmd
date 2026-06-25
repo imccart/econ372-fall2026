@@ -6,77 +6,77 @@ format:
     page-layout: full
 ---
 
-Below is the plan for each class day. The {{< fa book >}} icon links to the relevant chapter of the online class book and the {{< fa person-chalkboard >}} icon to that day's slides. The **Assessment** column flags the graded events --- quizzes, simulations, the midterm, and homework due dates (the {{< fa pen >}} icon links to the homework). A blank Assessment cell is a regular discussion day.
+Below is the plan for each class day. {{< fa book >}} links to the online book chapter and {{< fa person-chalkboard >}} to that day's slides. The **Activity** column shows the day's format and any graded event: a **lecture** ({{< fa pen-ruler >}}), a **Q&A panel** discussion ({{< fa comments >}}), a **simulation** ({{< fa gamepad >}}), or the **midterm**. A short auto-graded **quiz** ({{< fa clipboard-question >}}) or a **homework** due date ({{< fa pen >}}) appears alongside and links to the assignment.
 
-Most class days are **Q&A** days: a randomly drawn panel discusses the reading while the rest of the class asks questions. **Simulation** days replace discussion with an in-class game and a debrief, and a few days open with a short auto-graded **quiz**. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).
+On lecture days we develop the model at the board and work an example. On **Q&A panel** days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions, and **simulation** days replace discussion with an in-class game and a debrief. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).
 
 The schedule is provisional --- topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds.
 
 ## Module 0: Welcome to the Class!
 
-| Class | Date | Topic | Reading | Slides | Assessment |
-|:--:|:--|:--|:--:|:--:|:--|
-| 1 | Thu 8/27 | The U.S. health care system; how this class works | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/00-intro/intro.html) | |
+| Class | Date | Topic | Reading | Slides | Activity |
+|:--:|:--|:--|:--:|:--:|:--:|
+| 1 | Thu 8/27 | The U.S. health care paradox | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/00-intro/intro.html) | {{< fa pen-ruler title="Lecture" >}} |
 : {tbl-colwidths="[8,12,40,9,9,14]"}
 
 ## Module 1: Health Insurance
 
-| Class | Date | Topic | Reading | Slides | Assessment |
-|:--:|:--|:--|:--:|:--:|:--|
-| 2 | Tue 9/1 | Coverage & cost-sharing | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-01.html) | |
-| 3 | Thu 9/3 | Cost-sharing & networks; worked examples | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-02.html) | **Quiz 1** |
-| 4 | Tue 9/8 | Buying insurance | | | **Sim 1A** |
-| 5 | Thu 9/10 | Risk & the demand for insurance | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-04.html) | |
-| 6 | Tue 9/15 | Risk premium & willingness to pay | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-05.html) | **Quiz 2** |
-| 7 | Thu 9/17 | Setting premiums | | | **Sim 1B** |
-| 8 | Tue 9/22 | Public insurance: Medicare & Medicaid | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-03.html) | |
-| 9 | Thu 9/24 | Adverse selection & unraveling | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-06.html) | |
-|  | Fri 9/25 | **Homework 1 due** | | | [{{< fa pen >}}](../assignments/homework1.qmd) |
-| 10 | Tue 9/29 | Risk adjustment; adverse-selection synthesis | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-07.html) | **Quiz 3** |
-| 11 | Thu 10/1 | Insurance wrap-up | | | |
+| Class | Date | Topic | Reading | Slides | Activity |
+|:--:|:--|:--|:--:|:--:|:--:|
+| 2 | Tue 9/1 | How insurance actually works | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-01.html) | {{< fa pen-ruler title="Lecture" >}} |
+| 3 | Thu 9/3 | Where private coverage comes from | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html#sec-private-hi) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-02.html) | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) |
+| 4 | Tue 9/8 | Pick a plan | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) |
+| 5 | Thu 9/10 | Why we buy insurance | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-04.html) | {{< fa pen-ruler title="Lecture" >}} |
+| 6 | Tue 9/15 | What insurance is worth | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-05.html) | {{< fa pen-ruler title="Lecture" >}} [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) |
+| 7 | Thu 9/17 | Set the premium | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) |
+| 8 | Tue 9/22 | Who the government covers | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html#sec-public-hi) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-03.html) | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) |
+| 9 | Thu 9/24 | Adverse selection and the death spiral | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-06.html) | {{< fa pen-ruler title="Lecture" >}} |
+|  | Fri 9/25 | **Homework 1 due** | | | [{{< fa pen title="Homework due" >}}](../assignments/homework1.qmd) |
+| 10 | Tue 9/29 | Making insurance markets work | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-07.html) | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) |
+| 11 | Thu 10/1 | Insurance in the real world | | | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) |
 : {tbl-colwidths="[8,12,40,9,9,14]"}
 
 ## Module 2: Physician Agency and Treatment Decisions
 
-| Class | Date | Topic | Reading | Slides | Assessment |
-|:--:|:--|:--|:--:|:--:|:--|
-| 12 | Tue 10/6 | Physician agency & payment models | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-02.html) | |
-| 13 | Thu 10/8 | Patient & treatment decisions | | | **Sim 2A** |
-|  | Fri 10/9 | **Homework 2 due** | | | [{{< fa pen >}}](../assignments/homework2.qmd) |
+| Class | Date | Topic | Reading | Slides | Activity |
+|:--:|:--|:--|:--:|:--:|:--:|
+| 12 | Tue 10/6 | Does your doctor work for you? | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-02.html) | {{< fa pen-ruler title="Lecture" >}} |
+| 13 | Thu 10/8 | You're the patient | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) |
+|  | Fri 10/9 | **Homework 2 due** | | | [{{< fa pen title="Homework due" >}}](../assignments/homework2.qmd) |
 |  | Mon–Tue 10/12–13 | *Fall break --- no class* | | | |
-| 14 | Thu 10/15 | Physician learning & geographic variation | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-04.html) | |
-| 15 | Tue 10/20 | Physician decisions | | | **Sim 2B** |
-| 16 | Thu 10/22 | Physician synthesis & policy | | | **Quiz 4** |
+| 14 | Thu 10/15 | How doctors learn | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-04.html) | {{< fa pen-ruler title="Lecture" >}} |
+| 15 | Tue 10/20 | You're the doctor | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) |
+| 16 | Thu 10/22 | Doctors in the real world | | | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) |
 : {tbl-colwidths="[8,12,40,9,9,14]"}
 
 ## Module 3: Hospital Pricing and Competition
 
-| Class | Date | Topic | Reading | Slides | Assessment |
-|:--:|:--|:--|:--:|:--:|:--|
-| 17 | Tue 10/27 | Hospital objectives & behavior | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-01.html) | |
-| 18 | Thu 10/29 | Pricing; charges vs. prices; cost-shifting | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-03.html) | |
-| 19 | Tue 11/3 | Choosing a hospital | | | **Sim 3A** |
-| 20 | Thu 11/5 | Competition, HHI & mergers | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-05.html) | |
-| 21 | Tue 11/10 | Pricing & HHI worked examples | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-06.html) | **Quiz 5** |
-| 22 | Thu 11/12 | Insurer–hospital negotiation | | | **Sim 3B** |
-|  | Fri 11/13 | **Homework 3 due** | | | [{{< fa pen >}}](../assignments/homework3.qmd) |
-| 23 | Tue 11/17 | Consolidation & policy; midterm review | | | |
+| Class | Date | Topic | Reading | Slides | Activity |
+|:--:|:--|:--|:--:|:--:|:--:|
+| 17 | Tue 10/27 | What is a hospital price? | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-01.html) | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) |
+| 18 | Thu 10/29 | How hospitals set prices | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-03.html) | {{< fa pen-ruler title="Lecture" >}} |
+| 19 | Tue 11/3 | Pick a hospital | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) |
+| 20 | Thu 11/5 | Insurer–hospital bargaining | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-05.html) | {{< fa pen-ruler title="Lecture" >}} |
+| 21 | Tue 11/10 | When hospitals merge | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-06.html) | {{< fa pen-ruler title="Lecture" >}} [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) |
+| 22 | Thu 11/12 | Make the deal | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) |
+|  | Fri 11/13 | **Homework 3 due** | | | [{{< fa pen title="Homework due" >}}](../assignments/homework3.qmd) |
+| 23 | Tue 11/17 | Hospital policy and midterm review | | | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) |
 : {tbl-colwidths="[8,12,40,9,9,14]"}
 
 ## Midterm
 
-| Class | Date | Topic | Reading | Slides | Assessment |
-|:--:|:--|:--|:--:|:--:|:--|
-| 24 | Thu 11/19 | In-class exam --- insurance, physicians & hospitals | | | **Midterm** |
+| Class | Date | Topic | Reading | Slides | Activity |
+|:--:|:--|:--|:--:|:--:|:--:|
+| 24 | Thu 11/19 | Insurance, physicians, and hospitals | | | **Midterm** |
 : {tbl-colwidths="[8,12,40,9,9,14]"}
 
 ## Module 4: Prescription Drugs
 
-| Class | Date | Topic | Reading | Slides | Assessment |
-|:--:|:--|:--|:--:|:--:|:--|
-| 25 | Tue 11/24 | Monopoly & generic pricing | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-02.html) | |
+| Class | Date | Topic | Reading | Slides | Activity |
+|:--:|:--|:--|:--:|:--:|:--:|
+| 25 | Tue 11/24 | The life of a drug | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-01.html) | {{< fa pen-ruler title="Lecture" >}} |
 |  | Wed–Fri 11/25–27 | *Thanksgiving --- no class* | | | |
-| 26 | Tue 12/1 | R&D and innovation | | | **Sim 4A** |
-| 27 | Thu 12/3 | Patents, Hatch-Waxman & the FDA; innovation policy | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-4.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-04.html) | **Quiz 6** |
-| 28 | Tue 12/8 | Course synthesis & policy capstone | | | |
+| 26 | Tue 12/1 | Why new drugs cost so much | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) |
+| 27 | Thu 12/3 | Generics and the patent cliff | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-3.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-03.html) | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) |
+| 28 | Tue 12/8 | Reverse panel | | | [{{< fa comments title="Q&A panel" >}}](../assignments/index.qmd#sec-panels) |
 : {tbl-colwidths="[8,12,40,9,9,14]"}

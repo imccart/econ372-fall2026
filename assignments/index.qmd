@@ -68,6 +68,26 @@ are timed, taken in class, and auto-graded through our course platform. Quizzes
 carry the lighter theory for each module — definitions and one-step
 applications — so keeping up with the readings and slides is enough to do well.
 
+## Simulations
+
+Seven in-class simulations across the semester, **best five count** (two can be
+missed). On a simulation day we trade the usual discussion for an interactive,
+multiplayer game run through the course platform, then debrief what happened. You
+earn credit by playing and by submitting a short reflection on the decisions you
+made. As with the quizzes, the spare two mean an occasional absence won't hurt.
+
+## Q&A panels {#sec-panels}
+
+Most class days are **discussion days** built around a panel. A few students are
+drawn at random through the course platform to work through the day's reading at
+the front of the room, while everyone else asks questions (the **Q&A audience**
+points below). You're scored on a short four-level rubric for how well your
+contribution draws on the assigned material --- so the payoff is coming with the
+reading done, not talking the most. You'll be drawn several times over the
+semester, and a single off day won't sink you. The last class flips the format
+into a **reverse panel**, where guests put the questions to you, now that you're
+the experts.
+
 ## Midterm
 
 One in-class exam worth 60 points, covering the heavier theory and derivations.
@@ -77,16 +97,12 @@ slack, so plan for the date on the schedule.
 
 ## In-class participation
 
-Attendance, Q&A panels, Q&A audience questions, and simulations together make up
-120 points and are all handled in class through our course platform.
+Attendance and audience questions round out the in-class points; together with
+the panels and simulations above, in-class work is 120 points, all handled
+through our course platform.
 
 - **Attendance** — check in at the start of class for 1 point, up to 20.
-- **Q&A panels** — on discussion days a few students are drawn at random to a
-  panel and scored on a short rubric for how well their contribution draws on
-  the assigned material.
 - **Q&A audience** — ask a question through the hand-raise queue for 2 points,
   up to 30 over the semester.
-- **Simulations** — play the in-class simulation and submit a short reflection
-  on your own decisions; the best five of seven count.
 
 The mechanics of each are explained in class and in the syllabus.
