@@ -1,2 +1,7 @@
 /.quarto/
 **/*.quarto_ipynb
+
+# Claude / AI working notes — never commit to the repo
+CLAUDE.md
+MEMORY.md
+.claude/
