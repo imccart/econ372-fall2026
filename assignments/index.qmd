@@ -3,9 +3,9 @@ title: "Assignments"
 ---
 
 This page describes each graded component for the semester. Most of your grade
-is earned **in class** — attendance, Q&A panels, simulations, quizzes, and the
-midterm. The take-home portion is three short empirical homeworks. Details for
-each homework live on its own page; check the due dates carefully.
+is earned **in class** — class participation, panels, simulations, quizzes, and
+the midterm. The take-home portion is three short empirical homeworks. Details
+for each homework live on its own page; check the due dates carefully.
 
 ## Grade at a glance
 
@@ -13,9 +13,8 @@ The course is worth **300 points total**, with 80% earned in class.
 
 | Component | Points | How it works |
 |---|---:|---|
-| Attendance | 20 | 1 pt per check-in (cap at 20) |
-| Q&A panel | 45 | Rubric-scored when you are drawn to the panel |
-| Q&A audience | 30 | 2 pts per question asked (cap at 30) |
+| Class participation | 50 | Attendance (20) + engagement on lecture days (30) |
+| Panel | 45 | Panelist when drawn (25) + audience questions on panel days (20) |
 | Simulations | 25 | Play + reflection, best 5 of 7 |
 | Quizzes | 60 | Best 5 of 6, in-class, auto-graded |
 | Midterm | 60 | One in-class exam |
@@ -76,17 +75,28 @@ multiplayer game run through the course platform, then debrief what happened. Yo
 earn credit by playing and by submitting a short reflection on the decisions you
 made. As with the quizzes, the spare two mean an occasional absence won't hurt.
 
-## Q&A panels {#sec-panels}
+## Panels {#sec-panels}
 
-Most class days are **discussion days** built around a panel. A few students are
-drawn at random through the course platform to work through the day's reading at
-the front of the room, while everyone else asks questions (the **Q&A audience**
-points below). You're scored on a short four-level rubric for how well your
-contribution draws on the assigned material --- so the payoff is coming with the
-reading done, not talking the most. You'll be drawn several times over the
-semester, and a single off day won't sink you. The last class flips the format
-into a **reverse panel**, where guests put the questions to you, now that you're
-the experts.
+On panel days a few students are drawn at random through the course platform to
+sit as the panel, while everyone else takes part from the floor. The panel is
+worth **45 points** and rewards engagement in either role.
+
+Each panel runs in two stages. First the panel fields a set of questions I put to
+them, then the floor opens and the rest of the class asks the questions. As a
+**panelist** you're scored out of 25 on a short, concrete checklist (whether you
+answered the question put to you, whether your answer drew on the assigned
+reading, and whether you built on another panelist), so the payoff is coming with
+the reading done, not talking the most. Everyone is drawn at least once and most
+are drawn twice, and your **best panel** counts, so a single off day won't sink
+you.
+
+On the panel days you're not drawn, you earn **audience** points from the floor,
+2 points per question you ask through the hand-raise queue, up to 20 over the
+semester. Asking good questions on the days you're in the audience is worth as
+much as a strong turn on the panel.
+
+The last class flips the format into a **reverse panel**, where invited guests
+put the questions to you, now that you're the experts.
 
 ## Midterm
 
@@ -95,14 +105,14 @@ This is the place to show your work and earn partial credit. There is no final
 exam. Documented absences can be made up; otherwise the midterm has no built-in
 slack, so plan for the date on the schedule.
 
-## In-class participation
+## Class participation
 
-Attendance and audience questions round out the in-class points; together with
-the panels and simulations above, in-class work is 120 points, all handled
-through our course platform.
+Attendance and engagement round out the in-class points, 50 points in all,
+handled through our course platform.
 
-- **Attendance** — check in at the start of class for 1 point, up to 20.
-- **Q&A audience** — ask a question through the hand-raise queue for 2 points,
-  up to 30 over the semester.
+- **Attendance.** Check in at the start of class for 1 point, up to 20.
+- **Engagement.** On lecture days, ask or answer a question through the
+  hand-raise queue for 2 points, up to 30 over the semester. Questions on panel
+  days count toward the panel's audience points instead.
 
 The mechanics of each are explained in class and in the syllabus.

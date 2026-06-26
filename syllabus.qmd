@@ -128,16 +128,15 @@ Detailed descriptions of all assignments are on the [assignments](/assignments/)
 
 | Component | Points | Share |
 |---|---:|---:|
-| Attendance | 20 | 7% |
-| Q&A panel | 45 | 15% |
-| Q&A audience | 30 | 10% |
+| Class participation (attendance + engagement) | 50 | 17% |
+| Panel (panelist + audience) | 45 | 15% |
 | Simulations (best 5 of 7) | 25 | 8% |
 | Quizzes (best 5 of 6) | 60 | 20% |
 | Midterm | 60 | 20% |
 | Empirical homework (best 2 of 3) | 60 | 20% |
 | **Total** | **300** | **100%** |
 
-About 80% of the grade is earned through in-class work (attendance, Q&A, simulations, quizzes, and the midterm), and about 20% through the take-home empirical homework. Several components build in slack: your lowest quiz of six is dropped, your lowest homework of three is dropped, two of the seven simulations may be skipped, and attendance allows for several absences before it affects your grade.
+About 80% of the grade is earned through in-class work (class participation, panels, simulations, quizzes, and the midterm), and about 20% through the take-home empirical homework. Several components build in slack: your lowest quiz of six is dropped, your lowest homework of three is dropped, two of the seven simulations may be skipped, and attendance allows for several absences before it affects your grade.
 
 Your final percentage grade comes from your total points as a percent of all 300 available points. That percent then translates to a letter grade as follows:
 

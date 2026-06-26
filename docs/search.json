@@ -39,7 +39,7 @@
     "href": "syllabus.html#assignments-and-grades",
     "title": "Syllabus",
     "section": "Assignments and grades",
-    "text": "Assignments and grades\nDetailed descriptions of all assignments are on the assignments page. The course is worth 300 points, and most of the grade is earned in class.\n\n\n\nComponent\nPoints\nShare\n\n\n\n\nAttendance\n20\n7%\n\n\nQ&A panel\n45\n15%\n\n\nQ&A audience\n30\n10%\n\n\nSimulations (best 5 of 7)\n25\n8%\n\n\nQuizzes (best 5 of 6)\n60\n20%\n\n\nMidterm\n60\n20%\n\n\nEmpirical homework (best 2 of 3)\n60\n20%\n\n\nTotal\n300\n100%\n\n\n\nAbout 80% of the grade is earned through in-class work (attendance, Q&A, simulations, quizzes, and the midterm), and about 20% through the take-home empirical homework. Several components build in slack: your lowest quiz of six is dropped, your lowest homework of three is dropped, two of the seven simulations may be skipped, and attendance allows for several absences before it affects your grade.\nYour final percentage grade comes from your total points as a percent of all 300 available points. That percent then translates to a letter grade as follows:\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93–100%\nC\n73–76%\n\n\nA−\n90–92%\nC−\n70–72%\n\n\nB+\n87–89%\nD+\n67–69%\n\n\nB\n83–86%\nD\n63–66%\n\n\nB−\n80–82%\nD−\n60–62%\n\n\nC+\n77–79%\nF\n&lt; 60%"
+    "text": "Assignments and grades\nDetailed descriptions of all assignments are on the assignments page. The course is worth 300 points, and most of the grade is earned in class.\n\n\n\nComponent\nPoints\nShare\n\n\n\n\nClass participation (attendance + engagement)\n50\n17%\n\n\nPanel (panelist + audience)\n45\n15%\n\n\nSimulations (best 5 of 7)\n25\n8%\n\n\nQuizzes (best 5 of 6)\n60\n20%\n\n\nMidterm\n60\n20%\n\n\nEmpirical homework (best 2 of 3)\n60\n20%\n\n\nTotal\n300\n100%\n\n\n\nAbout 80% of the grade is earned through in-class work (class participation, panels, simulations, quizzes, and the midterm), and about 20% through the take-home empirical homework. Several components build in slack: your lowest quiz of six is dropped, your lowest homework of three is dropped, two of the seven simulations may be skipped, and attendance allows for several absences before it affects your grade.\nYour final percentage grade comes from your total points as a percent of all 300 available points. That percent then translates to a letter grade as follows:\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93–100%\nC\n73–76%\n\n\nA−\n90–92%\nC−\n70–72%\n\n\nB+\n87–89%\nD+\n67–69%\n\n\nB\n83–86%\nD\n63–66%\n\n\nB−\n80–82%\nD−\n60–62%\n\n\nC+\n77–79%\nF\n&lt; 60%"
   },
   {
     "objectID": "resources/index.html",
@@ -56,7 +56,7 @@
     "href": "assignments/index.html",
     "title": "Assignments",
     "section": "",
-    "text": "This page describes each graded component for the semester. Most of your grade is earned in class — attendance, Q&A panels, simulations, quizzes, and the midterm. The take-home portion is three short empirical homeworks. Details for each homework live on its own page; check the due dates carefully.",
+    "text": "This page describes each graded component for the semester. Most of your grade is earned in class — class participation, panels, simulations, quizzes, and the midterm. The take-home portion is three short empirical homeworks. Details for each homework live on its own page; check the due dates carefully.",
     "crumbs": [
       "Assignments"
     ]
@@ -66,7 +66,7 @@
     "href": "assignments/index.html#grade-at-a-glance",
     "title": "Assignments",
     "section": "Grade at a glance",
-    "text": "Grade at a glance\nThe course is worth 300 points total, with 80% earned in class.\n\n\n\nComponent\nPoints\nHow it works\n\n\n\n\nAttendance\n20\n1 pt per check-in (cap at 20)\n\n\nQ&A panel\n45\nRubric-scored when you are drawn to the panel\n\n\nQ&A audience\n30\n2 pts per question asked (cap at 30)\n\n\nSimulations\n25\nPlay + reflection, best 5 of 7\n\n\nQuizzes\n60\nBest 5 of 6, in-class, auto-graded\n\n\nMidterm\n60\nOne in-class exam\n\n\nEmpirical homework\n60\nBest 2 of 3, 30 pts each\n\n\n\nEvery in-class component has more opportunities than you need for full credit, so an occasional absence or off day will not sink your grade. The syllabus has the complete policy.",
+    "text": "Grade at a glance\nThe course is worth 300 points total, with 80% earned in class.\n\n\n\n\n\n\n\n\nComponent\nPoints\nHow it works\n\n\n\n\nClass participation\n50\nAttendance (20) + engagement on lecture days (30)\n\n\nPanel\n45\nPanelist when drawn (25) + audience questions on panel days (20)\n\n\nSimulations\n25\nPlay + reflection, best 5 of 7\n\n\nQuizzes\n60\nBest 5 of 6, in-class, auto-graded\n\n\nMidterm\n60\nOne in-class exam\n\n\nEmpirical homework\n60\nBest 2 of 3, 30 pts each\n\n\n\nEvery in-class component has more opportunities than you need for full credit, so an occasional absence or off day will not sink your grade. The syllabus has the complete policy.",
     "crumbs": [
       "Assignments"
     ]
@@ -105,8 +105,8 @@
     "objectID": "assignments/index.html#sec-panels",
     "href": "assignments/index.html#sec-panels",
     "title": "Assignments",
-    "section": "Q&A panels",
-    "text": "Q&A panels\nMost class days are discussion days built around a panel. A few students are drawn at random through the course platform to work through the day’s reading at the front of the room, while everyone else asks questions (the Q&A audience points below). You’re scored on a short four-level rubric for how well your contribution draws on the assigned material — so the payoff is coming with the reading done, not talking the most. You’ll be drawn several times over the semester, and a single off day won’t sink you. The last class flips the format into a reverse panel, where guests put the questions to you, now that you’re the experts.",
+    "section": "Panels",
+    "text": "Panels\nOn panel days a few students are drawn at random through the course platform to sit as the panel, while everyone else takes part from the floor. The panel is worth 45 points and rewards engagement in either role.\nEach panel runs in two stages. First the panel fields a set of questions I put to them, then the floor opens and the rest of the class asks the questions. As a panelist you’re scored out of 25 on a short, concrete checklist (whether you answered the question put to you, whether your answer drew on the assigned reading, and whether you built on another panelist), so the payoff is coming with the reading done, not talking the most. Everyone is drawn at least once and most are drawn twice, and your best panel counts, so a single off day won’t sink you.\nOn the panel days you’re not drawn, you earn audience points from the floor, 2 points per question you ask through the hand-raise queue, up to 20 over the semester. Asking good questions on the days you’re in the audience is worth as much as a strong turn on the panel.\nThe last class flips the format into a reverse panel, where invited guests put the questions to you, now that you’re the experts.",
     "crumbs": [
       "Assignments"
     ]
@@ -122,11 +122,11 @@
     ]
   },
   {
-    "objectID": "assignments/index.html#in-class-participation",
-    "href": "assignments/index.html#in-class-participation",
+    "objectID": "assignments/index.html#class-participation",
+    "href": "assignments/index.html#class-participation",
     "title": "Assignments",
-    "section": "In-class participation",
-    "text": "In-class participation\nAttendance and audience questions round out the in-class points; together with the panels and simulations above, in-class work is 120 points, all handled through our course platform.\n\nAttendance — check in at the start of class for 1 point, up to 20.\nQ&A audience — ask a question through the hand-raise queue for 2 points, up to 30 over the semester.\n\nThe mechanics of each are explained in class and in the syllabus.",
+    "section": "Class participation",
+    "text": "Class participation\nAttendance and engagement round out the in-class points, 50 points in all, handled through our course platform.\n\nAttendance. Check in at the start of class for 1 point, up to 20.\nEngagement. On lecture days, ask or answer a question through the hand-raise queue for 2 points, up to 30 over the semester. Questions on panel days count toward the panel’s audience points instead.\n\nThe mechanics of each are explained in class and in the syllabus.",
     "crumbs": [
       "Assignments"
     ]
@@ -282,7 +282,7 @@
     "href": "schedule/index.html",
     "title": "Schedule",
     "section": "",
-    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). The Activity column shows the day’s format and any graded event: a lecture (), a Q&A panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment.\nOn lecture days we develop the model at the board and work an example. On Q&A panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions, and simulation days replace discussion with an in-class game and a debrief. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
+    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). The Activity column shows the day’s format and any graded event: a lecture (), a panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment.\nOn lecture days we develop the model at the board and work an example. On panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions, and simulation days replace discussion with an in-class game and a debrief. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
   },
   {
     "objectID": "schedule/index.html#module-0-welcome-to-the-class",
