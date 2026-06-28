@@ -1,5 +1,6 @@
 ---
 title: "Assignments"
+toc: false
 ---
 
 This page describes each graded component for the semester. Most of your grade
@@ -23,6 +24,63 @@ The course is worth **300 points total**, with 80% earned in class.
 Every in-class component has more opportunities than you need for full credit,
 so an occasional absence or off day will not sink your grade. The syllabus has
 the complete policy.
+
+## Class participation
+
+Attendance and engagement are the everyday in-class points, 50 points in all,
+handled through our course platform.
+
+- **Attendance.** Check in at the start of class for 1 point, up to 20.
+- **Engagement.** On lecture days, ask or answer a question through the
+  hand-raise queue for 2 points, up to 30 over the semester. Questions on panel
+  days count toward the panel's audience points instead.
+
+The mechanics of each are explained in class and in the syllabus.
+
+## Panels {#sec-panels}
+
+On panel days a few students are drawn at random through the course platform to
+sit as the panel, while everyone else takes part from the floor. The panel is
+worth **45 points** and rewards engagement in either role.
+
+Each panel runs in two stages. First the panel fields a set of questions I put to
+them, then the floor opens and the rest of the class asks the questions. As a
+**panelist** you're scored out of 25 on a short, concrete checklist (whether you
+answered the question put to you, whether your answer drew on the assigned
+reading, and whether you built on another panelist), so the payoff is coming with
+the reading done, not talking the most. Everyone is drawn at least once and most
+are drawn twice, and your **best panel** counts, so a single off day won't sink
+you.
+
+On the panel days you're not drawn, you earn **audience** points from the floor,
+2 points per question you ask through the hand-raise queue, up to 20 over the
+semester. Asking good questions on the days you're in the audience is worth as
+much as a strong turn on the panel.
+
+The last class flips the format into a **reverse panel**, where invited guests
+put the questions to you, now that you're the experts.
+
+## Simulations
+
+Seven in-class simulations across the semester, **best five count** (two can be
+missed). On a simulation day we trade the usual discussion for an interactive,
+multiplayer game run through the course platform, then debrief what happened. You
+earn credit by playing and by submitting a short reflection on the decisions you
+made. As with the quizzes, the spare two mean an occasional absence won't hurt.
+
+## Quizzes
+
+Six short quizzes over the semester, **best five count** (one is dropped). They
+are timed, taken in class, and auto-graded through our course platform. Quizzes
+carry the lighter theory for each module — definitions and one-step
+applications — so keeping up with the readings and slides is enough to do well.
+
+## Midterm
+
+One in-class exam worth 60 points, covering the heavier theory and derivations.
+This is the place to show your work and earn partial credit. There is no final
+exam. Documented absences can be made up; otherwise the midterm has no built-in
+slack, so plan for the date on the schedule.
 
 ## Empirical homework
 
@@ -59,60 +117,3 @@ Somewhere in each notebook you must include a **verification note**: one
 specific point where the AI's first output was wrong, incomplete, or misleading,
 and an explanation *in economic terms* of how you knew. "It ran without errors"
 does not count.
-
-## Quizzes
-
-Six short quizzes over the semester, **best five count** (one is dropped). They
-are timed, taken in class, and auto-graded through our course platform. Quizzes
-carry the lighter theory for each module — definitions and one-step
-applications — so keeping up with the readings and slides is enough to do well.
-
-## Simulations
-
-Seven in-class simulations across the semester, **best five count** (two can be
-missed). On a simulation day we trade the usual discussion for an interactive,
-multiplayer game run through the course platform, then debrief what happened. You
-earn credit by playing and by submitting a short reflection on the decisions you
-made. As with the quizzes, the spare two mean an occasional absence won't hurt.
-
-## Panels {#sec-panels}
-
-On panel days a few students are drawn at random through the course platform to
-sit as the panel, while everyone else takes part from the floor. The panel is
-worth **45 points** and rewards engagement in either role.
-
-Each panel runs in two stages. First the panel fields a set of questions I put to
-them, then the floor opens and the rest of the class asks the questions. As a
-**panelist** you're scored out of 25 on a short, concrete checklist (whether you
-answered the question put to you, whether your answer drew on the assigned
-reading, and whether you built on another panelist), so the payoff is coming with
-the reading done, not talking the most. Everyone is drawn at least once and most
-are drawn twice, and your **best panel** counts, so a single off day won't sink
-you.
-
-On the panel days you're not drawn, you earn **audience** points from the floor,
-2 points per question you ask through the hand-raise queue, up to 20 over the
-semester. Asking good questions on the days you're in the audience is worth as
-much as a strong turn on the panel.
-
-The last class flips the format into a **reverse panel**, where invited guests
-put the questions to you, now that you're the experts.
-
-## Midterm
-
-One in-class exam worth 60 points, covering the heavier theory and derivations.
-This is the place to show your work and earn partial credit. There is no final
-exam. Documented absences can be made up; otherwise the midterm has no built-in
-slack, so plan for the date on the schedule.
-
-## Class participation
-
-Attendance and engagement round out the in-class points, 50 points in all,
-handled through our course platform.
-
-- **Attendance.** Check in at the start of class for 1 point, up to 20.
-- **Engagement.** On lecture days, ask or answer a question through the
-  hand-raise queue for 2 points, up to 30 over the semester. Questions on panel
-  days count toward the panel's audience points instead.
-
-The mechanics of each are explained in class and in the syllabus.

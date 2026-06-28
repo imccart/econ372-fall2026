@@ -58,7 +58,8 @@
     "section": "",
     "text": "This page describes each graded component for the semester. Most of your grade is earned in class — class participation, panels, simulations, quizzes, and the midterm. The take-home portion is three short empirical homeworks. Details for each homework live on its own page; check the due dates carefully.",
     "crumbs": [
-      "Assignments"
+      "Assignments",
+      "Overview"
     ]
   },
   {
@@ -68,37 +69,19 @@
     "section": "Grade at a glance",
     "text": "Grade at a glance\nThe course is worth 300 points total, with 80% earned in class.\n\n\n\n\n\n\n\n\nComponent\nPoints\nHow it works\n\n\n\n\nClass participation\n50\nAttendance (20) + engagement on lecture days (30)\n\n\nPanel\n45\nPanelist when drawn (25) + audience questions on panel days (20)\n\n\nSimulations\n25\nPlay + reflection, best 5 of 7\n\n\nQuizzes\n60\nBest 5 of 6, in-class, auto-graded\n\n\nMidterm\n60\nOne in-class exam\n\n\nEmpirical homework\n60\nBest 2 of 3, 30 pts each\n\n\n\nEvery in-class component has more opportunities than you need for full credit, so an occasional absence or off day will not sink your grade. The syllabus has the complete policy.",
     "crumbs": [
-      "Assignments"
+      "Assignments",
+      "Overview"
     ]
   },
   {
-    "objectID": "assignments/index.html#empirical-homework",
-    "href": "assignments/index.html#empirical-homework",
+    "objectID": "assignments/index.html#class-participation",
+    "href": "assignments/index.html#class-participation",
     "title": "Assignments",
-    "section": "Empirical homework",
-    "text": "Empirical homework\nThree homeworks, 30 points each, and only your best two count — so one can be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose 2% per day.\n\nHomework 1 — Adverse Selection in Real Markets (due Sep 25)\nHomework 2 — Physician Agency and Payment Changes (due Oct 9)\nHomework 3 — Hospital Competition and Pricing (due Nov 13)\n\nThese are empirical only. The theory for each module is assessed in class, through quizzes and the midterm. The homeworks are where you work with real health care data.\nYou are required to use an AI coding assistant — GitHub Copilot is free with your Emory GitHub account, or use the tool of your choice. Let it write the R or Python. The mechanical coding is assumed to be free now, which is exactly why these assignments ask for genuine data work rather than the pre-cleaned, Excel-friendly exercises of past years. Your job is not to produce code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer, and catching that is the point of the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nSomewhere in each notebook you must include a verification note: one specific point where the AI’s first output was wrong, incomplete, or misleading, and an explanation in economic terms of how you knew. “It ran without errors” does not count.",
+    "section": "Class participation",
+    "text": "Class participation\nAttendance and engagement are the everyday in-class points, 50 points in all, handled through our course platform.\n\nAttendance. Check in at the start of class for 1 point, up to 20.\nEngagement. On lecture days, ask or answer a question through the hand-raise queue for 2 points, up to 30 over the semester. Questions on panel days count toward the panel’s audience points instead.\n\nThe mechanics of each are explained in class and in the syllabus.",
     "crumbs": [
-      "Assignments"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html#quizzes",
-    "href": "assignments/index.html#quizzes",
-    "title": "Assignments",
-    "section": "Quizzes",
-    "text": "Quizzes\nSix short quizzes over the semester, best five count (one is dropped). They are timed, taken in class, and auto-graded through our course platform. Quizzes carry the lighter theory for each module — definitions and one-step applications — so keeping up with the readings and slides is enough to do well.",
-    "crumbs": [
-      "Assignments"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html#simulations",
-    "href": "assignments/index.html#simulations",
-    "title": "Assignments",
-    "section": "Simulations",
-    "text": "Simulations\nSeven in-class simulations across the semester, best five count (two can be missed). On a simulation day we trade the usual discussion for an interactive, multiplayer game run through the course platform, then debrief what happened. You earn credit by playing and by submitting a short reflection on the decisions you made. As with the quizzes, the spare two mean an occasional absence won’t hurt.",
-    "crumbs": [
-      "Assignments"
+      "Assignments",
+      "Overview"
     ]
   },
   {
@@ -108,7 +91,30 @@
     "section": "Panels",
     "text": "Panels\nOn panel days a few students are drawn at random through the course platform to sit as the panel, while everyone else takes part from the floor. The panel is worth 45 points and rewards engagement in either role.\nEach panel runs in two stages. First the panel fields a set of questions I put to them, then the floor opens and the rest of the class asks the questions. As a panelist you’re scored out of 25 on a short, concrete checklist (whether you answered the question put to you, whether your answer drew on the assigned reading, and whether you built on another panelist), so the payoff is coming with the reading done, not talking the most. Everyone is drawn at least once and most are drawn twice, and your best panel counts, so a single off day won’t sink you.\nOn the panel days you’re not drawn, you earn audience points from the floor, 2 points per question you ask through the hand-raise queue, up to 20 over the semester. Asking good questions on the days you’re in the audience is worth as much as a strong turn on the panel.\nThe last class flips the format into a reverse panel, where invited guests put the questions to you, now that you’re the experts.",
     "crumbs": [
-      "Assignments"
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#simulations",
+    "href": "assignments/index.html#simulations",
+    "title": "Assignments",
+    "section": "Simulations",
+    "text": "Simulations\nSeven in-class simulations across the semester, best five count (two can be missed). On a simulation day we trade the usual discussion for an interactive, multiplayer game run through the course platform, then debrief what happened. You earn credit by playing and by submitting a short reflection on the decisions you made. As with the quizzes, the spare two mean an occasional absence won’t hurt.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#quizzes",
+    "href": "assignments/index.html#quizzes",
+    "title": "Assignments",
+    "section": "Quizzes",
+    "text": "Quizzes\nSix short quizzes over the semester, best five count (one is dropped). They are timed, taken in class, and auto-graded through our course platform. Quizzes carry the lighter theory for each module — definitions and one-step applications — so keeping up with the readings and slides is enough to do well.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
     ]
   },
   {
@@ -118,17 +124,19 @@
     "section": "Midterm",
     "text": "Midterm\nOne in-class exam worth 60 points, covering the heavier theory and derivations. This is the place to show your work and earn partial credit. There is no final exam. Documented absences can be made up; otherwise the midterm has no built-in slack, so plan for the date on the schedule.",
     "crumbs": [
-      "Assignments"
+      "Assignments",
+      "Overview"
     ]
   },
   {
-    "objectID": "assignments/index.html#class-participation",
-    "href": "assignments/index.html#class-participation",
+    "objectID": "assignments/index.html#empirical-homework",
+    "href": "assignments/index.html#empirical-homework",
     "title": "Assignments",
-    "section": "Class participation",
-    "text": "Class participation\nAttendance and engagement round out the in-class points, 50 points in all, handled through our course platform.\n\nAttendance. Check in at the start of class for 1 point, up to 20.\nEngagement. On lecture days, ask or answer a question through the hand-raise queue for 2 points, up to 30 over the semester. Questions on panel days count toward the panel’s audience points instead.\n\nThe mechanics of each are explained in class and in the syllabus.",
+    "section": "Empirical homework",
+    "text": "Empirical homework\nThree homeworks, 30 points each, and only your best two count — so one can be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose 2% per day.\n\nHomework 1 — Adverse Selection in Real Markets (due Sep 25)\nHomework 2 — Physician Agency and Payment Changes (due Oct 9)\nHomework 3 — Hospital Competition and Pricing (due Nov 13)\n\nThese are empirical only. The theory for each module is assessed in class, through quizzes and the midterm. The homeworks are where you work with real health care data.\nYou are required to use an AI coding assistant — GitHub Copilot is free with your Emory GitHub account, or use the tool of your choice. Let it write the R or Python. The mechanical coding is assumed to be free now, which is exactly why these assignments ask for genuine data work rather than the pre-cleaned, Excel-friendly exercises of past years. Your job is not to produce code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer, and catching that is the point of the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nSomewhere in each notebook you must include a verification note: one specific point where the AI’s first output was wrong, incomplete, or misleading, and an explanation in economic terms of how you knew. “It ran without errors” does not count.",
     "crumbs": [
-      "Assignments"
+      "Assignments",
+      "Overview"
     ]
   },
   {
@@ -139,7 +147,8 @@
     "text": "This homework covers physician treatment decisions, payment incentives, and agency. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 2 is due by midnight on Friday, October 9.",
     "crumbs": [
       "Assignments",
-      "Homework 2 — Physician Agency and Payment Changes"
+      "Empirical homework",
+      "Homework 2"
     ]
   },
   {
@@ -150,7 +159,8 @@
     "text": "This homework covers physician treatment decisions, payment incentives, and agency. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 2 is due by midnight on Friday, October 9.",
     "crumbs": [
       "Assignments",
-      "Homework 2 — Physician Agency and Payment Changes"
+      "Empirical homework",
+      "Homework 2"
     ]
   },
   {
@@ -161,7 +171,8 @@
     "text": "Q4 — Epidural steroid injection payment cut (15 pts)\nIn January 2014, CMS reduced its payments to physicians for epidural steroidal injections (CPT codes 62310, 62311, 62318, 62319) as part of adjusting “potentially misvalued services,” then raised them again in 2015. Use the Medicare Provider Utilization and Payment Data, 2013–2015 (hwk2_data_q4 on the shared OneDrive, available as .Rdata or tab-delimited .txt).\n\nHave the AI compute the average number of injections per physician in each year, 2013–2015. Report the trend.\nDoes that yearly average tell a clean story about how physicians responded to the 2014 cut? What population is being averaged over in each year, and does it change? Identify at least one reason the year-over-year average could move for a reason that has nothing to do with physician agency.\nAsk the AI to find the physicians with the largest drop in injections from 2013 to 2014. Look hard at what it returns — some of the “largest reductions” are not behavioral responses to the payment cut at all. Which ones, and why does including them mislead the agency interpretation? Re-pose the task so the result isolates the behavioral response, and show what changed.\nConnect to the model. Payment fell in 2014 and rose in 2015. State what physician-agency theory predicts for utilization in each year, and whether your corrected data are consistent. Where they are not, give the most plausible economic reason.\nPlot the corrected set of largest-responders over time and say, in one sentence, whether the 2015 rebound shows up and what that implies about physician responsiveness to payment.",
     "crumbs": [
       "Assignments",
-      "Homework 2 — Physician Agency and Payment Changes"
+      "Empirical homework",
+      "Homework 2"
     ]
   },
   {
@@ -172,7 +183,8 @@
     "text": "Q5 — E&M fee schedule and budget neutrality (15 pts)\nIn January 2021, CMS raised payments for Evaluation and Management (E&M, i.e. office-visit) codes. Because of budget-neutrality requirements, it offset this by lowering the overall conversion factor — making more expensive services relatively less profitable while E&M payments rose. Use the Medicare Provider Utilization and Payment Data for Georgia physicians (hwk2_data_q5 on the shared OneDrive). See the CMS Final Rule primer for the policy details and percentage changes.\n\nIdentify the set of HCPCS codes that capture physician office visits (E&M). The AI will offer a set from general knowledge — verify it against the actual code descriptions in the data and show how you confirmed it. A wrong code set silently corrupts everything downstream.\nIdentify the top 10 Georgia physicians by E&M volume in 2020, by raw count and by payment-weighted volume. Does the ranking change? Which denominator is the right one for this question, and why?\nHave the AI compute how much these physicians stand to gain from the higher E&M RVU rate. Then ask: what did it leave out? The budget-neutral conversion-factor cut. Explain why the net impact depends on each physician’s overall service mix, and identify which kind of physician could actually come out behind even as E&M pay rises.\nIn the context of physician agency, what do you predict happens to utilization of the more expensive (now relatively less profitable) services after the 2021 update?\nState which physician type gains and which loses under the combined change, in economic terms, and use this question for your required verification note.",
     "crumbs": [
       "Assignments",
-      "Homework 2 — Physician Agency and Payment Changes"
+      "Empirical homework",
+      "Homework 2"
     ]
   },
   {
@@ -183,7 +195,8 @@
     "text": "This homework covers health insurance purchasing and adverse selection. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count. This is folded into the parts below, not a separate line item.\nHomework 1 is due by midnight on Friday, September 25.",
     "crumbs": [
       "Assignments",
-      "Homework 1 — Adverse Selection in Real Markets"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
@@ -194,7 +207,8 @@
     "text": "This homework covers health insurance purchasing and adverse selection. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count. This is folded into the parts below, not a separate line item.\nHomework 1 is due by midnight on Friday, September 25.",
     "crumbs": [
       "Assignments",
-      "Homework 1 — Adverse Selection in Real Markets"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
@@ -205,7 +219,8 @@
     "text": "Q1 — New Jersey’s individual market, 2000–2008 (15 pts)\nData: hwk1_nj.csv on the shared OneDrive (link on Canvas). Monthly family premiums and year-end “standard” enrollment for three plans in the Individual Health Coverage (IHC) program: Horizon BCBS of NJ Plan D ($1,000 deductible), Aetna Life Plan D ($1,000 deductible), and Celtic Insurance Plan C ($2,500 deductible).\n\nHave the AI build a table of annual premiums for the three plans and total standard enrollment, and plot premiums and enrollment over time.\nNew Jersey’s market is often called a textbook “death spiral.” Shown rising premiums and falling enrollment, the AI will likely confirm that label. State the precise economic mechanism a death spiral requires — not just the pattern, the mechanism — and explain why the rising-premium / falling- enrollment pattern alone is consistent with but not proof of it.\nTwo of these plans carry $1,000 deductibles and one carries $2,500, and you are comparing nominal dollars across 2000–2008. Identify how each of these makes a raw premium comparison misleading, and have the AI correct at least one of them. Show what changed.\nWhat would you need to observe to confirm that selection is driving the premium increases, and why is it absent from this dataset?\nGive your bottom-line verdict — death spiral, or premium growth that merely looks like one? Defend it in three sentences.",
     "crumbs": [
       "Assignments",
-      "Homework 1 — Adverse Selection in Real Markets"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
@@ -216,7 +231,8 @@
     "text": "Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)\nData: hwk1_medicare.csv on the shared OneDrive. Medicare Advantage (MA) enrollment and Medicare fee-for-service (FFS) spending by year.\n\nHave the AI plot MA enrollment and FFS spending over 2010–2018 and describe both trends.\nThe intuitive story is “healthy people pick MA, sicker people stay in FFS, so FFS costs rise.” But the direction of selection here is the opposite of the classic uninsured death-spiral case. Name what kind of selection this is from the plan’s perspective, and explain why the valence flips when everyone is already insured and the choice is across plan types rather than in-or-out.\nOne of your FFS series is a total and behaves differently from a per-enrollee version. If MA enrollment grows, what happens to total FFS spending mechanically, even with flat per-person costs? Have the AI compute both the total and the per-enrollee series, and show which one supports a selection story and which is just composition.\nRisk adjustment pays MA plans more for sicker enrollees. Explain how it should bend the relationship between your two series over time, and whether the data are consistent with that.\nSuggest one additional mechanism (besides risk adjustment) that would dampen selection across plan types, grounded in the course model.",
     "crumbs": [
       "Assignments",
-      "Homework 1 — Adverse Selection in Real Markets"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
@@ -227,7 +243,8 @@
     "text": "This homework covers hospital market structure, competition, and pricing. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 3 is due by midnight on Friday, November 13.\nData for both questions: the hospital file on the shared OneDrive (link on Canvas), built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. Markets are defined three ways: zip code, HRR, and a pre-computed “market” from a community-detection algorithm. Throughout, define the market share of hospital \\(i\\) in market \\(m\\) in year \\(t\\) as \\(s_{imt} = q_{imt} / \\sum_{j} q_{jmt}\\), where \\(q\\) is discharges.",
     "crumbs": [
       "Assignments",
-      "Homework 3 — Hospital Competition and Pricing"
+      "Empirical homework",
+      "Homework 3"
     ]
   },
   {
@@ -238,7 +255,8 @@
     "text": "This homework covers hospital market structure, competition, and pricing. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 3 is due by midnight on Friday, November 13.\nData for both questions: the hospital file on the shared OneDrive (link on Canvas), built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. Markets are defined three ways: zip code, HRR, and a pre-computed “market” from a community-detection algorithm. Throughout, define the market share of hospital \\(i\\) in market \\(m\\) in year \\(t\\) as \\(s_{imt} = q_{imt} / \\sum_{j} q_{jmt}\\), where \\(q\\) is discharges.",
     "crumbs": [
       "Assignments",
-      "Homework 3 — Hospital Competition and Pricing"
+      "Empirical homework",
+      "Homework 3"
     ]
   },
   {
@@ -249,7 +267,8 @@
     "text": "Q4 — Market definition and concentration (15 pts)\n\nHave the AI compute the HHI for each market and year under all three market definitions (zip, HRR, community-detection), and plot the average HHI over time for each definition.\nExplain why your assessment of how concentrated hospital markets are changes with the definition. Which definition is “correct,” and why is there no single right answer?\nYour part (a) averages HHI across markets. Single-hospital markets have HHI = 10,000 and, in a simple unweighted average, dominate the result. Show what the AI’s default unweighted average hides, and how weighting (or excluding trivial markets) changes the picture.\nMarket share’s denominator is total discharges in the correctly grouped market. Add a sanity check that shares sum to 1 within each market-year, and explain what a careless join — one that mismatched hospitals to markets — would do to that check and to your HHI.\nRecompute part (a) using the maximum market share \\(s^{max}_{mt} = \\max_i s_{imt}\\) instead of HHI (average across markets, plot over time). Does your assessment of competitiveness change, and what does the contrast with HHI tell you?",
     "crumbs": [
       "Assignments",
-      "Homework 3 — Hospital Competition and Pricing"
+      "Empirical homework",
+      "Homework 3"
     ]
   },
   {
@@ -260,7 +279,8 @@
     "text": "Q5 — Prices and market structure (15 pts)\nUse the same hospital data, focusing on the community-detection market measure.\n\nHave the AI compute the average hospital price in each year and plot it. Then look at the price variable: check its min, max, and share missing, and flag impossible or implausible values (HCRIS price fields mix charges and payments and contain negatives and extreme outliers). Decide on a cleaning rule, apply it, and show how the average changes.\nIdentify market-years that are monopolies or duopolies (exactly one or two hospitals) and those that are “competitive” (at least four hospitals). Plot the count of each type over time.\nCompute the average price in each year within the monopoly/duopoly group and within the competitive group. Show the comparison. Does concentration appear to correlate with price?\nConcentrated markets differ systematically from competitive ones — they tend to be smaller and more rural. Repeat part (c) after limiting to markets with between 10,000 and 50,000 total discharges per year. Explain what changes and why market size confounds the raw price-concentration relationship.\nState your bottom line: is the price-concentration correlation you found causal evidence that concentration raises prices? Use this question for your required verification note.",
     "crumbs": [
       "Assignments",
-      "Homework 3 — Hospital Competition and Pricing"
+      "Empirical homework",
+      "Homework 3"
     ]
   },
   {
@@ -282,7 +302,7 @@
     "href": "schedule/index.html",
     "title": "Schedule",
     "section": "",
-    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). The Activity column shows the day’s format and any graded event: a lecture (), a panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment.\nOn lecture days we develop the model at the board and work an example. On panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions, and simulation days replace discussion with an in-class game and a debrief. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
+    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). Most days are lectures, and the Activity column is blank for those. It flags the days with a graded event, namely a panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment.\nOn lecture days we develop the model at the board and work an example. On panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions, and simulation days replace discussion with an in-class game and a debrief. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
   },
   {
     "objectID": "schedule/index.html#module-0-welcome-to-the-class",
@@ -296,21 +316,21 @@
     "href": "schedule/index.html#module-1-health-insurance",
     "title": "Schedule",
     "section": "Module 1: Health Insurance",
-    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n3\nThu 9/3\nWho covers whom?\n\n \n \n\n\n4\nTue 9/8\nPick a plan\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n \n\n\n7\nThu 9/17\nSet the premium\n\n\n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n \n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n\n\n\n\nFri 9/25\nHomework 1 due"
+    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n3\nThu 9/3\nWho covers whom?\n\n \n \n\n\n4\nTue 9/8\nPick a plan\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n\n\n\n7\nThu 9/17\nSet the premium\n\n\n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n\n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n\n\n\n\nFri 9/25\nHomework 1 due"
   },
   {
     "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
     "href": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
     "title": "Schedule",
     "section": "Module 2: Physician Agency and Treatment Decisions",
-    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n10\nTue 9/29\nDoes your doctor work for you?\n\n\n\n\n\n11\nThu 10/1\nYou’re the patient\n\n\n\n\n\n12\nTue 10/6\nHow physicians are paid\n \n \n \n\n\n13\nThu 10/8\nOvertreated?\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n14\nThu 10/15\nYou’re the doctor\n\n\n\n\n\n\nFri 10/16\nHomework 2 due\n\n\n\n\n\n15\nTue 10/20\nThe end of fee-for-service?"
+    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n10\nTue 9/29\nDoes your doctor work for you?\n\n\n\n\n\n11\nThu 10/1\nYou’re the patient\n\n\n\n\n\n12\nTue 10/6\nHow physicians are paid\n \n \n\n\n\n13\nThu 10/8\nOvertreated?\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n14\nThu 10/15\nYou’re the doctor\n\n\n\n\n\n\nFri 10/16\nHomework 2 due\n\n\n\n\n\n15\nTue 10/20\nThe end of fee-for-service?"
   },
   {
     "objectID": "schedule/index.html#module-3-hospital-pricing-and-competition",
     "href": "schedule/index.html#module-3-hospital-pricing-and-competition",
     "title": "Schedule",
     "section": "Module 3: Hospital Pricing and Competition",
-    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n16\nThu 10/22\nWhat is a hospital price?\n\n\n\n\n\n17\nTue 10/27\nDoes profit status matter?\n\n\n\n\n\n18\nThu 10/29\nHow hospitals set prices\n \n \n\n\n\n19\nTue 11/3\nPick a hospital\n\n\n\n\n\n20\nThu 11/5\nInsurer–hospital bargaining\n\n\n\n\n\n21\nTue 11/10\nMake the deal\n\n\n\n\n\n22\nThu 11/12\nWhen hospitals merge\n\n\n \n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n23\nTue 11/17\nAre hospitals too big?"
+    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n16\nThu 10/22\nWhat is a hospital price?\n\n\n\n\n\n17\nTue 10/27\nDoes profit status matter?\n\n\n\n\n\n18\nThu 10/29\nHow hospitals set prices\n \n \n\n\n\n19\nTue 11/3\nPick a hospital\n\n\n\n\n\n20\nThu 11/5\nInsurer–hospital bargaining\n\n\n\n\n\n21\nTue 11/10\nMake the deal\n\n\n\n\n\n22\nThu 11/12\nWhen hospitals merge\n\n\n\n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n23\nTue 11/17\nAre hospitals too big?"
   },
   {
     "objectID": "schedule/index.html#midterm",

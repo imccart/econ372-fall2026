@@ -25,7 +25,7 @@ website:
 
   repo-url: "https://github.com/imccart/econ372-fall2026"
 
-  page-navigation: true
+  page-navigation: false
 
   navbar:
     pinned: true
@@ -47,10 +47,27 @@ website:
       style: "docked"
       background: dark
       contents:
-        - assignments/index.qmd
-        - assignments/homework1.qmd
-        - assignments/homework2.qmd
-        - assignments/homework3.qmd
+        - text: "Overview"
+          file: assignments/index.qmd
+        - text: "Class participation"
+          href: assignments/index.qmd#class-participation
+        - text: "Panels"
+          href: assignments/index.qmd#sec-panels
+        - text: "Simulations"
+          href: assignments/index.qmd#simulations
+        - text: "Quizzes"
+          href: assignments/index.qmd#quizzes
+        - text: "Midterm"
+          href: assignments/index.qmd#midterm
+        - section: "Empirical homework"
+          href: assignments/index.qmd#empirical-homework
+          contents:
+            - text: "Homework 1"
+              file: assignments/homework1.qmd
+            - text: "Homework 2"
+              file: assignments/homework2.qmd
+            - text: "Homework 3"
+              file: assignments/homework3.qmd
 
     - title: "Resources"
       style: "docked"
