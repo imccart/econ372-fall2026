@@ -51,8 +51,11 @@ website:
           file: assignments/index.qmd
         - text: "Class participation"
           href: assignments/index.qmd#class-participation
-        - text: "Panels"
+        - section: "Panels"
           href: assignments/index.qmd#sec-panels
+          contents:
+            - text: "Panel 1"
+              file: assignments/panel1.qmd
         - text: "Simulations"
           href: assignments/index.qmd#simulations
         - text: "Quizzes"
