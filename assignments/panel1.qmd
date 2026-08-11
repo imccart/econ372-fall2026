@@ -1,0 +1,74 @@
+---
+title: "Panel 1 — Who Covers Whom?"
+format: html
+---
+
+**Thursday, September 3 · Reading: "Getting Health Insurance" (Book Ch. 1.2)**
+
+This first panel is about how Americans actually get health insurance — the mix of
+private coverage (employer plans, the individual market) and public programs
+(Medicare, Medicaid, the VHA, TRICARE) that together decide who is covered and who
+is not. The reading spans both the private and the public side. We work through the
+private side at the board this class and the public side next class, so **read the
+whole chapter before the panel** — the discussion reaches into the public programs
+before we cover them formally.
+
+Use every question below as a reading guide. On panel day I put a set of these
+questions, sometimes reworded, to the drawn panel, and the strongest questions from
+the floor tend to come from this list too. You will not know in advance which you
+get, so come with the whole thing worked through. Being ready here is what earns
+points, whether you are on the panel or asking from the audience.
+
+## Know the landscape
+
+These are answerable straight from the reading. Have specific answers ready.
+
+1. What are the main sources of health insurance in the U.S., and roughly what
+   share of the population does each cover?
+2. How did employer-sponsored insurance become the dominant source of coverage for
+   working-age Americans? What did World War II wage controls and the 1954 tax
+   treatment have to do with it?
+3. Why is a dollar of employer premium contribution worth more to a worker than a
+   dollar of wages spent on the same policy?
+4. What is the "non-group" (individual) market, and what did the ACA change about
+   how it works — subsidies, guaranteed issue, community rating?
+5. Who is eligible for Medicare, and what does each of its four parts (A, B, C, D)
+   cover?
+6. Who is eligible for Medicaid, and how are its financing and administration
+   different from Medicare's?
+7. Whom do the Veterans Health Administration and TRICARE cover, and how does the
+   VHA differ from every other program in the way it delivers care?
+8. For the same service, how can Medicare, Medicaid, and a private insurer each pay
+   the provider a different amount?
+
+## Going deeper
+
+No single right answer here. Take a position and be ready to defend it.
+
+1. The U.S. covers people through a patchwork of private and public programs rather
+   than one system. What does that fragmentation buy us, and what does it cost us?
+2. Employer-sponsored insurance ties your coverage to your job. Whom does that link
+   hurt, and how does it shape decisions about changing jobs, starting a business,
+   or retiring before 65?
+3. The tax exclusion for employer premiums is one of the largest items in the
+   federal budget that never comes up for a vote. Who benefits most from it, and is
+   it a good use of public money?
+4. Medicaid eligibility and benefits vary widely by state. What are the fairness and
+   efficiency consequences of a safety-net program whose generosity depends on where
+   you live?
+5. Medicare covers people over 65 regardless of income, while Medicaid is
+   means-tested. Why is public coverage split that way, and would you draw the lines
+   differently?
+6. More than half of Medicare enrollees now choose a private Medicare Advantage plan
+   over traditional Medicare. Why might someone prefer it, and what does the
+   government gain or give up by paying private plans to cover them?
+7. If you were designing coverage for the country from scratch, would you keep
+   employer-based insurance at the center? If not, what would you put in its place?
+
+## Your take
+
+Think about where your own coverage comes from right now — a parent's plan, an
+employer, a public program, the marketplace, or nothing at all. What have you
+actually noticed about what it does and does not pay for? Name one thing you would
+change about how you get covered. Come ready with a concrete example, not just an
+opinion.

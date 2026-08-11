@@ -57,6 +57,25 @@ On the panel days you're not drawn, you earn **audience** points from the floor,
 semester. Asking good questions on the days you're in the audience is worth as
 much as a strong turn on the panel.
 
+Each panel comes with a **preparation guide**, posted before the class — a long
+list of questions to work through as you read, some answerable straight from the
+reading and some open-ended. Prepare all of them. The questions I put to the panel,
+and the strongest questions from the floor, come from these guides, sometimes
+verbatim and sometimes a variant, so the guide is how you walk in ready in either
+role.
+
+- **Panel 1 — Who covers whom?** · Thu 9/3 · [guide](panel1.qmd)
+- **Panel 2 — Why we buy insurance** · Thu 9/10
+- **Panel 3 — Competition in insurance** · Thu 9/24
+- **Panel 4 — Overtreated?** · Thu 10/8
+- **Panel 5 — The end of fee-for-service?** · Tue 10/20
+- **Panel 6 — Does profit status matter?** · Tue 10/27
+- **Panel 7 — Are hospitals too big?** · Tue 11/17
+- **Panel 8 — Generics and the patent cliff** · Thu 12/3
+
+Guides go up as we approach each panel, so only the next one or two are posted at
+any time.
+
 The last class flips the format into a **reverse panel**, where invited guests
 put the questions to you, now that you're the experts.
 
