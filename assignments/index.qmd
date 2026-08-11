@@ -59,10 +59,9 @@ much as a strong turn on the panel.
 
 Each panel comes with a **preparation guide**, posted before the class — a long
 list of questions to work through as you read, some answerable straight from the
-reading and some open-ended. Prepare all of them. The questions I put to the panel,
-and the strongest questions from the floor, come from these guides, sometimes
-verbatim and sometimes a variant, so the guide is how you walk in ready in either
-role.
+reading and some open-ended. Work through all of them as you read — the questions I
+put to the panel come from these guides, sometimes word for word and sometimes
+reworded.
 
 - **Panel 1 — Who covers whom?** · Thu 9/3 · [guide](panel1.qmd)
 - **Panel 2 — Why we buy insurance** · Thu 9/10
