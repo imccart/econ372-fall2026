@@ -44,3 +44,11 @@ No single right answer here — these are the ones we'll talk through together.
 Have you noticed hospitals or clinics near you joining larger systems or changing
 names? Could you tell whether anything changed for patients? Anything from your own
 experience is welcome.
+
+## Beyond the textbook
+
+Not required, but they'll make the discussion current — skim one or two.
+
+- [Ten Things to Know About Consolidation in Health Care Provider Markets](https://www.kff.org/health-costs/ten-things-to-know-about-consolidation-in-health-care-provider-markets/) — KFF (2024). A plain-language summary of the evidence that provider consolidation tends to raise prices, with a section on antitrust enforcement.
+- [One or two health systems control inpatient care in nearly half of metro areas](https://www.kff.org/health-costs/one-or-two-health-systems-controlled-the-entire-market-for-inpatient-hospital-care-in-nearly-half-of-metropolitan-areas/) — KFF (2026). A data brief finding that most metropolitan inpatient hospital markets are now highly concentrated.
+- [FTC Sues to Block Novant Health's Acquisition of Two Hospitals](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-sues-block-novant-healths-acquisition-two-hospitals-community-health-systems) — Federal Trade Commission (2024). A real antitrust challenge to a hospital merger, showing how regulators weigh market power and prices.

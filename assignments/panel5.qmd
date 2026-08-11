@@ -42,3 +42,11 @@ No single right answer here — these are the ones we'll talk through together.
 
 Do you know how your own doctor, or a family member's, gets paid — and does knowing
 change how you feel about their advice? Anything from your own experience is welcome.
+
+## Beyond the textbook
+
+Not required, but they'll make the discussion current — skim one or two.
+
+- [Accountable Care Organization Payment Systems](https://www.medpac.gov/wp-content/uploads/2024/10/MedPAC_Payment_Basics_24_ACOs_FINAL_SEC.pdf) — MedPAC Payment Basics (2024). A four-page primer on how Medicare ACOs are paid, and how shared-savings and downside-risk arrangements differ from fee-for-service.
+- [Strategic Direction — CMS Innovation Center](https://www.cms.gov/priorities/innovation/about/strategic-direction) — CMS (2025). The federal agency's current plan to move Medicare and Medicaid toward accountable-care arrangements where providers take on financial risk.
+- [Payment and Delivery System Reform in Medicare: A Primer](https://www.kff.org/medicare/payment-and-delivery-system-reform-in-medicare/) — KFF (2016). A readable overview of the main alternatives to fee-for-service — medical homes, ACOs, and bundled payments.

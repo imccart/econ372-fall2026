@@ -42,3 +42,11 @@ No single right answer here — these are the ones we'll talk through together.
 Have you or someone you know ever gotten care that felt like too much — an extra
 test, a referral that went nowhere, a treatment that didn't help? What did it look
 like? Anything from your own experience is welcome.
+
+## Beyond the textbook
+
+Not required, but they'll make the discussion current — skim one or two.
+
+- [Pain, Fear and Waste: The Costs of Unnecessary Care](https://tradeoffs.org/2022/03/03/cascades-low-value-care/) — Tradeoffs podcast (2022). How one unnecessary test can set off a cascade of follow-up care, and why fee-for-service, liability fears, and medical culture keep low-value care going. Audio with a full transcript.
+- [Why Do We Pay For so Much Worthless Health Care?](https://kffhealthnews.org/medicare/health-202-expensive-useless-medical-care/) — KFF Health News (2023). A short piece on why so much U.S. health spending goes to care of little value, despite campaigns like Choosing Wisely.
+- [Use of low-value care in Medicare is substantial](https://www.medpac.gov/use-of-low-value-care-in-medicare-is-substantial/) — MedPAC (2015). The Medicare advisory body defines low-value care and estimates how common it is among beneficiaries.
