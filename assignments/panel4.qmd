@@ -1,0 +1,44 @@
+---
+title: "Panel 4 — Overtreated?"
+format: html
+---
+
+To help you get ready for the panel, here's a list of questions to think about as
+you go through the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-2.html)
+and the [Physician Agency, Training, and Location](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-05.html)
+slides. There's nothing to turn in — just look them over so you're ready to join in.
+The questions I put to the panel come from this list.
+
+## From the reading
+
+You can find these in the chapter and slides.
+
+1. How does where and how a physician trains shape the way they practice later on?
+2. What are peer effects among physicians, and how can the local practice
+   environment influence treatment decisions?
+3. Why might two similar patients receive very different care depending on which
+   physician, or which region, they end up in?
+4. Besides the patient's actual needs, what else can drive how much care a person
+   receives?
+
+## Bigger questions
+
+No single right answer here — these are the ones we'll talk through together.
+
+1. "Overtreatment" means care beyond what a patient benefits from. How would you
+   actually tell too much care from just enough?
+2. If treatment varies because of local practice styles and peer effects rather
+   than patient needs, is that a problem worth fixing, and how?
+3. How much of the variation do you think comes from training, from financial
+   incentives, and from local culture — and does the source change what we should
+   do about it?
+4. More care is not always better care. Where have you seen or heard about that
+   tension?
+5. If you wanted to reduce overtreatment without discouraging care people actually
+   need, what would you try first?
+
+## Your take
+
+Have you or someone you know ever gotten care that felt like too much — an extra
+test, a referral that went nowhere, a treatment that didn't help? What did it look
+like? Anything from your own experience is welcome.

@@ -1,0 +1,44 @@
+---
+title: "Panel 5 — The End of Fee-for-Service?"
+format: html
+---
+
+This panel pulls together the payment material from the last couple of classes, so
+the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-2.html)
+and the [Physician Agency and Payment Models](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-03.html)
+slides are the place to review. Here's a list of questions to think about as you
+prepare. There's nothing to turn in — the questions I put to the panel come from
+this list.
+
+## From the reading
+
+You can find these in the chapter and slides.
+
+1. How do fee-for-service and capitation differ in what they actually pay a
+   physician for?
+2. What incentive does each model create — where does fee-for-service push toward
+   more care, and where does capitation push toward less?
+3. How does physician agency interact with each payment model?
+4. What lies beyond simple fee-for-service versus capitation (blended payment,
+   pay-for-performance), and what problem is each meant to solve?
+5. What does the evidence suggest about how physicians actually respond to payment
+   incentives?
+
+## Bigger questions
+
+No single right answer here — these are the ones we'll talk through together.
+
+1. If fee-for-service rewards volume and capitation rewards holding back, is there
+   a payment system that gets the incentives right? What would it look like?
+2. People have predicted "the end of fee-for-service" for years. Why do you think
+   it has stuck around?
+3. Who would a shift away from fee-for-service help, and who might it hurt?
+4. Would you trust your own doctor more or less if you knew they were paid a flat
+   amount per patient rather than per service?
+5. Can payment design alone fix overtreatment, or does it just move the problem
+   somewhere else?
+
+## Your take
+
+Do you know how your own doctor, or a family member's, gets paid — and does knowing
+change how you feel about their advice? Anything from your own experience is welcome.

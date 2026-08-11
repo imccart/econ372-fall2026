@@ -64,16 +64,16 @@ put to the panel come from these guides, sometimes word for word and sometimes
 reworded.
 
 - **Panel 1 — Who covers whom?** · Thu 9/3 · [guide](panel1.qmd)
-- **Panel 2 — Why we buy insurance** · Thu 9/10
-- **Panel 3 — Competition in insurance** · Thu 9/24
-- **Panel 4 — Overtreated?** · Thu 10/8
-- **Panel 5 — The end of fee-for-service?** · Tue 10/20
-- **Panel 6 — Does profit status matter?** · Tue 10/27
-- **Panel 7 — Are hospitals too big?** · Tue 11/17
-- **Panel 8 — Generics and the patent cliff** · Thu 12/3
+- **Panel 2 — Why we buy insurance** · Thu 9/10 · [guide](panel2.qmd)
+- **Panel 3 — Competition in insurance** · Thu 9/24 · [guide](panel3.qmd)
+- **Panel 4 — Overtreated?** · Thu 10/8 · [guide](panel4.qmd)
+- **Panel 5 — The end of fee-for-service?** · Tue 10/20 · [guide](panel5.qmd)
+- **Panel 6 — Does profit status matter?** · Tue 10/27 · [guide](panel6.qmd)
+- **Panel 7 — Are hospitals too big?** · Tue 11/17 · [guide](panel7.qmd)
+- **Panel 8 — Generics and the patent cliff** · Thu 12/3 · [guide](panel8.qmd)
 
-Guides go up as we approach each panel, so only the next one or two are posted at
-any time.
+Each panel's guide is linked above; skim the one for the upcoming panel as you do
+the reading.
 
 The last class flips the format into a **reverse panel**, where invited guests
 put the questions to you, now that you're the experts.

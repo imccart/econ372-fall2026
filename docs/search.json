@@ -52,147 +52,283 @@
     ]
   },
   {
-    "objectID": "assignments/panel1.html",
-    "href": "assignments/panel1.html",
-    "title": "Panel 1 — Who Covers Whom?",
+    "objectID": "assignments/panel8.html",
+    "href": "assignments/panel8.html",
+    "title": "Panel 8 — Generics and the Patent Cliff",
     "section": "",
-    "text": "To help you get ready for the panel, here’s a list of questions to think about as you go through the book chapter and the private and public insurance slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.",
+    "text": "To help you get ready for the panel, here’s a list of questions to think about as you go through the book chapter and the Generic Drugs slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.",
     "crumbs": [
       "Assignments",
       "Panels",
-      "Panel 1"
+      "Panel 8"
     ]
   },
   {
-    "objectID": "assignments/panel1.html#from-the-reading",
-    "href": "assignments/panel1.html#from-the-reading",
-    "title": "Panel 1 — Who Covers Whom?",
+    "objectID": "assignments/panel8.html#from-the-reading",
+    "href": "assignments/panel8.html#from-the-reading",
+    "title": "Panel 8 — Generics and the Patent Cliff",
     "section": "From the reading",
-    "text": "From the reading\nYou can find these in the chapter and slides.\n\nWhat are the main sources of health insurance in the U.S., and roughly what share of the population does each cover?\nHow did employer-sponsored insurance become the dominant source of coverage for working-age Americans? What did World War II wage controls and the 1954 tax treatment have to do with it?\nWhy is a dollar of employer premium contribution worth more to a worker than a dollar of wages spent on the same policy?\nWhat is the “non-group” (individual) market, and what did the ACA change about how it works?\nWho is eligible for Medicare, and what does each of its four parts (A, B, C, D) cover?\nWho is eligible for Medicaid, and how are its financing and administration different from Medicare’s?\nWhom do the Veterans Health Administration and TRICARE cover, and how does the VHA deliver care differently from the other programs?\nFor the same service, how can Medicare, Medicaid, and a private insurer each pay the provider a different amount?",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nWhat did the Hatch-Waxman Act (1984) change, and what is an Abbreviated New Drug Application (ANDA)?\nWhat does it mean for a generic to be “bioequivalent” to a brand-name drug?\nWhat typically happens to a drug’s price when generic competitors enter, and roughly by how much over time?\nWhat is a Paragraph IV certification, and what does a successful challenge earn the generic manufacturer?\nHow do biologics and biosimilars differ from ordinary drugs and their generics?\nHow can pharmacy benefit managers and large pharmacy chains blunt the price competition that generics are supposed to create?",
     "crumbs": [
       "Assignments",
       "Panels",
-      "Panel 1"
+      "Panel 8"
     ]
   },
   {
-    "objectID": "assignments/panel1.html#bigger-questions",
-    "href": "assignments/panel1.html#bigger-questions",
-    "title": "Panel 1 — Who Covers Whom?",
+    "objectID": "assignments/panel8.html#bigger-questions",
+    "href": "assignments/panel8.html#bigger-questions",
+    "title": "Panel 8 — Generics and the Patent Cliff",
     "section": "Bigger questions",
-    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nThe U.S. covers people through a patchwork of private and public programs rather than one system. What does that patchwork buy us, and what does it cost us?\nEmployer-sponsored insurance ties your coverage to your job. Who does that link affect most, and how might it shape decisions about changing jobs, starting a business, or retiring before 65?\nThe tax exclusion for employer premiums is one of the largest items in the federal budget that never comes up for a vote. Who benefits most from it?\nMedicaid eligibility and benefits vary widely by state. What are the trade-offs of a safety-net program whose generosity depends on where you live?\nMedicare covers people over 65 regardless of income, while Medicaid is means-tested. Why is public coverage split that way?\nMore than half of Medicare enrollees now choose a private Medicare Advantage plan over traditional Medicare. Why might someone prefer it, and what does the government gain or give up by paying private plans to cover them?\nIf you were designing coverage for the country from scratch, would you keep employer-based insurance at the center?",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nThe “patent cliff” — the sharp drop in a drug’s sales when its patent expires — is exactly what generic competition is meant to produce. Is that a feature or a problem, and for whom?\nPatents trade higher prices now for more new drugs later. Where would you set that balance?\nIf generics are usually much cheaper, why do drug costs still feel so high to patients?\nShould a brand-name maker be allowed to sell its own “branded generic,” or does that undercut the point of generic competition?\nWhen a drug goes generic, who actually captures the savings — patients, insurers, PBMs, or pharmacies?",
     "crumbs": [
       "Assignments",
       "Panels",
-      "Panel 1"
+      "Panel 8"
     ]
   },
   {
-    "objectID": "assignments/panel1.html#your-take",
-    "href": "assignments/panel1.html#your-take",
-    "title": "Panel 1 — Who Covers Whom?",
+    "objectID": "assignments/panel8.html#your-take",
+    "href": "assignments/panel8.html#your-take",
+    "title": "Panel 8 — Generics and the Patent Cliff",
     "section": "Your take",
-    "text": "Your take\nWhere does your own coverage come from — a parent’s plan, an employer, a public program, the marketplace? Have you noticed anything about what it does or doesn’t cover? If you could change one thing about how you get covered, what would it be? Anything from your own experience is welcome.",
+    "text": "Your take\nHave you or your family ever been offered a generic instead of a brand-name drug, or noticed the price of a medication change? What happened? Anything from your own experience is welcome.",
     "crumbs": [
       "Assignments",
       "Panels",
-      "Panel 1"
+      "Panel 8"
     ]
   },
   {
-    "objectID": "assignments/homework3.html",
-    "href": "assignments/homework3.html",
-    "title": "Homework 3 — Hospital Competition and Pricing",
+    "objectID": "assignments/panel6.html",
+    "href": "assignments/panel6.html",
+    "title": "Panel 6 — Does Profit Status Matter?",
     "section": "",
-    "text": "This homework covers hospital market structure, competition, and pricing. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 3 is due by midnight on Friday, November 13.\nData for both questions: the hospital file on the shared OneDrive (link on Canvas), built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. Markets are defined three ways: zip code, HRR, and a pre-computed “market” from a community-detection algorithm. Throughout, define the market share of hospital \\(i\\) in market \\(m\\) in year \\(t\\) as \\(s_{imt} = q_{imt} / \\sum_{j} q_{jmt}\\), where \\(q\\) is discharges.",
+    "text": "To help you get ready for the panel, here’s a list of questions to think about as you go through the book chapter and the Hospital Objective Functions slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 3"
+      "Panels",
+      "Panel 6"
     ]
   },
   {
-    "objectID": "assignments/homework3.html#instructions",
-    "href": "assignments/homework3.html#instructions",
-    "title": "Homework 3 — Hospital Competition and Pricing",
+    "objectID": "assignments/panel6.html#from-the-reading",
+    "href": "assignments/panel6.html#from-the-reading",
+    "title": "Panel 6 — Does Profit Status Matter?",
+    "section": "From the reading",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nWhat are the main hospital ownership types, and roughly how common is each?\nWhat does not-for-profit status actually mean — what can and can’t such a hospital do with the surplus it earns?\nWhat does it mean to model a hospital as a “utility maximizer,” and what might enter that objective besides profit?\nWhat is the idea of a not-for-profit hospital behaving like a “for-profit in disguise”?\nIn exchange for their tax exemption, what are not-for-profit hospitals expected to provide?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 6"
+    ]
+  },
+  {
+    "objectID": "assignments/panel6.html#bigger-questions",
+    "href": "assignments/panel6.html#bigger-questions",
+    "title": "Panel 6 — Does Profit Status Matter?",
+    "section": "Bigger questions",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nIf a not-for-profit and a for-profit hospital end up behaving similarly, does ownership status still matter? For what?\nNot-for-profit hospitals get large tax breaks in exchange for “community benefit.” How would you judge whether they’re holding up their end?\nBesides profit, what might a hospital be trying to maximize — prestige, size, physician incomes, quality — and could you tell from the outside?\nWould you expect your care to differ at a for-profit versus a not-for-profit hospital? Why or why not?\nShould we care who owns a hospital, or only how it behaves?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 6"
+    ]
+  },
+  {
+    "objectID": "assignments/panel6.html#your-take",
+    "href": "assignments/panel6.html#your-take",
+    "title": "Panel 6 — Does Profit Status Matter?",
+    "section": "Your take",
+    "text": "Your take\nDo you know whether the hospitals near you are for-profit, not-for-profit, or government-run — and would knowing change how you think about them? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 6"
+    ]
+  },
+  {
+    "objectID": "assignments/panel4.html",
+    "href": "assignments/panel4.html",
+    "title": "Panel 4 — Overtreated?",
     "section": "",
-    "text": "This homework covers hospital market structure, competition, and pricing. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 3 is due by midnight on Friday, November 13.\nData for both questions: the hospital file on the shared OneDrive (link on Canvas), built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. Markets are defined three ways: zip code, HRR, and a pre-computed “market” from a community-detection algorithm. Throughout, define the market share of hospital \\(i\\) in market \\(m\\) in year \\(t\\) as \\(s_{imt} = q_{imt} / \\sum_{j} q_{jmt}\\), where \\(q\\) is discharges.",
+    "text": "To help you get ready for the panel, here’s a list of questions to think about as you go through the book chapter and the Physician Agency, Training, and Location slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 3"
+      "Panels",
+      "Panel 4"
     ]
   },
   {
-    "objectID": "assignments/homework3.html#q4-market-definition-and-concentration-15-pts",
-    "href": "assignments/homework3.html#q4-market-definition-and-concentration-15-pts",
-    "title": "Homework 3 — Hospital Competition and Pricing",
-    "section": "Q4 — Market definition and concentration (15 pts)",
-    "text": "Q4 — Market definition and concentration (15 pts)\n\nHave the AI compute the HHI for each market and year under all three market definitions (zip, HRR, community-detection), and plot the average HHI over time for each definition.\nExplain why your assessment of how concentrated hospital markets are changes with the definition. Which definition is “correct,” and why is there no single right answer?\nYour part (a) averages HHI across markets. Single-hospital markets have HHI = 10,000 and, in a simple unweighted average, dominate the result. Show what the AI’s default unweighted average hides, and how weighting (or excluding trivial markets) changes the picture.\nMarket share’s denominator is total discharges in the correctly grouped market. Add a sanity check that shares sum to 1 within each market-year, and explain what a careless join — one that mismatched hospitals to markets — would do to that check and to your HHI.\nRecompute part (a) using the maximum market share \\(s^{max}_{mt} = \\max_i s_{imt}\\) instead of HHI (average across markets, plot over time). Does your assessment of competitiveness change, and what does the contrast with HHI tell you?",
+    "objectID": "assignments/panel4.html#from-the-reading",
+    "href": "assignments/panel4.html#from-the-reading",
+    "title": "Panel 4 — Overtreated?",
+    "section": "From the reading",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nHow does where and how a physician trains shape the way they practice later on?\nWhat are peer effects among physicians, and how can the local practice environment influence treatment decisions?\nWhy might two similar patients receive very different care depending on which physician, or which region, they end up in?\nBesides the patient’s actual needs, what else can drive how much care a person receives?",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 3"
+      "Panels",
+      "Panel 4"
     ]
   },
   {
-    "objectID": "assignments/homework3.html#q5-prices-and-market-structure-15-pts",
-    "href": "assignments/homework3.html#q5-prices-and-market-structure-15-pts",
-    "title": "Homework 3 — Hospital Competition and Pricing",
-    "section": "Q5 — Prices and market structure (15 pts)",
-    "text": "Q5 — Prices and market structure (15 pts)\nUse the same hospital data, focusing on the community-detection market measure.\n\nHave the AI compute the average hospital price in each year and plot it. Then look at the price variable: check its min, max, and share missing, and flag impossible or implausible values (HCRIS price fields mix charges and payments and contain negatives and extreme outliers). Decide on a cleaning rule, apply it, and show how the average changes.\nIdentify market-years that are monopolies or duopolies (exactly one or two hospitals) and those that are “competitive” (at least four hospitals). Plot the count of each type over time.\nCompute the average price in each year within the monopoly/duopoly group and within the competitive group. Show the comparison. Does concentration appear to correlate with price?\nConcentrated markets differ systematically from competitive ones — they tend to be smaller and more rural. Repeat part (c) after limiting to markets with between 10,000 and 50,000 total discharges per year. Explain what changes and why market size confounds the raw price-concentration relationship.\nState your bottom line: is the price-concentration correlation you found causal evidence that concentration raises prices? Use this question for your required verification note.",
+    "objectID": "assignments/panel4.html#bigger-questions",
+    "href": "assignments/panel4.html#bigger-questions",
+    "title": "Panel 4 — Overtreated?",
+    "section": "Bigger questions",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\n“Overtreatment” means care beyond what a patient benefits from. How would you actually tell too much care from just enough?\nIf treatment varies because of local practice styles and peer effects rather than patient needs, is that a problem worth fixing, and how?\nHow much of the variation do you think comes from training, from financial incentives, and from local culture — and does the source change what we should do about it?\nMore care is not always better care. Where have you seen or heard about that tension?\nIf you wanted to reduce overtreatment without discouraging care people actually need, what would you try first?",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 3"
+      "Panels",
+      "Panel 4"
     ]
   },
   {
-    "objectID": "assignments/homework1.html",
-    "href": "assignments/homework1.html",
-    "title": "Homework 1 — Adverse Selection in Real Markets",
+    "objectID": "assignments/panel4.html#your-take",
+    "href": "assignments/panel4.html#your-take",
+    "title": "Panel 4 — Overtreated?",
+    "section": "Your take",
+    "text": "Your take\nHave you or someone you know ever gotten care that felt like too much — an extra test, a referral that went nowhere, a treatment that didn’t help? What did it look like? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 4"
+    ]
+  },
+  {
+    "objectID": "assignments/panel2.html",
+    "href": "assignments/panel2.html",
+    "title": "Panel 2 — Why We Buy Insurance",
     "section": "",
-    "text": "This homework covers health insurance purchasing and adverse selection. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count. This is folded into the parts below, not a separate line item.\nHomework 1 is due by midnight on Friday, September 25.",
+    "text": "To help you get ready for the panel, here’s a list of questions to think about as you go through the book chapter and the Understanding Risk slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 1"
+      "Panels",
+      "Panel 2"
     ]
   },
   {
-    "objectID": "assignments/homework1.html#instructions",
-    "href": "assignments/homework1.html#instructions",
-    "title": "Homework 1 — Adverse Selection in Real Markets",
+    "objectID": "assignments/panel2.html#from-the-reading",
+    "href": "assignments/panel2.html#from-the-reading",
+    "title": "Panel 2 — Why We Buy Insurance",
+    "section": "From the reading",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nWhat three ingredients describe a risky situation, and how do they combine into an expected value?\nHow do you compute the expected value of a gamble, and what does it leave out about how a person actually chooses?\nWhat does it mean for someone to be risk-averse?\nWhy might a risk-averse person pay a premium that is larger than their expected loss?\nWhy does buying insurance make a risk-averse person better off, even though the insurer expects to pay out less than it collects?\nWhat features make a risk a good candidate for insurance?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 2"
+    ]
+  },
+  {
+    "objectID": "assignments/panel2.html#bigger-questions",
+    "href": "assignments/panel2.html#bigger-questions",
+    "title": "Panel 2 — Why We Buy Insurance",
+    "section": "Bigger questions",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nInsurance is worth the most to people who are very risk-averse. Who values it least, and should that shape how we design or subsidize coverage?\nPeople often insure small, affordable losses (phone insurance, extended warranties) but underinsure against large ones. What might explain that?\nA small share of people account for most health spending in a given year. What does that concentration imply for how health insurance should work?\nWhere would you draw the line between risks people should insure against and risks they should carry themselves?\nDoes treating health insurance purely as financial protection miss anything about why people want coverage?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 2"
+    ]
+  },
+  {
+    "objectID": "assignments/panel2.html#your-take",
+    "href": "assignments/panel2.html#your-take",
+    "title": "Panel 2 — Why We Buy Insurance",
+    "section": "Your take",
+    "text": "Your take\nThink of a time you or your family decided whether to buy insurance of some kind — health, a car, a phone, a warranty. What made it feel worth it, or not? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 2"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments",
     "section": "",
-    "text": "This homework covers health insurance purchasing and adverse selection. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count. This is folded into the parts below, not a separate line item.\nHomework 1 is due by midnight on Friday, September 25.",
+    "text": "This page describes each graded component for the semester. Most of your grade is earned in class — class participation, panels, simulations, quizzes, and the midterm. The take-home portion is three short empirical homeworks. Details for each homework live on its own page; check the due dates carefully.",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 1"
+      "Overview"
     ]
   },
   {
-    "objectID": "assignments/homework1.html#q1-new-jerseys-individual-market-20002008-15-pts",
-    "href": "assignments/homework1.html#q1-new-jerseys-individual-market-20002008-15-pts",
-    "title": "Homework 1 — Adverse Selection in Real Markets",
-    "section": "Q1 — New Jersey’s individual market, 2000–2008 (15 pts)",
-    "text": "Q1 — New Jersey’s individual market, 2000–2008 (15 pts)\nData: hwk1_nj.csv on the shared OneDrive (link on Canvas). Monthly family premiums and year-end “standard” enrollment for three plans in the Individual Health Coverage (IHC) program: Horizon BCBS of NJ Plan D ($1,000 deductible), Aetna Life Plan D ($1,000 deductible), and Celtic Insurance Plan C ($2,500 deductible).\n\nHave the AI build a table of annual premiums for the three plans and total standard enrollment, and plot premiums and enrollment over time.\nNew Jersey’s market is often called a textbook “death spiral.” Shown rising premiums and falling enrollment, the AI will likely confirm that label. State the precise economic mechanism a death spiral requires — not just the pattern, the mechanism — and explain why the rising-premium / falling- enrollment pattern alone is consistent with but not proof of it.\nTwo of these plans carry $1,000 deductibles and one carries $2,500, and you are comparing nominal dollars across 2000–2008. Identify how each of these makes a raw premium comparison misleading, and have the AI correct at least one of them. Show what changed.\nWhat would you need to observe to confirm that selection is driving the premium increases, and why is it absent from this dataset?\nGive your bottom-line verdict — death spiral, or premium growth that merely looks like one? Defend it in three sentences.",
+    "objectID": "assignments/index.html#grade-at-a-glance",
+    "href": "assignments/index.html#grade-at-a-glance",
+    "title": "Assignments",
+    "section": "Grade at a glance",
+    "text": "Grade at a glance\nThe course is worth 300 points total, with 80% earned in class.\n\n\n\n\n\n\n\n\nComponent\nPoints\nHow it works\n\n\n\n\nClass participation\n50\nAttendance (20) + engagement on lecture days (30)\n\n\nPanel\n45\nPanelist when drawn (25) + audience questions on panel days (20)\n\n\nSimulations\n25\nPlay + reflection, best 5 of 7\n\n\nQuizzes\n60\nBest 5 of 6, in-class, auto-graded\n\n\nMidterm\n60\nOne in-class exam\n\n\nEmpirical homework\n60\nBest 2 of 3, 30 pts each\n\n\n\nEvery in-class component has more opportunities than you need for full credit, so an occasional absence or off day will not sink your grade. The syllabus has the complete policy.",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 1"
+      "Overview"
     ]
   },
   {
-    "objectID": "assignments/homework1.html#q2-selection-across-medicare-plan-types-20102018-15-pts",
-    "href": "assignments/homework1.html#q2-selection-across-medicare-plan-types-20102018-15-pts",
-    "title": "Homework 1 — Adverse Selection in Real Markets",
-    "section": "Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)",
-    "text": "Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)\nData: hwk1_medicare.csv on the shared OneDrive. Medicare Advantage (MA) enrollment and Medicare fee-for-service (FFS) spending by year.\n\nHave the AI plot MA enrollment and FFS spending over 2010–2018 and describe both trends.\nThe intuitive story is “healthy people pick MA, sicker people stay in FFS, so FFS costs rise.” But the direction of selection here is the opposite of the classic uninsured death-spiral case. Name what kind of selection this is from the plan’s perspective, and explain why the valence flips when everyone is already insured and the choice is across plan types rather than in-or-out.\nOne of your FFS series is a total and behaves differently from a per-enrollee version. If MA enrollment grows, what happens to total FFS spending mechanically, even with flat per-person costs? Have the AI compute both the total and the per-enrollee series, and show which one supports a selection story and which is just composition.\nRisk adjustment pays MA plans more for sicker enrollees. Explain how it should bend the relationship between your two series over time, and whether the data are consistent with that.\nSuggest one additional mechanism (besides risk adjustment) that would dampen selection across plan types, grounded in the course model.",
+    "objectID": "assignments/index.html#class-participation",
+    "href": "assignments/index.html#class-participation",
+    "title": "Assignments",
+    "section": "Class participation",
+    "text": "Class participation\nAttendance and engagement are the everyday in-class points, 50 points in all, handled through our course platform.\n\nAttendance. Check in at the start of class for 1 point, up to 20.\nEngagement. On lecture days, ask or answer a question through the hand-raise queue for 2 points, up to 30 over the semester. Questions on panel days count toward the panel’s audience points instead.\n\nThe mechanics of each are explained in class and in the syllabus.",
     "crumbs": [
       "Assignments",
-      "Empirical homework",
-      "Homework 1"
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#sec-panels",
+    "href": "assignments/index.html#sec-panels",
+    "title": "Assignments",
+    "section": "Panels",
+    "text": "Panels\nOn panel days a few students are drawn at random through the course platform to sit as the panel, while everyone else takes part from the floor. The panel is worth 45 points and rewards engagement in either role.\nEach panel runs in two stages. First the panel fields a set of questions I put to them, then the floor opens and the rest of the class asks the questions. As a panelist you’re scored out of 25 on a short, concrete checklist (whether you answered the question put to you, whether your answer drew on the assigned reading, and whether you built on another panelist), so the payoff is coming with the reading done, not talking the most. Everyone is drawn at least once and most are drawn twice, and your best panel counts, so a single off day won’t sink you.\nOn the panel days you’re not drawn, you earn audience points from the floor, 2 points per question you ask through the hand-raise queue, up to 20 over the semester. Asking good questions on the days you’re in the audience is worth as much as a strong turn on the panel.\nEach panel comes with a preparation guide, posted before the class — a long list of questions to work through as you read, some answerable straight from the reading and some open-ended. Work through all of them as you read — the questions I put to the panel come from these guides, sometimes word for word and sometimes reworded.\n\nPanel 1 — Who covers whom? · Thu 9/3 · guide\nPanel 2 — Why we buy insurance · Thu 9/10 · guide\nPanel 3 — Competition in insurance · Thu 9/24 · guide\nPanel 4 — Overtreated? · Thu 10/8 · guide\nPanel 5 — The end of fee-for-service? · Tue 10/20 · guide\nPanel 6 — Does profit status matter? · Tue 10/27 · guide\nPanel 7 — Are hospitals too big? · Tue 11/17 · guide\nPanel 8 — Generics and the patent cliff · Thu 12/3 · guide\n\nEach panel’s guide is linked above; skim the one for the upcoming panel as you do the reading.\nThe last class flips the format into a reverse panel, where invited guests put the questions to you, now that you’re the experts.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#simulations",
+    "href": "assignments/index.html#simulations",
+    "title": "Assignments",
+    "section": "Simulations",
+    "text": "Simulations\nSeven in-class simulations across the semester, best five count (two can be missed). On a simulation day we trade the usual discussion for an interactive, multiplayer game run through the course platform, then debrief what happened. You earn credit by playing and by submitting a short reflection on the decisions you made. As with the quizzes, the spare two mean an occasional absence won’t hurt.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#quizzes",
+    "href": "assignments/index.html#quizzes",
+    "title": "Assignments",
+    "section": "Quizzes",
+    "text": "Quizzes\nSix short quizzes over the semester, best five count (one is dropped). They are timed, taken in class, and auto-graded through our course platform. Quizzes carry the lighter theory for each module — definitions and one-step applications — so keeping up with the readings and slides is enough to do well.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#midterm",
+    "href": "assignments/index.html#midterm",
+    "title": "Assignments",
+    "section": "Midterm",
+    "text": "Midterm\nOne in-class exam worth 60 points, covering the heavier theory and derivations. This is the place to show your work and earn partial credit. There is no final exam. Documented absences can be made up; otherwise the midterm has no built-in slack, so plan for the date on the schedule.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html#empirical-homework",
+    "href": "assignments/index.html#empirical-homework",
+    "title": "Assignments",
+    "section": "Empirical homework",
+    "text": "Empirical homework\nThree homeworks, 30 points each, and only your best two count — so one can be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose 2% per day.\n\nHomework 1 — Adverse Selection in Real Markets (due Sep 25)\nHomework 2 — Physician Agency and Payment Changes (due Oct 9)\nHomework 3 — Hospital Competition and Pricing (due Nov 13)\n\nThese are empirical only. The theory for each module is assessed in class, through quizzes and the midterm. The homeworks are where you work with real health care data.\nYou are required to use an AI coding assistant — GitHub Copilot is free with your Emory GitHub account, or use the tool of your choice. Let it write the R or Python. The mechanical coding is assumed to be free now, which is exactly why these assignments ask for genuine data work rather than the pre-cleaned, Excel-friendly exercises of past years. Your job is not to produce code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer, and catching that is the point of the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nSomewhere in each notebook you must include a verification note: one specific point where the AI’s first output was wrong, incomplete, or misleading, and an explanation in economic terms of how you knew. “It ran without errors” does not count.",
+    "crumbs": [
+      "Assignments",
+      "Overview"
     ]
   },
   {
@@ -244,91 +380,291 @@
     ]
   },
   {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Assignments",
+    "objectID": "assignments/homework1.html",
+    "href": "assignments/homework1.html",
+    "title": "Homework 1 — Adverse Selection in Real Markets",
     "section": "",
-    "text": "This page describes each graded component for the semester. Most of your grade is earned in class — class participation, panels, simulations, quizzes, and the midterm. The take-home portion is three short empirical homeworks. Details for each homework live on its own page; check the due dates carefully.",
+    "text": "This homework covers health insurance purchasing and adverse selection. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count. This is folded into the parts below, not a separate line item.\nHomework 1 is due by midnight on Friday, September 25.",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
-    "objectID": "assignments/index.html#grade-at-a-glance",
-    "href": "assignments/index.html#grade-at-a-glance",
-    "title": "Assignments",
-    "section": "Grade at a glance",
-    "text": "Grade at a glance\nThe course is worth 300 points total, with 80% earned in class.\n\n\n\n\n\n\n\n\nComponent\nPoints\nHow it works\n\n\n\n\nClass participation\n50\nAttendance (20) + engagement on lecture days (30)\n\n\nPanel\n45\nPanelist when drawn (25) + audience questions on panel days (20)\n\n\nSimulations\n25\nPlay + reflection, best 5 of 7\n\n\nQuizzes\n60\nBest 5 of 6, in-class, auto-graded\n\n\nMidterm\n60\nOne in-class exam\n\n\nEmpirical homework\n60\nBest 2 of 3, 30 pts each\n\n\n\nEvery in-class component has more opportunities than you need for full credit, so an occasional absence or off day will not sink your grade. The syllabus has the complete policy.",
+    "objectID": "assignments/homework1.html#instructions",
+    "href": "assignments/homework1.html#instructions",
+    "title": "Homework 1 — Adverse Selection in Real Markets",
+    "section": "",
+    "text": "This homework covers health insurance purchasing and adverse selection. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count. This is folded into the parts below, not a separate line item.\nHomework 1 is due by midnight on Friday, September 25.",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
-    "objectID": "assignments/index.html#class-participation",
-    "href": "assignments/index.html#class-participation",
-    "title": "Assignments",
-    "section": "Class participation",
-    "text": "Class participation\nAttendance and engagement are the everyday in-class points, 50 points in all, handled through our course platform.\n\nAttendance. Check in at the start of class for 1 point, up to 20.\nEngagement. On lecture days, ask or answer a question through the hand-raise queue for 2 points, up to 30 over the semester. Questions on panel days count toward the panel’s audience points instead.\n\nThe mechanics of each are explained in class and in the syllabus.",
+    "objectID": "assignments/homework1.html#q1-new-jerseys-individual-market-20002008-15-pts",
+    "href": "assignments/homework1.html#q1-new-jerseys-individual-market-20002008-15-pts",
+    "title": "Homework 1 — Adverse Selection in Real Markets",
+    "section": "Q1 — New Jersey’s individual market, 2000–2008 (15 pts)",
+    "text": "Q1 — New Jersey’s individual market, 2000–2008 (15 pts)\nData: hwk1_nj.csv on the shared OneDrive (link on Canvas). Monthly family premiums and year-end “standard” enrollment for three plans in the Individual Health Coverage (IHC) program: Horizon BCBS of NJ Plan D ($1,000 deductible), Aetna Life Plan D ($1,000 deductible), and Celtic Insurance Plan C ($2,500 deductible).\n\nHave the AI build a table of annual premiums for the three plans and total standard enrollment, and plot premiums and enrollment over time.\nNew Jersey’s market is often called a textbook “death spiral.” Shown rising premiums and falling enrollment, the AI will likely confirm that label. State the precise economic mechanism a death spiral requires — not just the pattern, the mechanism — and explain why the rising-premium / falling- enrollment pattern alone is consistent with but not proof of it.\nTwo of these plans carry $1,000 deductibles and one carries $2,500, and you are comparing nominal dollars across 2000–2008. Identify how each of these makes a raw premium comparison misleading, and have the AI correct at least one of them. Show what changed.\nWhat would you need to observe to confirm that selection is driving the premium increases, and why is it absent from this dataset?\nGive your bottom-line verdict — death spiral, or premium growth that merely looks like one? Defend it in three sentences.",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
-    "objectID": "assignments/index.html#sec-panels",
-    "href": "assignments/index.html#sec-panels",
-    "title": "Assignments",
-    "section": "Panels",
-    "text": "Panels\nOn panel days a few students are drawn at random through the course platform to sit as the panel, while everyone else takes part from the floor. The panel is worth 45 points and rewards engagement in either role.\nEach panel runs in two stages. First the panel fields a set of questions I put to them, then the floor opens and the rest of the class asks the questions. As a panelist you’re scored out of 25 on a short, concrete checklist (whether you answered the question put to you, whether your answer drew on the assigned reading, and whether you built on another panelist), so the payoff is coming with the reading done, not talking the most. Everyone is drawn at least once and most are drawn twice, and your best panel counts, so a single off day won’t sink you.\nOn the panel days you’re not drawn, you earn audience points from the floor, 2 points per question you ask through the hand-raise queue, up to 20 over the semester. Asking good questions on the days you’re in the audience is worth as much as a strong turn on the panel.\nEach panel comes with a preparation guide, posted before the class — a long list of questions to work through as you read, some answerable straight from the reading and some open-ended. Work through all of them as you read — the questions I put to the panel come from these guides, sometimes word for word and sometimes reworded.\n\nPanel 1 — Who covers whom? · Thu 9/3 · guide\nPanel 2 — Why we buy insurance · Thu 9/10\nPanel 3 — Competition in insurance · Thu 9/24\nPanel 4 — Overtreated? · Thu 10/8\nPanel 5 — The end of fee-for-service? · Tue 10/20\nPanel 6 — Does profit status matter? · Tue 10/27\nPanel 7 — Are hospitals too big? · Tue 11/17\nPanel 8 — Generics and the patent cliff · Thu 12/3\n\nGuides go up as we approach each panel, so only the next one or two are posted at any time.\nThe last class flips the format into a reverse panel, where invited guests put the questions to you, now that you’re the experts.",
+    "objectID": "assignments/homework1.html#q2-selection-across-medicare-plan-types-20102018-15-pts",
+    "href": "assignments/homework1.html#q2-selection-across-medicare-plan-types-20102018-15-pts",
+    "title": "Homework 1 — Adverse Selection in Real Markets",
+    "section": "Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)",
+    "text": "Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)\nData: hwk1_medicare.csv on the shared OneDrive. Medicare Advantage (MA) enrollment and Medicare fee-for-service (FFS) spending by year.\n\nHave the AI plot MA enrollment and FFS spending over 2010–2018 and describe both trends.\nThe intuitive story is “healthy people pick MA, sicker people stay in FFS, so FFS costs rise.” But the direction of selection here is the opposite of the classic uninsured death-spiral case. Name what kind of selection this is from the plan’s perspective, and explain why the valence flips when everyone is already insured and the choice is across plan types rather than in-or-out.\nOne of your FFS series is a total and behaves differently from a per-enrollee version. If MA enrollment grows, what happens to total FFS spending mechanically, even with flat per-person costs? Have the AI compute both the total and the per-enrollee series, and show which one supports a selection story and which is just composition.\nRisk adjustment pays MA plans more for sicker enrollees. Explain how it should bend the relationship between your two series over time, and whether the data are consistent with that.\nSuggest one additional mechanism (besides risk adjustment) that would dampen selection across plan types, grounded in the course model.",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 1"
     ]
   },
   {
-    "objectID": "assignments/index.html#simulations",
-    "href": "assignments/index.html#simulations",
-    "title": "Assignments",
-    "section": "Simulations",
-    "text": "Simulations\nSeven in-class simulations across the semester, best five count (two can be missed). On a simulation day we trade the usual discussion for an interactive, multiplayer game run through the course platform, then debrief what happened. You earn credit by playing and by submitting a short reflection on the decisions you made. As with the quizzes, the spare two mean an occasional absence won’t hurt.",
+    "objectID": "assignments/homework3.html",
+    "href": "assignments/homework3.html",
+    "title": "Homework 3 — Hospital Competition and Pricing",
+    "section": "",
+    "text": "This homework covers hospital market structure, competition, and pricing. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 3 is due by midnight on Friday, November 13.\nData for both questions: the hospital file on the shared OneDrive (link on Canvas), built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. Markets are defined three ways: zip code, HRR, and a pre-computed “market” from a community-detection algorithm. Throughout, define the market share of hospital \\(i\\) in market \\(m\\) in year \\(t\\) as \\(s_{imt} = q_{imt} / \\sum_{j} q_{jmt}\\), where \\(q\\) is discharges.",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 3"
     ]
   },
   {
-    "objectID": "assignments/index.html#quizzes",
-    "href": "assignments/index.html#quizzes",
-    "title": "Assignments",
-    "section": "Quizzes",
-    "text": "Quizzes\nSix short quizzes over the semester, best five count (one is dropped). They are timed, taken in class, and auto-graded through our course platform. Quizzes carry the lighter theory for each module — definitions and one-step applications — so keeping up with the readings and slides is enough to do well.",
+    "objectID": "assignments/homework3.html#instructions",
+    "href": "assignments/homework3.html#instructions",
+    "title": "Homework 3 — Hospital Competition and Pricing",
+    "section": "",
+    "text": "This homework covers hospital market structure, competition, and pricing. It is empirical only — the theory for this module is assessed in class (quizzes and the midterm).\nYou are required to use an AI coding assistant for this assignment. Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is not to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer. Catching that is the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nVerification note (required, embedded): somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain in economic terms how you knew. “It ran without errors” does not count.\nHomework 3 is due by midnight on Friday, November 13.\nData for both questions: the hospital file on the shared OneDrive (link on Canvas), built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. Markets are defined three ways: zip code, HRR, and a pre-computed “market” from a community-detection algorithm. Throughout, define the market share of hospital \\(i\\) in market \\(m\\) in year \\(t\\) as \\(s_{imt} = q_{imt} / \\sum_{j} q_{jmt}\\), where \\(q\\) is discharges.",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 3"
     ]
   },
   {
-    "objectID": "assignments/index.html#midterm",
-    "href": "assignments/index.html#midterm",
-    "title": "Assignments",
-    "section": "Midterm",
-    "text": "Midterm\nOne in-class exam worth 60 points, covering the heavier theory and derivations. This is the place to show your work and earn partial credit. There is no final exam. Documented absences can be made up; otherwise the midterm has no built-in slack, so plan for the date on the schedule.",
+    "objectID": "assignments/homework3.html#q4-market-definition-and-concentration-15-pts",
+    "href": "assignments/homework3.html#q4-market-definition-and-concentration-15-pts",
+    "title": "Homework 3 — Hospital Competition and Pricing",
+    "section": "Q4 — Market definition and concentration (15 pts)",
+    "text": "Q4 — Market definition and concentration (15 pts)\n\nHave the AI compute the HHI for each market and year under all three market definitions (zip, HRR, community-detection), and plot the average HHI over time for each definition.\nExplain why your assessment of how concentrated hospital markets are changes with the definition. Which definition is “correct,” and why is there no single right answer?\nYour part (a) averages HHI across markets. Single-hospital markets have HHI = 10,000 and, in a simple unweighted average, dominate the result. Show what the AI’s default unweighted average hides, and how weighting (or excluding trivial markets) changes the picture.\nMarket share’s denominator is total discharges in the correctly grouped market. Add a sanity check that shares sum to 1 within each market-year, and explain what a careless join — one that mismatched hospitals to markets — would do to that check and to your HHI.\nRecompute part (a) using the maximum market share \\(s^{max}_{mt} = \\max_i s_{imt}\\) instead of HHI (average across markets, plot over time). Does your assessment of competitiveness change, and what does the contrast with HHI tell you?",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 3"
     ]
   },
   {
-    "objectID": "assignments/index.html#empirical-homework",
-    "href": "assignments/index.html#empirical-homework",
-    "title": "Assignments",
-    "section": "Empirical homework",
-    "text": "Empirical homework\nThree homeworks, 30 points each, and only your best two count — so one can be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose 2% per day.\n\nHomework 1 — Adverse Selection in Real Markets (due Sep 25)\nHomework 2 — Physician Agency and Payment Changes (due Oct 9)\nHomework 3 — Hospital Competition and Pricing (due Nov 13)\n\nThese are empirical only. The theory for each module is assessed in class, through quizzes and the midterm. The homeworks are where you work with real health care data.\nYou are required to use an AI coding assistant — GitHub Copilot is free with your Emory GitHub account, or use the tool of your choice. Let it write the R or Python. The mechanical coding is assumed to be free now, which is exactly why these assignments ask for genuine data work rather than the pre-cleaned, Excel-friendly exercises of past years. Your job is not to produce code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and wrong answer, and catching that is the point of the assignment.\nSubmit a rendered notebook (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points:\n\n3 points: correct, with sound economic reasoning\n2 points: close, minor error or thin reasoning\n1 point: attempted but the economic judgment is missing or wrong\n0 points: no work, or the unexamined AI output pasted in\n\nSomewhere in each notebook you must include a verification note: one specific point where the AI’s first output was wrong, incomplete, or misleading, and an explanation in economic terms of how you knew. “It ran without errors” does not count.",
+    "objectID": "assignments/homework3.html#q5-prices-and-market-structure-15-pts",
+    "href": "assignments/homework3.html#q5-prices-and-market-structure-15-pts",
+    "title": "Homework 3 — Hospital Competition and Pricing",
+    "section": "Q5 — Prices and market structure (15 pts)",
+    "text": "Q5 — Prices and market structure (15 pts)\nUse the same hospital data, focusing on the community-detection market measure.\n\nHave the AI compute the average hospital price in each year and plot it. Then look at the price variable: check its min, max, and share missing, and flag impossible or implausible values (HCRIS price fields mix charges and payments and contain negatives and extreme outliers). Decide on a cleaning rule, apply it, and show how the average changes.\nIdentify market-years that are monopolies or duopolies (exactly one or two hospitals) and those that are “competitive” (at least four hospitals). Plot the count of each type over time.\nCompute the average price in each year within the monopoly/duopoly group and within the competitive group. Show the comparison. Does concentration appear to correlate with price?\nConcentrated markets differ systematically from competitive ones — they tend to be smaller and more rural. Repeat part (c) after limiting to markets with between 10,000 and 50,000 total discharges per year. Explain what changes and why market size confounds the raw price-concentration relationship.\nState your bottom line: is the price-concentration correlation you found causal evidence that concentration raises prices? Use this question for your required verification note.",
     "crumbs": [
       "Assignments",
-      "Overview"
+      "Empirical homework",
+      "Homework 3"
+    ]
+  },
+  {
+    "objectID": "assignments/panel1.html",
+    "href": "assignments/panel1.html",
+    "title": "Panel 1 — Who Covers Whom?",
+    "section": "",
+    "text": "To help you get ready for the panel, here’s a list of questions to think about as you go through the book chapter and the private and public insurance slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 1"
+    ]
+  },
+  {
+    "objectID": "assignments/panel1.html#from-the-reading",
+    "href": "assignments/panel1.html#from-the-reading",
+    "title": "Panel 1 — Who Covers Whom?",
+    "section": "From the reading",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nWhat are the main sources of health insurance in the U.S., and roughly what share of the population does each cover?\nHow did employer-sponsored insurance become the dominant source of coverage for working-age Americans? What did World War II wage controls and the 1954 tax treatment have to do with it?\nWhy is a dollar of employer premium contribution worth more to a worker than a dollar of wages spent on the same policy?\nWhat is the “non-group” (individual) market, and what did the ACA change about how it works?\nWho is eligible for Medicare, and what does each of its four parts (A, B, C, D) cover?\nWho is eligible for Medicaid, and how are its financing and administration different from Medicare’s?\nWhom do the Veterans Health Administration and TRICARE cover, and how does the VHA deliver care differently from the other programs?\nFor the same service, how can Medicare, Medicaid, and a private insurer each pay the provider a different amount?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 1"
+    ]
+  },
+  {
+    "objectID": "assignments/panel1.html#bigger-questions",
+    "href": "assignments/panel1.html#bigger-questions",
+    "title": "Panel 1 — Who Covers Whom?",
+    "section": "Bigger questions",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nThe U.S. covers people through a patchwork of private and public programs rather than one system. What does that patchwork buy us, and what does it cost us?\nEmployer-sponsored insurance ties your coverage to your job. Who does that link affect most, and how might it shape decisions about changing jobs, starting a business, or retiring before 65?\nThe tax exclusion for employer premiums is one of the largest items in the federal budget that never comes up for a vote. Who benefits most from it?\nMedicaid eligibility and benefits vary widely by state. What are the trade-offs of a safety-net program whose generosity depends on where you live?\nMedicare covers people over 65 regardless of income, while Medicaid is means-tested. Why is public coverage split that way?\nMore than half of Medicare enrollees now choose a private Medicare Advantage plan over traditional Medicare. Why might someone prefer it, and what does the government gain or give up by paying private plans to cover them?\nIf you were designing coverage for the country from scratch, would you keep employer-based insurance at the center?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 1"
+    ]
+  },
+  {
+    "objectID": "assignments/panel1.html#your-take",
+    "href": "assignments/panel1.html#your-take",
+    "title": "Panel 1 — Who Covers Whom?",
+    "section": "Your take",
+    "text": "Your take\nWhere does your own coverage come from — a parent’s plan, an employer, a public program, the marketplace? Have you noticed anything about what it does or doesn’t cover? If you could change one thing about how you get covered, what would it be? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 1"
+    ]
+  },
+  {
+    "objectID": "assignments/panel3.html",
+    "href": "assignments/panel3.html",
+    "title": "Panel 3 — Competition in Insurance",
+    "section": "",
+    "text": "To help you get ready for the panel, here’s a list of questions to think about as you go through the book chapter and the Health Insurance Competition slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 3"
+    ]
+  },
+  {
+    "objectID": "assignments/panel3.html#from-the-reading",
+    "href": "assignments/panel3.html#from-the-reading",
+    "title": "Panel 3 — Competition in Insurance",
+    "section": "From the reading",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nWhat does “competition” mean in health insurance, and how is it different from competition in an ordinary product market?\nWhy can adverse selection make competition among insurers work badly?\nWhat is risk adjustment, and what problem is it trying to fix?\nWhat is “managed competition,” and what is it trying to accomplish?\nWhat tools do markets like the ACA exchanges use to try to make competition work — standardized plans, subsidies, risk adjustment?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 3"
+    ]
+  },
+  {
+    "objectID": "assignments/panel3.html#bigger-questions",
+    "href": "assignments/panel3.html#bigger-questions",
+    "title": "Panel 3 — Competition in Insurance",
+    "section": "Bigger questions",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nCompetition usually lowers prices and improves quality. Why might we worry it doesn’t do that on its own in health insurance?\nRisk adjustment pays plans more for sicker enrollees. What can still go wrong even when it works as intended?\nIf insurers compete partly by avoiding sick people rather than by offering better value, how would you tell the two apart from the outside?\nWould you rather have many insurers competing, or a few large but heavily regulated ones? What are you trading off?\nDo we actually want competition in insurance, or is coverage the kind of thing that works better as a single system?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 3"
+    ]
+  },
+  {
+    "objectID": "assignments/panel3.html#your-take",
+    "href": "assignments/panel3.html#your-take",
+    "title": "Panel 3 — Competition in Insurance",
+    "section": "Your take",
+    "text": "Your take\nHave you ever chosen among health plans, or watched a family member do it? What made the choice easy or hard, and did having more options feel like a good thing? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 3"
+    ]
+  },
+  {
+    "objectID": "assignments/panel5.html",
+    "href": "assignments/panel5.html",
+    "title": "Panel 5 — The End of Fee-for-Service?",
+    "section": "",
+    "text": "This panel pulls together the payment material from the last couple of classes, so the book chapter and the Physician Agency and Payment Models slides are the place to review. Here’s a list of questions to think about as you prepare. There’s nothing to turn in — the questions I put to the panel come from this list.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 5"
+    ]
+  },
+  {
+    "objectID": "assignments/panel5.html#from-the-reading",
+    "href": "assignments/panel5.html#from-the-reading",
+    "title": "Panel 5 — The End of Fee-for-Service?",
+    "section": "From the reading",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nHow do fee-for-service and capitation differ in what they actually pay a physician for?\nWhat incentive does each model create — where does fee-for-service push toward more care, and where does capitation push toward less?\nHow does physician agency interact with each payment model?\nWhat lies beyond simple fee-for-service versus capitation (blended payment, pay-for-performance), and what problem is each meant to solve?\nWhat does the evidence suggest about how physicians actually respond to payment incentives?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 5"
+    ]
+  },
+  {
+    "objectID": "assignments/panel5.html#bigger-questions",
+    "href": "assignments/panel5.html#bigger-questions",
+    "title": "Panel 5 — The End of Fee-for-Service?",
+    "section": "Bigger questions",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nIf fee-for-service rewards volume and capitation rewards holding back, is there a payment system that gets the incentives right? What would it look like?\nPeople have predicted “the end of fee-for-service” for years. Why do you think it has stuck around?\nWho would a shift away from fee-for-service help, and who might it hurt?\nWould you trust your own doctor more or less if you knew they were paid a flat amount per patient rather than per service?\nCan payment design alone fix overtreatment, or does it just move the problem somewhere else?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 5"
+    ]
+  },
+  {
+    "objectID": "assignments/panel5.html#your-take",
+    "href": "assignments/panel5.html#your-take",
+    "title": "Panel 5 — The End of Fee-for-Service?",
+    "section": "Your take",
+    "text": "Your take\nDo you know how your own doctor, or a family member’s, gets paid — and does knowing change how you feel about their advice? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 5"
+    ]
+  },
+  {
+    "objectID": "assignments/panel7.html",
+    "href": "assignments/panel7.html",
+    "title": "Panel 7 — Are Hospitals Too Big?",
+    "section": "",
+    "text": "This panel builds on the merger material from last class, so the book chapter and the Hospital Mergers and Competitiveness slides are the place to review. Here’s a list of questions to think about as you prepare. There’s nothing to turn in — the questions I put to the panel come from this list.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
+  },
+  {
+    "objectID": "assignments/panel7.html#from-the-reading",
+    "href": "assignments/panel7.html#from-the-reading",
+    "title": "Panel 7 — Are Hospitals Too Big?",
+    "section": "From the reading",
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nHow does competition among hospitals affect prices and quality, and how does the answer depend on whether prices are fixed (as in Medicare) or negotiated (as with private insurers)?\nWhy can a merger between nearby hospitals raise prices even if it does nothing to costs?\nWhat does the empirical evidence on hospital mergers generally find?\nWhat is vertical integration between physicians and hospitals, and why might it matter for competition?\nHow do economists measure competition and market power in a hospital market?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
+  },
+  {
+    "objectID": "assignments/panel7.html#bigger-questions",
+    "href": "assignments/panel7.html#bigger-questions",
+    "title": "Panel 7 — Are Hospitals Too Big?",
+    "section": "Bigger questions",
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nHospitals often say mergers help them cut costs and coordinate care. When should we believe that, and when should we be skeptical?\nIf a merger raises prices but also improves quality, how should a regulator weigh the two against each other?\n“Too big” could mean too expensive, too powerful, or too hard to hold accountable. Which meaning worries you most?\nWhy might a rural community both need its hospital to survive and be worse off if it merges into a large system?\nIf you were the regulator deciding on a hospital merger, what would you most want to know before saying yes or no?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
+  },
+  {
+    "objectID": "assignments/panel7.html#your-take",
+    "href": "assignments/panel7.html#your-take",
+    "title": "Panel 7 — Are Hospitals Too Big?",
+    "section": "Your take",
+    "text": "Your take\nHave you noticed hospitals or clinics near you joining larger systems or changing names? Could you tell whether anything changed for patients? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
     ]
   },
   {

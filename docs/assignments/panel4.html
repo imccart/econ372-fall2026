@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Homework 1 — Adverse Selection in Real Markets – Economics of Health Care Markets</title>
+<title>Panel 4 — Overtreated? – Economics of Health Care Markets</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../assignments/index.html#empirical-homework">Empirical homework</a></li><li class="breadcrumb-item"><a href="../assignments/homework1.html">Homework 1</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../assignments/index.html#sec-panels">Panels</a></li><li class="breadcrumb-item"><a href="../assignments/panel4.html">Panel 4</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -178,7 +178,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../assignments/panel4.html" class="sidebar-item-text sidebar-link">
+  <a href="../assignments/panel4.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Panel 4</span></a>
   </div>
 </li>
@@ -237,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../assignments/homework1.html" class="sidebar-item-text sidebar-link active">
+  <a href="../assignments/homework1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Homework 1</span></a>
   </div>
 </li>
@@ -265,18 +265,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#q1-new-jerseys-individual-market-20002008-15-pts" id="toc-q1-new-jerseys-individual-market-20002008-15-pts" class="nav-link" data-scroll-target="#q1-new-jerseys-individual-market-20002008-15-pts">Q1 — New Jersey’s individual market, 2000–2008 (15 pts)</a></li>
-  <li><a href="#q2-selection-across-medicare-plan-types-20102018-15-pts" id="toc-q2-selection-across-medicare-plan-types-20102018-15-pts" class="nav-link" data-scroll-target="#q2-selection-across-medicare-plan-types-20102018-15-pts">Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)</a></li>
+  <li><a href="#from-the-reading" id="toc-from-the-reading" class="nav-link active" data-scroll-target="#from-the-reading">From the reading</a></li>
+  <li><a href="#bigger-questions" id="toc-bigger-questions" class="nav-link" data-scroll-target="#bigger-questions">Bigger questions</a></li>
+  <li><a href="#your-take" id="toc-your-take" class="nav-link" data-scroll-target="#your-take">Your take</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../assignments/index.html#empirical-homework">Empirical homework</a></li><li class="breadcrumb-item"><a href="../assignments/homework1.html">Homework 1</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../assignments/index.html#sec-panels">Panels</a></li><li class="breadcrumb-item"><a href="../assignments/panel4.html">Panel 4</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Homework 1 — Adverse Selection in Real Markets</h1>
+<h1 class="title">Panel 4 — Overtreated?</h1>
 </div>
 
 
@@ -293,41 +293,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="instructions" class="level2">
-<h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>This homework covers health insurance purchasing and adverse selection. It is <strong>empirical only</strong> — the theory for this module is assessed in class (quizzes and the midterm).</p>
-<p><strong>You are required to use an AI coding assistant for this assignment.</strong> Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is <em>not</em> to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and <strong>wrong</strong> answer. Catching that is the assignment.</p>
-<p><strong>Submit a rendered notebook</strong> (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:</p>
-<ul>
-<li><strong>3 points:</strong> correct, with sound economic reasoning</li>
-<li><strong>2 points:</strong> close, minor error or thin reasoning</li>
-<li><strong>1 point:</strong> attempted but the economic judgment is missing or wrong</li>
-<li><strong>0 points:</strong> no work, or the unexamined AI output pasted in</li>
-</ul>
-<p><strong>Verification note (required, embedded):</strong> somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain <em>in economic terms</em> how you knew. “It ran without errors” does not count. This is folded into the parts below, not a separate line item.</p>
-<p>Homework 1 is due by <strong>midnight on Friday, September 25</strong>.</p>
-</section>
-<section id="q1-new-jerseys-individual-market-20002008-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q1-new-jerseys-individual-market-20002008-15-pts">Q1 — New Jersey’s individual market, 2000–2008 (15 pts)</h2>
-<p>Data: <code>hwk1_nj.csv</code> on the shared OneDrive (link on Canvas). Monthly family premiums and year-end “standard” enrollment for three plans in the Individual Health Coverage (IHC) program: Horizon BCBS of NJ Plan D ($1,000 deductible), Aetna Life Plan D ($1,000 deductible), and Celtic Insurance Plan C ($2,500 deductible).</p>
-<ol type="a">
-<li><p>Have the AI build a table of annual premiums for the three plans and total standard enrollment, and plot premiums and enrollment over time.</p></li>
-<li><p>New Jersey’s market is often called a textbook “death spiral.” Shown rising premiums and falling enrollment, the AI will likely confirm that label. State the <em>precise economic mechanism</em> a death spiral requires — not just the pattern, the mechanism — and explain why the rising-premium / falling- enrollment pattern alone is <strong>consistent with but not proof of</strong> it.</p></li>
-<li><p>Two of these plans carry $1,000 deductibles and one carries $2,500, and you are comparing nominal dollars across 2000–2008. Identify how <em>each</em> of these makes a raw premium comparison misleading, and have the AI correct at least one of them. Show what changed.</p></li>
-<li><p>What would you need to <em>observe</em> to confirm that selection is driving the premium increases, and why is it absent from this dataset?</p></li>
-<li><p>Give your bottom-line verdict — death spiral, or premium growth that merely looks like one? Defend it in three sentences.</p></li>
+<p>To help you get ready for the panel, here’s a list of questions to think about as you go through the <a href="https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-3-2.html">book chapter</a> and the <a href="https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-05.html">Physician Agency, Training, and Location</a> slides. There’s nothing to turn in — just look them over so you’re ready to join in. The questions I put to the panel come from this list.</p>
+<section id="from-the-reading" class="level2">
+<h2 class="anchored" data-anchor-id="from-the-reading">From the reading</h2>
+<p>You can find these in the chapter and slides.</p>
+<ol type="1">
+<li>How does where and how a physician trains shape the way they practice later on?</li>
+<li>What are peer effects among physicians, and how can the local practice environment influence treatment decisions?</li>
+<li>Why might two similar patients receive very different care depending on which physician, or which region, they end up in?</li>
+<li>Besides the patient’s actual needs, what else can drive how much care a person receives?</li>
 </ol>
 </section>
-<section id="q2-selection-across-medicare-plan-types-20102018-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q2-selection-across-medicare-plan-types-20102018-15-pts">Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)</h2>
-<p>Data: <code>hwk1_medicare.csv</code> on the shared OneDrive. Medicare Advantage (MA) enrollment and Medicare fee-for-service (FFS) spending by year.</p>
-<ol type="a">
-<li><p>Have the AI plot MA enrollment and FFS spending over 2010–2018 and describe both trends.</p></li>
-<li><p>The intuitive story is “healthy people pick MA, sicker people stay in FFS, so FFS costs rise.” But the <em>direction</em> of selection here is the opposite of the classic uninsured death-spiral case. Name what kind of selection this is from the plan’s perspective, and explain why the valence flips when everyone is already insured and the choice is <em>across</em> plan types rather than in-or-out.</p></li>
-<li><p>One of your FFS series is a total and behaves differently from a per-enrollee version. If MA enrollment grows, what happens to <em>total</em> FFS spending mechanically, even with flat per-person costs? Have the AI compute both the total and the per-enrollee series, and show which one supports a selection story and which is just composition.</p></li>
-<li><p>Risk adjustment pays MA plans more for sicker enrollees. Explain how it should bend the relationship between your two series over time, and whether the data are consistent with that.</p></li>
-<li><p>Suggest one <em>additional</em> mechanism (besides risk adjustment) that would dampen selection across plan types, grounded in the course model.</p></li>
+<section id="bigger-questions" class="level2">
+<h2 class="anchored" data-anchor-id="bigger-questions">Bigger questions</h2>
+<p>No single right answer here — these are the ones we’ll talk through together.</p>
+<ol type="1">
+<li>“Overtreatment” means care beyond what a patient benefits from. How would you actually tell too much care from just enough?</li>
+<li>If treatment varies because of local practice styles and peer effects rather than patient needs, is that a problem worth fixing, and how?</li>
+<li>How much of the variation do you think comes from training, from financial incentives, and from local culture — and does the source change what we should do about it?</li>
+<li>More care is not always better care. Where have you seen or heard about that tension?</li>
+<li>If you wanted to reduce overtreatment without discouraging care people actually need, what would you try first?</li>
 </ol>
+</section>
+<section id="your-take" class="level2">
+<h2 class="anchored" data-anchor-id="your-take">Your take</h2>
+<p>Have you or someone you know ever gotten care that felt like too much — an extra test, a referral that went nowhere, a treatment that didn’t help? What did it look like? Anything from your own experience is welcome.</p>
 
 
 </section>

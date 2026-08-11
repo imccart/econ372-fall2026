@@ -1,0 +1,44 @@
+---
+title: "Panel 6 — Does Profit Status Matter?"
+format: html
+---
+
+To help you get ready for the panel, here's a list of questions to think about as
+you go through the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-1-2.html)
+and the [Hospital Objective Functions](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-02.html)
+slides. There's nothing to turn in — just look them over so you're ready to join in.
+The questions I put to the panel come from this list.
+
+## From the reading
+
+You can find these in the chapter and slides.
+
+1. What are the main hospital ownership types, and roughly how common is each?
+2. What does not-for-profit status actually mean — what can and can't such a
+   hospital do with the surplus it earns?
+3. What does it mean to model a hospital as a "utility maximizer," and what might
+   enter that objective besides profit?
+4. What is the idea of a not-for-profit hospital behaving like a "for-profit in
+   disguise"?
+5. In exchange for their tax exemption, what are not-for-profit hospitals expected
+   to provide?
+
+## Bigger questions
+
+No single right answer here — these are the ones we'll talk through together.
+
+1. If a not-for-profit and a for-profit hospital end up behaving similarly, does
+   ownership status still matter? For what?
+2. Not-for-profit hospitals get large tax breaks in exchange for "community
+   benefit." How would you judge whether they're holding up their end?
+3. Besides profit, what might a hospital be trying to maximize — prestige, size,
+   physician incomes, quality — and could you tell from the outside?
+4. Would you expect your care to differ at a for-profit versus a not-for-profit
+   hospital? Why or why not?
+5. Should we care who owns a hospital, or only how it behaves?
+
+## Your take
+
+Do you know whether the hospitals near you are for-profit, not-for-profit, or
+government-run — and would knowing change how you think about them? Anything from
+your own experience is welcome.

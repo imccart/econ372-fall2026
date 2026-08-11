@@ -1,0 +1,46 @@
+---
+title: "Panel 7 — Are Hospitals Too Big?"
+format: html
+---
+
+This panel builds on the merger material from last class, so the
+[book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-2.html)
+and the [Hospital Mergers and Competitiveness](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-06.html)
+slides are the place to review. Here's a list of questions to think about as you
+prepare. There's nothing to turn in — the questions I put to the panel come from
+this list.
+
+## From the reading
+
+You can find these in the chapter and slides.
+
+1. How does competition among hospitals affect prices and quality, and how does the
+   answer depend on whether prices are fixed (as in Medicare) or negotiated (as
+   with private insurers)?
+2. Why can a merger between nearby hospitals raise prices even if it does nothing
+   to costs?
+3. What does the empirical evidence on hospital mergers generally find?
+4. What is vertical integration between physicians and hospitals, and why might it
+   matter for competition?
+5. How do economists measure competition and market power in a hospital market?
+
+## Bigger questions
+
+No single right answer here — these are the ones we'll talk through together.
+
+1. Hospitals often say mergers help them cut costs and coordinate care. When should
+   we believe that, and when should we be skeptical?
+2. If a merger raises prices but also improves quality, how should a regulator weigh
+   the two against each other?
+3. "Too big" could mean too expensive, too powerful, or too hard to hold
+   accountable. Which meaning worries you most?
+4. Why might a rural community both need its hospital to survive and be worse off if
+   it merges into a large system?
+5. If you were the regulator deciding on a hospital merger, what would you most want
+   to know before saying yes or no?
+
+## Your take
+
+Have you noticed hospitals or clinics near you joining larger systems or changing
+names? Could you tell whether anything changed for patients? Anything from your own
+experience is welcome.

@@ -1,0 +1,43 @@
+---
+title: "Panel 3 — Competition in Insurance"
+format: html
+---
+
+To help you get ready for the panel, here's a list of questions to think about as
+you go through the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-2.html)
+and the [Health Insurance Competition](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-07.html)
+slides. There's nothing to turn in — just look them over so you're ready to join in.
+The questions I put to the panel come from this list.
+
+## From the reading
+
+You can find these in the chapter and slides.
+
+1. What does "competition" mean in health insurance, and how is it different from
+   competition in an ordinary product market?
+2. Why can adverse selection make competition among insurers work badly?
+3. What is risk adjustment, and what problem is it trying to fix?
+4. What is "managed competition," and what is it trying to accomplish?
+5. What tools do markets like the ACA exchanges use to try to make competition
+   work — standardized plans, subsidies, risk adjustment?
+
+## Bigger questions
+
+No single right answer here — these are the ones we'll talk through together.
+
+1. Competition usually lowers prices and improves quality. Why might we worry it
+   doesn't do that on its own in health insurance?
+2. Risk adjustment pays plans more for sicker enrollees. What can still go wrong
+   even when it works as intended?
+3. If insurers compete partly by avoiding sick people rather than by offering
+   better value, how would you tell the two apart from the outside?
+4. Would you rather have many insurers competing, or a few large but heavily
+   regulated ones? What are you trading off?
+5. Do we actually want competition in insurance, or is coverage the kind of thing
+   that works better as a single system?
+
+## Your take
+
+Have you ever chosen among health plans, or watched a family member do it? What made
+the choice easy or hard, and did having more options feel like a good thing?
+Anything from your own experience is welcome.

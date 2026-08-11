@@ -56,6 +56,20 @@ website:
           contents:
             - text: "Panel 1"
               file: assignments/panel1.qmd
+            - text: "Panel 2"
+              file: assignments/panel2.qmd
+            - text: "Panel 3"
+              file: assignments/panel3.qmd
+            - text: "Panel 4"
+              file: assignments/panel4.qmd
+            - text: "Panel 5"
+              file: assignments/panel5.qmd
+            - text: "Panel 6"
+              file: assignments/panel6.qmd
+            - text: "Panel 7"
+              file: assignments/panel7.qmd
+            - text: "Panel 8"
+              file: assignments/panel8.qmd
         - text: "Simulations"
           href: assignments/index.qmd#simulations
         - text: "Quizzes"
