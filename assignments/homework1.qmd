@@ -1,89 +1,97 @@
 ---
 title: "Homework 1 — Adverse Selection in Real Markets"
 format: html
-#format:
-#  pdf: default
 ---
 
 ## Instructions
 
-This homework covers health insurance purchasing and adverse selection. It is
-**empirical only** — the theory for this module is assessed in class (quizzes
-and the midterm).
+This homework is about health insurance markets and adverse selection, the
+material from the first module of the course. It is **empirical only** --- the
+theory is assessed in class through the quizzes and the midterm. Here you work
+with real data and interpret it as a health economist.
 
-**You are required to use an AI coding assistant for this assignment.** Use
-GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and
-let it write the R or Python. Your job is *not* to produce the code. Your job is
-to direct the tool, check what it returns, and interpret it as a health
-economist. The AI will frequently hand you a confident, clean, and **wrong**
-answer. Catching that is the assignment.
+**You are expected to use an AI coding assistant.** Use GitHub Copilot (free with
+your Emory GitHub account) or the tool of your choice, and let it write the R or
+Python. Producing the code is not the skill being graded. Directing the tool,
+checking that the output makes sense, and interpreting the result in the language
+of this course is. Read what the assistant gives you, make sure it actually
+answers the question, and explain what it means.
 
 **Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
-code, its output, and your written answers. Each part is worth 3 points, graded:
+code, its output, and your written answers. Each part is worth 3 points:
 
-- **3 points:** correct, with sound economic reasoning
-- **2 points:** close, minor error or thin reasoning
-- **1 point:** attempted but the economic judgment is missing or wrong
-- **0 points:** no work, or the unexamined AI output pasted in
-
-**Verification note (required, embedded):** somewhere in your notebook, flag one
-specific point where the AI's first output was wrong, incomplete, or misleading,
-and explain *in economic terms* how you knew. "It ran without errors" does not
-count. This is folded into the parts below, not a separate line item.
+- **3 points:** correct, with sound economic reasoning.
+- **2 points:** close, with a minor error or thin reasoning.
+- **1 point:** attempted, but the economic reasoning is missing or wrong.
+- **0 points:** no real work, or output pasted in with no interpretation.
 
 Homework 1 is due by **midnight on Friday, September 25**.
 
-## Q1 — New Jersey's individual market, 2000–2008 (15 pts)
+## Q1 --- New Jersey's individual market, 2000–2008 (15 pts)
 
-Data: `hwk1_nj.csv` on the shared OneDrive (link on Canvas). Monthly family
-premiums and year-end "standard" enrollment for three plans in the Individual
-Health Coverage (IHC) program: Horizon BCBS of NJ Plan D ($1,000 deductible),
+Data: `nj-insurance.csv` (on the shared OneDrive, linked from Canvas). It has
+monthly family premiums and year-end enrollment for three plans in New Jersey's
+Individual Health Coverage program: Horizon BCBS Plan D ($1,000 deductible),
 Aetna Life Plan D ($1,000 deductible), and Celtic Insurance Plan C ($2,500
 deductible).
 
-a. Have the AI build a table of annual premiums for the three plans and total
-   standard enrollment, and plot premiums and enrollment over time.
+a. Have the assistant build a table of annual premiums for the three plans and
+   total enrollment, and plot premiums and enrollment over time.
 
-b. New Jersey's market is often called a textbook "death spiral." Shown rising
-   premiums and falling enrollment, the AI will likely confirm that label. State
-   the *precise economic mechanism* a death spiral requires — not just the
-   pattern, the mechanism — and explain why the rising-premium / falling-
-   enrollment pattern alone is **consistent with but not proof of** it.
+b. This pattern, premiums climbing while enrollment falls, is often called a
+   "death spiral." Using the adverse-selection model from class, explain the
+   mechanism behind it: when premiums rise, which enrollees are most likely to
+   drop their coverage, and how does the changing mix of who remains push
+   premiums up again?
 
-c. Two of these plans carry $1,000 deductibles and one carries $2,500, and you
-   are comparing nominal dollars across 2000–2008. Identify how *each* of these
-   makes a raw premium comparison misleading, and have the AI correct at least
-   one of them. Show what changed.
+c. Two of these plans carry a $1,000 deductible and one carries $2,500, and you
+   are comparing premiums in nominal dollars across 2000–2008. Explain how each of
+   these makes a raw premium comparison misleading, and correct at least one of
+   them (for example, adjust for inflation, or compare only the like-deductible
+   plans). Show what changes.
 
-d. What would you need to *observe* to confirm that selection is driving the
-   premium increases, and why is it absent from this dataset?
+d. Adverse selection is not the only reason premiums might rise over this period.
+   Name one other force we discussed in class, such as the general growth in
+   health care costs, and explain how it could produce the same rising-premium
+   pattern without any change in who is enrolled.
 
-e. Give your bottom-line verdict — death spiral, or premium growth that merely
-   looks like one? Defend it in three sentences.
+e. Give your bottom-line read: does this look like an adverse-selection death
+   spiral, premium growth from rising costs, or some of both? Defend your answer
+   in a few sentences using what you found in the data.
 
-## Q2 — Selection across Medicare plan types, 2010–2018 (15 pts)
+## Q2 --- Medicare Advantage and fee-for-service, 2008–2023 (15 pts)
 
-Data: `hwk1_medicare.csv` on the shared OneDrive. Medicare Advantage (MA)
-enrollment and Medicare fee-for-service (FFS) spending by year.
+Data: two county-year files (same place on the shared OneDrive).
+`medicare-ma-penetration.csv` gives, for each county and year, the total number
+of Medicare eligibles and the number enrolled in Medicare Advantage (MA).
+`medicare-ffs-costs.csv` gives, for each county and year, fee-for-service (FFS)
+enrollment and total FFS spending.
 
-a. Have the AI plot MA enrollment and FFS spending over 2010–2018 and describe
-   both trends.
+a. Merge the two files on county and year, and roll the result up to national
+   totals by year. Then compute two national series: MA penetration (MA enrolled
+   divided by total eligibles) and FFS spending per enrollee (total FFS spending
+   divided by FFS enrollment). Plot both over time. To get a national rate, sum
+   the counts across counties first and then take the ratio, rather than
+   averaging the county rates, and explain in a sentence why those two approaches
+   give different answers.
 
-b. The intuitive story is "healthy people pick MA, sicker people stay in FFS, so
-   FFS costs rise." But the *direction* of selection here is the opposite of the
-   classic uninsured death-spiral case. Name what kind of selection this is from
-   the plan's perspective, and explain why the valence flips when everyone is
-   already insured and the choice is *across* plan types rather than in-or-out.
+b. As MA penetration rises, people are moving out of fee-for-service and into MA.
+   Using the idea of selection from class, explain who tends to choose MA and who
+   tends to stay in FFS, and what that does to the average health, and the average
+   cost, of the people who remain in FFS.
 
-c. One of your FFS series is a total and behaves differently from a per-enrollee
-   version. If MA enrollment grows, what happens to *total* FFS spending
-   mechanically, even with flat per-person costs? Have the AI compute both the
-   total and the per-enrollee series, and show which one supports a selection
-   story and which is just composition.
+c. Total FFS spending and FFS spending per enrollee can move in different
+   directions. If MA enrollment grows, what happens to total FFS spending purely
+   mechanically, even when the cost of caring for each remaining person has not
+   changed? Using both series you computed, explain which one actually tells you
+   something about selection and which mostly reflects how many people are left in
+   FFS.
 
-d. Risk adjustment pays MA plans more for sicker enrollees. Explain how it
-   should bend the relationship between your two series over time, and whether
-   the data are consistent with that.
+d. Medicare pays MA plans more for enrollees who are expected to be sicker, which
+   is the risk adjustment we covered in class. In plain terms, what problem is
+   risk adjustment meant to solve, and how does it change a plan's incentive to
+   attract healthy versus sick enrollees?
 
-e. Suggest one *additional* mechanism (besides risk adjustment) that would
-   dampen selection across plan types, grounded in the course model.
+e. Name one other feature of the Medicare Advantage market from class, such as
+   the extra benefits plans can offer or the way plans are marketed, that could
+   affect who signs up, and explain how.
