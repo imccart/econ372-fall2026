@@ -291,25 +291,24 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="instructions" class="level2">
 <h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>This homework covers physician treatment decisions, payment incentives, and agency. It is <strong>empirical only</strong> — the theory for this module is assessed in class (quizzes and the midterm).</p>
-<p><strong>You are required to use an AI coding assistant for this assignment.</strong> Use GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and let it write the R or Python. Your job is <em>not</em> to produce the code. Your job is to direct the tool, check what it returns, and interpret it as a health economist. The AI will frequently hand you a confident, clean, and <strong>wrong</strong> answer. Catching that is the assignment.</p>
-<p><strong>Submit a rendered notebook</strong> (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is worth 3 points, graded:</p>
+<p>This homework is about how physicians respond to payment incentives, the material from the second module of the course. It is <strong>empirical only</strong> — the theory is assessed in class through the quizzes and the midterm. Here you work with real data and interpret it as a health economist.</p>
+<p><strong>You are expected to use an AI coding assistant.</strong> Use GitHub Copilot (free with your Emory GitHub account) or the tool of your choice, and let it write the R or Python. Producing the code is not the skill being graded. Directing the tool, checking that the output makes sense, and interpreting the result in the language of this course is. Read what the assistant gives you, make sure it actually answers the question, and explain what it means.</p>
+<p><strong>Submit a rendered notebook</strong> (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is graded on this scale, scaled to the points shown for that part:</p>
 <ul>
-<li><strong>3 points:</strong> correct, with sound economic reasoning</li>
-<li><strong>2 points:</strong> close, minor error or thin reasoning</li>
-<li><strong>1 point:</strong> attempted but the economic judgment is missing or wrong</li>
-<li><strong>0 points:</strong> no work, or the unexamined AI output pasted in</li>
+<li><strong>Full credit:</strong> correct, with sound economic reasoning.</li>
+<li><strong>Partial credit:</strong> close, with a minor error or thin reasoning.</li>
+<li><strong>Little credit:</strong> attempted, but the economic reasoning is missing or wrong.</li>
+<li><strong>No credit:</strong> no real work, or output pasted in with no interpretation.</li>
 </ul>
-<p><strong>Verification note (required, embedded):</strong> somewhere in your notebook, flag one specific point where the AI’s first output was wrong, incomplete, or misleading, and explain <em>in economic terms</em> how you knew. “It ran without errors” does not count.</p>
 <p>Homework 2 is due by <strong>midnight on Friday, October 16</strong>.</p>
 </section>
 <section id="q4-epidural-steroid-injection-payment-cut-15-pts" class="level2">
 <h2 class="anchored" data-anchor-id="q4-epidural-steroid-injection-payment-cut-15-pts">Q4 — Epidural steroid injection payment cut (15 pts)</h2>
 <p>In January 2014, CMS reduced its payments to physicians for epidural steroidal injections (CPT codes 62310, 62311, 62318, 62319) as part of adjusting “potentially misvalued services,” then raised them again in 2015. Use the Medicare Provider Utilization and Payment Data, 2013–2015 (<code>hwk2_data_q4</code> on the shared OneDrive, available as <code>.Rdata</code> or tab-delimited <code>.txt</code>).</p>
 <ol type="a">
-<li><p>Have the AI compute the average number of injections per physician in each year, 2013–2015. Report the trend.</p></li>
+<li><p>Compute the average number of injections per physician in each year, 2013–2015, and report the trend.</p></li>
 <li><p>Does that yearly average tell a clean story about how physicians responded to the 2014 cut? What population is being averaged over in each year, and does it change? Identify at least one reason the year-over-year average could move for a reason that has nothing to do with physician agency.</p></li>
-<li><p>Ask the AI to find the physicians with the largest drop in injections from 2013 to 2014. Look hard at what it returns — some of the “largest reductions” are not behavioral responses to the payment cut at all. Which ones, and why does including them mislead the agency interpretation? Re-pose the task so the result isolates the behavioral response, and show what changed.</p></li>
+<li><p>Find the physicians with the largest drop in injections from 2013 to 2014. A raw ranking of the largest drops can mislead, because some of the biggest reductions come from physicians who barely performed the procedure to begin with, or who leave the data, rather than from a response to the payment cut. Restrict the comparison so it isolates the behavioral response, and explain what you changed and why.</p></li>
 <li><p>Connect to the model. Payment fell in 2014 and rose in 2015. State what physician-agency theory predicts for utilization in each year, and whether your corrected data are consistent. Where they are not, give the most plausible economic reason.</p></li>
 <li><p>Plot the corrected set of largest-responders over time and say, in one sentence, whether the 2015 rebound shows up and what that implies about physician responsiveness to payment.</p></li>
 </ol>
@@ -318,11 +317,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="q5-em-fee-schedule-and-budget-neutrality-15-pts">Q5 — E&amp;M fee schedule and budget neutrality (15 pts)</h2>
 <p>In January 2021, CMS raised payments for Evaluation and Management (E&amp;M, i.e. office-visit) codes. Because of budget-neutrality requirements, it offset this by lowering the overall conversion factor — making more expensive services relatively less profitable while E&amp;M payments rose. Use the Medicare Provider Utilization and Payment Data for Georgia physicians (<code>hwk2_data_q5</code> on the shared OneDrive). See the <a href="cms-em-2021-finalrule.pdf">CMS Final Rule primer</a> for the policy details and percentage changes.</p>
 <ol type="a">
-<li><p>Identify the set of HCPCS codes that capture physician office visits (E&amp;M). The AI will offer a set from general knowledge — <em>verify it against the actual code descriptions in the data</em> and show how you confirmed it. A wrong code set silently corrupts everything downstream.</p></li>
+<li><p>Identify the set of HCPCS codes that capture physician office visits (E&amp;M). Confirm your code set against the actual code descriptions in the data rather than from memory, and show how you verified it, since a wrong code set corrupts everything downstream.</p></li>
 <li><p>Identify the top 10 Georgia physicians by E&amp;M volume in 2020, by raw count and by payment-weighted volume. Does the ranking change? Which denominator is the right one for this question, and why?</p></li>
-<li><p>Have the AI compute how much these physicians stand to gain from the higher E&amp;M RVU rate. Then ask: <em>what did it leave out?</em> The budget-neutral conversion-factor cut. Explain why the net impact depends on each physician’s overall service mix, and identify which kind of physician could actually come out behind even as E&amp;M pay rises.</p></li>
+<li><p>Compute how much these physicians stand to gain from the higher E&amp;M rate, then account for the budget-neutral conversion-factor cut that offsets it. Explain why the net impact depends on each physician’s overall service mix, and identify which kind of physician could come out behind even as E&amp;M pay rises.</p></li>
 <li><p>In the context of physician agency, what do you predict happens to utilization of the more expensive (now relatively less profitable) services after the 2021 update?</p></li>
-<li><p>State which physician type gains and which loses under the combined change, in economic terms, and use this question for your required verification note.</p></li>
+<li><p>State which physician type gains and which loses under the combined change, in economic terms.</p></li>
 </ol>
 
 

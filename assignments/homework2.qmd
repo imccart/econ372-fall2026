@@ -7,29 +7,26 @@ format: html
 
 ## Instructions
 
-This homework covers physician treatment decisions, payment incentives, and
-agency. It is **empirical only** — the theory for this module is assessed in
-class (quizzes and the midterm).
+This homework is about how physicians respond to payment incentives, the material
+from the second module of the course. It is **empirical only** --- the theory is
+assessed in class through the quizzes and the midterm. Here you work with real
+data and interpret it as a health economist.
 
-**You are required to use an AI coding assistant for this assignment.** Use
-GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and
-let it write the R or Python. Your job is *not* to produce the code. Your job is
-to direct the tool, check what it returns, and interpret it as a health
-economist. The AI will frequently hand you a confident, clean, and **wrong**
-answer. Catching that is the assignment.
+**You are expected to use an AI coding assistant.** Use GitHub Copilot (free with
+your Emory GitHub account) or the tool of your choice, and let it write the R or
+Python. Producing the code is not the skill being graded. Directing the tool,
+checking that the output makes sense, and interpreting the result in the language
+of this course is. Read what the assistant gives you, make sure it actually
+answers the question, and explain what it means.
 
 **Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
-code, its output, and your written answers. Each part is worth 3 points, graded:
+code, its output, and your written answers. Each part is graded on this scale,
+scaled to the points shown for that part:
 
-- **3 points:** correct, with sound economic reasoning
-- **2 points:** close, minor error or thin reasoning
-- **1 point:** attempted but the economic judgment is missing or wrong
-- **0 points:** no work, or the unexamined AI output pasted in
-
-**Verification note (required, embedded):** somewhere in your notebook, flag one
-specific point where the AI's first output was wrong, incomplete, or misleading,
-and explain *in economic terms* how you knew. "It ran without errors" does not
-count.
+- **Full credit:** correct, with sound economic reasoning.
+- **Partial credit:** close, with a minor error or thin reasoning.
+- **Little credit:** attempted, but the economic reasoning is missing or wrong.
+- **No credit:** no real work, or output pasted in with no interpretation.
 
 Homework 2 is due by **midnight on Friday, October 16**.
 
@@ -41,19 +38,20 @@ injections (CPT codes 62310, 62311, 62318, 62319) as part of adjusting
 Medicare Provider Utilization and Payment Data, 2013–2015 (`hwk2_data_q4` on the
 shared OneDrive, available as `.Rdata` or tab-delimited `.txt`).
 
-a. Have the AI compute the average number of injections per physician in each
-   year, 2013–2015. Report the trend.
+a. Compute the average number of injections per physician in each year,
+   2013–2015, and report the trend.
 
 b. Does that yearly average tell a clean story about how physicians responded to
    the 2014 cut? What population is being averaged over in each year, and does it
    change? Identify at least one reason the year-over-year average could move for
    a reason that has nothing to do with physician agency.
 
-c. Ask the AI to find the physicians with the largest drop in injections from
-   2013 to 2014. Look hard at what it returns — some of the "largest reductions"
-   are not behavioral responses to the payment cut at all. Which ones, and why
-   does including them mislead the agency interpretation? Re-pose the task so the
-   result isolates the behavioral response, and show what changed.
+c. Find the physicians with the largest drop in injections from 2013 to 2014. A
+   raw ranking of the largest drops can mislead, because some of the biggest
+   reductions come from physicians who barely performed the procedure to begin
+   with, or who leave the data, rather than from a response to the payment cut.
+   Restrict the comparison so it isolates the behavioral response, and explain
+   what you changed and why.
 
 d. Connect to the model. Payment fell in 2014 and rose in 2015. State what
    physician-agency theory predicts for utilization in each year, and whether
@@ -75,23 +73,22 @@ shared OneDrive). See the [CMS Final Rule primer](cms-em-2021-finalrule.pdf) for
 the policy details and percentage changes.
 
 a. Identify the set of HCPCS codes that capture physician office visits (E&M).
-   The AI will offer a set from general knowledge — *verify it against the actual
-   code descriptions in the data* and show how you confirmed it. A wrong code set
-   silently corrupts everything downstream.
+   Confirm your code set against the actual code descriptions in the data rather
+   than from memory, and show how you verified it, since a wrong code set corrupts
+   everything downstream.
 
 b. Identify the top 10 Georgia physicians by E&M volume in 2020, by raw count
    and by payment-weighted volume. Does the ranking change? Which denominator is
    the right one for this question, and why?
 
-c. Have the AI compute how much these physicians stand to gain from the higher
-   E&M RVU rate. Then ask: *what did it leave out?* The budget-neutral
-   conversion-factor cut. Explain why the net impact depends on each physician's
-   overall service mix, and identify which kind of physician could actually come
-   out behind even as E&M pay rises.
+c. Compute how much these physicians stand to gain from the higher E&M rate, then
+   account for the budget-neutral conversion-factor cut that offsets it. Explain
+   why the net impact depends on each physician's overall service mix, and
+   identify which kind of physician could come out behind even as E&M pay rises.
 
 d. In the context of physician agency, what do you predict happens to
    utilization of the more expensive (now relatively less profitable) services
    after the 2021 update?
 
 e. State which physician type gains and which loses under the combined change,
-   in economic terms, and use this question for your required verification note.
+   in economic terms.
