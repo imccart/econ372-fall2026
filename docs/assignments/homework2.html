@@ -263,7 +263,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
   <li><a href="#q4-epidural-steroid-injection-payment-cut-15-pts" id="toc-q4-epidural-steroid-injection-payment-cut-15-pts" class="nav-link" data-scroll-target="#q4-epidural-steroid-injection-payment-cut-15-pts">Q4 — Epidural steroid injection payment cut (15 pts)</a></li>
-  <li><a href="#q5-em-fee-schedule-and-budget-neutrality-15-pts" id="toc-q5-em-fee-schedule-and-budget-neutrality-15-pts" class="nav-link" data-scroll-target="#q5-em-fee-schedule-and-budget-neutrality-15-pts">Q5 — E&amp;M fee schedule and budget neutrality (15 pts)</a></li>
+  <li><a href="#q5-physician-coding-and-the-2021-office-visit-change-15-pts" id="toc-q5-physician-coding-and-the-2021-office-visit-change-15-pts" class="nav-link" data-scroll-target="#q5-physician-coding-and-the-2021-office-visit-change-15-pts">Q5 — Physician coding and the 2021 office-visit change (15 pts)</a></li>
   </ul>
 </nav>
     </div>
@@ -313,15 +313,15 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Plot the corrected set of largest-responders over time and say, in one sentence, whether the 2015 rebound shows up and what that implies about physician responsiveness to payment.</p></li>
 </ol>
 </section>
-<section id="q5-em-fee-schedule-and-budget-neutrality-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q5-em-fee-schedule-and-budget-neutrality-15-pts">Q5 — E&amp;M fee schedule and budget neutrality (15 pts)</h2>
-<p>In January 2021, CMS raised payments for Evaluation and Management (E&amp;M, i.e. office-visit) codes. Because of budget-neutrality requirements, it offset this by lowering the overall conversion factor — making more expensive services relatively less profitable while E&amp;M payments rose. Use the Medicare Provider Utilization and Payment Data for Georgia physicians (<code>hwk2_data_q5</code> on the shared OneDrive). See the <a href="cms-em-2021-finalrule.pdf">CMS Final Rule primer</a> for the policy details and percentage changes.</p>
+<section id="q5-physician-coding-and-the-2021-office-visit-change-15-pts" class="level2">
+<h2 class="anchored" data-anchor-id="q5-physician-coding-and-the-2021-office-visit-change-15-pts">Q5 — Physician coding and the 2021 office-visit change (15 pts)</h2>
+<p>Physician agency shows up not only in how much care is delivered but in how that care is coded and billed. In January 2021, Medicare raised the payments for office visits (evaluation and management, or E&amp;M, codes) and changed the rules for choosing a visit’s level, letting physicians bill based on time or medical decision-making instead of the older, more demanding documentation requirements. That made the higher-level visits easier to bill. You will look for physicians’ coding response in Georgia’s Medicare data, using <code>medicare-physician-ga-2017-2023.csv</code> (on the shared OneDrive, linked from Canvas), which has one row per physician, HCPCS code, and year, with the physician’s specialty, the service count, unique beneficiaries, and the average Medicare payment. For the policy background, see the <a href="https://www.cms.gov/files/document/physician-fee-schedule-pfs-payment-officeoutpatient-evaluation-and-management-em-visits-fact-sheet.pdf">CMS fact sheet on office/outpatient E&amp;M visits</a>.</p>
 <ol type="a">
-<li><p>Identify the set of HCPCS codes that capture physician office visits (E&amp;M). Confirm your code set against the actual code descriptions in the data rather than from memory, and show how you verified it, since a wrong code set corrupts everything downstream.</p></li>
-<li><p>Identify the top 10 Georgia physicians by E&amp;M volume in 2020, by raw count and by payment-weighted volume. Does the ranking change? Which denominator is the right one for this question, and why?</p></li>
-<li><p>Compute how much these physicians stand to gain from the higher E&amp;M rate, then account for the budget-neutral conversion-factor cut that offsets it. Explain why the net impact depends on each physician’s overall service mix, and identify which kind of physician could come out behind even as E&amp;M pay rises.</p></li>
-<li><p>In the context of physician agency, what do you predict happens to utilization of the more expensive (now relatively less profitable) services after the 2021 update?</p></li>
-<li><p>State which physician type gains and which loses under the combined change, in economic terms.</p></li>
+<li><p><strong>(3 points) Find the office-visit codes and their levels.</strong> Identify the office-visit E&amp;M codes in the data and how they run from lower to higher level (for example, established-patient visits 99211 through 99215). Confirm your set against the code descriptions in the data, and say briefly how the levels differ.</p></li>
+<li><p><strong>(3 points) Measure coding intensity.</strong> For each year from 2017 to 2023, compute a measure of how high physicians are coding office visits, such as the share billed at the two highest levels (99214 and 99215 for established visits) or the average visit level. Plot it over time.</p></li>
+<li><p><strong>(3 points) Find the break.</strong> Does your measure jump around 2021, when the payment and documentation changes took effect? Use the earlier years as a baseline, and describe the timing and size of any change.</p></li>
+<li><p><strong>(3 points) Connect to agency.</strong> Explain how this pattern reflects physician agency operating on the coding margin. What incentive did the 2021 change create, and how does agency predict physicians respond?</p></li>
+<li><p><strong>(3 points) Be careful about the claim.</strong> Give one other explanation, besides physicians coding more aggressively, that could produce the same upward pattern. What would that mean for how confidently you can attribute the change to the policy?</p></li>
 </ol>
 
 
