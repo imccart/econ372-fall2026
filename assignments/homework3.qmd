@@ -8,7 +8,7 @@ format: html
 ## Instructions
 
 This homework is about hospital market structure, competition, and pricing, the
-material from the third module of the course. It is **empirical only** --- the
+material from the third module of the course. It is **empirical only**. The
 theory is assessed in class through the quizzes and the midterm. Here you work
 with real data and interpret it as a health economist.
 
@@ -52,7 +52,7 @@ b. **(3 points) Why the definition matters.** Explain why your assessment of how
 c. **(3 points) The problem with a simple average.** Your part (a) averages HHI
    across markets. Single-hospital markets have HHI = 10,000, and a simple
    unweighted average gives each of them the same weight as a large market, so the
-   many small markets make the average high. Show how weighting by discharges, or
+   many small markets raise the average. Show how weighting by discharges, or
    excluding single-hospital markets, changes the result, and what the plain
    average was leaving out.
 

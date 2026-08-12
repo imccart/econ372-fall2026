@@ -6,7 +6,7 @@ format: html
 ## Instructions
 
 This homework is about health insurance markets and adverse selection, the
-material from the first module of the course. It is **empirical only** --- the
+material from the first module of the course. It is **empirical only**. The
 theory is assessed in class through the quizzes and the midterm. Here you work
 with real data and interpret it as a health economist.
 
@@ -55,8 +55,8 @@ c. **(3 points) Interpret it.** How could the pattern in your figure be read as
    evidence of adverse selection?
 
 d. **(3 points) Your verdict.** Could something else explain these patterns?
-   Weighing that against the adverse-selection explanation, is this a death spiral or
-   not? Defend your answer using the data.
+   Weighing that against the adverse-selection explanation, decide whether this is a
+   death spiral, and defend your answer using the data.
 
 ## Q2 --- Medicare Advantage and fee-for-service, 2008–2023 (15 pts)
 

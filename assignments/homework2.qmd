@@ -8,7 +8,7 @@ format: html
 ## Instructions
 
 This homework is about how physicians respond to payment incentives, the material
-from the second module of the course. It is **empirical only** --- the theory is
+from the second module of the course. It is **empirical only**. The theory is
 assessed in class through the quizzes and the midterm. Here you work with real
 data and interpret it as a health economist.
 
@@ -32,7 +32,7 @@ Homework 2 is due by **midnight on Friday, October 16**.
 
 ## Q1 — Epidural steroid injection payment cut (15 pts)
 
-In January 2014, CMS reduced its payments to physicians for epidural steroidal
+In January 2014, CMS reduced its payments to physicians for epidural steroid
 injections (CPT codes 62310, 62311, 62318, 62319) as part of adjusting
 "potentially misvalued services," then raised them again in 2015. Use
 `medicare-physician-epidural.csv` (on the shared OneDrive, linked from Canvas),
@@ -66,7 +66,7 @@ e. Plot the corrected set of largest-responders over time and say, in one
 
 ## Q2 — Physician coding and the 2021 office-visit change (15 pts)
 
-Physician agency operates not only on how much care is delivered but on how that
+Physician agency operates on how much care is delivered and on how that
 care is coded and billed. In January 2021, Medicare raised the payments for
 office visits (evaluation and management, or E&M, codes) and changed the rules
 for choosing a visit's level, letting physicians bill based on time or medical

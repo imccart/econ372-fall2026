@@ -320,7 +320,7 @@ window.Quarto = {
 
 <section id="instructions" class="level2">
 <h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>This homework is about hospital market structure, competition, and pricing, the material from the third module of the course. It is <strong>empirical only</strong> — the theory is assessed in class through the quizzes and the midterm. Here you work with real data and interpret it as a health economist.</p>
+<p>This homework is about hospital market structure, competition, and pricing, the material from the third module of the course. It is <strong>empirical only</strong>. The theory is assessed in class through the quizzes and the midterm. Here you work with real data and interpret it as a health economist.</p>
 <p><strong>You are expected to use an AI coding assistant.</strong> Use GitHub Copilot (free with your Emory GitHub account) or the tool of your choice, and let it write the R or Python. Producing the code is not the skill being graded. Directing the tool, checking that the output makes sense, and interpreting the result in the language of this course is. Read what the assistant gives you, make sure it actually answers the question, and explain what it means.</p>
 <p><strong>Submit a rendered notebook</strong> (Quarto, R Markdown, or Jupyter) containing your code, its output, and your written answers. Each part is graded on this scale, scaled to the points shown for that part:</p>
 <ul>
@@ -337,7 +337,7 @@ window.Quarto = {
 <ol type="a">
 <li><p><strong>(3 points) Compute HHI three ways.</strong> Compute the HHI for each market and year under all three market definitions (zip, HRR, community-detection), and plot the average HHI over time for each definition.</p></li>
 <li><p><strong>(3 points) Why the definition matters.</strong> Explain why your assessment of how concentrated hospital markets are changes with the definition. Which definition is “correct,” and why is there no single right answer?</p></li>
-<li><p><strong>(3 points) The problem with a simple average.</strong> Your part (a) averages HHI across markets. Single-hospital markets have HHI = 10,000, and a simple unweighted average gives each of them the same weight as a large market, so the many small markets make the average high. Show how weighting by discharges, or excluding single-hospital markets, changes the result, and what the plain average was leaving out.</p></li>
+<li><p><strong>(3 points) The problem with a simple average.</strong> Your part (a) averages HHI across markets. Single-hospital markets have HHI = 10,000, and a simple unweighted average gives each of them the same weight as a large market, so the many small markets raise the average. Show how weighting by discharges, or excluding single-hospital markets, changes the result, and what the plain average was leaving out.</p></li>
 <li><p><strong>(3 points) A sanity check on the join.</strong> Market share’s denominator is total discharges in the correctly grouped market. Add a check that shares sum to 1 within each market-year, and explain what a careless join, one that mismatched hospitals to markets, would do to that check and to your HHI.</p></li>
 <li><p><strong>(3 points) Maximum share instead of HHI.</strong> Recompute part (a) using the maximum market share <span class="math inline">\(s^{max}_{mt} = \max_i s_{imt}\)</span> instead of HHI (average across markets, plot over time). Does your assessment of competitiveness change, and what does the contrast with HHI tell you?</p></li>
 </ol>
