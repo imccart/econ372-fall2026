@@ -84,4 +84,6 @@ d. **(3 points) Beyond risk adjustment.** Risk adjustment is not the only tool t
    combat adverse selection. Find one other policy that has been used or proposed
    to limit selection in Medicare Advantage, or to hold down fee-for-service
    costs, cite the source where you read about it, and explain in a few sentences
-   how it would help.
+   how it would help. Use a credible health-policy source such as KFF, the
+   Commonwealth Fund, Health Affairs, or a MedPAC report, not a general website
+   or blog.
