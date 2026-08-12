@@ -49,10 +49,12 @@ b. **(3 points) Why the definition matters.** Explain why your assessment of how
    concentrated hospital markets are changes with the definition. Which definition
    is "correct," and why is there no single right answer?
 
-c. **(3 points) What the average hides.** Your part (a) averages HHI across
-   markets. Single-hospital markets have HHI = 10,000 and, in a simple unweighted
-   average, dominate the result. Show what a simple unweighted average hides, and
-   how weighting (or excluding trivial markets) changes the picture.
+c. **(3 points) The problem with a simple average.** Your part (a) averages HHI
+   across markets. Single-hospital markets have HHI = 10,000, and a simple
+   unweighted average gives each of them the same weight as a large market, so the
+   many small markets make the average high. Show how weighting by discharges, or
+   excluding single-hospital markets, changes the result, and what the plain
+   average was leaving out.
 
 d. **(3 points) A sanity check on the join.** Market share's denominator is total
    discharges in the correctly grouped market. Add a check that shares sum to 1
@@ -73,8 +75,8 @@ a. **(3 points) The price variable.** Compute the average hospital price in each
    is not a sticker price. It is constructed from HCRIS as adjusted charges net of
    Medicare payments, divided by non-Medicare discharges, and it is in nominal
    dollars. Examine its distribution (its range and spread) and explain what this
-   measure does and does not capture as a hospital "price," and how those
-   limitations color the trend you plotted.
+   measure does and does not capture as a hospital "price," and what those
+   limitations mean for how you read the trend you plotted.
 
 b. **(3 points) Concentrated vs competitive markets.** Identify market-years that
    are monopolies or duopolies (exactly one or two hospitals) and those that are
@@ -90,6 +92,6 @@ d. **(3 points) The market-size confound.** Concentrated markets differ
    discharges per year. Explain what changes and why market size confounds the
    raw price-concentration relationship.
 
-e. **(3 points) Is it causal?** State your bottom line. Is the price-concentration
+e. **(3 points) Is it causal?** State your conclusion. Is the price-concentration
    correlation you found causal evidence that concentration raises prices, and
    what would you need to make a causal claim?
