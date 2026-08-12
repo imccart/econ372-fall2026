@@ -7,87 +7,89 @@ format: html
 
 ## Instructions
 
-This homework covers hospital market structure, competition, and pricing. It is
-**empirical only** — the theory for this module is assessed in class (quizzes
-and the midterm).
+This homework is about hospital market structure, competition, and pricing, the
+material from the third module of the course. It is **empirical only** --- the
+theory is assessed in class through the quizzes and the midterm. Here you work
+with real data and interpret it as a health economist.
 
-**You are required to use an AI coding assistant for this assignment.** Use
-GitHub Copilot (free with your Emory GitHub account) or your tool of choice, and
-let it write the R or Python. Your job is *not* to produce the code. Your job is
-to direct the tool, check what it returns, and interpret it as a health
-economist. The AI will frequently hand you a confident, clean, and **wrong**
-answer. Catching that is the assignment.
+**You are expected to use an AI coding assistant.** Use GitHub Copilot (free with
+your Emory GitHub account) or the tool of your choice, and let it write the R or
+Python. Producing the code is not the skill being graded. Directing the tool,
+checking that the output makes sense, and interpreting the result in the language
+of this course is. Read what the assistant gives you, make sure it actually
+answers the question, and explain what it means.
 
 **Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
-code, its output, and your written answers. Each part is worth 3 points, graded:
+code, its output, and your written answers. Each part is graded on this scale,
+scaled to the points shown for that part:
 
-- **3 points:** correct, with sound economic reasoning
-- **2 points:** close, minor error or thin reasoning
-- **1 point:** attempted but the economic judgment is missing or wrong
-- **0 points:** no work, or the unexamined AI output pasted in
-
-**Verification note (required, embedded):** somewhere in your notebook, flag one
-specific point where the AI's first output was wrong, incomplete, or misleading,
-and explain *in economic terms* how you knew. "It ran without errors" does not
-count.
+- **Full credit:** correct, with sound economic reasoning.
+- **Partial credit:** close, with a minor error or thin reasoning.
+- **Little credit:** attempted, but the economic reasoning is missing or wrong.
+- **No credit:** no real work, or output pasted in with no interpretation.
 
 Homework 3 is due by **midnight on Friday, November 13**.
 
-Data for both questions: the hospital file on the shared OneDrive (link on
-Canvas), built from the Hospital Cost Report Information System (HCRIS) and the
-Hospital Service Area Files. Markets are defined three ways: zip code, HRR, and a
-pre-computed "market" from a community-detection algorithm. Throughout, define
-the market share of hospital $i$ in market $m$ in year $t$ as
+Both questions use `hospital-panel.csv` (on the shared OneDrive, linked from
+Canvas), one row per hospital and year from 1997 through 2018, built from the
+Hospital Cost Report Information System (HCRIS) and the Hospital Service Area
+Files. It includes each hospital's discharges, beds, and a constructed price,
+along with three ways of defining its market, namely its zip code, its Hospital
+Referral Region (`hrr`), and a pre-computed community-detection market (`mkt`).
+Throughout, define the market share of hospital $i$ in market $m$ in year $t$ as
 $s_{imt} = q_{imt} / \sum_{j} q_{jmt}$, where $q$ is discharges.
 
 ## Q4 — Market definition and concentration (15 pts)
 
-a. Have the AI compute the HHI for each market and year under all three
-   market definitions (zip, HRR, community-detection), and plot the average HHI
-   over time for each definition.
+a. **(3 points) Compute HHI three ways.** Compute the HHI for each market and
+   year under all three market definitions (zip, HRR, community-detection), and
+   plot the average HHI over time for each definition.
 
-b. Explain why your assessment of how concentrated hospital markets are changes
-   with the definition. Which definition is "correct," and why is there no single
-   right answer?
+b. **(3 points) Why the definition matters.** Explain why your assessment of how
+   concentrated hospital markets are changes with the definition. Which definition
+   is "correct," and why is there no single right answer?
 
-c. Your part (a) averages HHI across markets. Single-hospital markets have
-   HHI = 10,000 and, in a simple unweighted average, dominate the result. Show
-   what the AI's default unweighted average hides, and how weighting (or
-   excluding trivial markets) changes the picture.
+c. **(3 points) What the average hides.** Your part (a) averages HHI across
+   markets. Single-hospital markets have HHI = 10,000 and, in a simple unweighted
+   average, dominate the result. Show what a simple unweighted average hides, and
+   how weighting (or excluding trivial markets) changes the picture.
 
-d. Market share's denominator is total discharges *in the correctly grouped
-   market*. Add a sanity check that shares sum to 1 within each market-year, and
-   explain what a careless join — one that mismatched hospitals to markets —
-   would do to that check and to your HHI.
+d. **(3 points) A sanity check on the join.** Market share's denominator is total
+   discharges in the correctly grouped market. Add a check that shares sum to 1
+   within each market-year, and explain what a careless join, one that mismatched
+   hospitals to markets, would do to that check and to your HHI.
 
-e. Recompute part (a) using the maximum market share
-   $s^{max}_{mt} = \max_i s_{imt}$ instead of HHI (average across markets, plot
-   over time). Does your assessment of competitiveness change, and what does the
-   contrast with HHI tell you?
+e. **(3 points) Maximum share instead of HHI.** Recompute part (a) using the
+   maximum market share $s^{max}_{mt} = \max_i s_{imt}$ instead of HHI (average
+   across markets, plot over time). Does your assessment of competitiveness
+   change, and what does the contrast with HHI tell you?
 
 ## Q5 — Prices and market structure (15 pts)
 
 Use the same hospital data, focusing on the community-detection market measure.
 
-a. Have the AI compute the average hospital price in each year and plot it. Then
-   *look at the price variable*: check its min, max, and share missing, and flag
-   impossible or implausible values (HCRIS price fields mix charges and payments
-   and contain negatives and extreme outliers). Decide on a cleaning rule, apply
-   it, and show how the average changes.
+a. **(3 points) The price variable.** Compute the average hospital price in each
+   year and plot it. Then look closely at the price variable itself. This price
+   is not a sticker price. It is constructed from HCRIS as adjusted charges net of
+   Medicare payments, divided by non-Medicare discharges, and it is in nominal
+   dollars. Examine its distribution (its range and spread) and explain what this
+   measure does and does not capture as a hospital "price," and how those
+   limitations color the trend you plotted.
 
-b. Identify market-years that are monopolies or duopolies (exactly one or two
-   hospitals) and those that are "competitive" (at least four hospitals). Plot
-   the count of each type over time.
+b. **(3 points) Concentrated vs competitive markets.** Identify market-years that
+   are monopolies or duopolies (exactly one or two hospitals) and those that are
+   "competitive" (at least four hospitals). Plot the count of each type over time.
 
-c. Compute the average price in each year within the monopoly/duopoly group and
-   within the competitive group. Show the comparison. Does concentration appear
-   to correlate with price?
+c. **(3 points) Price by market structure.** Compute the average price in each
+   year within the monopoly/duopoly group and within the competitive group. Show
+   the comparison. Does concentration appear to correlate with price?
 
-d. Concentrated markets differ systematically from competitive ones — they tend
-   to be smaller and more rural. Repeat part (c) after limiting to markets with
-   between 10,000 and 50,000 total discharges per year. Explain what changes and
-   why market size confounds the raw price-concentration relationship.
+d. **(3 points) The market-size confound.** Concentrated markets differ
+   systematically from competitive ones, tending to be smaller and more rural.
+   Repeat part (c) after limiting to markets with between 10,000 and 50,000 total
+   discharges per year. Explain what changes and why market size confounds the
+   raw price-concentration relationship.
 
-e. State your bottom line: is the price-concentration correlation you found
-   causal evidence that concentration raises prices? Use this question for your
-   required verification note.
+e. **(3 points) Is it causal?** State your bottom line. Is the price-concentration
+   correlation you found causal evidence that concentration raises prices, and
+   what would you need to make a causal claim?
