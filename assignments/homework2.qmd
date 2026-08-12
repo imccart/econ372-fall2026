@@ -31,7 +31,7 @@ specific point where the AI's first output was wrong, incomplete, or misleading,
 and explain *in economic terms* how you knew. "It ran without errors" does not
 count.
 
-Homework 2 is due by **midnight on Friday, October 9**.
+Homework 2 is due by **midnight on Friday, October 16**.
 
 ## Q4 — Epidural steroid injection payment cut (15 pts)
 

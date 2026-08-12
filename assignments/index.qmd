@@ -107,7 +107,7 @@ be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose
 2% per day.
 
 - [Homework 1 — Adverse Selection in Real Markets](homework1.qmd) (due Sep 25)
-- [Homework 2 — Physician Agency and Payment Changes](homework2.qmd) (due Oct 9)
+- [Homework 2 — Physician Agency and Payment Changes](homework2.qmd) (due Oct 16)
 - [Homework 3 — Hospital Competition and Pricing](homework3.qmd) (due Nov 13)
 
 **These are empirical only.** The theory for each module is assessed in class,
