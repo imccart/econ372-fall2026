@@ -18,80 +18,63 @@ of this course is. Read what the assistant gives you, make sure it actually
 answers the question, and explain what it means.
 
 **Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
-code, its output, and your written answers. Each part is worth 3 points:
+code, its output, and your written answers, together with the CSV file you build
+in Question 1. Each part is graded on this scale, scaled to the points shown for
+that part:
 
-- **3 points:** correct, with sound economic reasoning.
-- **2 points:** close, with a minor error or thin reasoning.
-- **1 point:** attempted, but the economic reasoning is missing or wrong.
-- **0 points:** no real work, or output pasted in with no interpretation.
+- **Full credit:** correct, with sound economic reasoning.
+- **Partial credit:** close, with a minor error or thin reasoning.
+- **Little credit:** attempted, but the economic reasoning is missing or wrong.
+- **No credit:** no real work, or output pasted in with no interpretation.
 
 Homework 1 is due by **midnight on Friday, September 25**.
 
 ## Q1 --- New Jersey's individual market, 2000–2008 (15 pts)
 
-Data: `nj-insurance.csv` (on the shared OneDrive, linked from Canvas). It has
-monthly family premiums and year-end enrollment for three plans in New Jersey's
-Individual Health Coverage program: Horizon BCBS Plan D ($1,000 deductible),
-Aetna Life Plan D ($1,000 deductible), and Celtic Insurance Plan C ($2,500
-deductible).
+New Jersey's individual health insurance market is often used as an example of a
+"death spiral." You will build a small dataset from the state's own records and
+see whether the pattern holds.
 
-a. Have the assistant build a table of annual premiums for the three plans and
-   total enrollment, and plot premiums and enrollment over time.
+a. **(6 points) Build the dataset.** Go to the
+   [New Jersey Department of Banking and Insurance IHC data](https://www.nj.gov/dobi/division_insurance/ihcseh/data_ihc.htm).
+   For each year from 2000 to 2008, look up the monthly **family** premium for
+   three plans in the **Individual Health Coverage (IHC)** program --- Horizon
+   Blue Cross Blue Shield Plan D ($1,000 deductible), Aetna Life Plan D ($1,000
+   deductible), and Celtic Insurance Plan C ($2,500 deductible) --- and the total
+   year-end "standard" enrollment in the IHC program. Assemble these into a tidy
+   dataset with one row per year, and submit it as a CSV alongside your notebook.
 
-b. This pattern, premiums climbing while enrollment falls, is often called a
-   "death spiral." Using the adverse-selection model from class, explain the
-   mechanism behind it: when premiums rise, which enrollees are most likely to
-   drop their coverage, and how does the changing mix of who remains push
-   premiums up again?
+b. **(3 points) Make the figure.** Using the dataset you built, make a figure
+   showing the three plans' premiums over time, with enrollment shown as well.
+   Describe what you see.
 
-c. Two of these plans carry a $1,000 deductible and one carries $2,500, and you
-   are comparing premiums in nominal dollars across 2000–2008. Explain how each of
-   these makes a raw premium comparison misleading, and correct at least one of
-   them (for example, adjust for inflation, or compare only the like-deductible
-   plans). Show what changes.
+c. **(3 points) Interpret it.** How could the pattern in your figure be read as
+   evidence of adverse selection, or a death spiral? Is that the only thing that
+   could produce this pattern, or could something else explain it?
 
-d. Adverse selection is not the only reason premiums might rise over this period.
-   Name one other force we discussed in class, such as the general growth in
-   health care costs, and explain how it could produce the same rising-premium
-   pattern without any change in who is enrolled.
-
-e. Give your bottom-line read: does this look like an adverse-selection death
-   spiral, premium growth from rising costs, or some of both? Defend your answer
-   in a few sentences using what you found in the data.
+d. **(3 points) Your verdict.** Weighing what you found, is this a death spiral or
+   not? Defend your answer using the data.
 
 ## Q2 --- Medicare Advantage and fee-for-service, 2008–2023 (15 pts)
 
-Data: two county-year files (same place on the shared OneDrive).
-`medicare-ma-penetration.csv` gives, for each county and year, the total number
-of Medicare eligibles and the number enrolled in Medicare Advantage (MA).
+Data: two county-year files (on the shared OneDrive, linked from Canvas).
+`medicare-ma-penetration.csv` gives, for each county and year, total Medicare
+eligibles and the number enrolled in Medicare Advantage (MA).
 `medicare-ffs-costs.csv` gives, for each county and year, fee-for-service (FFS)
 enrollment and total FFS spending.
 
-a. Merge the two files on county and year, and roll the result up to national
-   totals by year. Then compute two national series: MA penetration (MA enrolled
-   divided by total eligibles) and FFS spending per enrollee (total FFS spending
-   divided by FFS enrollment). Plot both over time. To get a national rate, sum
-   the counts across counties first and then take the ratio, rather than
-   averaging the county rates, and explain in a sentence why those two approaches
-   give different answers.
+a. **(6 points) Build the national series.** Merge the two files on county and
+   year and roll the result up to national totals by year. Compute national MA
+   penetration and FFS spending per enrollee, thinking carefully about how to turn
+   county counts into a national rate, plot both over time, and describe the
+   trends.
 
-b. As MA penetration rises, people are moving out of fee-for-service and into MA.
-   Using the idea of selection from class, explain who tends to choose MA and who
-   tends to stay in FFS, and what that does to the average health, and the average
-   cost, of the people who remain in FFS.
+b. **(3 points) Read them together.** Looking at MA penetration and FFS spending
+   per enrollee together, what does the pattern suggest about who tends to move
+   into Medicare Advantage and who stays in fee-for-service?
 
-c. Total FFS spending and FFS spending per enrollee can move in different
-   directions. If MA enrollment grows, what happens to total FFS spending purely
-   mechanically, even when the cost of caring for each remaining person has not
-   changed? Using both series you computed, explain which one actually tells you
-   something about selection and which mostly reflects how many people are left in
-   FFS.
+c. **(3 points) Risk adjustment.** What is risk adjustment, as we covered it in
+   class, and what problem does it address in the Medicare Advantage market?
 
-d. Medicare pays MA plans more for enrollees who are expected to be sicker, which
-   is the risk adjustment we covered in class. In plain terms, what problem is
-   risk adjustment meant to solve, and how does it change a plan's incentive to
-   attract healthy versus sick enrollees?
-
-e. Name one other feature of the Medicare Advantage market from class, such as
-   the extra benefits plans can offer or the way plans are marketed, that could
-   affect who signs up, and explain how.
+d. **(3 points) One more force.** What else about the Medicare Advantage market
+   might affect who chooses to enroll?
