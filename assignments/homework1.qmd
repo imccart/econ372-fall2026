@@ -52,10 +52,10 @@ b. **(3 points) Make the figure.** Using the dataset you built, make a figure
    Describe what you see.
 
 c. **(3 points) Interpret it.** How could the pattern in your figure be read as
-   evidence of adverse selection, or a death spiral? Is that the only thing that
-   could produce this pattern, or could something else explain it?
+   evidence of adverse selection?
 
-d. **(3 points) Your verdict.** Weighing what you found, is this a death spiral or
+d. **(3 points) Your verdict.** Could something else explain these patterns?
+   Weighing that against the adverse-selection story, is this a death spiral or
    not? Defend your answer using the data.
 
 ## Q2 --- Medicare Advantage and fee-for-service, 2008–2023 (15 pts)
@@ -77,7 +77,8 @@ b. **(3 points) Read them together.** Looking at MA penetration and FFS spending
    into Medicare Advantage and who stays in fee-for-service?
 
 c. **(3 points) Risk adjustment.** What is risk adjustment, as we covered it in
-   class, and what problem does it address in the Medicare Advantage market?
+   class, and what problem does it aim to address in the Medicare Advantage
+   market?
 
-d. **(3 points) One more force.** What else about the Medicare Advantage market
+d. **(3 points) Other factors.** What else about the Medicare Advantage market
    might affect who chooses to enroll?
