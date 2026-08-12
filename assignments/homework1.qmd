@@ -35,14 +35,17 @@ New Jersey's individual health insurance market is often used as an example of a
 "death spiral." You will build a small dataset from the state's own records and
 see whether the pattern holds.
 
-a. **(6 points) Build the dataset.** Go to the
-   [New Jersey Department of Banking and Insurance IHC data](https://www.nj.gov/dobi/division_insurance/ihcseh/data_ihc.htm).
-   For each year from 2000 to 2008, look up the monthly **family** premium for
-   three plans in the **Individual Health Coverage (IHC)** program --- Horizon
-   Blue Cross Blue Shield Plan D ($1,000 deductible), Aetna Life Plan D ($1,000
-   deductible), and Celtic Insurance Plan C ($2,500 deductible) --- and the total
-   year-end "standard" enrollment in the IHC program. Assemble these into a tidy
-   dataset with one row per year, and submit it as a CSV alongside your notebook.
+a. **(6 points) Build the dataset.** Using the
+   [New Jersey Department of Banking and Insurance IHC data](https://www.nj.gov/dobi/division_insurance/ihcseh/data_ihc.htm),
+   build a spreadsheet of monthly premiums and enrollments from 2000 to 2008.
+   Focus only on **family** premiums for three specific plans: (1) Horizon Blue
+   Cross / Blue Shield of NJ, Plan D, $1,000 deductible; (2) Aetna Life Insurance
+   Company, Plan D, $1,000 deductible; and (3) Celtic Insurance Company, Plan C,
+   $2,500 deductible. Use only the **Individual Health Coverage (IHC)** program,
+   so you can ignore the small-employer premiums. Set up your file with one row
+   per year, one column for each plan's monthly premium, and one more column for
+   the total year-end "standard" enrollment across the program. Save it as a CSV
+   and submit it with your notebook.
 
 b. **(3 points) Make the figure.** Using the dataset you built, make a figure
    showing the three plans' premiums over time, with enrollment shown as well.
