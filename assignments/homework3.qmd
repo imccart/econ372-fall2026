@@ -39,7 +39,7 @@ Referral Region (`hrr`), and a pre-computed community-detection market (`mkt`).
 Throughout, define the market share of hospital $i$ in market $m$ in year $t$ as
 $s_{imt} = q_{imt} / \sum_{j} q_{jmt}$, where $q$ is discharges.
 
-## Q4 — Market definition and concentration (15 pts)
+## Q1 — Market definition and concentration (15 pts)
 
 a. **(3 points) Compute HHI three ways.** Compute the HHI for each market and
    year under all three market definitions (zip, HRR, community-detection), and
@@ -64,7 +64,7 @@ e. **(3 points) Maximum share instead of HHI.** Recompute part (a) using the
    across markets, plot over time). Does your assessment of competitiveness
    change, and what does the contrast with HHI tell you?
 
-## Q5 — Prices and market structure (15 pts)
+## Q2 — Prices and market structure (15 pts)
 
 Use the same hospital data, focusing on the community-detection market measure.
 

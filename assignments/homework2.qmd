@@ -30,7 +30,7 @@ scaled to the points shown for that part:
 
 Homework 2 is due by **midnight on Friday, October 16**.
 
-## Q4 — Epidural steroid injection payment cut (15 pts)
+## Q1 — Epidural steroid injection payment cut (15 pts)
 
 In January 2014, CMS reduced its payments to physicians for epidural steroidal
 injections (CPT codes 62310, 62311, 62318, 62319) as part of adjusting
@@ -64,7 +64,7 @@ e. Plot the corrected set of largest-responders over time and say, in one
    sentence, whether the 2015 rebound shows up and what that implies about
    physician responsiveness to payment.
 
-## Q5 — Physician coding and the 2021 office-visit change (15 pts)
+## Q2 — Physician coding and the 2021 office-visit change (15 pts)
 
 Physician agency shows up not only in how much care is delivered but in how that
 care is coded and billed. In January 2021, Medicare raised the payments for

@@ -291,8 +291,8 @@ window.Quarto = {
    
   <ul>
   <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#q4-market-definition-and-concentration-15-pts" id="toc-q4-market-definition-and-concentration-15-pts" class="nav-link" data-scroll-target="#q4-market-definition-and-concentration-15-pts">Q4 — Market definition and concentration (15 pts)</a></li>
-  <li><a href="#q5-prices-and-market-structure-15-pts" id="toc-q5-prices-and-market-structure-15-pts" class="nav-link" data-scroll-target="#q5-prices-and-market-structure-15-pts">Q5 — Prices and market structure (15 pts)</a></li>
+  <li><a href="#q1-market-definition-and-concentration-15-pts" id="toc-q1-market-definition-and-concentration-15-pts" class="nav-link" data-scroll-target="#q1-market-definition-and-concentration-15-pts">Q1 — Market definition and concentration (15 pts)</a></li>
+  <li><a href="#q2-prices-and-market-structure-15-pts" id="toc-q2-prices-and-market-structure-15-pts" class="nav-link" data-scroll-target="#q2-prices-and-market-structure-15-pts">Q2 — Prices and market structure (15 pts)</a></li>
   </ul>
 </nav>
     </div>
@@ -332,8 +332,8 @@ window.Quarto = {
 <p>Homework 3 is due by <strong>midnight on Friday, November 13</strong>.</p>
 <p>Both questions use <code>hospital-panel.csv</code> (on the shared OneDrive, linked from Canvas), one row per hospital and year from 1997 through 2018, built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. It includes each hospital’s discharges, beds, and a constructed price, along with three ways of defining its market, namely its zip code, its Hospital Referral Region (<code>hrr</code>), and a pre-computed community-detection market (<code>mkt</code>). Throughout, define the market share of hospital <span class="math inline">\(i\)</span> in market <span class="math inline">\(m\)</span> in year <span class="math inline">\(t\)</span> as <span class="math inline">\(s_{imt} = q_{imt} / \sum_{j} q_{jmt}\)</span>, where <span class="math inline">\(q\)</span> is discharges.</p>
 </section>
-<section id="q4-market-definition-and-concentration-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q4-market-definition-and-concentration-15-pts">Q4 — Market definition and concentration (15 pts)</h2>
+<section id="q1-market-definition-and-concentration-15-pts" class="level2">
+<h2 class="anchored" data-anchor-id="q1-market-definition-and-concentration-15-pts">Q1 — Market definition and concentration (15 pts)</h2>
 <ol type="a">
 <li><p><strong>(3 points) Compute HHI three ways.</strong> Compute the HHI for each market and year under all three market definitions (zip, HRR, community-detection), and plot the average HHI over time for each definition.</p></li>
 <li><p><strong>(3 points) Why the definition matters.</strong> Explain why your assessment of how concentrated hospital markets are changes with the definition. Which definition is “correct,” and why is there no single right answer?</p></li>
@@ -342,8 +342,8 @@ window.Quarto = {
 <li><p><strong>(3 points) Maximum share instead of HHI.</strong> Recompute part (a) using the maximum market share <span class="math inline">\(s^{max}_{mt} = \max_i s_{imt}\)</span> instead of HHI (average across markets, plot over time). Does your assessment of competitiveness change, and what does the contrast with HHI tell you?</p></li>
 </ol>
 </section>
-<section id="q5-prices-and-market-structure-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q5-prices-and-market-structure-15-pts">Q5 — Prices and market structure (15 pts)</h2>
+<section id="q2-prices-and-market-structure-15-pts" class="level2">
+<h2 class="anchored" data-anchor-id="q2-prices-and-market-structure-15-pts">Q2 — Prices and market structure (15 pts)</h2>
 <p>Use the same hospital data, focusing on the community-detection market measure.</p>
 <ol type="a">
 <li><p><strong>(3 points) The price variable.</strong> Compute the average hospital price in each year and plot it. Then look closely at the price variable itself. This price is not a sticker price. It is constructed from HCRIS as adjusted charges net of Medicare payments, divided by non-Medicare discharges, and it is in nominal dollars. Examine its distribution (its range and spread) and explain what this measure does and does not capture as a hospital “price,” and how those limitations color the trend you plotted.</p></li>

@@ -262,8 +262,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#q4-epidural-steroid-injection-payment-cut-15-pts" id="toc-q4-epidural-steroid-injection-payment-cut-15-pts" class="nav-link" data-scroll-target="#q4-epidural-steroid-injection-payment-cut-15-pts">Q4 — Epidural steroid injection payment cut (15 pts)</a></li>
-  <li><a href="#q5-physician-coding-and-the-2021-office-visit-change-15-pts" id="toc-q5-physician-coding-and-the-2021-office-visit-change-15-pts" class="nav-link" data-scroll-target="#q5-physician-coding-and-the-2021-office-visit-change-15-pts">Q5 — Physician coding and the 2021 office-visit change (15 pts)</a></li>
+  <li><a href="#q1-epidural-steroid-injection-payment-cut-15-pts" id="toc-q1-epidural-steroid-injection-payment-cut-15-pts" class="nav-link" data-scroll-target="#q1-epidural-steroid-injection-payment-cut-15-pts">Q1 — Epidural steroid injection payment cut (15 pts)</a></li>
+  <li><a href="#q2-physician-coding-and-the-2021-office-visit-change-15-pts" id="toc-q2-physician-coding-and-the-2021-office-visit-change-15-pts" class="nav-link" data-scroll-target="#q2-physician-coding-and-the-2021-office-visit-change-15-pts">Q2 — Physician coding and the 2021 office-visit change (15 pts)</a></li>
   </ul>
 </nav>
     </div>
@@ -302,8 +302,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>Homework 2 is due by <strong>midnight on Friday, October 16</strong>.</p>
 </section>
-<section id="q4-epidural-steroid-injection-payment-cut-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q4-epidural-steroid-injection-payment-cut-15-pts">Q4 — Epidural steroid injection payment cut (15 pts)</h2>
+<section id="q1-epidural-steroid-injection-payment-cut-15-pts" class="level2">
+<h2 class="anchored" data-anchor-id="q1-epidural-steroid-injection-payment-cut-15-pts">Q1 — Epidural steroid injection payment cut (15 pts)</h2>
 <p>In January 2014, CMS reduced its payments to physicians for epidural steroidal injections (CPT codes 62310, 62311, 62318, 62319) as part of adjusting “potentially misvalued services,” then raised them again in 2015. Use <code>medicare-physician-epidural.csv</code> (on the shared OneDrive, linked from Canvas), which has one row per physician and year for 2013 through 2015, with the physician’s specialty, state, the number of injections, and the average Medicare payment.</p>
 <ol type="a">
 <li><p>Compute the average number of injections per physician in each year, 2013–2015, and report the trend.</p></li>
@@ -313,8 +313,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Plot the corrected set of largest-responders over time and say, in one sentence, whether the 2015 rebound shows up and what that implies about physician responsiveness to payment.</p></li>
 </ol>
 </section>
-<section id="q5-physician-coding-and-the-2021-office-visit-change-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q5-physician-coding-and-the-2021-office-visit-change-15-pts">Q5 — Physician coding and the 2021 office-visit change (15 pts)</h2>
+<section id="q2-physician-coding-and-the-2021-office-visit-change-15-pts" class="level2">
+<h2 class="anchored" data-anchor-id="q2-physician-coding-and-the-2021-office-visit-change-15-pts">Q2 — Physician coding and the 2021 office-visit change (15 pts)</h2>
 <p>Physician agency shows up not only in how much care is delivered but in how that care is coded and billed. In January 2021, Medicare raised the payments for office visits (evaluation and management, or E&amp;M, codes) and changed the rules for choosing a visit’s level, letting physicians bill based on time or medical decision-making instead of the older, more demanding documentation requirements. That made the higher-level visits easier to bill. You will look for physicians’ coding response in Georgia’s Medicare data, using <code>medicare-physician-ga-office-visits.csv</code> (on the shared OneDrive, linked from Canvas), which has one row per physician, HCPCS code, and year, with the code’s description, the number of services, and the average Medicare payment. The file holds the office-visit codes along with a few other services, so part of the work is picking out the office visits. For the policy background, see the <a href="https://www.cms.gov/files/document/physician-fee-schedule-pfs-payment-officeoutpatient-evaluation-and-management-em-visits-fact-sheet.pdf">CMS fact sheet on office/outpatient E&amp;M visits</a>.</p>
 <ol type="a">
 <li><p><strong>(3 points) Find the office-visit codes and their levels.</strong> Identify the office-visit E&amp;M codes in the data and how they run from lower to higher level (for example, established-patient visits 99211 through 99215). Confirm your set against the code descriptions in the data, and say briefly how the levels differ.</p></li>
