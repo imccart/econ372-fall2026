@@ -47,8 +47,8 @@ Each panel runs in two stages. First the panel fields a set of questions I put t
 them, then the floor opens and the rest of the class asks the questions. As a
 **panelist** you're scored out of 25 on a short, concrete checklist (whether you
 answered the question put to you, whether your answer drew on the assigned
-reading, and whether you built on another panelist), so the payoff is coming with
-the reading done, not talking the most. Everyone is drawn at least once and most
+reading, and whether you built on another panelist), so what earns points is coming
+prepared with the reading, not talking the most. Everyone is drawn at least once and most
 are drawn twice, and your **best panel** counts, so a single off day won't sink
 you.
 
@@ -75,7 +75,7 @@ reworded.
 Each panel's guide is linked above; skim the one for the upcoming panel as you do
 the reading.
 
-The last class flips the format into a **reverse panel**, where invited guests
+The last class runs as a **reverse panel**, where invited guests
 put the questions to you, now that you're the experts.
 
 ## Simulations
@@ -114,27 +114,21 @@ be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose
 through quizzes and the midterm. The homeworks are where you work with real
 health care data.
 
-**You are required to use an AI coding assistant** — GitHub Copilot is free with
-your Emory GitHub account, or use the tool of your choice. Let it write the R or
-Python. The mechanical coding is assumed to be free now, which is exactly why
-these assignments ask for genuine data work rather than the pre-cleaned,
-Excel-friendly exercises of past years. Your job is not to produce code. Your
-job is to direct the tool, check what it returns, and interpret it as a health
-economist. The AI will frequently hand you a confident, clean, and **wrong**
-answer, and catching that is the point of the assignment.
+**You are expected to use an AI coding assistant.** GitHub Copilot is free with
+your Emory GitHub account, or use the tool of your choice, and let it write the R
+or Python. Producing the code is not the skill being graded. Directing the tool,
+checking that the output makes sense, and interpreting the result in the language
+of this course is. That is also why these assignments ask for genuine data work
+rather than the pre-cleaned, Excel-ready exercises of past years.
 
 **Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
-code, its output, and your written answers. Each part is worth 3 points:
+code, its output, and your written answers. Each part is graded on this scale,
+scaled to the points shown for that part:
 
-- **3 points:** correct, with sound economic reasoning
-- **2 points:** close, minor error or thin reasoning
-- **1 point:** attempted but the economic judgment is missing or wrong
-- **0 points:** no work, or the unexamined AI output pasted in
-
-Somewhere in each notebook you must include a **verification note**: one
-specific point where the AI's first output was wrong, incomplete, or misleading,
-and an explanation *in economic terms* of how you knew. "It ran without errors"
-does not count.
+- **Full credit:** correct, with sound economic reasoning.
+- **Partial credit:** close, with a minor error or thin reasoning.
+- **Little credit:** attempted, but the economic reasoning is missing or wrong.
+- **No credit:** no real work, or output pasted in with no interpretation.
 
 ## Getting started
 
