@@ -1,0 +1,53 @@
+---
+title: "Probability and Statistics"
+---
+
+Throughout the course, we'll use a handful of basic statistics concepts. Below is some review material to help you get back up-to-speed with the necessary statistical concepts for the class.
+
+## Distributions
+
+A distribution in statistics describes how the values of a random variable are spread or dispersed over possible outcomes. Distributions can represent both discrete and continuous variables. For discrete variables, the probability mass function (PMF) assigns a probability to each possible outcome. For continuous variables, the probability density function (PDF) represents how likely a random variable is to take a value within a certain range. The PDF doesn't give probabilities directly but rather describes the density of probabilities over an interval; the area under the curve of a PDF between two points gives the probability that the variable falls within that range.
+
+The cumulative distribution function (CDF) is another important concept related to distributions. It gives the probability that a random variable is less than or equal to a certain value. For continuous variables, the CDF is the integral of the PDF, and it ranges from 0 to 1 as the variable progresses from its minimum to maximum possible values. The CDF provides a way to understand the cumulative probability up to a given point and is useful for comparing probabilities across different intervals of a distribution. Both PDFs and CDFs are essential in understanding and analyzing the behavior of random variables in probability and statistics.
+
+While we won't work much with any distributions directly, the concept of distributions will arise when we discuss physician learning. We will make several simplyfying assumptions to avoid doing much mathematical work with these distributions; however, it might be useful to understand key terms such as a "binomial", "Bernoulli", and the "Beta" distributions.
+
+
+## Bayes Theorem
+
+Bayes' Theorem is a fundamental concept in probability theory that allows us to update our beliefs based on new evidence. It relates the conditional probability of an event, given prior knowledge, to the likelihood of that event happening. In simple terms, Bayes' Theorem helps us revise the probability of an event (such as having a disease) based on the accuracy of a test and the prior probability of the event occurring in the population. This theorem is particularly useful in fields like medical diagnostics, decision-making, and machine learning.
+
+For two events, A and B, Bayes' Theorem formula is as follows:
+
+$$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
+
+As an example, suppose 1% of a population has a rare disease. A diagnostic test for this disease is 90% accurate, meaning that it correctly identifies 90% of people with the disease (true positive) and 90% of people without the disease (true negative). If a person tests positive, what is the probability that they actually have the disease?
+
+Where:
+- $P(A)$ is the probability of having the disease (prior probability).
+- $P(B|A)$ is the probability of testing positive given that the person has the disease (test sensitivity).
+- $P(B|\neg A)$ is the probability of testing positive given that the person does not have the disease (false positive rate).
+- $P(B)$ is the total probability of testing positive, regardless of the actual disease status.
+
+We are looking to calculate $P(A|B)$, which is the probability of having the disease given a positive test result.
+
+```r
+# Define the known probabilities
+P_A <- 0.01    # Probability of having the disease
+P_not_A <- 1 - P_A   # Probability of not having the disease
+P_B_given_A <- 0.90  # Probability of testing positive given disease
+P_B_given_not_A <- 0.10  # Probability of testing positive without disease
+
+# Calculate the total probability of testing positive (P(B))
+P_B <- (P_B_given_A * P_A) + (P_B_given_not_A * P_not_A)
+
+# Apply Bayes' Theorem to find P(A|B) - Probability of having the disease given a positive test
+P_A_given_B <- (P_B_given_A * P_A) / P_B
+
+# Display the result
+P_A_given_B
+```
+
+Even though the test is 90% accurate, the probability of actually having the disease given a positive test result is only about 8.3%. This is because the disease is rare, affecting only 1% of the population. 
+
+Thus, it's essential to consider both the accuracy of the test and the prevalence of the disease when interpreting diagnostic test results.

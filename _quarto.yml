@@ -36,8 +36,6 @@ website:
         file: schedule/index.qmd
       - text: "Assignments"
         file: assignments/index.qmd
-      - text: "Resources"
-        file: resources/index.qmd
       - icon: github
         href: "https://github.com/imccart/econ372-fall2026"
         aria-label: GitHub
@@ -85,12 +83,6 @@ website:
               file: assignments/homework2.qmd
             - text: "Homework 3"
               file: assignments/homework3.qmd
-
-    - title: "Resources"
-      style: "docked"
-      background: dark
-      contents:
-        - resources/index.qmd
 
   page-footer:
     left: |

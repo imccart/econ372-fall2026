@@ -135,3 +135,12 @@ Somewhere in each notebook you must include a **verification note**: one
 specific point where the AI's first output was wrong, incomplete, or misleading,
 and an explanation *in economic terms* of how you knew. "It ran without errors"
 does not count.
+
+## Getting started
+
+New to R, or to reading empirical papers? A few resources that help with the
+homework:
+
+- [How to read an academic article](https://guides.libraries.emory.edu/c.php?g=971000&p=7017430) (Emory Libraries).
+- [R for Data Science](https://r4ds.hadley.nz/) --- the standard, free introduction to R.
+- [R Language Basics](https://raw.githack.com/uo-ec607/lectures/master/04-rlang/04-rlang.html) and [Data cleaning and wrangling in R](https://raw.githack.com/uo-ec607/lectures/master/05-tidyverse/05-tidyverse.html), both by Grant McDermott.

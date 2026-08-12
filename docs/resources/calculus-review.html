@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Economics of Health Care Markets</title>
+<title>Calculus Review – Economics of Health Care Markets</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,24 +27,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-9de9f6925d305bcf5b7eb9351f368d06.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3161dce852751d533280a25753aabf48.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-9de9f6925d305bcf5b7eb9351f368d06.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-3161dce852751d533280a25753aabf48.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,17 +73,46 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Economics of Health Care Markets</span>
     </a>
   </div>
@@ -94,15 +123,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./schedule/index.html"> 
+    <a class="nav-link" href="../schedule/index.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./assignments/index.html"> 
+    <a class="nav-link" href="../assignments/index.html"> 
 <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item compact">
@@ -118,58 +147,105 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#functions" id="toc-functions" class="nav-link active" data-scroll-target="#functions">Functions</a></li>
+  <li><a href="#simple-derivatives" id="toc-simple-derivatives" class="nav-link" data-scroll-target="#simple-derivatives">Simple derivatives</a></li>
+  <li><a href="#optimization" id="toc-optimization" class="nav-link" data-scroll-target="#optimization">Optimization</a></li>
+  <li><a href="#rules-of-differentiation" id="toc-rules-of-differentiation" class="nav-link" data-scroll-target="#rules-of-differentiation">Rules of differentiation</a></li>
+  <li><a href="#partial-derivatives" id="toc-partial-derivatives" class="nav-link" data-scroll-target="#partial-derivatives">Partial derivatives</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
+<main class="content" id="quarto-document-content">
 
-
-
-
-<style>
-.content-block {
-  padding-top: 20px;
-  padding-bottom: 10px;
-  margin-left: 30px;
-  margin-right: 30px;
-}
-
-@media(min-width: 900px) {
-  .content-block {
-    margin-left: 50px;
-    margin-right: 50px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .content-block {
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-}
-</style>
-<section id="economics-of-health-care-markets" class="level1 content-block">
-<h1>Economics of Health Care Markets</h1>
-<div class="text-secondary fs-4">
-<p>Use the tools of microeconomic theory and basic data analysis to understand insurance markets, health care decision making, hospital pricing and competition, and pharmaceutical innovation</p>
-<p>Fall 2026<br> Department of Economics<br> Emory University<br> <strong>Follow us!</strong> <a href="https://twitter.com/emoryeconomics"><i class="fa-brands fa-twitter" aria-label="twitter"></i></a>, <a href="https://www.linkedin.com/company/emory-university-department-of-economics"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a>, <a href="https://www.facebook.com/EmoryEcon/"><i class="fa-brands fa-facebook" aria-label="facebook"></i></a>, and <a href="https://www.instagram.com/econemory/"><i class="fa-brands fa-instagram" aria-label="instagram"></i></a></p>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Calculus Review</h1>
 </div>
-<hr>
-<div class="grid">
-<section id="instructor" class="level2 g-col-6">
-<h2 data-anchor-id="instructor">Instructor</h2>
-<p><i class="fa-solid fa-user" aria-label="user"></i> <a href="https://www.ianmccarthyecon.com">Ian McCarthy</a><br> <i class="fa-solid fa-university" aria-label="university"></i> R. Rollins, R418<br> <i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:ian.mccarthy@emory.edu">ian.mccarthy@emory.edu</a><br> <i class="fa-brands fa-twitter" aria-label="twitter"></i> <a href="https://twitter.com/ianhealthecon">@ianhealthecon</a><br> <i class="fa-solid fa-calendar-check" aria-label="calendar-check"></i> <a href="https://mccarthy-meetings.youcanbook.me/">Schedule an appointment</a></p>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Throughout the course, we’ll use a handful of elementary concepts from calculus. These basic tools are straightforward and easily mastered. In fact, you have already used calculus when you considered marginal revenue and marginal cost in your other economics classes. Here, I provide some review material to help you get back up-to-speed with the necessary mathematical concepts for this class.</p>
+<section id="functions" class="level2">
+<h2 class="anchored" data-anchor-id="functions">Functions</h2>
+<p>A function is just a formal way in which inputs (a functions arguments) are converted into an output. For example, a firm’s total revenue (TR) is a function of the amount they produce (Q), such that: <span class="math display">\[TR = TR(Q).\]</span> This means that total revenue depends on <span class="math inline">\(Q\)</span>, the quantity of product produced and sold. Total cost is also a function of <span class="math inline">\(Q\)</span>: <span class="math display">\[TC = TC(Q).\]</span></p>
+<p>As a more explicit example, suppose that the inverse demand for a firm is <span class="math display">\[P = 100 - 0.10Q,\]</span> where <span class="math inline">\(P\)</span> denotes price and <span class="math inline">\(Q\)</span> denotes quantity. Since total revenue is the product of price and quantity, we have <span class="math display">\[TR = P \times Q = (100 - 0.10Q) \times Q = 100Q - 0.10Q^2.\]</span> Thus, total revenue is a function of quantity produced and sold.</p>
+<p>Some functions are more complicated. Producing health care, for example, requires a hospital or some facility (<span class="math inline">\(x_{1}\)</span>); lots of equipment and medical supplies (<span class="math inline">\(x_{2}\)</span>); and physicians, nurses, and staff (<span class="math inline">\(x_{3}\)</span>). We can write the production function of hospitals as <span class="math display">\[Q = f(x_{1}, x_{2}, x_{3}),\]</span> where <span class="math inline">\(Q\)</span> denotes the “amount” of health care provided and <span class="math inline">\(f()\)</span> represents the production technology that converts inputs into outputs.</p>
 </section>
-<section id="course-details" class="level2 g-col-6">
-<h2 data-anchor-id="course-details">Course Details</h2>
-<p><i class="fa-solid fa-calendar-alt" aria-label="calendar-alt"></i> 8-26-2026 to 12-9-2026<br> <i class="fa-solid fa-calendar" aria-label="calendar"></i> Tuesday &amp; Thursday<br> <i class="fa-solid fa-clock" aria-label="clock"></i> 2:30pm to 3:45pm<br> <i class="fa-solid fa-university" aria-label="university"></i> New Psychology Building 225</p>
+<section id="simple-derivatives" class="level2">
+<h2 class="anchored" data-anchor-id="simple-derivatives">Simple derivatives</h2>
+<p><em>Marginal analysis</em> involves analyzing the response of some outcome variable to a very small change in some other explanatory variable. Mathematically, these marginal effects are derivatives. For example, the derivative of <span class="math inline">\(TR=TR(Q)\)</span> measures the rate of change in total revenue with respect to a small change in <span class="math inline">\(Q\)</span>. The derivative of a function is the slope of that function at a given point. By way of notation, we’ll write <span class="math inline">\(\frac{\mathrm{d} TR}{\mathrm{d} Q}\)</span> to represent the derivative of TR with respect to <span class="math inline">\(Q\)</span>. More generally, if <span class="math inline">\(y=f(x)\)</span>, then <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x}\)</span> is the derivative of <span class="math inline">\(y\)</span> with respect to <span class="math inline">\(x\)</span>. We will also write this as <span class="math inline">\(f'(x)\)</span>.</p>
+<p>As an example, consider the total revenue function, <span class="math inline">\(TR = 100Q - 0.10Q^{2}\)</span>. What is the derivative of the total revenue function at <span class="math inline">\(Q=10\)</span>? Well, we know <span class="math inline">\(\frac{\mathrm{d} TR}{\mathrm{d} Q} = 100 - 0.20Q\)</span>, so plugging in <span class="math inline">\(Q=10\)</span> yields <span class="math inline">\(98\)</span>. So at a level of production of <span class="math inline">\(Q=10\)</span>, we know that our total revenue increases by 98 for one more unit produced.</p>
 </section>
-</div>
+<section id="optimization" class="level2">
+<h2 class="anchored" data-anchor-id="optimization">Optimization</h2>
+<p>A common theme in all of economics is that firms and individuals optimize (i.e., maximize some objective function given their current information and constraints). In most simple cases, the optimum of a function occurs where the slope of that function (i.e., the first derivative) equals zero.</p>
+<p>For example, suppose that total revenue is <span class="math display">\[TR = 100Q - 0.10Q^{2},\]</span> and assume that want to choose <span class="math inline">\(Q\)</span> so as to maximize our total revenue (we’ll ignore costs for now). We can find this revenue-maximizing level of <span class="math inline">\(Q\)</span> by taking the derivative and setting it equal to 0, <span class="math display">\[\frac{\mathrm{d} TR}{\mathrm{d} Q} = 100 - 0.20Q.\]</span> In other words, we know that the function is maximized when the derivative is 0, so we’re going to find the level of <span class="math inline">\(Q\)</span> where that condition is satisfied. In our case, that is for <span class="math inline">\(Q\)</span> such that <span class="math inline">\(100 - 0.20Q=0\)</span>, or <span class="math inline">\(Q=500\)</span>. So a quantity of 500 maximizes total revenue.</p>
+</section>
+<section id="rules-of-differentiation" class="level2">
+<h2 class="anchored" data-anchor-id="rules-of-differentiation">Rules of differentiation</h2>
+<p>There are several rules, or shortcuts, for finding derivatives of common functional forms. These rules are mechanical, but they are useful to remember and only require some basic alebra.</p>
+<ol type="1">
+<li><p><em>The derivative of a constant is 0</em></p></li>
+<li><p><em>The power rule</em></p></li>
+</ol>
+<p>Consider the function, <span class="math inline">\(y=f(x)=x^{n}\)</span>. The derivative of <span class="math inline">\(y\)</span> is <span class="math inline">\(f'(x) = n x^{n-1}\)</span>. For example:</p>
+<ul>
+<li><p>If <span class="math inline">\(y=x^{3}\)</span>, the derivative is <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x} = 3x^{2}\)</span>.</p></li>
+<li><p>If <span class="math inline">\(y=x^{-2}\)</span>, the derivative is <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x} = -2x^{-3}\)</span>.</p></li>
+<li><p>If <span class="math inline">\(y=x\)</span>, the derivative is <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x} = x^{0} = 1\)</span>.</p></li>
+</ul>
+<ol start="3" type="1">
+<li><em>Constant multiples</em></li>
+</ol>
+<p>Let <span class="math inline">\(k\)</span> be any constant. Then if <span class="math inline">\(y=k x^{n}\)</span>, the derivative is <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x} = n k x^{n-1}\)</span>. For example:</p>
+<ul>
+<li>If <span class="math inline">\(y=2x^{4}\)</span>, the derivative is <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x} = 8x^{3}\)</span>.</li>
+<li>If <span class="math inline">\(y=-2x\)</span>, the derivative is <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x} = -2\)</span></li>
+</ul>
+<ol start="4" type="1">
+<li><em>The sum and difference rule</em></li>
+</ol>
+<p>Let <span class="math inline">\(y=f(x) + g(x)\)</span>. Then the derivative of <span class="math inline">\(y\)</span> is just the sum of the derivatives of <span class="math inline">\(f(x)\)</span> and <span class="math inline">\(g(x)\)</span>. Similarly, the derivative of <span class="math inline">\(y=f(x) - g(x)\)</span> is the difference of the derivatives of <span class="math inline">\(f(x)\)</span> and <span class="math inline">\(g(x)\)</span>. We just differentiate one term at a time.</p>
+<ol start="5" type="1">
+<li><em>Product rule</em></li>
+</ol>
+<p>If <span class="math inline">\(y=f(x) \times g(x)\)</span>, then ther derivative is <span class="math display">\[\frac{\mathrm{d} y}{\mathrm{d} x} = f(x) \times \frac{\mathrm{d} g(x)}{\mathrm{d} x} + g(x) \times \frac{\mathrm{d} f(x)}{\mathrm{d} x}.\]</span> In words, this is “the derivative of the first times the second plus the derivative of the second times the first. For example:</p>
+<p>If <span class="math inline">\(y=(3x^{2} + 5)(x^{2}+1)\)</span>, the derivative is <span class="math inline">\(\frac{\mathrm{d} y}{\mathrm{d} x} = 6x \times (x^{2} + 1) + 2x \times (3x^{2} + 5)\)</span>.</p>
+<ol start="6" type="1">
+<li><em>Chain rule</em></li>
+</ol>
+<p>We use the chain rule when our dependent variable is a function of another function. For example, revenue is a function of <span class="math inline">\(Q\)</span>, which in turn may be a function of production inputs. Suppose that our short-run production function is <span class="math inline">\(Q=Q(L)\)</span>, where <span class="math inline">\(L\)</span> is quantity of labor. The firm faces an inverse demand function, <span class="math inline">\(P=P(Q)\)</span>, such that revenue is <span class="math display">\[TR = P(Q) \times Q(L).\]</span> So revenue is a function of <span class="math inline">\(Q\)</span>, which is itself a function of <span class="math inline">\(L\)</span>.</p>
+<p>To find the derivative with respect to <span class="math inline">\(L\)</span>, we differentiate <span class="math inline">\(P(Q) \times Q\)</span> using the product rule, and then multiply the result by the derivative of <span class="math inline">\(Q\)</span> with respect to <span class="math inline">\(L\)</span>: <span class="math display">\[\frac{\mathrm{d} TR}{\mathrm{d} L} = \left(P(Q) + Q \times \frac{\mathrm{d} P(Q)}{\mathrm{d} Q} \right) \frac{\mathrm{d} Q}{\mathrm{d} L}.\]</span></p>
+</section>
+<section id="partial-derivatives" class="level2">
+<h2 class="anchored" data-anchor-id="partial-derivatives">Partial derivatives</h2>
+<p>If <span class="math inline">\(y=f(x,z)\)</span>, then we may want to know how changes in one of the independent variables affects the outcome while holding the remaining independent variables constant. This is what a partial derivative does. Essentially, you take the usual derivative, treating all of the other variables as constants. So all of the rules above apply here as well. For example, say we have <span class="math inline">\(y=3x^{2} + xz + 4z^{2}\)</span>, then <span class="math display">\[\frac{\partial y}{\partial x} = 6x + z,\]</span> and <span class="math display">\[\frac{\partial y}{\partial z} = x + 8z.\]</span></p>
+
+
 </section>
 
-
-
-
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

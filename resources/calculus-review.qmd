@@ -1,0 +1,63 @@
+---
+title: "Calculus Review"
+---
+
+Throughout the course, we'll use a handful of elementary concepts from calculus. These basic tools are straightforward and easily mastered. In fact, you have already used calculus when you considered marginal revenue and marginal cost in your other economics classes. Here, I provide some review material to help you get back up-to-speed with the necessary mathematical concepts for this class.
+
+## Functions
+A function is just a formal way in which inputs (a functions arguments) are converted into an output. For example, a firm's total revenue (TR) is a function of the amount they produce (Q), such that: $$TR = TR(Q).$$ This means that total revenue depends on $Q$, the quantity of product produced and sold. Total cost is also a function of $Q$: $$TC = TC(Q).$$
+
+As a more explicit example, suppose that the inverse demand for a firm is $$P = 100 - 0.10Q,$$ where $P$ denotes price and $Q$ denotes quantity. Since total revenue is the product of price and quantity, we have $$TR = P \times Q = (100 - 0.10Q) \times Q = 100Q - 0.10Q^2.$$ Thus, total revenue is a function of quantity produced and sold.
+
+Some functions are more complicated. Producing health care, for example, requires a hospital or some facility ($x_{1}$); lots of equipment and medical supplies ($x_{2}$); and physicians, nurses, and staff ($x_{3}$). We can write the production function of hospitals as $$Q = f(x_{1}, x_{2}, x_{3}),$$ where $Q$ denotes the "amount" of health care provided and $f()$ represents the production technology that converts inputs into outputs. 
+
+## Simple derivatives
+*Marginal analysis* involves analyzing the response of some outcome variable to a very small change in some other explanatory variable. Mathematically, these marginal effects are derivatives. For example, the derivative of $TR=TR(Q)$ measures the rate of change in total revenue with respect to a small change in $Q$. The derivative of a function is the slope of that function at a given point. By way of notation, we'll write $\frac{\mathrm{d} TR}{\mathrm{d} Q}$ to represent the derivative of TR with respect to $Q$. More generally, if $y=f(x)$, then $\frac{\mathrm{d} y}{\mathrm{d} x}$ is the derivative of $y$ with respect to $x$. We will also write this as $f'(x)$.
+
+As an example, consider the total revenue function, $TR = 100Q - 0.10Q^{2}$. What is the derivative of the total revenue function at $Q=10$? Well, we know $\frac{\mathrm{d} TR}{\mathrm{d} Q} = 100 - 0.20Q$, so plugging in $Q=10$ yields $98$. So at a level of production of $Q=10$, we know that our total revenue increases by 98 for one more unit produced. 
+
+## Optimization
+A common theme in all of economics is that firms and individuals optimize (i.e., maximize some objective function given their current information and constraints). In most simple cases, the optimum of a function occurs where the slope of that function (i.e., the first derivative) equals zero. 
+
+For example, suppose that total revenue is $$TR = 100Q - 0.10Q^{2},$$ and assume that want to choose $Q$ so as to maximize our total revenue (we'll ignore costs for now). We can find this revenue-maximizing level of $Q$ by taking the derivative and setting it equal to 0, $$\frac{\mathrm{d} TR}{\mathrm{d} Q} = 100 - 0.20Q.$$ In other words, we know that the function is maximized when the derivative is 0, so we're going to find the level of $Q$ where that condition is satisfied. In our case, that is for $Q$ such that $100 - 0.20Q=0$, or $Q=500$. So a quantity of 500 maximizes total revenue.
+
+## Rules of differentiation
+There are several rules, or shortcuts, for finding derivatives of common functional forms. These rules are mechanical, but they are useful to remember and only require some basic alebra. 
+
+1. *The derivative of a constant is 0*
+
+2. *The power rule*
+
+Consider the function, $y=f(x)=x^{n}$. The derivative of $y$ is $f'(x) = n x^{n-1}$. For example:
+
+  - If $y=x^{3}$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = 3x^{2}$.
+  
+  - If $y=x^{-2}$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = -2x^{-3}$.
+  
+  - If $y=x$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = x^{0} = 1$.
+  
+3. *Constant multiples*
+
+Let $k$ be any constant. Then if $y=k x^{n}$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = n k x^{n-1}$. For example:
+
+  - If $y=2x^{4}$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = 8x^{3}$.
+  - If $y=-2x$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = -2$
+  
+4. *The sum and difference rule*
+
+Let $y=f(x) + g(x)$. Then the derivative of $y$ is just the sum of the derivatives of $f(x)$ and $g(x)$. Similarly, the derivative of $y=f(x) - g(x)$ is the difference of the derivatives of $f(x)$ and $g(x)$. We just differentiate one term at a time.
+
+5. *Product rule*
+
+If $y=f(x) \times g(x)$, then ther derivative is $$\frac{\mathrm{d} y}{\mathrm{d} x} = f(x) \times \frac{\mathrm{d} g(x)}{\mathrm{d} x} + g(x) \times \frac{\mathrm{d} f(x)}{\mathrm{d} x}.$$ In words, this is "the derivative of the first times the second plus the derivative of the second times the first. For example:
+
+If $y=(3x^{2} + 5)(x^{2}+1)$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = 6x \times (x^{2} + 1) + 2x \times (3x^{2} + 5)$.
+  
+6. *Chain rule*
+
+We use the chain rule when our dependent variable is a function of another function. For example, revenue is a function of $Q$, which in turn may be a function of production inputs. Suppose that our short-run production function is $Q=Q(L)$, where $L$ is quantity of labor. The firm faces an inverse demand function, $P=P(Q)$, such that revenue is $$TR = P(Q) \times Q(L).$$ So revenue is a function of $Q$, which is itself a function of $L$. 
+
+To find the derivative with respect to $L$, we differentiate $P(Q) \times Q$ using the product rule, and then multiply the result by the derivative of $Q$ with respect to $L$: $$\frac{\mathrm{d} TR}{\mathrm{d} L} = \left(P(Q) + Q \times \frac{\mathrm{d} P(Q)}{\mathrm{d} Q} \right) \frac{\mathrm{d} Q}{\mathrm{d} L}.$$
+
+## Partial derivatives
+If $y=f(x,z)$, then we may want to know how changes in one of the independent variables affects the outcome while holding the remaining independent variables constant. This is what a partial derivative does. Essentially, you take the usual derivative, treating all of the other variables as constants. So all of the rules above apply here as well. For example, say we have $y=3x^{2} + xz + 4z^{2}$, then $$\frac{\partial y}{\partial x} = 6x + z,$$ and $$\frac{\partial y}{\partial z} = x + 8z.$$

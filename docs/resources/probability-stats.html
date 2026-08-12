@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Resources – Economics of Health Care Markets</title>
+<title>Probability and Statistics – Economics of Health Care Markets</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -23,6 +23,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -73,10 +108,39 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -105,10 +169,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../assignments/index.html"> 
 <span class="menu-text">Assignments</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../resources/index.html" aria-current="page"> 
-<span class="menu-text">Resources</span></a>
-  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/imccart/econ372-fall2026"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
@@ -120,48 +180,32 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/index.html">Resources</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Resources</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#distributions" id="toc-distributions" class="nav-link active" data-scroll-target="#distributions">Distributions</a></li>
+  <li><a href="#bayes-theorem" id="toc-bayes-theorem" class="nav-link" data-scroll-target="#bayes-theorem">Bayes Theorem</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Resources</h1>
+<h1 class="title">Probability and Statistics</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta">
 
     
   
@@ -173,15 +217,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Practice worksheets, review materials, and supplemental readings will be posted here through the term.</p>
-<p>In the meantime, the main course materials live alongside this site:</p>
-<ul>
-<li><strong>Slides</strong> for each module, linked from the <a href="../schedule/index.html">schedule</a>.</li>
-<li>The <strong>online book</strong> for the course (a work in progress).</li>
-<li><strong>All Day TA</strong>, a course-trained practice and Q&amp;A assistant for working through the material outside of class.</li>
-</ul>
+<p>Throughout the course, we’ll use a handful of basic statistics concepts. Below is some review material to help you get back up-to-speed with the necessary statistical concepts for the class.</p>
+<section id="distributions" class="level2">
+<h2 class="anchored" data-anchor-id="distributions">Distributions</h2>
+<p>A distribution in statistics describes how the values of a random variable are spread or dispersed over possible outcomes. Distributions can represent both discrete and continuous variables. For discrete variables, the probability mass function (PMF) assigns a probability to each possible outcome. For continuous variables, the probability density function (PDF) represents how likely a random variable is to take a value within a certain range. The PDF doesn’t give probabilities directly but rather describes the density of probabilities over an interval; the area under the curve of a PDF between two points gives the probability that the variable falls within that range.</p>
+<p>The cumulative distribution function (CDF) is another important concept related to distributions. It gives the probability that a random variable is less than or equal to a certain value. For continuous variables, the CDF is the integral of the PDF, and it ranges from 0 to 1 as the variable progresses from its minimum to maximum possible values. The CDF provides a way to understand the cumulative probability up to a given point and is useful for comparing probabilities across different intervals of a distribution. Both PDFs and CDFs are essential in understanding and analyzing the behavior of random variables in probability and statistics.</p>
+<p>While we won’t work much with any distributions directly, the concept of distributions will arise when we discuss physician learning. We will make several simplyfying assumptions to avoid doing much mathematical work with these distributions; however, it might be useful to understand key terms such as a “binomial”, “Bernoulli”, and the “Beta” distributions.</p>
+</section>
+<section id="bayes-theorem" class="level2">
+<h2 class="anchored" data-anchor-id="bayes-theorem">Bayes Theorem</h2>
+<p>Bayes’ Theorem is a fundamental concept in probability theory that allows us to update our beliefs based on new evidence. It relates the conditional probability of an event, given prior knowledge, to the likelihood of that event happening. In simple terms, Bayes’ Theorem helps us revise the probability of an event (such as having a disease) based on the accuracy of a test and the prior probability of the event occurring in the population. This theorem is particularly useful in fields like medical diagnostics, decision-making, and machine learning.</p>
+<p>For two events, A and B, Bayes’ Theorem formula is as follows:</p>
+<p><span class="math display">\[P(A|B) = \frac{P(B|A)P(A)}{P(B)}\]</span></p>
+<p>As an example, suppose 1% of a population has a rare disease. A diagnostic test for this disease is 90% accurate, meaning that it correctly identifies 90% of people with the disease (true positive) and 90% of people without the disease (true negative). If a person tests positive, what is the probability that they actually have the disease?</p>
+<p>Where: - <span class="math inline">\(P(A)\)</span> is the probability of having the disease (prior probability). - <span class="math inline">\(P(B|A)\)</span> is the probability of testing positive given that the person has the disease (test sensitivity). - <span class="math inline">\(P(B|\neg A)\)</span> is the probability of testing positive given that the person does not have the disease (false positive rate). - <span class="math inline">\(P(B)\)</span> is the total probability of testing positive, regardless of the actual disease status.</p>
+<p>We are looking to calculate <span class="math inline">\(P(A|B)\)</span>, which is the probability of having the disease given a positive test result.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define the known probabilities</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>P_A <span class="ot">&lt;-</span> <span class="fl">0.01</span>    <span class="co"># Probability of having the disease</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>P_not_A <span class="ot">&lt;-</span> <span class="dv">1</span> <span class="sc">-</span> P_A   <span class="co"># Probability of not having the disease</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>P_B_given_A <span class="ot">&lt;-</span> <span class="fl">0.90</span>  <span class="co"># Probability of testing positive given disease</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>P_B_given_not_A <span class="ot">&lt;-</span> <span class="fl">0.10</span>  <span class="co"># Probability of testing positive without disease</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate the total probability of testing positive (P(B))</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>P_B <span class="ot">&lt;-</span> (P_B_given_A <span class="sc">*</span> P_A) <span class="sc">+</span> (P_B_given_not_A <span class="sc">*</span> P_not_A)</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply Bayes' Theorem to find P(A|B) - Probability of having the disease given a positive test</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>P_A_given_B <span class="ot">&lt;-</span> (P_B_given_A <span class="sc">*</span> P_A) <span class="sc">/</span> P_B</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co"># Display the result</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>P_A_given_B</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Even though the test is 90% accurate, the probability of actually having the disease given a positive test result is only about 8.3%. This is because the disease is rare, affecting only 1% of the population.</p>
+<p>Thus, it’s essential to consider both the accuracy of the test and the prevalence of the disease when interpreting diagnostic test results.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

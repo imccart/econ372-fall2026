@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://econ372f26.classes.ianmccarthyecon.com/syllabus.html</loc>
-    <lastmod>2026-06-26T19:04:18.508Z</lastmod>
+    <lastmod>2026-08-12T02:11:56.389Z</lastmod>
   </url>
   <url>
-    <loc>https://econ372f26.classes.ianmccarthyecon.com/resources/index.html</loc>
-    <lastmod>2026-06-15T16:33:55.369Z</lastmod>
+    <loc>https://econ372f26.classes.ianmccarthyecon.com/resources/probability-stats.html</loc>
+    <lastmod>2026-08-12T02:10:53.848Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ372f26.classes.ianmccarthyecon.com/resources/calculus-practice.html</loc>
+    <lastmod>2026-08-12T02:10:53.752Z</lastmod>
   </url>
   <url>
     <loc>https://econ372f26.classes.ianmccarthyecon.com/assignments/panel8.html</loc>
@@ -26,7 +30,7 @@
   </url>
   <url>
     <loc>https://econ372f26.classes.ianmccarthyecon.com/assignments/index.html</loc>
-    <lastmod>2026-08-12T01:43:52.887Z</lastmod>
+    <lastmod>2026-08-12T02:12:06.376Z</lastmod>
   </url>
   <url>
     <loc>https://econ372f26.classes.ianmccarthyecon.com/assignments/homework2.html</loc>
@@ -59,6 +63,10 @@
   <url>
     <loc>https://econ372f26.classes.ianmccarthyecon.com/index.html</loc>
     <lastmod>2026-06-15T14:17:38.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ372f26.classes.ianmccarthyecon.com/resources/calculus-review.html</loc>
+    <lastmod>2026-08-12T02:10:53.704Z</lastmod>
   </url>
   <url>
     <loc>https://econ372f26.classes.ianmccarthyecon.com/schedule/index.html</loc>

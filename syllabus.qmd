@@ -9,7 +9,7 @@ format: html
 
 This course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We will focus specifically on insurance markets, informational asymmetries between physicians and patients, hospital pricing and competition, and prescription drug markets.
 
-**Prerequisites:** Economics 101 (Principles of Microeconomics). Some basic knowledge of calculus and derivatives is also required, but not necessarily the official Math 111 (Calculus I) course at Emory.
+**Prerequisites:** Economics 101 (Principles of Microeconomics). Some basic knowledge of calculus and derivatives is also required, but not necessarily the official Math 111 (Calculus I) course at Emory. To see where you stand, work through the math review before the term begins --- a [calculus review](resources/calculus-review.qmd), a short set of [practice problems](resources/calculus-practice.qmd), and a [probability and statistics](resources/probability-stats.qmd) refresher. If these come easily, you are in good shape for the class.
 
 ## Learning outcomes
 
