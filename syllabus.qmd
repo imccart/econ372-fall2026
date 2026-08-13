@@ -83,7 +83,7 @@ We have an excellent economics PhD student as our teaching assistant this year. 
 
 Most of this course is assessed **in class**, so there is little to turn in outside of the empirical homework.
 
-  - **Empirical homework** is submitted as a **rendered notebook** (Quarto or Jupyter) on Canvas --- a single document containing your code, its output, your written answers, and a short verification note (see [AI and assignments](#ai-and-assignments)). Please make sure the rendered file is legible and well organized; misaligned or unreadable submissions will be treated as late until corrected.
+  - **Empirical homework** is submitted as a **rendered notebook** (Quarto or Jupyter) on Canvas --- a single document containing your code, its output, and your written answers. Please make sure the rendered file is legible and well organized; misaligned or unreadable submissions will be treated as late until corrected.
   - **Quizzes** are taken in class through our class platform (Commons), are timed, and are graded automatically.
   - **The midterm** is taken in class.
 
@@ -97,7 +97,7 @@ The Emory University Honor Code is taken seriously and governs all work in this 
 
 This course treats AI tools as a normal part of doing applied economics, and the policy depends on the assessment.
 
-On the **empirical homework, AI use is expected.** Modern AI assistants can write clean code and produce plausible output for free, and equally for everyone. That means the code itself is no longer the skill being graded. What is graded is the economic judgment around it --- choosing the right comparison, checking that the output makes sense, catching the assistant when it is confidently wrong, and interpreting the result in the language of this course. Each homework asks you to flag, somewhere in your submission, one specific point where the AI's first answer was wrong, incomplete, or misleading, and to explain in economic terms how you knew. "It ran without errors" does not count. The goal is to grade the catch, not the craft.
+On the **empirical homework, AI use is expected.** Modern AI assistants can write clean code and produce plausible output for free, and equally for everyone. That means the code itself is no longer the skill being graded. What is graded is the economic judgment around it --- choosing the right comparison, checking that the output makes sense, catching the assistant when it is confidently wrong, and interpreting the result in the language of this course.
 
 On **quizzes and the midterm, AI is not used.** These are completed individually and in class, and they assess your own understanding of the material. Representing AI-generated work as your own where it is not permitted, or using prohibited aids during in-class assessments, is a violation of the Honor Code.
 
