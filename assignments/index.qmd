@@ -3,14 +3,14 @@ title: "Assignments"
 toc: false
 ---
 
-This page describes each graded component for the semester. Most of your grade
-is earned **in class** — class participation, panels, simulations, quizzes, and
-the midterm. The take-home portion is three short empirical homeworks. Details
-for each homework live on its own page; check the due dates carefully.
+This page describes each graded component for the semester. Most of the grade is
+earned in class, through class participation, panels, simulations, quizzes, and
+the midterm. The take-home part is three empirical homeworks, each described on
+its own page.
 
 ## Grade at a glance
 
-The course is worth **300 points total**, with 80% earned in class.
+The course is worth 300 points, with about 80 percent earned in class.
 
 | Component | Points | How it works |
 |---|---:|---|
@@ -21,47 +21,39 @@ The course is worth **300 points total**, with 80% earned in class.
 | Midterm | 60 | One in-class exam |
 | Empirical homework | 60 | Best 2 of 3, 30 pts each |
 
-Every in-class component has more opportunities than you need for full credit,
-so an occasional absence or off day will not sink your grade. The syllabus has
-the complete policy.
+Each in-class component has more chances to earn points than you need for full
+credit, so an occasional absence will not lower your grade.
 
 ## Class participation
 
-Attendance and engagement are the everyday in-class points, 50 points in all,
-handled through our course platform.
+Class participation is worth 50 points, recorded in Commons, and has two parts.
 
-- **Attendance.** Check in at the start of class for 1 point, up to 20.
+- **Attendance.** Check in at the start of class for 1 point per class, up to 20.
 - **Engagement.** On lecture days, ask or answer a question through the
-  hand-raise queue for 2 points, up to 30 over the semester. Questions on panel
+  hand-raise queue for 2 points, up to 30 for the semester. Questions on panel
   days count toward the panel's audience points instead.
-
-The mechanics of each are explained in class and in the syllabus.
 
 ## Panels {#sec-panels}
 
-On panel days a few students are drawn at random through the course platform to
-sit as the panel, while everyone else takes part from the floor. The panel is
-worth **45 points** and rewards engagement in either role.
+The panel is worth 45 points. On panel days Commons draws a few students at
+random to sit as the panel while the rest of the class takes part from the floor,
+and you earn points in whichever role you are in that day.
 
-Each panel runs in two stages. First the panel fields a set of questions I put to
-them, then the floor opens and the rest of the class asks the questions. As a
-**panelist** you're scored out of 25 on a short, concrete checklist (whether you
+Each panel runs in two stages. First the panel answers a set of questions I put
+to them, and then the floor opens for the rest of the class to ask questions. A
+drawn panelist is scored out of 25 on a short checklist covering whether you
 answered the question put to you, whether your answer drew on the assigned
-reading, and whether you built on another panelist), so what earns points is coming
-prepared with the reading, not talking the most. Everyone is drawn at least once and most
-are drawn twice, and your **best panel** counts, so a single off day won't sink
-you.
+reading, and whether you added to another panelist's answer. Everyone is drawn at
+least once and most students twice, and only your best panel counts.
 
-On the panel days you're not drawn, you earn **audience** points from the floor,
-2 points per question you ask through the hand-raise queue, up to 20 over the
-semester. Asking good questions on the days you're in the audience is worth as
-much as a strong turn on the panel.
+On the panel days you are not drawn, you earn audience points from the floor, at
+2 points per question asked through the hand-raise queue, up to 20 for the
+semester.
 
-Each panel comes with a **preparation guide**, posted before the class — a long
-list of questions to work through as you read, some answerable straight from the
-reading and some open-ended. Work through all of them as you read — the questions I
-put to the panel come from these guides, sometimes word for word and sometimes
-reworded.
+Each panel has a preparation guide, posted before class, with a list of questions
+to work through as you read. Some are answerable from the reading and some are
+open-ended, and the questions I put to the panel come from these guides,
+sometimes reworded.
 
 - **Panel 1 — Who covers whom?** · Thu 9/3 · [guide](panel1.qmd)
 - **Panel 2 — Why we buy insurance** · Thu 9/10 · [guide](panel2.qmd)
@@ -72,96 +64,89 @@ reworded.
 - **Panel 7 — Are hospitals too big?** · Tue 11/17 · [guide](panel7.qmd)
 - **Panel 8 — Generics and the patent cliff** · Thu 12/3 · [guide](panel8.qmd)
 
-Each panel's guide is linked above; skim the one for the upcoming panel as you do
-the reading.
-
-The last class runs as a **reverse panel**, where invited guests
-put the questions to you, now that you're the experts.
+The last class is a reverse panel, in which invited guests put the questions to
+the class.
 
 ## Simulations
 
-Seven in-class simulations across the semester, **best five count** (two can be
-missed). On a simulation day we trade the usual discussion for an interactive,
-multiplayer game run through the course platform, then debrief what happened. You
-earn credit by playing and by submitting a short reflection on the decisions you
-made. As with the quizzes, the spare two mean an occasional absence won't hurt.
+There are seven in-class simulations over the semester, and your best five count,
+so two can be missed. On a simulation day you play a multiplayer game in Commons,
+and then we discuss the result. You earn credit for playing and for writing a
+short reflection on the decisions you made.
 
 ## Quizzes
 
-Six short quizzes over the semester, **best five count** (one is dropped). They
-are timed, taken in class, and auto-graded through our course platform. Quizzes
-carry the lighter theory for each module — definitions and one-step
-applications — so keeping up with the readings and slides is enough to do well.
+There are six short quizzes over the semester, and your best five count, so one
+is dropped. They are timed, taken in class, and graded automatically in Commons.
+The quizzes cover the lighter theory for each module, mainly
+definitions and one-step applications, so keeping up with the readings and slides
+prepares you for them.
 
 ## Midterm
 
-One in-class exam worth 60 points, covering the heavier theory and derivations.
-This is the place to show your work and earn partial credit. There is no final
-exam. Documented absences can be made up; otherwise the midterm has no built-in
-slack, so plan for the date on the schedule.
+The midterm is one in-class exam worth 60 points, covering the heavier theory and
+derivations. It is where you show your work and earn partial credit. There is no
+final exam. A documented absence can be made up, but there is otherwise no drop
+for the midterm, so plan for the date on the schedule.
 
 ## Empirical homework
 
-Three homeworks, **30 points each, and only your best two count** — so one can
-be dropped. Each is due by midnight on its Friday deadline. Late homeworks lose
-2% per day.
+There are three homeworks, worth 30 points each, and your best two count, so one
+can be dropped. Each is due by midnight on its Friday deadline, and late
+homeworks lose 2 percent per day.
 
 - [Homework 1 — Adverse Selection in Real Markets](homework1.qmd) (due Sep 25)
 - [Homework 2 — Physician Agency and Payment Changes](homework2.qmd) (due Oct 16)
 - [Homework 3 — Hospital Competition and Pricing](homework3.qmd) (due Nov 13)
 
-**These are empirical only.** The theory for each module is assessed in class,
-through quizzes and the midterm. The homeworks are where you work with real
-health care data.
+The homeworks are empirical. The theory for each module is assessed in class,
+through the quizzes and the midterm, and the homeworks use real health care data.
 
-**You are expected to use an AI coding assistant.** GitHub Copilot is free with
-your Emory GitHub account, or use the tool of your choice, and let it write the R
-or Python. Producing the code is not the skill being graded. Directing the tool,
-checking that the output makes sense, and interpreting the result in the language
-of this course is. That is also why these assignments ask for genuine data work
-rather than the pre-cleaned, Excel-ready exercises of past years.
+You are expected to use an AI coding assistant. GitHub Copilot is free with your
+Emory GitHub account, and you can use another tool if you prefer. It writes most
+of the code for you, in R or Python. You are graded on your answers, as in any
+assignment. That means getting the analysis right and explaining what it means in
+economic terms. You do not need to be a programmer to do well in this course.
 
-**Submit each homework as a link to a private GitHub repository, through
-Commons.** Start from the template and follow the steps under
-[How to submit](#how-to-submit) below. Each part is graded on this scale, scaled
-to the points shown for that part:
+Submit each homework as a link to a private GitHub repository, through Commons.
+Start from the template and follow the steps under How to submit below. Each part
+is graded on the following scale, scaled to the points for that part:
 
-- **Full credit:** correct, with sound economic reasoning.
-- **Partial credit:** close, with a minor error or thin reasoning.
-- **Little credit:** attempted, but the economic reasoning is missing or wrong.
-- **No credit:** no real work, or output pasted in with no interpretation.
+- **Full credit.** Correct, with sound economic reasoning.
+- **Partial credit.** Close, with a minor error or thin reasoning.
+- **Little credit.** Attempted, but the economic reasoning is missing or wrong.
+- **No credit.** No real work, or output with no interpretation.
 
 ## How to submit {#how-to-submit}
 
-You submit each homework as a link to a **private GitHub repository**, through
-Commons rather than Canvas. The whole process:
+Submit each homework as a link to a private GitHub repository, through Commons
+rather than Canvas.
 
 1. **Start from the template.** Download the
    [homework template](econ372-hw-template.zip) and unzip it. It has starter
-   files for Python (a Jupyter notebook) and R (a Quarto file), a `data/` folder
-   that is already ignored by git, and a README that repeats these steps.
+   files for Python (a Jupyter notebook) and for R (a Quarto file), a `data/`
+   folder that git already ignores, and a README that repeats these steps.
 2. **Add the data.** Put the assignment's data files in the `data/` folder,
-   downloaded from the course OneDrive linked on Canvas. Because `data/` is
-   gitignored, the raw data is never uploaded.
-3. **Do the work in R or Python** with an AI coding assistant. What is graded is
-   your economic reasoning, not the code.
-4. **Hand in a clean document with your code underneath.** Run everything so your
-   output shows, then commit your notebook or Quarto file along with a rendered
-   copy. An executed notebook displays cleanly on GitHub, and a Quarto file
-   renders a `report.html` or `report.pdf`. The source file is what carries your
+   downloaded from the course OneDrive linked on Canvas. Because git ignores
+   `data/`, the raw data is not uploaded.
+3. **Do the work in R or Python,** using an AI coding assistant to help write the
    code.
-5. **Make the repository private** and add `imccart` and `scai5` as collaborators
-   so we can open it.
+4. **Produce a readable document with the code in it.** Run everything so the
+   output appears, then commit your notebook or Quarto file together with a
+   rendered copy. An executed notebook displays on GitHub as it is, and a Quarto
+   file renders to `report.html` or `report.pdf`. The source file holds your code.
+5. **Set the repository to private,** and add `imccart` and `scai5` as
+   collaborators so we can open it.
 6. **Paste the repository link** into the Homework submission card on Commons. You
-   can update it anytime; the time you submit is what is recorded.
+   can change it later, and the time you submit is the time recorded.
 
-New to git or GitHub? Your TA runs help sessions to get you set up.
+If you are new to git or GitHub, your TA runs help sessions.
 
 ## Getting started
 
-New to R, or to reading empirical papers? A few resources that help with the
-homework:
+A few resources that help with the homework, especially if you are new to R or to
+reading empirical papers.
 
 - [How to read an academic article](https://guides.libraries.emory.edu/c.php?g=971000&p=7017430) (Emory Libraries).
-- [R for Data Science](https://r4ds.hadley.nz/) --- the standard, free introduction to R.
+- [R for Data Science](https://r4ds.hadley.nz/), a free introduction to R.
 - [R Language Basics](https://raw.githack.com/uo-ec607/lectures/master/04-rlang/04-rlang.html) and [Data cleaning and wrangling in R](https://raw.githack.com/uo-ec607/lectures/master/05-tidyverse/05-tidyverse.html), both by Grant McDermott.

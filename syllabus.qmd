@@ -44,11 +44,11 @@ We will supplement these textbooks with other readings as well as online present
 
 
 ### Software and AI tools
-The empirical homework in this class involves real data analysis in `R` or `Python`. You are expected to use an AI coding assistant (for example, GitHub Copilot, which is free for students through the Emory GitHub program, or a tool of your choice) to help write the code. The mechanical work of producing code is now essentially free, so the homework is built around the judgment that surrounds it --- directing the tool, checking what it returns, and catching it when it is confidently wrong. More on this under [AI and assignments](#ai-and-assignments) below. This is **not** a statistics or econometrics class, and you are not expected to arrive with programming experience.
+The empirical homework in this class involves real data analysis in `R` or `Python`. You are expected to use an AI coding assistant (for example, GitHub Copilot, which is free for students through the Emory GitHub program, or a tool of your choice) to help write the code. You are graded on your answers, the same as in any assignment, so it is fine to let the assistant handle the code. More on this under [AI and assignments](#ai-and-assignments) below. This is **not** a statistics or econometrics class, and you are not expected to arrive with programming experience.
 
 
 ### Accessing data
-Data for each homework assignment is linked from the [assignments](/assignments/) page. For transparency, I will also point you to the original public sources (CMS, HCRIS, and similar) where available.
+Data for each homework assignment is on the course OneDrive, linked from Canvas. For transparency, I will also point you to the original public sources (CMS, HCRIS, and similar) where available.
 
 
 
@@ -83,7 +83,7 @@ We have an excellent economics PhD student as our teaching assistant this year. 
 
 Most of this course is assessed **in class**, so there is little to turn in outside of the empirical homework.
 
-  - **Empirical homework** is submitted as a **rendered notebook** (Quarto or Jupyter) on Canvas --- a single document containing your code, its output, and your written answers. Please make sure the rendered file is legible and well organized; misaligned or unreadable submissions will be treated as late until corrected.
+  - **Empirical homework** is submitted as a link to your private GitHub repository, through Commons. The [assignments page](/assignments/) has the template and the step-by-step instructions.
   - **Quizzes** are taken in class through our class platform (Commons), are timed, and are graded automatically.
   - **The midterm** is taken in class.
 
@@ -97,7 +97,7 @@ The Emory University Honor Code is taken seriously and governs all work in this 
 
 This course treats AI tools as a normal part of doing applied economics, and the policy depends on the assessment.
 
-On the **empirical homework, AI use is expected.** Modern AI assistants can write clean code and produce plausible output for free, and equally for everyone. That means the code itself is no longer the skill being graded. What is graded is the economic judgment around it --- choosing the right comparison, checking that the output makes sense, catching the assistant when it is confidently wrong, and interpreting the result in the language of this course.
+On the **empirical homework, AI use is expected.** Modern AI assistants can write the code and produce plausible output for everyone. You are still graded on your answers, so what matters is choosing the right comparison, noticing when the output is wrong, and explaining what it means in economic terms.
 
 On **quizzes and the midterm, AI is not used.** These are completed individually and in class, and they assess your own understanding of the material. Representing AI-generated work as your own where it is not permitted, or using prohibited aids during in-class assessments, is a violation of the Honor Code.
 

@@ -12,12 +12,11 @@ material from the third module of the course. It is **empirical only**. The
 theory is assessed in class through the quizzes and the midterm. Here you work
 with real data and interpret it as a health economist.
 
-**You are expected to use an AI coding assistant.** Use GitHub Copilot (free with
-your Emory GitHub account) or the tool of your choice, and let it write the R or
-Python. Producing the code is not the skill being graded. Directing the tool,
-checking that the output makes sense, and interpreting the result in the language
-of this course is. Read what the assistant gives you, make sure it actually
-answers the question, and explain what it means.
+**You are expected to use an AI coding assistant.** GitHub Copilot is free with
+your Emory GitHub account, and you can use another tool if you prefer. It writes
+most of the code for you, in R or Python. You are graded on your answers, as in
+any assignment. Read what the assistant gives you, make sure it actually answers
+the question, and explain what it means in economic terms.
 
 **Submit your work as a private GitHub repository.** Start from the [homework
 template](index.qmd#how-to-submit), do your analysis in the notebook or Quarto
