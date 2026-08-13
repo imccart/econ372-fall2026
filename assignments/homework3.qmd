@@ -19,8 +19,12 @@ checking that the output makes sense, and interpreting the result in the languag
 of this course is. Read what the assistant gives you, make sure it actually
 answers the question, and explain what it means.
 
-**Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
-code, its output, and your written answers. Each part is graded on this scale,
+**Submit your work as a private GitHub repository.** Start from the [homework
+template](index.qmd#how-to-submit), do your analysis in the notebook or Quarto
+starter, and commit both the source file and a rendered copy of your answers.
+Create the repository as **private**, add `imccart` and `scai5` as collaborators,
+and paste the repository link into the Homework submission card on Commons. Full
+instructions are on the [assignments page](index.qmd#how-to-submit). Each part is graded on this scale,
 scaled to the points shown for that part:
 
 - **Full credit:** correct, with sound economic reasoning.

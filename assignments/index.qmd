@@ -121,14 +121,41 @@ checking that the output makes sense, and interpreting the result in the languag
 of this course is. That is also why these assignments ask for genuine data work
 rather than the pre-cleaned, Excel-ready exercises of past years.
 
-**Submit a rendered notebook** (Quarto, R Markdown, or Jupyter) containing your
-code, its output, and your written answers. Each part is graded on this scale,
-scaled to the points shown for that part:
+**Submit each homework as a link to a private GitHub repository, through
+Commons.** Start from the template and follow the steps under
+[How to submit](#how-to-submit) below. Each part is graded on this scale, scaled
+to the points shown for that part:
 
 - **Full credit:** correct, with sound economic reasoning.
 - **Partial credit:** close, with a minor error or thin reasoning.
 - **Little credit:** attempted, but the economic reasoning is missing or wrong.
 - **No credit:** no real work, or output pasted in with no interpretation.
+
+## How to submit {#how-to-submit}
+
+You submit each homework as a link to a **private GitHub repository**, through
+Commons rather than Canvas. The whole process:
+
+1. **Start from the template.** Download the
+   [homework template](econ372-hw-template.zip) and unzip it. It has starter
+   files for Python (a Jupyter notebook) and R (a Quarto file), a `data/` folder
+   that is already ignored by git, and a README that repeats these steps.
+2. **Add the data.** Put the assignment's data files in the `data/` folder,
+   downloaded from the course OneDrive linked on Canvas. Because `data/` is
+   gitignored, the raw data is never uploaded.
+3. **Do the work in R or Python** with an AI coding assistant. What is graded is
+   your economic reasoning, not the code.
+4. **Hand in a clean document with your code underneath.** Run everything so your
+   output shows, then commit your notebook or Quarto file along with a rendered
+   copy. An executed notebook displays cleanly on GitHub, and a Quarto file
+   renders a `report.html` or `report.pdf`. The source file is what carries your
+   code.
+5. **Make the repository private** and add `imccart` and `scai5` as collaborators
+   so we can open it.
+6. **Paste the repository link** into the Homework submission card on Commons. You
+   can update it anytime; the time you submit is what is recorded.
+
+New to git or GitHub? Your TA runs help sessions to get you set up.
 
 ## Getting started
 

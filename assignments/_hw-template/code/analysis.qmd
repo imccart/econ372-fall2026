@@ -1,0 +1,30 @@
+---
+title: "Econ 372 — Homework"
+author: "Your name here"
+format:
+  html:
+    toc: true
+    embed-resources: true
+    theme: cosmo
+# To hand in a PDF instead, comment out the html block above and use:
+# format: pdf
+---
+
+## Setup
+
+```{r}
+#| message: false
+library(tidyverse)
+
+# The data lives in the data/ folder at the top of the repo. From this file
+# (inside code/), that is one level up, for example:
+# d <- read_csv("../data/your-data-file.csv")
+```
+
+## Question 1
+
+Write your code and your answer here.
+
+## Question 2
+
+Write your code and your answer here.
