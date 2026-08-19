@@ -61,7 +61,7 @@ Emory University<br>
 {{< fa university >}} R. Rollins, R418<br>
 {{< fa envelope >}} [ian.mccarthy@emory.edu](mailto:ian.mccarthy@emory.edu)<br>
 {{< fa brands twitter >}} [\@ianhealthecon](https://twitter.com/ianhealthecon)<br>
-{{< fa calendar-check >}} [Schedule an appointment](https://mccarthy-meetings.youcanbook.me/)
+{{< fa calendar-check >}} [Schedule an appointment](https://calendar.app.google/g9Yn5fp8Cq16MiJc6)
 
 :::
 
