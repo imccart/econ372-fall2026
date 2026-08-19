@@ -13,7 +13,7 @@ This course examines the industrial organization of health care markets in the U
 
 ## Learning outcomes
 
-The broad goal of the class is to understand the structure of health care markets in the U.S. The course is designed around three areas, reflecting the different interactions an individual would have when navigating the health care system --- first choosing an insurance plan, then visiting a physician, and ultimately receiving healthcare. For each segment, we will examine underlying theoretical model(s), consider empirical evidence in the area, and discuss relevant health care policy. My specific goals are that, by the end of this course, you will be able to:
+The broad goal of the class is to understand the structure of health care markets in the U.S. The course is designed around three areas, reflecting the different interactions an individual would have when navigating the health care system --- first choosing an insurance plan, then visiting a physician, and ultimately receiving health care. For each segment, we will examine underlying theoretical model(s), consider empirical evidence in the area, and discuss relevant health care policy. My specific goals are that, by the end of this course, you will be able to:
 
 1. Explain the structure of the U.S. health care system, its main components, and its history;
 

@@ -34,7 +34,7 @@ scaled to the points shown for that part:
 Homework 3 is due by **midnight on Friday, November 13**.
 
 Both questions use `hospital-panel.csv` (on the shared OneDrive, linked from
-Canvas), one row per hospital and year from 1997 through 2018, built from the
+Canvas), one row per hospital and year from 1998 through 2017, built from the
 Hospital Cost Report Information System (HCRIS) and the Hospital Service Area
 Files. It includes each hospital's discharges, beds, and a constructed price,
 along with three ways of defining its market, namely its zip code, its Hospital

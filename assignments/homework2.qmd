@@ -43,27 +43,27 @@ which has one row per physician and year for 2013 through 2015, with the
 physician's specialty, state, the number of injections, and the average Medicare
 payment.
 
-a. Compute the average number of injections per physician in each year,
+a. **(3 points)** Compute the average number of injections per physician in each year,
    2013–2015, and report the trend.
 
-b. Does that yearly average give a clear picture of how physicians responded to
+b. **(3 points)** Does that yearly average give a clear picture of how physicians responded to
    the 2014 cut? What population is being averaged over in each year, and does it
    change? Identify at least one reason the year-over-year average could move for
    a reason that has nothing to do with physician agency.
 
-c. Find the physicians with the largest drop in injections from 2013 to 2014. A
+c. **(3 points)** Find the physicians with the largest drop in injections from 2013 to 2014. A
    raw ranking of the largest drops can mislead, because some of the biggest
    reductions come from physicians who barely performed the procedure to begin
    with, or who leave the data, rather than from a response to the payment cut.
    Restrict the comparison so it isolates the behavioral response, and explain
    what you changed and why.
 
-d. Connect to the model. Payment fell in 2014 and rose in 2015. State what
+d. **(3 points)** Connect to the model. Payment fell in 2014 and rose in 2015. State what
    physician-agency theory predicts for utilization in each year, and whether
    your corrected data are consistent. Where they are not, give the most
    plausible economic reason.
 
-e. Plot the corrected set of largest-responders over time and say, in one
+e. **(3 points)** Plot the corrected set of largest-responders over time and say, in one
    sentence, whether the 2015 rebound shows up and what that implies about
    physician responsiveness to payment.
 

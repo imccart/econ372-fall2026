@@ -27,7 +27,7 @@ Find the derivative of the following functions
 
 ### Questions
 
-1. If inverse demand is given by , $P=80-Q$, what is marginal revenue?
+1. If inverse demand is given by $P=80-Q$, what is marginal revenue?
 2. If a firm's profit function is $\pi = (80-Q)Q - 10Q$, what quantity will maximize the firm's profit? What is the price at this level of $Q$ (hint: inverse demand is the same as in part 1)?
 3. The production function is of the Cobb-Douglas form, $Q=AL^{\alpha} K^{1-\alpha}$, where $A$ and $\alpha$ are constants. What are the marginal products of labor ($L$) and capital ($K$)?
 

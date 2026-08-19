@@ -5,7 +5,7 @@ title: "Calculus Review"
 Throughout the course, we'll use a handful of elementary concepts from calculus. These basic tools are straightforward and easily mastered. In fact, you have already used calculus when you considered marginal revenue and marginal cost in your other economics classes. Here, I provide some review material to help you get back up-to-speed with the necessary mathematical concepts for this class.
 
 ## Functions
-A function is just a formal way in which inputs (a functions arguments) are converted into an output. For example, a firm's total revenue (TR) is a function of the amount they produce (Q), such that: $$TR = TR(Q).$$ This means that total revenue depends on $Q$, the quantity of product produced and sold. Total cost is also a function of $Q$: $$TC = TC(Q).$$
+A function is just a formal way in which inputs (a function's arguments) are converted into an output. For example, a firm's total revenue (TR) is a function of the amount they produce (Q), such that: $$TR = TR(Q).$$ This means that total revenue depends on $Q$, the quantity of product produced and sold. Total cost is also a function of $Q$: $$TC = TC(Q).$$
 
 As a more explicit example, suppose that the inverse demand for a firm is $$P = 100 - 0.10Q,$$ where $P$ denotes price and $Q$ denotes quantity. Since total revenue is the product of price and quantity, we have $$TR = P \times Q = (100 - 0.10Q) \times Q = 100Q - 0.10Q^2.$$ Thus, total revenue is a function of quantity produced and sold.
 
@@ -19,10 +19,10 @@ As an example, consider the total revenue function, $TR = 100Q - 0.10Q^{2}$. Wha
 ## Optimization
 A common theme in all of economics is that firms and individuals optimize (i.e., maximize some objective function given their current information and constraints). In most simple cases, the optimum of a function occurs where the slope of that function (i.e., the first derivative) equals zero. 
 
-For example, suppose that total revenue is $$TR = 100Q - 0.10Q^{2},$$ and assume that want to choose $Q$ so as to maximize our total revenue (we'll ignore costs for now). We can find this revenue-maximizing level of $Q$ by taking the derivative and setting it equal to 0, $$\frac{\mathrm{d} TR}{\mathrm{d} Q} = 100 - 0.20Q.$$ In other words, we know that the function is maximized when the derivative is 0, so we're going to find the level of $Q$ where that condition is satisfied. In our case, that is for $Q$ such that $100 - 0.20Q=0$, or $Q=500$. So a quantity of 500 maximizes total revenue.
+For example, suppose that total revenue is $$TR = 100Q - 0.10Q^{2},$$ and assume that we want to choose $Q$ so as to maximize our total revenue (we'll ignore costs for now). We can find this revenue-maximizing level of $Q$ by taking the derivative and setting it equal to 0, $$\frac{\mathrm{d} TR}{\mathrm{d} Q} = 100 - 0.20Q.$$ In other words, we know that the function is maximized when the derivative is 0, so we're going to find the level of $Q$ where that condition is satisfied. In our case, that is for $Q$ such that $100 - 0.20Q=0$, or $Q=500$. So a quantity of 500 maximizes total revenue.
 
 ## Rules of differentiation
-There are several rules, or shortcuts, for finding derivatives of common functional forms. These rules are mechanical, but they are useful to remember and only require some basic alebra. 
+There are several rules, or shortcuts, for finding derivatives of common functional forms. These rules are mechanical, but they are useful to remember and only require some basic algebra. 
 
 1. *The derivative of a constant is 0*
 
@@ -49,7 +49,7 @@ Let $y=f(x) + g(x)$. Then the derivative of $y$ is just the sum of the derivativ
 
 5. *Product rule*
 
-If $y=f(x) \times g(x)$, then ther derivative is $$\frac{\mathrm{d} y}{\mathrm{d} x} = f(x) \times \frac{\mathrm{d} g(x)}{\mathrm{d} x} + g(x) \times \frac{\mathrm{d} f(x)}{\mathrm{d} x}.$$ In words, this is "the derivative of the first times the second plus the derivative of the second times the first. For example:
+If $y=f(x) \times g(x)$, then the derivative is $$\frac{\mathrm{d} y}{\mathrm{d} x} = f(x) \times \frac{\mathrm{d} g(x)}{\mathrm{d} x} + g(x) \times \frac{\mathrm{d} f(x)}{\mathrm{d} x}.$$ In words, this is "the derivative of the first times the second plus the derivative of the second times the first." For example:
 
 If $y=(3x^{2} + 5)(x^{2}+1)$, the derivative is $\frac{\mathrm{d} y}{\mathrm{d} x} = 6x \times (x^{2} + 1) + 2x \times (3x^{2} + 5)$.
   
