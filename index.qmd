@@ -73,7 +73,7 @@ Emory University<br>
 {{< fa calendar-alt >}} 8-26-2026 to 12-9-2026<br>
 {{< fa calendar >}} Tuesday & Thursday<br>
 {{< fa clock >}} 2:30pm to 3:45pm<br>
-{{< fa university >}} New Psychology Building 225
+{{< fa university >}} New Psychology Building (PAIS) 225
 
 :::
 
