@@ -3,6 +3,8 @@ title: "Panel 1 — Who Covers Whom?"
 format: html
 ---
 
+<!-- Generated from healthcare-markets/panels/panel1.yml by tools/build-panels.py. Edit the YAML, not this file. -->
+
 To help you get ready for the panel, here's a list of questions to think about as
 you go through the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-1-2.html)
 and the [private](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-02.html)
@@ -16,40 +18,42 @@ You can find these in the chapter and slides.
 
 1. What are the main sources of health insurance in the U.S., and roughly what
    share of the population does each cover?
-2. How did employer-sponsored insurance become the dominant source of coverage for
-   working-age Americans? What did World War II wage controls and the 1954 tax
-   treatment have to do with it?
-3. Why is a dollar of employer premium contribution worth more to a worker than a
-   dollar of wages spent on the same policy?
-4. What is the "non-group" (individual) market, and what did the ACA change about
-   how it works?
-5. Who is eligible for Medicare, and what does each of its four parts (A, B, C, D)
-   cover?
+2. How did employer-sponsored insurance become the dominant source of coverage
+   for working-age Americans? What did World War II wage controls and the 1954
+   tax treatment have to do with it?
+3. Why is a dollar of employer premium contribution worth more to a worker than
+   a dollar of wages spent on the same policy?
+4. What is the "non-group" (individual) market, and what did the ACA change
+   about how it works?
+5. Who is eligible for Medicare, and what does each of its four parts (A, B, C,
+   D) cover?
 6. Who is eligible for Medicaid, and how are its financing and administration
    different from Medicare's?
-7. Whom do the Veterans Health Administration and TRICARE cover, and how does the
-   VHA deliver care differently from the other programs?
-8. For the same service, how can Medicare, Medicaid, and a private insurer each pay
-   the provider a different amount?
+7. Whom do the Veterans Health Administration and TRICARE cover, and how does
+   the VHA deliver care differently from the other programs?
+8. For the same service, how can Medicare, Medicaid, and a private insurer each
+   pay the provider a different amount?
 
 ## Bigger questions
 
 No single right answer here — these are the ones we'll talk through together.
 
-1. The U.S. covers people through a patchwork of private and public programs rather
-   than one system. What does that patchwork buy us, and what does it cost us?
-2. Employer-sponsored insurance ties your coverage to your job. Who does that link
-   affect most, and how might it shape decisions about changing jobs, starting a
-   business, or retiring before 65?
-3. The tax exclusion for employer premiums is one of the largest tax breaks in the
-   federal budget. Who benefits most from it?
-4. Medicaid eligibility and benefits vary widely by state. What are the trade-offs
-   of a safety-net program whose generosity depends on where you live?
+1. The U.S. covers people through a patchwork of private and public programs
+   rather than one system. What does that patchwork buy us, and what does it
+   cost us?
+2. Employer-sponsored insurance ties your coverage to your job. Who does that
+   link affect most, and how might it shape decisions about changing jobs,
+   starting a business, or retiring before 65?
+3. The tax exclusion for employer premiums is one of the largest tax breaks in
+   the federal budget. Who benefits most from it?
+4. Medicaid eligibility and benefits vary widely by state. What are the
+   trade-offs of a safety-net program whose generosity depends on where you
+   live?
 5. Medicare covers people over 65 regardless of income, while Medicaid is
    means-tested. Why is public coverage split that way?
 6. More than half of Medicare enrollees now choose a private Medicare Advantage
-   plan over traditional Medicare. Why might someone prefer it, and what does the
-   government gain or give up by paying private plans to cover them?
+   plan over traditional Medicare. Why might someone prefer it, and what does
+   the government gain or give up by paying private plans to cover them?
 7. If you were designing coverage for the country from scratch, would you keep
    employer-based insurance at the center?
 

@@ -3,6 +3,8 @@ title: "Panel 2 — Why We Buy Insurance"
 format: html
 ---
 
+<!-- Generated from healthcare-markets/panels/panel2.yml by tools/build-panels.py. Edit the YAML, not this file. -->
+
 To help you get ready for the panel, here's a list of questions to think about as
 you go through the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-2-1.html)
 and the [Understanding Risk](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-04.html)
@@ -13,15 +15,15 @@ The questions I put to the panel come from this list.
 
 You can find these in the chapter and slides.
 
-1. What three ingredients describe a risky situation, and how do they combine into
-   an expected value?
+1. What three ingredients describe a risky situation, and how do they combine
+   into an expected value?
 2. How do you compute the expected value of a gamble, and what does it leave out
    about how a person actually chooses?
 3. What does it mean for someone to be risk-averse?
-4. Why might a risk-averse person pay a premium that is larger than their expected
-   loss?
-5. Why does buying insurance make a risk-averse person better off, even though the
-   insurer expects to pay out less than it collects?
+4. Why might a risk-averse person pay a premium that is larger than their
+   expected loss?
+5. Why does buying insurance make a risk-averse person better off, even though
+   the insurer expects to pay out less than it collects?
 6. What features make a risk a good candidate for insurance?
 
 ## Bigger questions
@@ -32,8 +34,8 @@ No single right answer here — these are the ones we'll talk through together.
    least, and should that shape how we design or subsidize coverage?
 2. People often insure small, affordable losses (phone insurance, extended
    warranties) but underinsure against large ones. What might explain that?
-3. A small share of people account for most health spending in a given year. What
-   does that concentration imply for how health insurance should work?
+3. A small share of people account for most health spending in a given year.
+   What does that concentration imply for how health insurance should work?
 4. Where would you draw the line between risks people should insure against and
    risks they should carry themselves?
 5. Does treating health insurance purely as financial protection miss anything

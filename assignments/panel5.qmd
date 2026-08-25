@@ -3,6 +3,8 @@ title: "Panel 5 — The End of Fee-for-Service?"
 format: html
 ---
 
+<!-- Generated from healthcare-markets/panels/panel5.yml by tools/build-panels.py. Edit the YAML, not this file. -->
+
 This panel pulls together the payment material from the last couple of classes, so
 the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-2.html)
 and the [Physician Agency and Payment Models](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-03.html)
@@ -16,25 +18,26 @@ You can find these in the chapter and slides.
 
 1. How do fee-for-service and capitation differ in what they actually pay a
    physician for?
-2. What incentive does each model create — where does fee-for-service push toward
-   more care, and where does capitation push toward less?
+2. What incentive does each model create — where does fee-for-service push
+   toward more care, and where does capitation push toward less?
 3. How does physician agency interact with each payment model?
 4. What lies beyond simple fee-for-service versus capitation (blended payment,
    pay-for-performance), and what problem is each meant to solve?
-5. What does the evidence suggest about how physicians actually respond to payment
-   incentives?
+5. What does the evidence suggest about how physicians actually respond to
+   payment incentives?
 
 ## Bigger questions
 
 No single right answer here — these are the ones we'll talk through together.
 
-1. If fee-for-service rewards volume and capitation rewards holding back, is there
-   a payment system that gets the incentives right? What would it look like?
-2. People have predicted "the end of fee-for-service" for years. Why do you think
-   it has stuck around?
+1. If fee-for-service rewards volume and capitation rewards holding back, is
+   there a payment system that gets the incentives right? What would it look
+   like?
+2. People have predicted "the end of fee-for-service" for years. Why do you
+   think it has stuck around?
 3. Who would a shift away from fee-for-service help, and who might it hurt?
-4. Would you trust your own doctor more or less if you knew they were paid a flat
-   amount per patient rather than per service?
+4. Would you trust your own doctor more or less if you knew they were paid a
+   flat amount per patient rather than per service?
 5. Can payment design alone fix overtreatment, or does it just move the problem
    somewhere else?
 

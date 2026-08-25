@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  # Panel guides are generated from healthcare-markets/panels/*.yml (the single
+  # source, also read by Commons). Edit the YAML, not assignments/panelN.qmd.
+  pre-render: python ../../../healthcare-markets/tools/build-panels.py
   render:
     - "*.qmd"
     - "*.md"

@@ -3,6 +3,8 @@ title: "Panel 3 — Competition in Insurance"
 format: html
 ---
 
+<!-- Generated from healthcare-markets/panels/panel3.yml by tools/build-panels.py. Edit the YAML, not this file. -->
+
 To help you get ready for the panel, here's a list of questions to think about as
 you go through the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part1/insurance-3-2.html)
 and the [Health Insurance Competition](https://imccart.github.io/healthcare-markets-slides/01-insurance/insurance-07.html)
@@ -13,8 +15,8 @@ The questions I put to the panel come from this list.
 
 You can find these in the chapter and slides.
 
-1. What does "competition" mean in health insurance, and how is it different from
-   competition in an ordinary product market?
+1. What does "competition" mean in health insurance, and how is it different
+   from competition in an ordinary product market?
 2. Why can adverse selection make competition among insurers work badly?
 3. What is risk adjustment, and what problem is it trying to fix?
 4. What is "managed competition," and what is it trying to accomplish?
@@ -33,8 +35,8 @@ No single right answer here — these are the ones we'll talk through together.
    better value, how would you tell the two apart from the outside?
 4. Would you rather have many insurers competing, or a few large but heavily
    regulated ones? What are you trading off?
-5. Do we actually want competition in insurance, or is coverage the kind of thing
-   that works better as a single system?
+5. Do we actually want competition in insurance, or is coverage the kind of
+   thing that works better as a single system?
 
 ## Your take
 

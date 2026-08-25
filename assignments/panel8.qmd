@@ -3,6 +3,8 @@ title: "Panel 8 — Generics and the Patent Cliff"
 format: html
 ---
 
+<!-- Generated from healthcare-markets/panels/panel8.yml by tools/build-panels.py. Edit the YAML, not this file. -->
+
 To help you get ready for the panel, here's a list of questions to think about as
 you go through the [book chapter](https://healthcare-markets.books.ianmccarthyecon.com/part4/pharma-1-3.html)
 and the [Generic Drugs](https://imccart.github.io/healthcare-markets-slides/04-pharma/pharma-03.html)
@@ -13,14 +15,15 @@ The questions I put to the panel come from this list.
 
 You can find these in the chapter and slides.
 
-1. What did the Hatch-Waxman Act (1984) change, and what is an Abbreviated New Drug
-   Application (ANDA)?
+1. What did the Hatch-Waxman Act (1984) change, and what is an Abbreviated New
+   Drug Application (ANDA)?
 2. What does it mean for a generic to be "bioequivalent" to a brand-name drug?
 3. What typically happens to a drug's price when generic competitors enter, and
    roughly by how much over time?
-4. What is a Paragraph IV certification, and what does a successful challenge earn
-   the generic manufacturer?
-5. How do biologics and biosimilars differ from ordinary drugs and their generics?
+4. What is a Paragraph IV certification, and what does a successful challenge
+   earn the generic manufacturer?
+5. How do biologics and biosimilars differ from ordinary drugs and their
+   generics?
 6. How can pharmacy benefit managers and large pharmacy chains blunt the price
    competition that generics are supposed to create?
 
@@ -28,15 +31,15 @@ You can find these in the chapter and slides.
 
 No single right answer here — these are the ones we'll talk through together.
 
-1. The "patent cliff" — the sharp drop in a drug's sales when its patent expires —
-   is exactly what generic competition is meant to produce. Is that a feature or a
-   problem, and for whom?
+1. The "patent cliff" — the sharp drop in a drug's sales when its patent expires
+   — is exactly what generic competition is meant to produce. Is that a feature
+   or a problem, and for whom?
 2. Patents trade higher prices now for more new drugs later. Where would you set
    that balance?
 3. If generics are usually much cheaper, why do drug costs still feel so high to
    patients?
-4. Should a brand-name maker be allowed to sell its own "branded generic," or does
-   that undercut the point of generic competition?
+4. Should a brand-name maker be allowed to sell its own "branded generic," or
+   does that undercut the point of generic competition?
 5. When a drug goes generic, who actually captures the savings — patients,
    insurers, PBMs, or pharmacies?
 
