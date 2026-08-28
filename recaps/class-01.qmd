@@ -3,64 +3,83 @@ title: "Class 1 --- The U.S. health care paradox"
 subtitle: "Thursday, August 27"
 ---
 
+::: {.callout-note appearance="simple"}
+This recap comes from a recording of class, transcribed with Whisper and
+summarized with Claude, with a light edit from me. It's meant as a convenience
+rather than a careful document, so the phrasing will sometimes be a little off.
+If something here looks wrong, please tell me and I'll fix it.
+:::
+
 ## What we covered
 
-Course logistics, then the motivation. The U.S. spends more than anyone, leads on
-medical innovation, and still does poorly on a lot of basic health outcomes. Most
-of the class was about why those sit together, and why the usual one-line
-explanations don't hold up. We also ran our first check-in and poll in Commons.
+Course logistics, then the motivation for the class. The U.S. spends more than
+anyone, leads the world on medical innovation, and still does poorly on a lot of
+basic health outcomes. Most of the class was about why those sit together, and why
+the usual one-line explanations don't hold up. We also ran our first check-in and
+poll in Commons.
 
 ## Key points
 
 - Life expectancy tracks how wealthy a country is. The U.S. takes the largest GDP
   gains in the G7 without the matching gain in life expectancy.
-- Whether the system is good depends on who you are. With good insurance, near a
-  hospital with the right capacity, it may be the best care in the world. Without
-  that access, the same technology never gets deployed.
-- Inefficiency and poor quality are different problems. You can be very
+- Whether the system is good depends a lot on who you are. With good insurance,
+  near a hospital with the right capacity, it may be the best care in the world.
+  Without that access, the same technology never gets deployed.
+- Inefficiency and poor quality are different problems. You can be quite
   inefficient and still deliver very good care.
-- Maternal and infant mortality are where we look worst, partly because of who
-  they happen to. Births are concentrated among lower-income households, Medicaid
-  is the largest payer for births, and access there is most limited.
-- The common explanations don't carry much weight.
-    - *Less healthy.* More obesity and cardiovascular disease, but far less
-      smoking and drinking. Doesn't explain the spending.
-    - *Overuse.* Japan uses far more imaging than we do. We aren't the heaviest
-      user of everything.
-    - *Physician pay.* High, but the margin over other high-paying work here looks
-      like the margin in other developed countries.
-    - *Fraud.* Real, and visible right now in Medicare Advantage settlements, but
-      small as a share of spending.
+- Maternal and infant mortality are where we look worst, and part of the reason is
+  who they happen to. Births are concentrated among lower-income households,
+  Medicaid is the largest payer for births, and access there is most limited.
+- None of the common explanations carries much weight on its own.
+    - *We're less healthy.* We do have more obesity and cardiovascular disease,
+      though we smoke and drink considerably less, and it doesn't explain the
+      spending.
+    - *We overuse care.* This doesn't really hold up. Japan uses far more imaging
+      than we do, and we aren't the heaviest user of everything.
+    - *Physicians are paid too much.* They are paid well, but the margin over other
+      high-paying work here looks like the margin in other developed countries.
+    - *Fraud.* Real, and visible right now in the Medicare Advantage settlements,
+      though it's a small share of total spending.
     - *Administrative waste.* Real and large. Every provider deals at once with
       many payers running different rules.
-- Prices are the main answer. Same procedure, far more money here.
+- Prices are the main answer. For the same procedure you pay far more here than in
+  other countries.
 - Six things make health care interesting to an economist, and they're all present
   at once. Heterogeneous products, asymmetric information between patient and
-  physician, unobservable quality, unpredictable need, insurance killing the
+  physician, unobservable quality, unpredictable need, insurance dulling the
   incentive to shop, and adverse selection.
-- Health care isn't even an experience good, since you often can't judge quality
-  after consuming it. In the induction example, everyone comes out fine, the
-  mother reasonably calls it the best care she's ever had, and she has no way to
-  know whether earlier decisions were bad ones.
+- Health care isn't even an experience good, since you often can't judge the
+  quality even after you've received it. In the induction example, everyone comes
+  out fine, the mother reasonably calls it the best care she's ever had, and she
+  has no way to know whether the earlier decisions were good ones.
 - With adverse selection, the cost of insurance depends on who buys it. The
-  airline club and the all-you-can-eat buffet are the same problem.
+  airline club and the all-you-can-eat buffet turn out to be the same problem.
 
 ## Clarifications and corrections
 
-- **Medicaid share of births.** I said almost half. It's closer to 40 percent,
-  40.2 percent in 2024 and 41.5 percent in 2023 (CDC/NCHS). Still the largest
-  single payer for births. It runs from roughly 30 percent in some states to over
-  60 percent in Louisiana, and above 75 percent for mothers under 20.
-- **Elective induction.** I said it raises the chance of needing a cesarean. That
-  was the older observational reading, since overturned. The ARRIVE trial
-  (Grobman et al., *NEJM* 2018) found a lower cesarean rate with elective
-  induction at 39 weeks. The example still works, but take the direction out of
-  your notes.
-- **"It's the prices, stupid."** I credited Uwe Reinhardt. The article is
-  Anderson, Reinhardt, Hussey, and Petrosyan, *Health Affairs* (2003). Reinhardt
-  is a coauthor.
-- **Defensive medicine across countries.** Asked in class, and I still don't have
-  an answer. The legal systems differ too much for a clean comparison.
-  Domestically, many states adopted tort reform over thirty years and the
-  estimated effects on spending have been small. It should have been on the
-  common-explanations slide, and I'll add it.
+- **The Medicaid share of births.** I said in class that almost half of U.S.
+  births are covered by Medicaid. It's closer to 40 percent, at 40.2 percent in
+  2024 and 41.5 percent the year before (CDC/NCHS). Medicaid is still the largest
+  single payer for births, so the argument is unaffected. The share does vary quite
+  a bit, from roughly 30 percent in some states to over 60 percent in Louisiana,
+  and it's above 75 percent for mothers under 20.
+- **Elective induction.** I said that elective induction raises the chance of
+  needing a cesarean. That was the standard reading of the older observational
+  evidence, but a later trial reversed it. The ARRIVE trial (Grobman et al.,
+  *NEJM* 2018) randomized low-risk first-time mothers and found a lower cesarean
+  rate with elective induction at 39 weeks. The broader point still holds, since it
+  was about how hard quality is to judge from the inside, but I had the direction
+  of that particular risk backwards.
+- **"It's the prices, stupid."** I credited this to Uwe Reinhardt. He is a
+  coauthor rather than the sole author. The full citation is Anderson, Reinhardt,
+  Hussey, and Petrosyan, "It's the Prices, Stupid: Why the United States Is So
+  Different from Other Countries," *Health Affairs* (2003), if you'd like the
+  longer version of the argument.
+- **Defensive medicine across countries.** One of you asked how U.S. spending on
+  malpractice and defensive medicine compares with other countries. I didn't have a
+  good answer then and I still don't, and I'm not sure a clean comparison is
+  possible, since the legal systems differ enough that there's no apples-to-apples
+  version of the question. On the domestic side, many states adopted tort reform
+  over the past thirty years and the estimated effects on spending have been small.
+  That's why defensive medicine doesn't make my short list of culprits, though it
+  probably should have been on the slide of common explanations, and I'll add it.
