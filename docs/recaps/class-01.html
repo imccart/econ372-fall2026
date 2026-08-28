@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Homework 3 — Hospital Competition and Pricing – Economics of Health Care Markets</title>
+<title>Class 1 — The U.S. health care paradox – Economics of Health Care Markets</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -73,35 +73,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -131,11 +102,11 @@ window.Quarto = {
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../assignments/index.html" aria-current="page"> 
+    <a class="nav-link" href="../assignments/index.html"> 
 <span class="menu-text">Assignments</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../recaps/index.html"> 
+    <a class="nav-link active" href="../recaps/index.html" aria-current="page"> 
 <span class="menu-text">Recaps</span></a>
   </li>  
   <li class="nav-item compact">
@@ -154,7 +125,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../assignments/index.html#empirical-homework">Empirical homework</a></li><li class="breadcrumb-item"><a href="../assignments/homework3.html">Homework 3</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../recaps/class-01.html">1. The U.S. health care paradox</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -168,122 +139,16 @@ window.Quarto = {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../assignments/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Overview</span></a>
+  <a href="../recaps/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">All recaps</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../assignments/index.html#class-participation" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Class participation</span></a>
+  <a href="../recaps/class-01.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">1. The U.S. health care paradox</span></a>
   </div>
 </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a href="../assignments/index.html#sec-panels" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panels</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 1</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 2</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 3</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 4</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 5</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 6</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel7.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 7</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/panel8.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Panel 8</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/index.html#simulations" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Simulations</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/index.html#quizzes" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Quizzes</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/index.html#midterm" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Midterm</span></a>
-  </div>
-</li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a href="../assignments/index.html#empirical-homework" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Empirical homework</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/homework1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Homework 1</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/homework2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Homework 2</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../assignments/homework3.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Homework 3</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
     </ul>
     </div>
 </nav>
@@ -294,18 +159,19 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link active" data-scroll-target="#instructions">Instructions</a></li>
-  <li><a href="#q1-market-definition-and-concentration-15-pts" id="toc-q1-market-definition-and-concentration-15-pts" class="nav-link" data-scroll-target="#q1-market-definition-and-concentration-15-pts">Q1 — Market definition and concentration (15 pts)</a></li>
-  <li><a href="#q2-prices-and-market-structure-15-pts" id="toc-q2-prices-and-market-structure-15-pts" class="nav-link" data-scroll-target="#q2-prices-and-market-structure-15-pts">Q2 — Prices and market structure (15 pts)</a></li>
+  <li><a href="#what-we-covered" id="toc-what-we-covered" class="nav-link active" data-scroll-target="#what-we-covered">What we covered</a></li>
+  <li><a href="#key-points" id="toc-key-points" class="nav-link" data-scroll-target="#key-points">Key points</a></li>
+  <li><a href="#clarifications-and-corrections" id="toc-clarifications-and-corrections" class="nav-link" data-scroll-target="#clarifications-and-corrections">Clarifications and corrections</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../assignments/index.html#empirical-homework">Empirical homework</a></li><li class="breadcrumb-item"><a href="../assignments/homework3.html">Homework 3</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Homework 3 — Hospital Competition and Pricing</h1>
+<h1 class="title">Class 1 — The U.S. health care paradox</h1>
+<p class="subtitle lead">Thursday, August 27</p>
 </div>
 
 
@@ -322,40 +188,39 @@ window.Quarto = {
 </header>
 
 
-<section id="instructions" class="level2">
-<h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>This homework is about hospital market structure, competition, and pricing, the material from the third module of the course. It is <strong>empirical only</strong>. The theory is assessed in class through the quizzes and the midterm. Here you work with real data and interpret it as a health economist.</p>
-<p><strong>You are expected to use an AI coding assistant.</strong> GitHub Copilot is free with your Emory GitHub account, and you can use another tool if you prefer. It writes most of the code for you, in R or Python. You are graded on your answers, as in any assignment. Read what the assistant gives you, make sure it actually answers the question, and explain what it means in economic terms.</p>
-<p><strong>Submit your work as a private GitHub repository.</strong> Start from the <a href="../assignments/index.html#how-to-submit">homework template</a>, do your analysis in the notebook or Quarto starter, and commit both the source file and a rendered copy of your answers. Create the repository as <strong>private</strong>, add <code>imccart</code> and <code>scai5</code> as collaborators, and paste the repository link into the Homework submission card on Commons. Full instructions are on the <a href="../assignments/index.html#how-to-submit">assignments page</a>. Each part is graded on this scale, scaled to the points shown for that part:</p>
+<section id="what-we-covered" class="level2">
+<h2 class="anchored" data-anchor-id="what-we-covered">What we covered</h2>
+<p>Course logistics, then the motivation. The U.S. spends more than anyone, leads on medical innovation, and still does poorly on a lot of basic health outcomes. Most of the class was about why those sit together, and why the usual one-line explanations don’t hold up. We also ran our first check-in and poll in Commons.</p>
+</section>
+<section id="key-points" class="level2">
+<h2 class="anchored" data-anchor-id="key-points">Key points</h2>
 <ul>
-<li><strong>Full credit:</strong> correct, with sound economic reasoning.</li>
-<li><strong>Partial credit:</strong> close, with a minor error or thin reasoning.</li>
-<li><strong>Little credit:</strong> attempted, but the economic reasoning is missing or wrong.</li>
-<li><strong>No credit:</strong> no real work, or output pasted in with no interpretation.</li>
+<li>Life expectancy tracks how wealthy a country is. The U.S. takes the largest GDP gains in the G7 without the matching gain in life expectancy.</li>
+<li>Whether the system is good depends on who you are. With good insurance, near a hospital with the right capacity, it may be the best care in the world. Without that access, the same technology never gets deployed.</li>
+<li>Inefficiency and poor quality are different problems. You can be very inefficient and still deliver very good care.</li>
+<li>Maternal and infant mortality are where we look worst, partly because of who they happen to. Births are concentrated among lower-income households, Medicaid is the largest payer for births, and access there is most limited.</li>
+<li>The common explanations don’t carry much weight.
+<ul>
+<li><em>Less healthy.</em> More obesity and cardiovascular disease, but far less smoking and drinking. Doesn’t explain the spending.</li>
+<li><em>Overuse.</em> Japan uses far more imaging than we do. We aren’t the heaviest user of everything.</li>
+<li><em>Physician pay.</em> High, but the margin over other high-paying work here looks like the margin in other developed countries.</li>
+<li><em>Fraud.</em> Real, and visible right now in Medicare Advantage settlements, but small as a share of spending.</li>
+<li><em>Administrative waste.</em> Real and large. Every provider deals at once with many payers running different rules.</li>
+</ul></li>
+<li>Prices are the main answer. Same procedure, far more money here.</li>
+<li>Six things make health care interesting to an economist, and they’re all present at once. Heterogeneous products, asymmetric information between patient and physician, unobservable quality, unpredictable need, insurance killing the incentive to shop, and adverse selection.</li>
+<li>Health care isn’t even an experience good, since you often can’t judge quality after consuming it. In the induction example, everyone comes out fine, the mother reasonably calls it the best care she’s ever had, and she has no way to know whether earlier decisions were bad ones.</li>
+<li>With adverse selection, the cost of insurance depends on who buys it. The airline club and the all-you-can-eat buffet are the same problem.</li>
 </ul>
-<p>Homework 3 is due by <strong>midnight on Friday, November 13</strong>.</p>
-<p>Both questions use <code>hospital-panel.csv</code> (on the shared OneDrive, linked from Canvas), one row per hospital and year from 1998 through 2017, built from the Hospital Cost Report Information System (HCRIS) and the Hospital Service Area Files. It includes each hospital’s discharges, beds, and a constructed price, along with three ways of defining its market, namely its zip code, its Hospital Referral Region (<code>hrr</code>), and a pre-computed community-detection market (<code>mkt</code>). Throughout, define the market share of hospital <span class="math inline">\(i\)</span> in market <span class="math inline">\(m\)</span> in year <span class="math inline">\(t\)</span> as <span class="math inline">\(s_{imt} = q_{imt} / \sum_{j} q_{jmt}\)</span>, where <span class="math inline">\(q\)</span> is discharges.</p>
 </section>
-<section id="q1-market-definition-and-concentration-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q1-market-definition-and-concentration-15-pts">Q1 — Market definition and concentration (15 pts)</h2>
-<ol type="a">
-<li><p><strong>(3 points) Compute HHI three ways.</strong> Compute the HHI for each market and year under all three market definitions (zip, HRR, community-detection), and plot the average HHI over time for each definition.</p></li>
-<li><p><strong>(3 points) Why the definition matters.</strong> Explain why your assessment of how concentrated hospital markets are changes with the definition. Which definition is “correct,” and why is there no single right answer?</p></li>
-<li><p><strong>(3 points) The problem with a simple average.</strong> Your part (a) averages HHI across markets. Single-hospital markets have HHI = 10,000, and a simple unweighted average gives each of them the same weight as a large market, so the many small markets raise the average. Show how weighting by discharges, or excluding single-hospital markets, changes the result, and what the plain average was leaving out.</p></li>
-<li><p><strong>(3 points) A sanity check on the join.</strong> Market share’s denominator is total discharges in the correctly grouped market. Add a check that shares sum to 1 within each market-year, and explain what a careless join, one that mismatched hospitals to markets, would do to that check and to your HHI.</p></li>
-<li><p><strong>(3 points) Maximum share instead of HHI.</strong> Recompute part (a) using the maximum market share <span class="math inline">\(s^{max}_{mt} = \max_i s_{imt}\)</span> instead of HHI (average across markets, plot over time). Does your assessment of competitiveness change, and what does the contrast with HHI tell you?</p></li>
-</ol>
-</section>
-<section id="q2-prices-and-market-structure-15-pts" class="level2">
-<h2 class="anchored" data-anchor-id="q2-prices-and-market-structure-15-pts">Q2 — Prices and market structure (15 pts)</h2>
-<p>Use the same hospital data, focusing on the community-detection market measure.</p>
-<ol type="a">
-<li><p><strong>(3 points) The price variable.</strong> Compute the average hospital price in each year and plot it. Then look closely at the price variable itself. This price is not a sticker price. It is constructed from HCRIS as adjusted charges net of Medicare payments, divided by non-Medicare discharges, and it is in nominal dollars. Examine its distribution (its range and spread) and explain what this measure does and does not capture as a hospital “price,” and what those limitations mean for how you read the trend you plotted.</p></li>
-<li><p><strong>(3 points) Concentrated vs competitive markets.</strong> Identify market-years that are monopolies or duopolies (exactly one or two hospitals) and those that are “competitive” (at least four hospitals). Plot the count of each type over time.</p></li>
-<li><p><strong>(3 points) Price by market structure.</strong> Compute the average price in each year within the monopoly/duopoly group and within the competitive group. Show the comparison. Does concentration appear to correlate with price?</p></li>
-<li><p><strong>(3 points) The market-size confound.</strong> Concentrated markets differ systematically from competitive ones, tending to be smaller and more rural. Repeat part (c) after limiting to markets with between 10,000 and 50,000 total discharges per year. Explain what changes and why market size confounds the raw price-concentration relationship.</p></li>
-<li><p><strong>(3 points) Is it causal?</strong> State your conclusion. Is the price-concentration correlation you found causal evidence that concentration raises prices, and what would you need to make a causal claim?</p></li>
-</ol>
+<section id="clarifications-and-corrections" class="level2">
+<h2 class="anchored" data-anchor-id="clarifications-and-corrections">Clarifications and corrections</h2>
+<ul>
+<li><strong>Medicaid share of births.</strong> I said almost half. It’s closer to 40 percent, 40.2 percent in 2024 and 41.5 percent in 2023 (CDC/NCHS). Still the largest single payer for births. It runs from roughly 30 percent in some states to over 60 percent in Louisiana, and above 75 percent for mothers under 20.</li>
+<li><strong>Elective induction.</strong> I said it raises the chance of needing a cesarean. That was the older observational reading, since overturned. The ARRIVE trial (Grobman et al., <em>NEJM</em> 2018) found a lower cesarean rate with elective induction at 39 weeks. The example still works, but take the direction out of your notes.</li>
+<li><strong>“It’s the prices, stupid.”</strong> I credited Uwe Reinhardt. The article is Anderson, Reinhardt, Hussey, and Petrosyan, <em>Health Affairs</em> (2003). Reinhardt is a coauthor.</li>
+<li><strong>Defensive medicine across countries.</strong> Asked in class, and I still don’t have an answer. The legal systems differ too much for a clean comparison. Domestically, many states adopted tort reform over thirty years and the estimated effects on spending have been small. It should have been on the common-explanations slide, and I’ll add it.</li>
+</ul>
 
 
 </section>

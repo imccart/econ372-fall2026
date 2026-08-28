@@ -1,0 +1,16 @@
+---
+title: "Recaps"
+---
+
+After most class days I'll post a short recap here, with what we covered, the key
+points, and any corrections to something I said. Use these to fill gaps in your own
+notes. The models and derivations stay in the slides and the book.
+
+Not every class will have one.
+
+## Fall 2026
+
+| Date | Class | Recap |
+|:--|:--:|:--|
+| Thu 8/27 | 1 | [The U.S. health care paradox](class-01.qmd) |
+: {tbl-colwidths="[18,10,72]"}

@@ -39,11 +39,22 @@ website:
         file: schedule/index.qmd
       - text: "Assignments"
         file: assignments/index.qmd
+      - text: "Recaps"
+        file: recaps/index.qmd
       - icon: github
         href: "https://github.com/imccart/econ372-fall2026"
         aria-label: GitHub
 
   sidebar:
+    - title: "Recaps"
+      style: "docked"
+      background: dark
+      contents:
+        - text: "All recaps"
+          file: recaps/index.qmd
+        - text: "1. The U.S. health care paradox"
+          file: recaps/class-01.qmd
+
     - title: "Assignments"
       style: "docked"
       background: dark

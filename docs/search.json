@@ -84,6 +84,50 @@
     "text": "Demand, profits, and production\n\nQuestions\n\nIf inverse demand is given by \\(P=80-Q\\), what is marginal revenue?\nIf a firm’s profit function is \\(\\pi = (80-Q)Q - 10Q\\), what quantity will maximize the firm’s profit? What is the price at this level of \\(Q\\) (hint: inverse demand is the same as in part 1)?\nThe production function is of the Cobb-Douglas form, \\(Q=AL^{\\alpha} K^{1-\\alpha}\\), where \\(A\\) and \\(\\alpha\\) are constants. What are the marginal products of labor (\\(L\\)) and capital (\\(K\\))?\n\n\n\nAnswers\n\nNote that total revenue is \\((80-Q)Q\\), so marginal revenue is \\(80-2Q\\).\nTo find the optimal \\(Q\\), we need to differentiate, set equal to 0, then solve for \\(Q\\). In this case, \\(\\pi'(Q) = 80 - 2Q - 10\\), which equals 0 for \\(Q=35\\). Price at this quantity is \\(P=80-Q=45\\).\nThe marginal product of labor or capital is just the partial derivative of each of those terms. So, \\[MP_{L} = \\frac{\\partial Q}{\\partial L} = \\alpha A L^{\\alpha-1} K^{1-\\alpha} = \\alpha A \\left(\\frac{K}{L}\\right)^{1-\\alpha}\\] and \\[MP_{K} = \\frac{\\partial Q}{\\partial K} = (1-\\alpha) A L^{\\alpha} K^{-\\alpha} = (1-\\alpha) A \\left( \\frac{L}{K} \\right)^{\\alpha}.\\]"
   },
   {
+    "objectID": "recaps/class-01.html",
+    "href": "recaps/class-01.html",
+    "title": "Class 1 — The U.S. health care paradox",
+    "section": "",
+    "text": "Course logistics, then the motivation. The U.S. spends more than anyone, leads on medical innovation, and still does poorly on a lot of basic health outcomes. Most of the class was about why those sit together, and why the usual one-line explanations don’t hold up. We also ran our first check-in and poll in Commons.",
+    "crumbs": [
+      "Recaps",
+      "1. The U.S. health care paradox"
+    ]
+  },
+  {
+    "objectID": "recaps/class-01.html#what-we-covered",
+    "href": "recaps/class-01.html#what-we-covered",
+    "title": "Class 1 — The U.S. health care paradox",
+    "section": "",
+    "text": "Course logistics, then the motivation. The U.S. spends more than anyone, leads on medical innovation, and still does poorly on a lot of basic health outcomes. Most of the class was about why those sit together, and why the usual one-line explanations don’t hold up. We also ran our first check-in and poll in Commons.",
+    "crumbs": [
+      "Recaps",
+      "1. The U.S. health care paradox"
+    ]
+  },
+  {
+    "objectID": "recaps/class-01.html#key-points",
+    "href": "recaps/class-01.html#key-points",
+    "title": "Class 1 — The U.S. health care paradox",
+    "section": "Key points",
+    "text": "Key points\n\nLife expectancy tracks how wealthy a country is. The U.S. takes the largest GDP gains in the G7 without the matching gain in life expectancy.\nWhether the system is good depends on who you are. With good insurance, near a hospital with the right capacity, it may be the best care in the world. Without that access, the same technology never gets deployed.\nInefficiency and poor quality are different problems. You can be very inefficient and still deliver very good care.\nMaternal and infant mortality are where we look worst, partly because of who they happen to. Births are concentrated among lower-income households, Medicaid is the largest payer for births, and access there is most limited.\nThe common explanations don’t carry much weight.\n\nLess healthy. More obesity and cardiovascular disease, but far less smoking and drinking. Doesn’t explain the spending.\nOveruse. Japan uses far more imaging than we do. We aren’t the heaviest user of everything.\nPhysician pay. High, but the margin over other high-paying work here looks like the margin in other developed countries.\nFraud. Real, and visible right now in Medicare Advantage settlements, but small as a share of spending.\nAdministrative waste. Real and large. Every provider deals at once with many payers running different rules.\n\nPrices are the main answer. Same procedure, far more money here.\nSix things make health care interesting to an economist, and they’re all present at once. Heterogeneous products, asymmetric information between patient and physician, unobservable quality, unpredictable need, insurance killing the incentive to shop, and adverse selection.\nHealth care isn’t even an experience good, since you often can’t judge quality after consuming it. In the induction example, everyone comes out fine, the mother reasonably calls it the best care she’s ever had, and she has no way to know whether earlier decisions were bad ones.\nWith adverse selection, the cost of insurance depends on who buys it. The airline club and the all-you-can-eat buffet are the same problem.",
+    "crumbs": [
+      "Recaps",
+      "1. The U.S. health care paradox"
+    ]
+  },
+  {
+    "objectID": "recaps/class-01.html#clarifications-and-corrections",
+    "href": "recaps/class-01.html#clarifications-and-corrections",
+    "title": "Class 1 — The U.S. health care paradox",
+    "section": "Clarifications and corrections",
+    "text": "Clarifications and corrections\n\nMedicaid share of births. I said almost half. It’s closer to 40 percent, 40.2 percent in 2024 and 41.5 percent in 2023 (CDC/NCHS). Still the largest single payer for births. It runs from roughly 30 percent in some states to over 60 percent in Louisiana, and above 75 percent for mothers under 20.\nElective induction. I said it raises the chance of needing a cesarean. That was the older observational reading, since overturned. The ARRIVE trial (Grobman et al., NEJM 2018) found a lower cesarean rate with elective induction at 39 weeks. The example still works, but take the direction out of your notes.\n“It’s the prices, stupid.” I credited Uwe Reinhardt. The article is Anderson, Reinhardt, Hussey, and Petrosyan, Health Affairs (2003). Reinhardt is a coauthor.\nDefensive medicine across countries. Asked in class, and I still don’t have an answer. The legal systems differ too much for a clean comparison. Domestically, many states adopted tort reform over thirty years and the estimated effects on spending have been small. It should have been on the common-explanations slide, and I’ll add it.",
+    "crumbs": [
+      "Recaps",
+      "1. The U.S. health care paradox"
+    ]
+  },
+  {
     "objectID": "assignments/panel8.html",
     "href": "assignments/panel8.html",
     "title": "Panel 8 — Generics and the Patent Cliff",
@@ -772,6 +816,28 @@
     "text": "Course Details\n 8-26-2026 to 12-9-2026  Tuesday & Thursday  2:30pm to 3:45pm  New Psychology Building (PAIS) 225"
   },
   {
+    "objectID": "recaps/index.html",
+    "href": "recaps/index.html",
+    "title": "Recaps",
+    "section": "",
+    "text": "After most class days I’ll post a short recap here, with what we covered, the key points, and any corrections to something I said. Use these to fill gaps in your own notes. The models and derivations stay in the slides and the book.\nNot every class will have one.",
+    "crumbs": [
+      "Recaps",
+      "All recaps"
+    ]
+  },
+  {
+    "objectID": "recaps/index.html#fall-2026",
+    "href": "recaps/index.html#fall-2026",
+    "title": "Recaps",
+    "section": "Fall 2026",
+    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox",
+    "crumbs": [
+      "Recaps",
+      "All recaps"
+    ]
+  },
+  {
     "objectID": "resources/calculus-review.html",
     "href": "resources/calculus-review.html",
     "title": "Calculus Review",
@@ -818,56 +884,56 @@
     "href": "schedule/index.html",
     "title": "Schedule",
     "section": "",
-    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). Most days are lectures, and the Activity column is usually blank. It flags the days that carry a graded event, namely a panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment.\nOn lecture days we develop the model at the board and work an example. On panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions. A simulation is an in-class game followed by a debrief. The longer games fill the class, while the shorter ones run alongside that day’s lecture. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
+    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). Most days are lectures, and the Activity column is usually blank. It flags the days that carry a graded event, namely a panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment. The Recap column () fills in after we meet, with the key points from that day and any corrections to something I said. Not every day will have one.\nOn lecture days we develop the model at the board and work an example. On panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions. A simulation is an in-class game followed by a debrief. The longer games fill the class, while the shorter ones run alongside that day’s lecture. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
   },
   {
     "objectID": "schedule/index.html#module-0-welcome-to-the-class",
     "href": "schedule/index.html#module-0-welcome-to-the-class",
     "title": "Schedule",
     "section": "Module 0: Welcome to the Class!",
-    "text": "Module 0: Welcome to the Class!\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n1\nThu 8/27\nThe U.S. health care paradox"
+    "text": "Module 0: Welcome to the Class!\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n1\nThu 8/27\nThe U.S. health care paradox"
   },
   {
     "objectID": "schedule/index.html#module-1-health-insurance",
     "href": "schedule/index.html#module-1-health-insurance",
     "title": "Schedule",
     "section": "Module 1: Health Insurance",
-    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n3\nThu 9/3\nPrivate insurance\n\n\n\n\n\n4\nTue 9/8\nPublic insurance\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n\n\n\n7\nThu 9/17\nSet the premium\n\n\n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n\n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n\n\n\n\nFri 9/25\nHomework 1 due"
+    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n\n3\nThu 9/3\nPrivate insurance\n\n\n\n\n\n\n4\nTue 9/8\nPublic insurance\n\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n\n\n\n\n7\nThu 9/17\nSet the premium\n\n\n\n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n\n\n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n\n\n\n\n\nFri 9/25\nHomework 1 due"
   },
   {
     "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
     "href": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
     "title": "Schedule",
     "section": "Module 2: Physician Agency and Treatment Decisions",
-    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n10\nTue 9/29\nDoes your doctor work for you?\n\n\n\n\n\n11\nThu 10/1\nDo incentives change treatment?\n\n\n\n\n\n12\nTue 10/6\nHow physicians are paid\n\n\n\n\n\n13\nThu 10/8\nOvertreated?\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n14\nThu 10/15\nYou’re the doctor\n\n\n\n\n\n\nFri 10/16\nHomework 2 due\n\n\n\n\n\n15\nTue 10/20\nThe end of fee-for-service?"
+    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n10\nTue 9/29\nDoes your doctor work for you?\n\n\n\n\n\n\n11\nThu 10/1\nDo incentives change treatment?\n\n\n\n\n\n\n12\nTue 10/6\nHow physicians are paid\n\n\n\n\n\n\n13\nThu 10/8\nOvertreated?\n\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n\n14\nThu 10/15\nYou’re the doctor\n\n\n\n\n\n\n\nFri 10/16\nHomework 2 due\n\n\n\n\n\n\n15\nTue 10/20\nThe end of fee-for-service?"
   },
   {
     "objectID": "schedule/index.html#module-3-hospital-pricing-and-competition",
     "href": "schedule/index.html#module-3-hospital-pricing-and-competition",
     "title": "Schedule",
     "section": "Module 3: Hospital Pricing and Competition",
-    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n16\nThu 10/22\nWhat is a hospital price?\n\n\n\n\n\n17\nTue 10/27\nDoes profit status matter?\n\n\n\n\n\n18\nThu 10/29\nHow hospitals set prices\n\n\n\n\n\n19\nTue 11/3\nThe two-price market\n\n\n\n\n\n20\nThu 11/5\nInsurer–hospital bargaining\n\n\n\n\n\n21\nTue 11/10\nMake the deal\n\n\n\n\n\n22\nThu 11/12\nWhen hospitals merge\n\n\n\n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n23\nTue 11/17\nAre hospitals too big?"
+    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n16\nThu 10/22\nWhat is a hospital price?\n\n\n\n\n\n\n17\nTue 10/27\nDoes profit status matter?\n\n\n\n\n\n\n18\nThu 10/29\nHow hospitals set prices\n\n\n\n\n\n\n19\nTue 11/3\nThe two-price market\n\n\n\n\n\n\n20\nThu 11/5\nInsurer–hospital bargaining\n\n\n\n\n\n\n21\nTue 11/10\nMake the deal\n\n\n\n\n\n\n22\nThu 11/12\nWhen hospitals merge\n\n\n\n\n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n\n23\nTue 11/17\nAre hospitals too big?"
   },
   {
     "objectID": "schedule/index.html#midterm",
     "href": "schedule/index.html#midterm",
     "title": "Schedule",
     "section": "Midterm",
-    "text": "Midterm\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n24\nThu 11/19\nIn-class exam — insurance, physicians, and hospitals\n\n\nMidterm"
+    "text": "Midterm\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n24\nThu 11/19\nIn-class exam — insurance, physicians, and hospitals\n\n\nMidterm"
   },
   {
     "objectID": "schedule/index.html#module-4-prescription-drugs",
     "href": "schedule/index.html#module-4-prescription-drugs",
     "title": "Schedule",
     "section": "Module 4: Prescription Drugs",
-    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n25\nTue 11/24\nThe life of a drug\n\n\n\n\n\n\nWed–Fri 11/25–27\nThanksgiving — no class\n\n\n\n\n\n26\nTue 12/1\nWhy new drugs cost so much\n\n\n\n\n\n27\nThu 12/3\nGenerics and the patent cliff"
+    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n25\nTue 11/24\nThe life of a drug\n\n\n\n\n\n\n\nWed–Fri 11/25–27\nThanksgiving — no class\n\n\n\n\n\n\n26\nTue 12/1\nWhy new drugs cost so much\n\n\n\n\n\n\n27\nThu 12/3\nGenerics and the patent cliff"
   },
   {
     "objectID": "schedule/index.html#finale",
     "href": "schedule/index.html#finale",
     "title": "Schedule",
     "section": "Finale",
-    "text": "Finale\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\n\n\n\n\n28\nTue 12/8\nThe future of U.S. health care policy\n\n\n\n\n\n\nThe finale is a reverse panel covering the whole semester — invited guests put the questions to the class, now that you’re the experts."
+    "text": "Finale\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n28\nTue 12/8\nThe future of U.S. health care policy\n\n\n\n\n\n\n\nThe finale is a reverse panel covering the whole semester — invited guests put the questions to the class, now that you’re the experts."
   },
   {
     "objectID": "schedule/index.html#bonus-optional",
