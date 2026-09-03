@@ -13,4 +13,5 @@ Not every class will have one.
 | Date | Class | Recap |
 |:--|:--:|:--|
 | Thu 8/27 | 1 | [The U.S. health care paradox](class-01.qmd) |
+| Tue 9/1 | 2 | [How insurance works](class-02.qmd) |
 : {tbl-colwidths="[18,10,72]"}
