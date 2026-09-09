@@ -105,10 +105,12 @@ today.
   where KFF's series starts, not because the program did. Private plans have
   been part of Medicare since 1985. The current form, and the name, came from
   the 2003 Medicare Modernization Act, with plans starting in 2006.
-- **Dual eligibles.** I said people eligible for both Medicare and Medicaid
-  wouldn't be in Medicare Advantage. About half of them are, many in special
-  needs plans designed for them. The 48 versus 54 percent difference between
-  sources comes from whether people with only Part A are counted in the
+- **Dual eligibles.** When I said people eligible for both Medicare and
+  Medicaid wouldn't be in Medicare Advantage, I meant the standard plans open to
+  everyone. About half of dual eligibles are in Medicare Advantage, most of them
+  in special needs plans designed for them, though about one in five were in
+  plans not designed for them as of 2020. The 48 versus 54 percent difference
+  between sources comes from whether people with only Part A are counted in the
   denominator.
 - **ERISA.** ERISA is a 1974 federal law, not an agency. The point for us is that
   employer plans that self-insure are governed by ERISA and are therefore exempt
