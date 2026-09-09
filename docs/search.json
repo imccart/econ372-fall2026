@@ -831,7 +831,7 @@
     "href": "recaps/index.html#fall-2026",
     "title": "Recaps",
     "section": "Fall 2026",
-    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works",
+    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance",
     "crumbs": [
       "Recaps",
       "All recaps"
@@ -984,6 +984,50 @@
     "crumbs": [
       "Recaps",
       "2. How insurance works"
+    ]
+  },
+  {
+    "objectID": "recaps/class-04.html",
+    "href": "recaps/class-04.html",
+    "title": "Class 4 — Public insurance",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "4. Public insurance"
+    ]
+  },
+  {
+    "objectID": "recaps/class-04.html#what-we-covered",
+    "href": "recaps/class-04.html#what-we-covered",
+    "title": "Class 4 — Public insurance",
+    "section": "What we covered",
+    "text": "What we covered\nThe first quiz, then the second half of the public insurance slides, picking up where Thursday’s panel left off. Medicare Advantage: what it is, how plans bid against a benchmark, why risk adjustment matters, and a live walk through the Medicare Plan Finder for DeKalb County. How Medicare pays hospitals and the programs that try to tie payment to quality. Medicaid eligibility, the expansion map, the federal match, and Medicaid’s role in nursing home care. What “Medicare is going bankrupt” means. Three minutes on Thursday’s material, which is where the economics starts.\nOne note on the schedule. On panel days, the material the panel draws on usually spans the days around that row, not just the row itself. Last Thursday’s panel used the public insurance slides, which is why we only needed the second half today.",
+    "crumbs": [
+      "Recaps",
+      "4. Public insurance"
+    ]
+  },
+  {
+    "objectID": "recaps/class-04.html#key-points",
+    "href": "recaps/class-04.html#key-points",
+    "title": "Class 4 — Public insurance",
+    "section": "Key points",
+    "text": "Key points\n\nMedicare Advantage is private insurance you can only buy if you’re eligible for Medicare. It replaces Parts A and B rather than adding to them (Medigap is the thing you add on top of traditional Medicare), and it usually bundles Part D. About 54 percent of eligible beneficiaries are in one as of 2025.\nPlans submit a bid, their expected cost of covering an enrollee, and CMS compares it to a benchmark based on what traditional Medicare would spend. Bid below the benchmark and the plan can charge a zero premium and keeps part of the gap (50 to 70 percent, depending on its star rating) as a rebate that has to go back to enrollees as extra benefits or lower premiums, including the Part B “giveback.” Bid above and the enrollee pays the difference as a premium.\nA zero-premium plan still requires you to pay the Part B premium, $202.90 a month in 2026. The plan replaces Parts A and B, so it’s priced on top of them.\nThe benchmark is an average over the fee-for-service population. If healthier people disproportionately choose Medicare Advantage, that average overstates what they cost, and CMS overpays unless risk adjustment catches it. That selection problem runs through the rest of the module.\nNone of that is visible to the enrollee. You pick a plan; CMS pays the insurer a risk-adjusted amount you never see.\nThe enrollee’s trade-off is the network. Same or lower premium and more benefits, but fewer physicians, and that restriction binds for some people.\nOn the Plan Finder: your options depend on your county, not your zip code; the default ranking is by expected out-of-pocket cost, which is only reliable for drugs and only if you enter them; and the star rating averages about 40 measures, from mammography rates to how fast the phones are answered, rounded to the nearest half star. Contract, plan, and segment IDs are how plans are identified in data.\nThe out-of-pocket maximum is the ceiling on what you pay in a year after the deductible and cost sharing. Twenty percent coinsurance on a $25,000 hip replacement is $5,000 by itself, so a bad year gets to the cap fast.\nMedicare pays hospitals by formula: a base rate scaled by the DRG for the admission and adjusted for local wages, teaching status, and the share of low-income patients. The hospital knows the payment in advance, so the incentives are to discharge quickly and to admit more, since doing more inside one stay adds cost but not revenue.\nValue-based purchasing and the readmissions program put quality into that formula by adjusting payment at year end. Readmissions count for any cause; the argument is that bad luck washes out over enough patients and hits peer hospitals too. Bundled payments extend the fixed payment to the 90 days after discharge, and accountable care organizations go further toward a fixed amount per person.\nMedicaid is a joint federal and state program, so eligibility and the federal match vary by state. Georgia has not expanded, and the match rises with how poor a state is (Georgia’s is about 66 percent in FY2026).\nMedicaid is the only public program that pays for long-term nursing home care, which is why people spend down assets to qualify.\n“Medicare is going bankrupt” refers to the Part A trust fund, which is funded by payroll taxes and cannot borrow. The 2025 Trustees Report projects it runs short in 2033, at which point incoming taxes cover about 89 percent of Part A benefits. That’s the answer to the question about longer lives and an older population. Part B is financed from premiums and general revenue and has no such limit.\nThursday: probability, expected value, and expected utility, then the panel. The question for the rest of the module is why people pay more than their expected cost of care for insurance.",
+    "crumbs": [
+      "Recaps",
+      "4. Public insurance"
+    ]
+  },
+  {
+    "objectID": "recaps/class-04.html#clarifications-and-corrections",
+    "href": "recaps/class-04.html#clarifications-and-corrections",
+    "title": "Class 4 — Public insurance",
+    "section": "Clarifications and corrections",
+    "text": "Clarifications and corrections\n\nTraditional Medicare has no out-of-pocket cap. I said Parts A and B have a catastrophic cap like the Advantage plans we looked at. They don’t. There is no annual limit on what you can pay in deductibles and coinsurance under traditional Medicare, which is the main reason people buy Medigap and the reason CMS requires Advantage plans to have a cap. The cap I was thinking of is the Part D drug cap, $2,000 in 2025 and $2,100 in 2026.\nThe Medicare Advantage out-of-pocket limit. I guessed $9,250 from the screen. That’s right for 2026: CMS caps in-network cost sharing at $9,250 and combined in- and out-of-network at $13,900 for PPOs, both a little lower than in 2025. Plans can set lower limits, which is why you saw plans near $6,000.\nHow big the quality penalties are. I said 0.25 percent. Value-based purchasing withholds 2 percent of a hospital’s base Medicare payments and redistributes it based on performance. The readmissions penalty can be up to 3 percent.\nWhen you can switch. The annual enrollment period is October 15 to December 7. There is also a Medicare Advantage open enrollment period from January 1 to March 31, when you can switch Advantage plans or go back to traditional Medicare once. And the five-star exception still exists: you can switch into a five-star plan once during the year. So you can’t leave “anytime,” but there are more windows than one.\nMedicare Advantage before 2007. The chart starts in 2007 because that’s where KFF’s series starts, not because the program did. Private plans have been part of Medicare since 1985. The current form, and the name, came from the 2003 Medicare Modernization Act, with plans starting in 2006.\nDual eligibles. I said people eligible for both Medicare and Medicaid wouldn’t be in Medicare Advantage. About half of them are, many in special needs plans designed for them. The 48 versus 54 percent difference between sources comes from whether people with only Part A are counted in the denominator.\nERISA. ERISA is a 1974 federal law, not an agency. The point for us is that employer plans that self-insure are governed by ERISA and are therefore exempt from state insurance regulation. It’s state rules they skirt, not federal ones.\nWho Medicaid originally covered, and Georgia today. The original 1965 program was tied to cash assistance, so it covered low-income families with dependent children and also the aged, blind, and disabled. In Georgia, parents qualify only at very low incomes, about a quarter of the poverty line, and since 2023 adults without children can get coverage up to the poverty line through Georgia Pathways if they meet a work requirement. Enrollment there is small, around 19,000 as of this summer.\nSpending down. The term is “spend down,” and the rule I was reaching for is the look-back: Medicaid reviews asset transfers over the previous five years when someone applies for nursing home coverage. There are also federal spousal protections, dating from 1988, that let the spouse who stays at home keep a share of the couple’s income and assets.\nAllowed amount. During the quiz I said to think of it as the amount on the bill. More precisely, the allowed amount is the negotiated price between the insurer and the provider, which is what your deductible and coinsurance apply to. The charge is the provider’s list price.",
+    "crumbs": [
+      "Recaps",
+      "4. Public insurance"
     ]
   }
 ]

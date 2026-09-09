@@ -56,6 +56,8 @@ website:
           file: recaps/class-01.qmd
         - text: "2. How insurance works"
           file: recaps/class-02.qmd
+        - text: "4. Public insurance"
+          file: recaps/class-04.qmd
 
     - title: "Assignments"
       style: "docked"
