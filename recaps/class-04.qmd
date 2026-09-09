@@ -63,11 +63,14 @@ today.
   incentives are to discharge quickly and to admit more, since doing more inside
   one stay adds cost but not revenue.
 - Value-based purchasing and the readmissions program put quality into that
-  formula by adjusting payment at year end. Readmissions count for any cause; the
-  argument is that bad luck washes out over enough patients and hits peer
-  hospitals too. Bundled payments extend the fixed payment to the 90 days after
-  discharge, and accountable care organizations go further toward a fixed
-  amount per person.
+  formula by adjusting payment at year end. Value-based purchasing withholds 2
+  percent of a hospital's base Medicare payments and pays it back out based on
+  performance, so a hospital can come out ahead or behind. The readmissions
+  program is penalty only, up to 3 percent of Medicare payments. Readmissions
+  count for any cause; the argument is that bad luck washes out over enough
+  patients and hits peer hospitals too. Bundled payments extend the fixed
+  payment to the 90 days after discharge, and accountable care organizations go
+  further toward a fixed amount per person.
 - Medicaid is a joint federal and state program, so eligibility and the federal
   match vary by state. Georgia has not expanded, and the match rises with how
   poor a state is (Georgia's is about 66 percent in FY2026).
