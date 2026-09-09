@@ -95,10 +95,6 @@ today.
   screen. That's right for 2026: CMS caps in-network cost sharing at $9,250 and
   combined in- and out-of-network at $13,900 for PPOs, both a little lower than
   in 2025. Plans can set lower limits, which is why you saw plans near $6,000.
-- **How big the quality penalties are.** I said 0.25 percent. Value-based
-  purchasing withholds 2 percent of a hospital's base Medicare payments and
-  redistributes it based on performance. The readmissions penalty can be up to 3
-  percent.
 - **When you can switch.** The annual enrollment period is October 15 to
   December 7. There is also a Medicare Advantage open enrollment period from
   January 1 to March 31, when you can switch Advantage plans or go back to
