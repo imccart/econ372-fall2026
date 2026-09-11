@@ -142,6 +142,17 @@ rather than Canvas.
 
 If you are new to git or GitHub, your TA runs help sessions.
 
+## Walkthrough videos
+
+Two short videos walk through the tools. The first covers the one-time setup:
+VS Code, Git, GitHub, and Copilot, and what each one is for. The second works
+through an assignment end to end with Copilot, including hitting and fixing an
+error along the way.
+
+{{< video https://youtu.be/WGS8VuIs35w >}}
+
+{{< video https://youtu.be/wahfAxRnAPE >}}
+
 ## Getting started
 
 A few resources that help with the homework, especially if you are new to R or to
