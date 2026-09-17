@@ -930,7 +930,7 @@
     "href": "recaps/index.html#fall-2026",
     "title": "Recaps",
     "section": "Fall 2026",
-    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance",
+    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance\n\n\nTue 9/15\n6\nWhat insurance is worth",
     "crumbs": [
       "Recaps",
       "All recaps"
@@ -997,7 +997,7 @@
     "href": "schedule/index.html#module-1-health-insurance",
     "title": "Schedule",
     "section": "Module 1: Health Insurance",
-    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n\n3\nThu 9/3\nPrivate insurance\n\n\n\n\n\n\n4\nTue 9/8\nPublic insurance\n\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n\n\n\n\n7\nThu 9/17\nSet the premium\n\n\n\n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n\n\n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n\n\n\n\n\nFri 9/25\nHomework 1 due"
+    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n\n3\nThu 9/3\nPrivate insurance\n\n\n\n\n\n\n4\nTue 9/8\nPublic insurance\n\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n\n\n\n\n7\nThu 9/17\nSet the premium\n\n\n \n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n\n\n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n \n\n\n\n\nFri 9/25\nHomework 1 due"
   },
   {
     "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
@@ -1040,5 +1040,60 @@
     "title": "Schedule",
     "section": "Bonus / Optional",
     "text": "Bonus / Optional\nMaterial we won’t cover in class, here if you want to go further:\n\nPhysician learning — how doctors update from experience (Bayesian learning):  \nPhysician training & location — where physicians train and practice:  \nBrand-name drug pricing (formal model) — monopoly and differentiated pricing, the formal version of the in-class simulation:  \nRegulation & innovation (formal) — R&D incentives and drug-pricing policy:"
+  },
+  {
+    "objectID": "recaps/class-06.html",
+    "href": "recaps/class-06.html",
+    "title": "Class 6 — What insurance is worth",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "6. What insurance is worth"
+    ]
+  },
+  {
+    "objectID": "recaps/class-06.html#what-we-covered",
+    "href": "recaps/class-06.html#what-we-covered",
+    "title": "Class 6 — What insurance is worth",
+    "section": "What we covered",
+    "text": "What we covered\nHumana’s exit from the ACA exchanges and why an insurer has to understand its risk pool. Then the three ideas that turn “I don’t like risk” into a dollar figure: the certainty equivalent, the risk premium, and willingness to pay for insurance. We worked the $100,000 example one step at a time. Then what moves the risk premium, why high-risk pools struggle, how plan design sorts people, and a first pass at unraveling that came out of a question. We skipped the in-class problem for time.",
+    "crumbs": [
+      "Recaps",
+      "6. What insurance is worth"
+    ]
+  },
+  {
+    "objectID": "recaps/class-06.html#key-points",
+    "href": "recaps/class-06.html#key-points",
+    "title": "Class 6 — What insurance is worth",
+    "section": "Key points",
+    "text": "Key points\n\nThe certainty equivalent is an amount of money. It’s the wealth you would accept with certainty and feel the same as you do facing the gamble. It is a point on the wealth axis, not a payment. You find it by taking the expected utility and inverting the utility function to get back to dollars.\nExpected utility only uses the two endpoints, healthy and sick. Where you sit on the line between them is set by the probability of illness. The curve doesn’t enter until you ask what certain amount gives the same utility.\nThe risk premium is expected wealth minus the certainty equivalent. It’s what you would give up to make the uncertainty go away, and it’s positive whenever the utility curve is concave.\nWillingness to pay for insurance is the expected cost of illness plus the risk premium. The expected cost is the actuarially fair premium, what an insurer would charge if it charged exactly its cost. “Willingness to pay” shows up twice in this material, so always ask willingness to pay for what.\nExpected wealth is starting wealth minus expected cost. In the small example, $100 to start, $80 cost if sick, a coin flip: expected wealth 60, expected cost 40, and you’d pay a little more than 40 because you don’t like the risk.\nThe worked example, log utility, $100,000, a 25 percent chance of a $20,000 loss: expected wealth 95,000; expected utility 11.45714; certainty equivalent exp(11.45714), which is 94,574; risk premium about 426; expected cost 5,000; willingness to pay 5,426. Keep several decimals before you exponentiate, because a 0.01 difference in utility is a real difference in dollars.\nExponentiating undoes a log and nothing else. If the utility function is a square root, you square to invert it.\nWillingness to pay is a maximum, not what anyone volunteers. The expected-cost part is a transfer, you pay the insurer and the insurer pays the provider. The risk premium is where the insurer’s profit can come from: risk-averse buyers, a risk-neutral insurer, everyone better off.\nThree things move the risk premium. More curvature in the utility function (more risk aversion) raises it. A larger cost of illness raises it. The probability of illness is the odd one out: the risk premium is largest near a coin flip and small when illness is nearly certain, because that’s where the uncertainty is. Willingness to pay keeps rising with the probability, but expected cost takes over and the risk premium becomes a small part of it.\nThat’s the problem with high-risk pools. Everyone in them has a high willingness to pay, but almost all of it is expected cost. There’s little risk premium and so little room for profit, which is one reason they struggle.\nPlan design is how an insurer shapes its pool. A low premium with a high deductible attracts healthy people; someone who expects to be sick wants stability and goes elsewhere. Plans that end up with the sick have a hard time surviving.\nInsurers price by plan and by market, not by person. A plan offered in DeKalb County has one price for everyone who enrolls in it, and the same insurer offers different plans at different prices elsewhere.\nRaising the price after a bad year loses the healthiest enrollees first, which leaves the pool sicker and the new price too low again. Repeat and you have unraveling, sometimes called a death spiral. Next Tuesday does this formally.\nThe certainty equivalent isn’t special to insurance. It’s the standard way economists put a dollar value on a policy change in any setting.",
+    "crumbs": [
+      "Recaps",
+      "6. What insurance is worth"
+    ]
+  },
+  {
+    "objectID": "recaps/class-06.html#clarifications",
+    "href": "recaps/class-06.html#clarifications",
+    "title": "Class 6 — What insurance is worth",
+    "section": "Clarifications",
+    "text": "Clarifications\n\nThe certainty equivalent is a value, not a payment. This came up several times, so once more. The certainty equivalent is a number on the wealth axis. The risk premium is a gap between two numbers on that axis, expected wealth and the certainty equivalent. Willingness to pay for insurance is a bigger gap, from starting wealth down to the certainty equivalent, which is the same as expected cost plus the risk premium.\nThe full answer to the worked example. Willingness to pay is $5,426, the $5,000 expected cost plus the $426 risk premium, not either piece on its own.",
+    "crumbs": [
+      "Recaps",
+      "6. What insurance is worth"
+    ]
+  },
+  {
+    "objectID": "recaps/class-06.html#thursday-and-the-homework",
+    "href": "recaps/class-06.html#thursday-and-the-homework",
+    "title": "Class 6 — What insurance is worth",
+    "section": "Thursday, and the homework",
+    "text": "Thursday, and the homework\nThursday starts with a short quiz, then the simulation. The quiz can ask you to compute an expected value, a certainty equivalent, a risk premium, or a willingness to pay, and to say which direction each of the three determinants pushes. Quizzes are open note; the time limit is the constraint. Do the in-class problem from the slides at home first, the $100 and $50 case at three probabilities, and notice what happens to the risk premium as the probability rises.\nTwo traps in the homework 1 data collection on the New Jersey site. Historical enrollment isn’t presented like the rate history; scroll down past the recent quarters until you see the tabs labeled historical. And quarterly enrollment counts are the same people each quarter, so don’t add quarters together. Pick one quarter per year or average them.",
+    "crumbs": [
+      "Recaps",
+      "6. What insurance is worth"
+    ]
   }
 ]

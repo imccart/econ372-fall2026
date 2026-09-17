@@ -58,6 +58,8 @@ website:
           file: recaps/class-02.qmd
         - text: "4. Public insurance"
           file: recaps/class-04.qmd
+        - text: "6. What insurance is worth"
+          file: recaps/class-06.qmd
 
     - title: "Assignments"
       style: "docked"
