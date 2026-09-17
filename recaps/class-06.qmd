@@ -12,91 +12,42 @@ If something here looks wrong, please tell me and I'll fix it.
 
 ## What we covered
 
-Humana's exit from the ACA exchanges and why an insurer has to understand its
-risk pool. Then the three ideas that turn "I don't like risk" into a dollar
-figure: the certainty equivalent, the risk premium, and willingness to pay for
-insurance. We worked the $100,000 example one step at a time. Then what moves
-the risk premium, why high-risk pools struggle, how plan design sorts people,
-and a first pass at unraveling that came out of a question. We skipped the
-in-class problem for time.
+Certainty equivalent, risk premium, and willingness to pay, with the $100,000
+example worked in class, then what moves the risk premium and why that makes
+high-risk pools hard to run. A question at the end got us into unraveling a
+week early. We skipped the in-class problem for time.
 
 ## Key points
 
-- The certainty equivalent is an amount of money. It's the wealth you would
-  accept with certainty and feel the same as you do facing the gamble. It is a
-  point on the wealth axis, not a payment. You find it by taking the expected
-  utility and inverting the utility function to get back to dollars.
-- Expected utility only uses the two endpoints, healthy and sick. Where you sit
-  on the line between them is set by the probability of illness. The curve
-  doesn't enter until you ask what certain amount gives the same utility.
-- The risk premium is expected wealth minus the certainty equivalent. It's what
-  you would give up to make the uncertainty go away, and it's positive whenever
-  the utility curve is concave.
-- Willingness to pay for insurance is the expected cost of illness plus the
-  risk premium. The expected cost is the actuarially fair premium, what an
-  insurer would charge if it charged exactly its cost. "Willingness to pay"
-  shows up twice in this material, so always ask willingness to pay for what.
-- Expected wealth is starting wealth minus expected cost. In the small example,
-  $100 to start, $80 cost if sick, a coin flip: expected wealth 60, expected
-  cost 40, and you'd pay a little more than 40 because you don't like the risk.
-- The worked example, log utility, $100,000, a 25 percent chance of a $20,000
-  loss: expected wealth 95,000; expected utility 11.45714; certainty equivalent
-  exp(11.45714), which is 94,574; risk premium about 426; expected cost 5,000;
-  willingness to pay 5,426. Keep several decimals before you exponentiate,
-  because a 0.01 difference in utility is a real difference in dollars.
-- Exponentiating undoes a log and nothing else. If the utility function is a
-  square root, you square to invert it.
-- Willingness to pay is a maximum, not what anyone volunteers. The expected-cost
-  part is a transfer, you pay the insurer and the insurer pays the provider. The
-  risk premium is where the insurer's profit can come from: risk-averse buyers,
-  a risk-neutral insurer, everyone better off.
-- Three things move the risk premium. More curvature in the utility function
-  (more risk aversion) raises it. A larger cost of illness raises it. The
-  probability of illness is the odd one out: the risk premium is largest near a
-  coin flip and small when illness is nearly certain, because that's where the
-  uncertainty is. Willingness to pay keeps rising with the probability, but
-  expected cost takes over and the risk premium becomes a small part of it.
-- That's the problem with high-risk pools. Everyone in them has a high
-  willingness to pay, but almost all of it is expected cost. There's little
-  risk premium and so little room for profit, which is one reason they
-  struggle.
-- Plan design is how an insurer shapes its pool. A low premium with a high
-  deductible attracts healthy people; someone who expects to be sick wants
-  stability and goes elsewhere. Plans that end up with the sick have a hard
-  time surviving.
-- Insurers price by plan and by market, not by person. A plan offered in DeKalb
-  County has one price for everyone who enrolls in it, and the same insurer
-  offers different plans at different prices elsewhere.
+- The certainty equivalent is a value on the wealth axis, not a payment. The
+  risk premium is the gap from expected wealth down to it, and willingness to
+  pay for insurance is the bigger gap from starting wealth down to it, which is
+  the same as expected cost plus the risk premium. This came up several times,
+  so it's worth one more read.
+- Expected utility only uses the two endpoints, so it's a line. The curve comes
+  back when you ask what certain amount gives the same utility. Invert the
+  utility function to get there, and go a few decimals out first.
+  Exponentiating undoes a log and nothing else.
+- The expected-cost part of what you pay is a transfer to providers. The risk
+  premium is where an insurer's profit can come from: risk-averse buyers, a
+  risk-neutral insurer.
+- Willingness to pay keeps rising with the probability of illness, but the risk
+  premium peaks near a coin flip and shrinks as illness becomes near certain. A
+  high-risk pool is almost all expected cost and very little risk premium, so
+  there's little room for profit.
 - Raising the price after a bad year loses the healthiest enrollees first,
-  which leaves the pool sicker and the new price too low again. Repeat and you
-  have unraveling, sometimes called a death spiral. Next Tuesday does this
-  formally.
-- The certainty equivalent isn't special to insurance. It's the standard way
-  economists put a dollar value on a policy change in any setting.
+  which leaves the price too low again. That's unraveling, and next Tuesday
+  does it properly.
 
-## Clarifications
+## One clarification
 
-- **The certainty equivalent is a value, not a payment.** This came up several
-  times, so once more. The certainty equivalent is a number on the wealth axis.
-  The risk premium is a gap between two numbers on that axis, expected wealth
-  and the certainty equivalent. Willingness to pay for insurance is a bigger
-  gap, from starting wealth down to the certainty equivalent, which is the same
-  as expected cost plus the risk premium.
-- **The full answer to the worked example.** Willingness to pay is $5,426, the
-  $5,000 expected cost plus the $426 risk premium, not either piece on its own.
+In the worked example the full willingness to pay is $5,426, the $5,000
+expected cost plus the $426 risk premium.
 
-## Thursday, and the homework
+## Thursday
 
-Thursday starts with a short quiz, then the simulation. The quiz can ask you to
-compute an expected value, a certainty equivalent, a risk premium, or a
-willingness to pay, and to say which direction each of the three determinants
-pushes. Quizzes are open note; the time limit is the constraint. Do the
-in-class problem from the slides at home first, the $100 and $50 case at three
-probabilities, and notice what happens to the risk premium as the probability
-rises.
-
-Two traps in the homework 1 data collection on the New Jersey site. Historical
-enrollment isn't presented like the rate history; scroll down past the recent
-quarters until you see the tabs labeled historical. And quarterly enrollment
-counts are the same people each quarter, so don't add quarters together. Pick
-one quarter per year or average them.
+Short quiz, open note, then the simulation. Calculations on expected value,
+certainty equivalent, risk premium, and willingness to pay are fair game. On
+the homework, the New Jersey enrollment history sits under the tabs labeled
+historical below the recent quarters, and quarterly enrollment is the same
+people each quarter, so pick one quarter per year rather than adding them.
