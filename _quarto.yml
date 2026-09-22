@@ -94,6 +94,15 @@ website:
           href: assignments/index.qmd#quizzes
         - text: "Midterm"
           href: assignments/index.qmd#midterm
+        - section: "Review"
+          href: assignments/index.qmd#review
+          contents:
+            - text: "In-class problems & solutions"
+              file: resources/worksheets.qmd
+            - text: "Calculus review"
+              file: resources/calculus-review.qmd
+            - text: "Calculus practice"
+              file: resources/calculus-practice.qmd
         - section: "Empirical homework"
           href: assignments/index.qmd#empirical-homework
           contents:
