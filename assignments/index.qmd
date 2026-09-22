@@ -89,6 +89,18 @@ derivations. It is where you show your work and earn partial credit. There is no
 final exam. A documented absence can be made up, but there is otherwise no drop
 for the midterm, so plan for the date on the schedule.
 
+## Review
+
+A few resources to study from.
+
+- [In-class problems and solutions](../resources/worksheets.qmd), every in-class
+  problem by module, with a worked solution you open after trying it yourself.
+  This is the best way to study for the quizzes and the midterm.
+- [Calculus review](../resources/calculus-review.qmd), the handful of calculus
+  tools we use in the course.
+- [Calculus practice](../resources/calculus-practice.qmd), practice problems with
+  solutions to check yourself.
+
 ## Empirical homework
 
 There are three homeworks, worth 30 points each, and your best two count, so one
