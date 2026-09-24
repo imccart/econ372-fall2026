@@ -16,4 +16,5 @@ Not every class will have one.
 | Tue 9/1 | 2 | [How insurance works](class-02.qmd) |
 | Tue 9/8 | 4 | [Public insurance](class-04.qmd) |
 | Tue 9/15 | 6 | [What insurance is worth](class-06.qmd) |
+| Tue 9/22 | 8 | [Adverse selection](class-08.qmd) |
 : {tbl-colwidths="[18,10,72]"}

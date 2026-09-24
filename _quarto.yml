@@ -60,6 +60,8 @@ website:
           file: recaps/class-04.qmd
         - text: "6. What insurance is worth"
           file: recaps/class-06.qmd
+        - text: "8. Adverse selection"
+          file: recaps/class-08.qmd
 
     - title: "Assignments"
       style: "docked"

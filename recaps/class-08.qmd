@@ -1,0 +1,57 @@
+---
+title: "Class 8 --- Adverse selection"
+subtitle: "Tuesday, September 22"
+---
+
+::: {.callout-note appearance="simple"}
+This recap comes from a recording of class, transcribed with Whisper and
+summarized with Claude, with a light edit from me. It's meant as a convenience
+rather than a careful document, so the phrasing will sometimes be a little off.
+If something here looks wrong, please tell me and I'll fix it.
+:::
+
+## What we covered
+
+We started with homework questions, then moved from one person buying insurance
+to a market. Special enrollment periods as the motivating example, the demand,
+average cost, and marginal cost graph, the three cases (full insurance, partial
+unraveling, full unraveling), the numerical example, the Paul Ryan clip, and a
+first pass at policy solutions. We ran out of time partway through the policy
+section and will pick it up Thursday.
+
+## Key points
+
+- Reading the graph is three steps, and the quiz will ask for them. Pick a
+  price, go across to the demand curve to find the quantity, go up from that
+  quantity to the average cost curve, and compare the two. Practice it until
+  it's automatic.
+- Insurance is unusual because an insurer's costs are tied to the demand curve
+  itself. In most markets what people will pay and what it costs to serve them
+  are separate things.
+- Whether a market is in a "death spiral" is the wrong question. There is some
+  unraveling in any market with adverse selection and a common price. The
+  question is how much, and whether the people left out are the healthiest,
+  which we can live with, or the sickest, which we can't.
+- A subsidy paid to you shifts demand. It does not move the average cost curve,
+  because your health hasn't changed. What changes is who else buys, so observed
+  average cost moves even though the curve doesn't. A subsidy paid to insurers
+  is the one that pulls the cost curve down.
+- A subsidy and a penalty do the same thing. Twenty dollars off the price and
+  twenty dollars owed if you don't buy both shift demand out by twenty.
+- Zero profit is a convenience, not a claim about insurers. We assume it away so
+  the only thing left moving the market is selection.
+
+## One correction
+
+Paul Ryan was a congressman from Wisconsin and Speaker of the House, not a
+senator. Nothing else about the clip changes.
+
+## Thursday and the homework
+
+Panel plus a short quiz, which finishes the insurance section. Bring questions
+on adverse selection and we can start with them.
+
+Homework 1 is due Friday. One thing I said after class that everyone should
+hear. The New Jersey historical rate file is a scanned PDF, and asking a model
+to read it will produce more mistakes than doing it by hand. Build that table
+yourself. Everything else on the assignment is fair game for the agent.

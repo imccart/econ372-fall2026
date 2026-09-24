@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Class 2 — How insurance works – Economics of Health Care Markets</title>
+<title>Class 8 — Adverse selection – Economics of Health Care Markets</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -125,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../recaps/class-02.html">2. How insurance works</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../recaps/class-08.html">8. Adverse selection</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -151,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../recaps/class-02.html" class="sidebar-item-text sidebar-link active">
+  <a href="../recaps/class-02.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">2. How insurance works</span></a>
   </div>
 </li>
@@ -169,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../recaps/class-08.html" class="sidebar-item-text sidebar-link">
+  <a href="../recaps/class-08.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">8. Adverse selection</span></a>
   </div>
 </li>
@@ -185,7 +185,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#what-we-covered" id="toc-what-we-covered" class="nav-link active" data-scroll-target="#what-we-covered">What we covered</a></li>
   <li><a href="#key-points" id="toc-key-points" class="nav-link" data-scroll-target="#key-points">Key points</a></li>
-  <li><a href="#clarifications-and-corrections" id="toc-clarifications-and-corrections" class="nav-link" data-scroll-target="#clarifications-and-corrections">Clarifications and corrections</a></li>
+  <li><a href="#one-correction" id="toc-one-correction" class="nav-link" data-scroll-target="#one-correction">One correction</a></li>
+  <li><a href="#thursday-and-the-homework" id="toc-thursday-and-the-homework" class="nav-link" data-scroll-target="#thursday-and-the-homework">Thursday and the homework</a></li>
   </ul>
 </nav>
     </div>
@@ -194,8 +195,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Class 2 — How insurance works</h1>
-<p class="subtitle lead">Tuesday, September 1</p>
+<h1 class="title">Class 8 — Adverse selection</h1>
+<p class="subtitle lead">Tuesday, September 22</p>
 </div>
 
 
@@ -224,36 +225,27 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="what-we-covered" class="level2">
 <h2 class="anchored" data-anchor-id="what-we-covered">What we covered</h2>
-<p>The vocabulary of a health insurance contract. On the insurer’s side, managed care, networks, HMOs versus PPOs, and benefit design. On the patient’s side, premiums, deductibles, copayments, and coinsurance. We ran the first simulation in Commons, and with the time left I started on Thursday’s material about where employer coverage came from.</p>
+<p>We started with homework questions, then moved from one person buying insurance to a market. Special enrollment periods as the motivating example, the demand, average cost, and marginal cost graph, the three cases (full insurance, partial unraveling, full unraveling), the numerical example, the Paul Ryan clip, and a first pass at policy solutions. We ran out of time partway through the policy section and will pick it up Thursday.</p>
 </section>
 <section id="key-points" class="level2">
 <h2 class="anchored" data-anchor-id="key-points">Key points</h2>
 <ul>
-<li>Health insurance is a financial product. It covers the cost of getting sick rather than keeping you from getting sick. Being insured also gets you the insurer’s negotiated price instead of the hospital’s list price, which matters even before any cost sharing.</li>
-<li>“Managed care” just means the plan has a network. An HMO is in or out. A PPO has tiers, with your coinsurance rising as you move down them.</li>
-<li>A PPO isn’t automatically a bigger or cheaper network than an HMO. The same insurer usually sells both, and a provider in its HMO is almost certainly somewhere in its PPO too.</li>
-<li>Copayments go with predictable care and coinsurance with care that has a long tail. An office visit can’t turn into a $100,000 bill; a hospital stay can. Pharmacy drugs are usually a copayment for the same reason, while expensive drugs given in a physician’s office, where the dose can change that day, are often coinsurance.</li>
-<li>Deductibles and out-of-pocket maximums are usually split in network versus out of network rather than by tier.</li>
-<li>Between 2003 and 2017, deductibles went from about a fifth of out-of-pocket spending to about half, mostly at the expense of copayments. All else equal, a higher deductible is the cheapest form of cost sharing for the insurer, but it has moved alongside big price increases, so it’s hard to say what would have happened otherwise.</li>
-<li>The medical loss ratio is the main constraint on insurers. It caps the share of premium revenue that can go to anything other than paying for care (85 percent must go to care in large employer plans, 80 percent in individual and small group plans).</li>
-<li>Networks come out of a two-sided negotiation. The insurer wants your specialty in the network but not at your price, and either side can walk away. More and more, the physician’s side of that negotiation is a hospital, an insurer, or a private equity firm that owns the practice.</li>
-<li>A surprise bill is what happens when the hospital and the surgeon are in network and the anesthesiologist they brought in isn’t. That’s what the No Surprises Act is about, and it’s been in litigation constantly.</li>
-<li>A health savings account lets you pay your cost sharing with pre-tax dollars. At a 25 percent tax rate, a dollar of salary buys about 75 cents of care after tax or a full dollar through the account.</li>
-<li>Cost-plus reimbursement pays a provider its costs plus a percentage, so higher costs mean more dollars at the same margin. That’s how hospitals were paid for decades, and how Medicare and Medicaid paid into the 1980s.</li>
-<li>In the simulation, about half of you bought insurance in the first round, and almost everyone bought after the round where several people got sick. That relationship between risk and willingness to pay is where the module goes next.</li>
-<li>The book I was trying to remember last week is T.R. Reid’s <em>The Healing of America</em>.</li>
+<li>Reading the graph is three steps, and the quiz will ask for them. Pick a price, go across to the demand curve to find the quantity, go up from that quantity to the average cost curve, and compare the two. Practice it until it’s automatic.</li>
+<li>Insurance is unusual because an insurer’s costs are tied to the demand curve itself. In most markets what people will pay and what it costs to serve them are separate things.</li>
+<li>Whether a market is in a “death spiral” is the wrong question. There is some unraveling in any market with adverse selection and a common price. The question is how much, and whether the people left out are the healthiest, which we can live with, or the sickest, which we can’t.</li>
+<li>A subsidy paid to you shifts demand. It does not move the average cost curve, because your health hasn’t changed. What changes is who else buys, so observed average cost moves even though the curve doesn’t. A subsidy paid to insurers is the one that pulls the cost curve down.</li>
+<li>A subsidy and a penalty do the same thing. Twenty dollars off the price and twenty dollars owed if you don’t buy both shift demand out by twenty.</li>
+<li>Zero profit is a convenience, not a claim about insurers. We assume it away so the only thing left moving the market is selection.</li>
 </ul>
 </section>
-<section id="clarifications-and-corrections" class="level2">
-<h2 class="anchored" data-anchor-id="clarifications-and-corrections">Clarifications and corrections</h2>
-<ul>
-<li><strong>Which plan type is most common.</strong> I didn’t have the number in class. In KFF’s 2025 employer survey, 46 percent of covered workers are in a PPO, 33 percent in a high-deductible plan with a savings account, 12 percent in an HMO, and 9 percent in a point-of-service plan.</li>
-<li><strong>Who pays how much of the premium.</strong> My example had the worker paying $10,000 of a $22,000 family premium. In the KFF survey behind that chart, workers paid about $6,000 of it in 2021, so roughly a quarter. The employer pays most of the premium.</li>
-<li><strong>When the ACA changed the non-group market.</strong> I said “pre-ACA, so before 2012.” The law passed in 2010, and the marketplaces and the pre-existing condition rules started with 2014 coverage. The 2012 chart is just the last full year before the marketplaces opened.</li>
-<li><strong>Who approved wartime wage increases.</strong> I said the Department of Defense, which didn’t exist until 1947. Under the 1942 wage controls, raises went through the National War Labor Board. Either way, employers competed on benefits because they couldn’t compete on wages.</li>
-<li><strong>How dominant Blue Cross Blue Shield was.</strong> I said nearly every plan by mid-century. Thursday’s slides put it at about half of all plans by 1940.</li>
-<li><strong>Blue Cross Blue Shield today.</strong> I said it’s Anthem now. Blue Cross Blue Shield is an association of independent licensees, and Anthem, now called Elevance Health, is the largest of them.</li>
-</ul>
+<section id="one-correction" class="level2">
+<h2 class="anchored" data-anchor-id="one-correction">One correction</h2>
+<p>Paul Ryan was a congressman from Wisconsin and Speaker of the House, not a senator. Nothing else about the clip changes.</p>
+</section>
+<section id="thursday-and-the-homework" class="level2">
+<h2 class="anchored" data-anchor-id="thursday-and-the-homework">Thursday and the homework</h2>
+<p>Panel plus a short quiz, which finishes the insurance section. Bring questions on adverse selection and we can start with them.</p>
+<p>Homework 1 is due Friday. One thing I said after class that everyone should hear. The New Jersey historical rate file is a scanned PDF, and asking a model to read it will produce more mistakes than doing it by hand. Build that table yourself. Everything else on the assignment is fair game for the agent.</p>
 
 
 </section>
