@@ -41,6 +41,34 @@ section and will pick it up Thursday.
 - Zero profit is a convenience, not a claim about insurers. We assume it away so
   the only thing left moving the market is selection.
 
+## The life insurance question
+
+Someone asked why we don't let insurers price each person individually in health
+insurance when other insurance markets do, and I said I didn't have a good
+answer. Here's a better one.
+
+Life insurance underwrites you individually, but only once. A level-term or
+whole-life policy fixes the premium when you buy it, and the insurer can't raise
+it later when your health changes. So life insurance is already protecting you
+against being repriced. It just does it through the contract rather than through
+a rule.
+
+That points at what health insurance regulation is actually protecting, and it
+isn't the within-year risk we drew on Tuesday. It's the risk that your premium
+jumps in the year you get sick and stays there. Health insurance is bought over
+and over across a lifetime, and a string of individually priced one-year
+policies leaves that risk completely uninsured, even though every one of those
+policies is fairly priced. Community rating is a substitute for the long-term
+contract this market won't write, since people change jobs, the product can't be
+specified decades ahead, and a healthy enrollee can always walk away.
+
+Auto insurance is the case that really is different, and the reason is that a
+driving record is mostly a choice. Pricing on it changes behavior. Health status
+mostly isn't a choice, so pricing on it just moves money away from people who
+drew badly. That's also why the rating factors states restrict in auto
+insurance, things like credit score and ZIP code, tend to be the ones with the
+least to do with how you actually drive.
+
 ## More on the insurer-side programs
 
 I went quickly over this in class and it's worth separating out, because
