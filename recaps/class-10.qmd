@@ -27,9 +27,7 @@ waste. We ran the patient-side simulation at the end.
   case that matters is the one where the care genuinely helps, just not by much,
   and costs more than you would have agreed to if anyone had told you the price.
   The test is whether you'd choose the same care if you had the physician's
-  information and capabilities. The ear tube story is exactly that gap: a real
-  but tiny benefit, a bill I didn't expect, and a decision I'd have made
-  differently if I'd known what it would cost.
+  information and capabilities.
 - The Dartmouth map is utilization, not prices. It's Medicare, which pays a
   formula adjusted for local wages, so adding up payments tells you how much care
   was delivered rather than what it cost. The figures are also adjusted for race,
