@@ -73,35 +73,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -260,27 +231,26 @@ window.Quarto = {
 </div>
 <section id="what-we-covered" class="level2">
 <h2 class="anchored" data-anchor-id="what-we-covered">What we covered</h2>
-<p>Homework 1 first, then the start of module 2. The landscape of who delivers care, physicians as the gatekeeper, what physician agency means, and the Dartmouth figures on geographic variation, ending on why variation isn’t the same thing as waste. We ran the patient-side simulation at the end.</p>
+<p>Homework 1 first, then the start of module 2. Why treatment varies across physicians, what physician agency means, and the Dartmouth evidence on geographic variation, ending on why variation isn’t the same thing as waste. We ran the patient-side simulation at the end.</p>
 </section>
 <section id="key-points" class="level2">
 <h2 class="anchored" data-anchor-id="key-points">Key points</h2>
 <ul>
-<li>Medicine is learned by watching people work rather than from a rulebook, and there’s real gray area in what care a patient needs. So variation in treatment across physicians is what you should expect. The question for this module is how much of it comes from something other than what the patient needs.</li>
-<li>Physician agency doesn’t mean your doctor is trying to make money off you. The case that matters is the one where the care genuinely helps, just not by much, and costs more than you would have agreed to if anyone had told you the price. The test is whether you’d choose the same care if you had the physician’s information and capabilities.</li>
-<li>The Dartmouth map is utilization, not prices. It’s Medicare, which pays a formula adjusted for local wages, so adding up payments tells you how much care was delivered rather than what it cost. The figures are also adjusted for race, age, and sex, which is why “sicker people live there” doesn’t account for the spread.</li>
-<li>Variation is not automatically waste. Waste is easy to name afterward and very hard to identify in advance, since you’d have to know which patients were going to get no benefit before treating them, and the work on predicting that finds it difficult. So the conclusion isn’t that everyone should receive the same amount of care. It’s that the sources of the variation are worth understanding, and payment incentives are the source we take up next.</li>
-<li>Not-for-profit status means one thing for certain, which is that revenue above costs doesn’t go to owners. Tax treatment and access to capital follow from that. What’s also supposed to follow, community benefit, isn’t well measured or well regulated, so a not-for-profit can end up looking a lot like a for-profit in how it behaves. A C-suite person I worked with in a health system put it as no mission without margin.</li>
+<li>Medicine is learned by watching people work rather than from a rulebook, and there’s real gray area in what a patient needs. Some variation in treatment across physicians is therefore what you’d expect. The question for this module is how much of it comes from something other than patient need.</li>
+<li>Physician agency doesn’t require anyone behaving badly. The case that matters is the one where the care genuinely helps, just not by much, and costs more than you’d have agreed to if anyone had told you the price.</li>
+<li>The Dartmouth map shows utilization, not prices. It’s Medicare, which pays a formula adjusted for local wages, so adding up payments tells you how much care was delivered rather than what it cost. It’s also adjusted for race, age, and sex, which is why “sicker people live there” doesn’t account for the spread.</li>
+<li>Variation is not automatically waste. Waste is easy to name afterward and hard to identify in advance, since you’d have to know which patients would get no benefit before treating them. So the goal isn’t identical care for everyone. It’s understanding where the variation comes from, and payment incentives are where we go next.</li>
+<li>Not-for-profit status means one thing for certain, which is that revenue above costs doesn’t go to owners. Tax exemption and cheaper capital follow from it. What’s also supposed to follow, community benefit, isn’t well measured or well regulated, so in observable behavior a not-for-profit can look much like a for-profit. Either way it still needs a margin.</li>
 </ul>
 </section>
 <section id="thursday" class="level2">
 <h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
-<p>Model day, and the place in this module where the math gets in the way if you haven’t seen the notation once already. Read the slides and the chapter before you come. The pieces: <span class="math inline">\(x\)</span> is the amount of care, <span class="math inline">\(B(x)\)</span> is the benefit of that care to the patient, <span class="math inline">\(P\)</span> is the price the patient pays, and net benefit is the benefit minus what you pay for it. We’ll maximize those functions, so be comfortable with derivatives, and we’ll do a constrained maximization in a simplified way by substituting one thing into another rather than setting up a Lagrangian. The physician maximizes something by choosing an amount of care, the patient maximizes something by choosing an amount of care, and we compare the two under different ways of paying for care.</p>
-<p>Next week is a quiz on Tuesday and a panel on Thursday, then fall break.</p>
+<p>Model day, and the math is where this module trips people up. Read the slides and the chapter before you come so the notation isn’t new. Be comfortable with derivatives. We’ll do a constrained maximization, but in a simplified way by substitution rather than with a Lagrangian.</p>
 </section>
 <section id="homework" class="level2">
 <h2 class="anchored" data-anchor-id="homework">Homework</h2>
-<p>Grades and comments for homework 1 are in Canvas, so read your comment. Email me if something looks wrong, since we could have missed something in reviewing your repositories. An answer key is coming.</p>
-<p>Three things to carry into homework 2. Merge on identifiers, not names, because county names repeat across states and merging on the name duplicates rows until you have far more data than you started with. A national rate isn’t the average of the county rates, so weight by counts or sum the numerator and the denominator before dividing. And use git the way it’s meant to be used, working locally, committing, then pushing. Uploading files through the GitHub website cost nobody points this time and will cost points next time.</p>
+<p>Grades and comments for homework 1 are in Canvas. Email me if something looks wrong, since we could have missed something in reviewing your repositories, and an answer key is coming.</p>
+<p>Three things to carry into homework 2. Merge on identifiers rather than names, since county names repeat across states and merging on the name duplicates rows. A national rate isn’t the average of the county rates, so weight by counts, or sum the numerator and the denominator and then divide. And use git properly, working locally, committing, then pushing; uploading files through the GitHub website cost nobody points this time and will cost points next time.</p>
 
 
 </section>
