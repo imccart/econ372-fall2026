@@ -62,6 +62,8 @@ website:
           file: recaps/class-06.qmd
         - text: "8. Adverse selection"
           file: recaps/class-08.qmd
+        - text: "10. Physician agency"
+          file: recaps/class-10.qmd
 
     - title: "Assignments"
       style: "docked"

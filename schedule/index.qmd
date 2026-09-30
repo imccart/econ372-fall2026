@@ -38,7 +38,7 @@ The schedule is provisional --- topics, readings, and the exact placement of qui
 
 | Class | Date | Topic | Reading | Slides | Activity | Recap |
 |:--:|:--|:--|:--:|:--:|:--:|:--:|
-| 10 | Tue 9/29 | Does your doctor work for you? | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-01.html) | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) | |
+| 10 | Tue 9/29 | Does your doctor work for you? | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-1-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-01.html) | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) | [{{< fa file-lines title="Recap" >}}](../recaps/class-10.qmd) |
 | 11 | Thu 10/1 | Do incentives change treatment? | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-1.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-02.html) | | |
 | 12 | Tue 10/6 | How physicians are paid | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part2/physicians-2-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/02-physicians/physicians-03.html) | [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) | |
 | 13 | Thu 10/8 | Overtreated? | | | [{{< fa comments title="Panel" >}}](../assignments/panel4.qmd) | |

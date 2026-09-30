@@ -285,7 +285,7 @@
     "href": "recaps/index.html#fall-2026",
     "title": "Recaps",
     "section": "Fall 2026",
-    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance\n\n\nTue 9/15\n6\nWhat insurance is worth\n\n\nTue 9/22\n8\nAdverse selection",
+    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance\n\n\nTue 9/15\n6\nWhat insurance is worth\n\n\nTue 9/22\n8\nAdverse selection\n\n\nTue 9/29\n10\nPhysician agency",
     "crumbs": [
       "Recaps",
       "All recaps"
@@ -1383,6 +1383,61 @@
     "crumbs": [
       "Recaps",
       "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html",
+    "href": "recaps/class-10.html",
+    "title": "Class 10 — Physician agency",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#what-we-covered",
+    "href": "recaps/class-10.html#what-we-covered",
+    "title": "Class 10 — Physician agency",
+    "section": "What we covered",
+    "text": "What we covered\nHomework 1 first, then the start of module 2. The landscape of who delivers care, physicians as the gatekeeper, what physician agency means, and the Dartmouth figures on geographic variation, ending on why variation isn’t the same thing as waste. We ran the patient-side simulation at the end.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#key-points",
+    "href": "recaps/class-10.html#key-points",
+    "title": "Class 10 — Physician agency",
+    "section": "Key points",
+    "text": "Key points\n\nMedicine is learned by watching people work rather than from a rulebook, and there’s real gray area in what care a patient needs. So variation in treatment across physicians is what you should expect. The question for this module is how much of it comes from something other than what the patient needs.\nPhysician agency doesn’t mean your doctor is trying to make money off you. The case that matters is the one where the care genuinely helps, just not by much, and costs more than you would have agreed to if anyone had told you the price. The test is whether you’d choose the same care if you had the physician’s information and capabilities. The ear tube story is exactly that gap: a real but tiny benefit, a bill I didn’t expect, and a decision I’d have made differently if I’d known what it would cost.\nThe Dartmouth map is utilization, not prices. It’s Medicare, which pays a formula adjusted for local wages, so adding up payments tells you how much care was delivered rather than what it cost. The figures are also adjusted for race, age, and sex, which is why “sicker people live there” doesn’t account for the spread.\nVariation is not automatically waste. Waste is easy to name afterward and very hard to identify in advance, since you’d have to know which patients were going to get no benefit before treating them, and the work on predicting that finds it difficult. So the conclusion isn’t that everyone should receive the same amount of care. It’s that the sources of the variation are worth understanding, and payment incentives are the source we take up next.\nNot-for-profit status means one thing for certain, which is that revenue above costs doesn’t go to owners. Tax treatment and access to capital follow from that. What’s also supposed to follow, community benefit, isn’t well measured or well regulated, so a not-for-profit can end up looking a lot like a for-profit in how it behaves. A C-suite person I worked with in a health system put it as no mission without margin.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#thursday",
+    "href": "recaps/class-10.html#thursday",
+    "title": "Class 10 — Physician agency",
+    "section": "Thursday",
+    "text": "Thursday\nModel day, and the place in this module where the math gets in the way if you haven’t seen the notation once already. Read the slides and the chapter before you come. The pieces: \\(x\\) is the amount of care, \\(B(x)\\) is the benefit of that care to the patient, \\(P\\) is the price the patient pays, and net benefit is the benefit minus what you pay for it. We’ll maximize those functions, so be comfortable with derivatives, and we’ll do a constrained maximization in a simplified way by substituting one thing into another rather than setting up a Lagrangian. The physician maximizes something by choosing an amount of care, the patient maximizes something by choosing an amount of care, and we compare the two under different ways of paying for care.\nNext week is a quiz on Tuesday and a panel on Thursday, then fall break.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#homework",
+    "href": "recaps/class-10.html#homework",
+    "title": "Class 10 — Physician agency",
+    "section": "Homework",
+    "text": "Homework\nGrades and comments for homework 1 are in Canvas, so read your comment. Email me if something looks wrong, since we could have missed something in reviewing your repositories. An answer key is coming.\nThree things to carry into homework 2. Merge on identifiers, not names, because county names repeat across states and merging on the name duplicates rows until you have far more data than you started with. A national rate isn’t the average of the county rates, so weight by counts or sum the numerator and the denominator before dividing. And use git the way it’s meant to be used, working locally, committing, then pushing. Uploading files through the GitHub website cost nobody points this time and will cost points next time.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
     ]
   }
 ]

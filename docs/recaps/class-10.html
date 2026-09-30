@@ -8,7 +8,7 @@
 
 <meta name="description" content="Course on the Economics of Health Care Markets at Emory University">
 
-<title>Class 6 — What insurance is worth – Economics of Health Care Markets</title>
+<title>Class 10 — Physician agency – Economics of Health Care Markets</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -125,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../recaps/class-06.html">6. What insurance is worth</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../recaps/class-10.html">10. Physician agency</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -163,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../recaps/class-06.html" class="sidebar-item-text sidebar-link active">
+  <a href="../recaps/class-06.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">6. What insurance is worth</span></a>
   </div>
 </li>
@@ -175,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../recaps/class-10.html" class="sidebar-item-text sidebar-link">
+  <a href="../recaps/class-10.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">10. Physician agency</span></a>
   </div>
 </li>
@@ -191,8 +220,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#what-we-covered" id="toc-what-we-covered" class="nav-link active" data-scroll-target="#what-we-covered">What we covered</a></li>
   <li><a href="#key-points" id="toc-key-points" class="nav-link" data-scroll-target="#key-points">Key points</a></li>
-  <li><a href="#one-clarification" id="toc-one-clarification" class="nav-link" data-scroll-target="#one-clarification">One clarification</a></li>
   <li><a href="#thursday" id="toc-thursday" class="nav-link" data-scroll-target="#thursday">Thursday</a></li>
+  <li><a href="#homework" id="toc-homework" class="nav-link" data-scroll-target="#homework">Homework</a></li>
   </ul>
 </nav>
     </div>
@@ -201,8 +230,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Class 6 — What insurance is worth</h1>
-<p class="subtitle lead">Tuesday, September 15</p>
+<h1 class="title">Class 10 — Physician agency</h1>
+<p class="subtitle lead">Tuesday, September 29</p>
 </div>
 
 
@@ -231,25 +260,27 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="what-we-covered" class="level2">
 <h2 class="anchored" data-anchor-id="what-we-covered">What we covered</h2>
-<p>Certainty equivalent, risk premium, and willingness to pay, with the $100,000 example worked in class, then what moves the risk premium and why that makes high-risk pools hard to run. A question at the end got us into unraveling a week early. We skipped the in-class problem for time.</p>
+<p>Homework 1 first, then the start of module 2. The landscape of who delivers care, physicians as the gatekeeper, what physician agency means, and the Dartmouth figures on geographic variation, ending on why variation isn’t the same thing as waste. We ran the patient-side simulation at the end.</p>
 </section>
 <section id="key-points" class="level2">
 <h2 class="anchored" data-anchor-id="key-points">Key points</h2>
 <ul>
-<li>The certainty equivalent is a value on the wealth axis, not a payment. The risk premium is the gap from expected wealth down to it, and willingness to pay for insurance is the bigger gap from starting wealth down to it, which is the same as expected cost plus the risk premium. This came up several times, so it’s worth one more read.</li>
-<li>Expected utility only uses the two endpoints, so it’s a line. The curve comes back when you ask what certain amount gives the same utility. Invert the utility function to get there, and go a few decimals out first. Exponentiating undoes a log and nothing else.</li>
-<li>The expected-cost part of what you pay is a transfer to providers. The risk premium is where an insurer’s profit can come from: risk-averse buyers, a risk-neutral insurer.</li>
-<li>Willingness to pay keeps rising with the probability of illness, but the risk premium peaks near a coin flip and shrinks as illness becomes near certain. A high-risk pool is almost all expected cost and very little risk premium, so there’s little room for profit.</li>
-<li>Raising the price after a bad year loses the healthiest enrollees first, which leaves the price too low again. That’s unraveling, and next Tuesday does it properly.</li>
+<li>Medicine is learned by watching people work rather than from a rulebook, and there’s real gray area in what care a patient needs. So variation in treatment across physicians is what you should expect. The question for this module is how much of it comes from something other than what the patient needs.</li>
+<li>Physician agency doesn’t mean your doctor is trying to make money off you. The case that matters is the one where the care genuinely helps, just not by much, and costs more than you would have agreed to if anyone had told you the price. The test is whether you’d choose the same care if you had the physician’s information and capabilities. The ear tube story is exactly that gap: a real but tiny benefit, a bill I didn’t expect, and a decision I’d have made differently if I’d known what it would cost.</li>
+<li>The Dartmouth map is utilization, not prices. It’s Medicare, which pays a formula adjusted for local wages, so adding up payments tells you how much care was delivered rather than what it cost. The figures are also adjusted for race, age, and sex, which is why “sicker people live there” doesn’t account for the spread.</li>
+<li>Variation is not automatically waste. Waste is easy to name afterward and very hard to identify in advance, since you’d have to know which patients were going to get no benefit before treating them, and the work on predicting that finds it difficult. So the conclusion isn’t that everyone should receive the same amount of care. It’s that the sources of the variation are worth understanding, and payment incentives are the source we take up next.</li>
+<li>Not-for-profit status means one thing for certain, which is that revenue above costs doesn’t go to owners. Tax treatment and access to capital follow from that. What’s also supposed to follow, community benefit, isn’t well measured or well regulated, so a not-for-profit can end up looking a lot like a for-profit in how it behaves. A C-suite person I worked with in a health system put it as no mission without margin.</li>
 </ul>
-</section>
-<section id="one-clarification" class="level2">
-<h2 class="anchored" data-anchor-id="one-clarification">One clarification</h2>
-<p>In the worked example the full willingness to pay is $5,426, the $5,000 expected cost plus the $426 risk premium.</p>
 </section>
 <section id="thursday" class="level2">
 <h2 class="anchored" data-anchor-id="thursday">Thursday</h2>
-<p>Short quiz, open note, then the simulation. Calculations on expected value, certainty equivalent, risk premium, and willingness to pay are fair game. On the homework, the New Jersey enrollment history sits under the tabs labeled historical below the recent quarters, and quarterly enrollment is the same people each quarter, so pick one quarter per year rather than adding them.</p>
+<p>Model day, and the place in this module where the math gets in the way if you haven’t seen the notation once already. Read the slides and the chapter before you come. The pieces: <span class="math inline">\(x\)</span> is the amount of care, <span class="math inline">\(B(x)\)</span> is the benefit of that care to the patient, <span class="math inline">\(P\)</span> is the price the patient pays, and net benefit is the benefit minus what you pay for it. We’ll maximize those functions, so be comfortable with derivatives, and we’ll do a constrained maximization in a simplified way by substituting one thing into another rather than setting up a Lagrangian. The physician maximizes something by choosing an amount of care, the patient maximizes something by choosing an amount of care, and we compare the two under different ways of paying for care.</p>
+<p>Next week is a quiz on Tuesday and a panel on Thursday, then fall break.</p>
+</section>
+<section id="homework" class="level2">
+<h2 class="anchored" data-anchor-id="homework">Homework</h2>
+<p>Grades and comments for homework 1 are in Canvas, so read your comment. Email me if something looks wrong, since we could have missed something in reviewing your repositories. An answer key is coming.</p>
+<p>Three things to carry into homework 2. Merge on identifiers, not names, because county names repeat across states and merging on the name duplicates rows until you have far more data than you started with. A national rate isn’t the average of the county rates, so weight by counts or sum the numerator and the denominator before dividing. And use git the way it’s meant to be used, working locally, committing, then pushing. Uploading files through the GitHub website cost nobody points this time and will cost points next time.</p>
 
 
 </section>
