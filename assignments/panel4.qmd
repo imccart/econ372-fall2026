@@ -28,8 +28,8 @@ You can find these in the chapter and slides.
 
 No single right answer here — these are the ones we'll talk through together.
 
-1. "Overtreatment" means care beyond what a patient benefits from. How would you
-   actually tell too much care from just enough?
+1. "Overtreatment" usually means care whose cost outweighs its benefit. How
+   would you actually tell too much care from just enough?
 2. If treatment varies because of local practice styles and peer effects rather
    than patient needs, is that a problem worth fixing, and how?
 3. How much of the variation do you think comes from training, from financial
