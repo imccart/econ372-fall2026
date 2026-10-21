@@ -292,6 +292,72 @@
     ]
   },
   {
+    "objectID": "recaps/class-08.html",
+    "href": "recaps/class-08.html",
+    "title": "Class 8 — Adverse selection",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#what-we-covered",
+    "href": "recaps/class-08.html#what-we-covered",
+    "title": "Class 8 — Adverse selection",
+    "section": "What we covered",
+    "text": "What we covered\nWe started with homework questions, then moved from one person buying insurance to a market. Special enrollment periods as the motivating example, the demand, average cost, and marginal cost graph, the three cases (full insurance, partial unraveling, full unraveling), the numerical example, the Paul Ryan clip, and a first pass at policy solutions. We ran out of time partway through the policy section and will pick it up Thursday.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#key-points",
+    "href": "recaps/class-08.html#key-points",
+    "title": "Class 8 — Adverse selection",
+    "section": "Key points",
+    "text": "Key points\n\nReading the graph is three steps, and the quiz will ask for them. Pick a price, go across to the demand curve to find the quantity, go up from that quantity to the average cost curve, and compare the two. Practice it until it’s automatic.\nInsurance is unusual because an insurer’s costs are tied to the demand curve itself. In most markets what people will pay and what it costs to serve them are separate things.\nWhether a market is in a “death spiral” is the wrong question. There is some unraveling in any market with adverse selection and a common price. The question is how much, and whether the people left out are the healthiest, which we can live with, or the sickest, which we can’t.\nA subsidy paid to you shifts demand. It does not move the average cost curve, because your health hasn’t changed. What changes is who else buys, so observed average cost moves even though the curve doesn’t. A subsidy paid to insurers is the one that pulls the cost curve down.\nA subsidy and a penalty do the same thing. Twenty dollars off the price and twenty dollars owed if you don’t buy both shift demand out by twenty.\nZero profit is a convenience, not a claim about insurers. We assume it away so the only thing left moving the market is selection.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#the-life-insurance-question",
+    "href": "recaps/class-08.html#the-life-insurance-question",
+    "title": "Class 8 — Adverse selection",
+    "section": "The life insurance question",
+    "text": "The life insurance question\nSomeone asked why we don’t let insurers price each person individually in health insurance when other insurance markets do, and I said I didn’t have a good answer. Here’s a better one.\nLife insurance underwrites you individually, but only once. A level-term or whole-life policy fixes the premium when you buy it, and the insurer can’t raise it later when your health changes. So life insurance is already protecting you against being repriced. It just does it through the contract rather than through a rule.\nThat points at what health insurance regulation is actually protecting, and it isn’t the within-year risk we drew on Tuesday. It’s the risk that your premium jumps in the year you get sick and stays there. Health insurance is bought over and over across a lifetime, and a string of individually priced one-year policies leaves that risk completely uninsured, even though every one of those policies is fairly priced. Community rating is a substitute for the long-term contract this market won’t write, since people change jobs, the product can’t be specified decades ahead, and a healthy enrollee can always walk away.\nAuto insurance is the case that really is different, and the reason is that a driving record is mostly a choice. Pricing on it changes behavior. Health status mostly isn’t a choice, so pricing on it just moves money away from people who drew badly. That’s also why the rating factors states restrict in auto insurance, things like credit score and ZIP code, tend to be the ones with the least to do with how you actually drive.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#more-on-the-insurer-side-programs",
+    "href": "recaps/class-08.html#more-on-the-insurer-side-programs",
+    "title": "Class 8 — Adverse selection",
+    "section": "More on the insurer-side programs",
+    "text": "More on the insurer-side programs\nI went quickly over this in class and it’s worth separating out, because “subsidize insurers” in the ACA meant several different programs and they ended in different ways.\nRisk adjustment is permanent and still running. Money moves between insurers in the same state and market based on the relative risk of who actually enrolled, so an insurer that draws a sicker pool is compensated by one that draws a healthier pool. This is the one I acted out in class with two of you as the insurers, and it’s the same idea as the Medicare Advantage version we saw earlier in the term.\nReinsurance was temporary, 2014 through 2016, and covered the individual market. It paid insurers for enrollees with very high claims. It expired on schedule.\nRisk corridors were also temporary, 2014 through 2016. They compared an insurer’s actual costs against a target, with the government collecting from insurers who came in more than three percent under and paying insurers who came in more than three percent over. This is the one that didn’t get paid. Losses far exceeded gains, and an appropriations rider first enacted in December 2014 barred the agency from paying out more than it collected, so insurers received 12.6 percent of what they were owed for 2014. What came in for 2015 and 2016 went toward the 2014 shortfall, so those years paid nothing. In 2020 the Supreme Court held 8 to 1 that the government still owed the money, and insurers were eventually paid through the courts.\nCost-sharing reduction payments are a separate program, not one of the three above. Insurers are required to lower deductibles and copays for silver-plan enrollees under 250 percent of poverty, and these payments reimbursed them for doing it. They were stopped in October 2017. Insurers responded by concentrating premium increases in silver plans, which raised the benchmark plan, which raised the subsidy everyone received. The cut ended up costing the federal government more rather than less.\nThe economics is the same in each case. All of these pull the average cost curve down, which is the insurer-side policy we were drawing at the end of class. Taking one away pushes it back up.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#thursday-and-the-homework",
+    "href": "recaps/class-08.html#thursday-and-the-homework",
+    "title": "Class 8 — Adverse selection",
+    "section": "Thursday and the homework",
+    "text": "Thursday and the homework\nPanel plus a short quiz, which finishes the insurance section. Bring questions on adverse selection and we can start with them.\nHomework 1 is due Friday. One thing I said after class that everyone should hear. The New Jersey historical rate file is a scanned PDF, and asking a model to read it will produce more mistakes than doing it by hand. Build that table yourself. Everything else on the assignment is fair game for the agent.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
     "objectID": "recaps/class-04.html",
     "href": "recaps/class-04.html",
     "title": "Class 4 — Public insurance",
@@ -610,7 +676,7 @@
     "href": "assignments/index.html#class-participation",
     "title": "Assignments",
     "section": "Class participation",
-    "text": "Class participation\nClass participation is worth 50 points, recorded in Commons, and has two parts.\n\nAttendance. Check in at the start of class for 1 point per class, up to 20.\nEngagement. On lecture days, ask or answer a question through the hand-raise queue for 2 points, up to 30 for the semester. Questions on panel days count toward the panel’s audience points instead.",
+    "text": "Class participation\nClass participation is worth 50 points, recorded in Commons, and has two parts.\n\nAttendance. Check in at the start of class for 1 point per class, up to 20.\nEngagement. On lecture days, you earn 2 points for asking or answering a question through the hand-raise queue, up to 30 points for the semester. A discussion prompt in Commons, posted most weeks and open for a few days, counts the same as a question. Questions on panel days count toward the panel’s audience points instead.",
     "crumbs": [
       "Assignments",
       "Overview"
@@ -1189,6 +1255,61 @@
     ]
   },
   {
+    "objectID": "recaps/class-10.html",
+    "href": "recaps/class-10.html",
+    "title": "Class 10 — Physician agency",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#what-we-covered",
+    "href": "recaps/class-10.html#what-we-covered",
+    "title": "Class 10 — Physician agency",
+    "section": "What we covered",
+    "text": "What we covered\nHomework 1 first, then the start of module 2. Why treatment varies across physicians, what physician agency means, and the Dartmouth evidence on geographic variation, ending on why variation isn’t the same thing as waste. We ran the patient-side simulation at the end.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#key-points",
+    "href": "recaps/class-10.html#key-points",
+    "title": "Class 10 — Physician agency",
+    "section": "Key points",
+    "text": "Key points\n\nMedicine is learned by watching people work rather than from a rulebook, and there’s real gray area in what a patient needs. Some variation in treatment across physicians is therefore what you’d expect. The question for this module is how much of it comes from something other than patient need.\nPhysician agency doesn’t require anyone behaving badly. The case that matters is the one where the care genuinely helps, just not by much, and costs more than you’d have agreed to if anyone had told you the price.\nThe Dartmouth map shows utilization, not prices. It’s Medicare, which pays a formula adjusted for local wages, so adding up payments tells you how much care was delivered rather than what it cost. It’s also adjusted for race, age, and sex, which is why “sicker people live there” doesn’t account for the spread.\nVariation is not automatically waste. Waste is easy to name afterward and hard to identify in advance, since you’d have to know which patients would get no benefit before treating them. So the goal isn’t identical care for everyone. It’s understanding where the variation comes from, and payment incentives are where we go next.\nNot-for-profit status means one thing for certain, which is that revenue above costs doesn’t go to owners. Tax exemption and cheaper capital follow from it. What’s also supposed to follow, community benefit, isn’t well measured or well regulated, so in observable behavior a not-for-profit can look much like a for-profit. Either way it still needs a margin.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#thursday",
+    "href": "recaps/class-10.html#thursday",
+    "title": "Class 10 — Physician agency",
+    "section": "Thursday",
+    "text": "Thursday\nModel day, and the math is where this module trips people up. Read the slides and the chapter before you come so the notation isn’t new. Be comfortable with derivatives. We’ll do a constrained maximization, but in a simplified way by substitution rather than with a Lagrangian.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-10.html#homework",
+    "href": "recaps/class-10.html#homework",
+    "title": "Class 10 — Physician agency",
+    "section": "Homework",
+    "text": "Homework\nGrades and comments for homework 1 are in Canvas. Email me if something looks wrong, since we could have missed something in reviewing your repositories, and an answer key is coming.\nThree things to carry into homework 2. Merge on identifiers rather than names, since county names repeat across states and merging on the name duplicates rows. A national rate isn’t the average of the county rates, so weight by counts, or sum the numerator and the denominator and then divide. And use git properly, working locally, committing, then pushing; uploading files through the GitHub website cost nobody points this time and will cost points next time.",
+    "crumbs": [
+      "Recaps",
+      "10. Physician agency"
+    ]
+  },
+  {
     "objectID": "resources/calculus-practice.html",
     "href": "resources/calculus-practice.html",
     "title": "Calculus Practice",
@@ -1307,137 +1428,5 @@
     "title": "Schedule",
     "section": "Bonus / Optional",
     "text": "Bonus / Optional\nMaterial we won’t cover in class, here if you want to go further:\n\nPhysician learning — how doctors update from experience (Bayesian learning):  \nPhysician training & location — where physicians train and practice:  \nBrand-name drug pricing (formal model) — monopoly and differentiated pricing, the formal version of the in-class simulation:  \nRegulation & innovation (formal) — R&D incentives and drug-pricing policy:"
-  },
-  {
-    "objectID": "recaps/class-08.html",
-    "href": "recaps/class-08.html",
-    "title": "Class 8 — Adverse selection",
-    "section": "",
-    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#what-we-covered",
-    "href": "recaps/class-08.html#what-we-covered",
-    "title": "Class 8 — Adverse selection",
-    "section": "What we covered",
-    "text": "What we covered\nWe started with homework questions, then moved from one person buying insurance to a market. Special enrollment periods as the motivating example, the demand, average cost, and marginal cost graph, the three cases (full insurance, partial unraveling, full unraveling), the numerical example, the Paul Ryan clip, and a first pass at policy solutions. We ran out of time partway through the policy section and will pick it up Thursday.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#key-points",
-    "href": "recaps/class-08.html#key-points",
-    "title": "Class 8 — Adverse selection",
-    "section": "Key points",
-    "text": "Key points\n\nReading the graph is three steps, and the quiz will ask for them. Pick a price, go across to the demand curve to find the quantity, go up from that quantity to the average cost curve, and compare the two. Practice it until it’s automatic.\nInsurance is unusual because an insurer’s costs are tied to the demand curve itself. In most markets what people will pay and what it costs to serve them are separate things.\nWhether a market is in a “death spiral” is the wrong question. There is some unraveling in any market with adverse selection and a common price. The question is how much, and whether the people left out are the healthiest, which we can live with, or the sickest, which we can’t.\nA subsidy paid to you shifts demand. It does not move the average cost curve, because your health hasn’t changed. What changes is who else buys, so observed average cost moves even though the curve doesn’t. A subsidy paid to insurers is the one that pulls the cost curve down.\nA subsidy and a penalty do the same thing. Twenty dollars off the price and twenty dollars owed if you don’t buy both shift demand out by twenty.\nZero profit is a convenience, not a claim about insurers. We assume it away so the only thing left moving the market is selection.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#one-correction",
-    "href": "recaps/class-08.html#one-correction",
-    "title": "Class 8 — Adverse selection",
-    "section": "One correction",
-    "text": "One correction\nPaul Ryan was a congressman from Wisconsin and Speaker of the House, not a senator. Nothing else about the clip changes.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#thursday-and-the-homework",
-    "href": "recaps/class-08.html#thursday-and-the-homework",
-    "title": "Class 8 — Adverse selection",
-    "section": "Thursday and the homework",
-    "text": "Thursday and the homework\nPanel plus a short quiz, which finishes the insurance section. Bring questions on adverse selection and we can start with them.\nHomework 1 is due Friday. One thing I said after class that everyone should hear. The New Jersey historical rate file is a scanned PDF, and asking a model to read it will produce more mistakes than doing it by hand. Build that table yourself. Everything else on the assignment is fair game for the agent.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#more-on-the-insurer-side-programs",
-    "href": "recaps/class-08.html#more-on-the-insurer-side-programs",
-    "title": "Class 8 — Adverse selection",
-    "section": "More on the insurer-side programs",
-    "text": "More on the insurer-side programs\nI went quickly over this in class and it’s worth separating out, because “subsidize insurers” in the ACA meant several different programs and they ended in different ways.\nRisk adjustment is permanent and still running. Money moves between insurers in the same state and market based on the relative risk of who actually enrolled, so an insurer that draws a sicker pool is compensated by one that draws a healthier pool. This is the one I acted out in class with two of you as the insurers, and it’s the same idea as the Medicare Advantage version we saw earlier in the term.\nReinsurance was temporary, 2014 through 2016, and covered the individual market. It paid insurers for enrollees with very high claims. It expired on schedule.\nRisk corridors were also temporary, 2014 through 2016. They compared an insurer’s actual costs against a target, with the government collecting from insurers who came in more than three percent under and paying insurers who came in more than three percent over. This is the one that didn’t get paid. Losses far exceeded gains, and an appropriations rider first enacted in December 2014 barred the agency from paying out more than it collected, so insurers received 12.6 percent of what they were owed for 2014. What came in for 2015 and 2016 went toward the 2014 shortfall, so those years paid nothing. In 2020 the Supreme Court held 8 to 1 that the government still owed the money, and insurers were eventually paid through the courts.\nCost-sharing reduction payments are a separate program, not one of the three above. Insurers are required to lower deductibles and copays for silver-plan enrollees under 250 percent of poverty, and these payments reimbursed them for doing it. They were stopped in October 2017. Insurers responded by concentrating premium increases in silver plans, which raised the benchmark plan, which raised the subsidy everyone received. The cut ended up costing the federal government more rather than less.\nThe economics is the same in each case. All of these pull the average cost curve down, which is the insurer-side policy we were drawing at the end of class. Taking one away pushes it back up.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#the-life-insurance-question",
-    "href": "recaps/class-08.html#the-life-insurance-question",
-    "title": "Class 8 — Adverse selection",
-    "section": "The life insurance question",
-    "text": "The life insurance question\nSomeone asked why we don’t let insurers price each person individually in health insurance when other insurance markets do, and I said I didn’t have a good answer. Here’s a better one.\nLife insurance underwrites you individually, but only once. A level-term or whole-life policy fixes the premium when you buy it, and the insurer can’t raise it later when your health changes. So life insurance is already protecting you against being repriced. It just does it through the contract rather than through a rule.\nThat points at what health insurance regulation is actually protecting, and it isn’t the within-year risk we drew on Tuesday. It’s the risk that your premium jumps in the year you get sick and stays there. Health insurance is bought over and over across a lifetime, and a string of individually priced one-year policies leaves that risk completely uninsured, even though every one of those policies is fairly priced. Community rating is a substitute for the long-term contract this market won’t write, since people change jobs, the product can’t be specified decades ahead, and a healthy enrollee can always walk away.\nAuto insurance is the case that really is different, and the reason is that a driving record is mostly a choice. Pricing on it changes behavior. Health status mostly isn’t a choice, so pricing on it just moves money away from people who drew badly. That’s also why the rating factors states restrict in auto insurance, things like credit score and ZIP code, tend to be the ones with the least to do with how you actually drive.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-10.html",
-    "href": "recaps/class-10.html",
-    "title": "Class 10 — Physician agency",
-    "section": "",
-    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
-    "crumbs": [
-      "Recaps",
-      "10. Physician agency"
-    ]
-  },
-  {
-    "objectID": "recaps/class-10.html#what-we-covered",
-    "href": "recaps/class-10.html#what-we-covered",
-    "title": "Class 10 — Physician agency",
-    "section": "What we covered",
-    "text": "What we covered\nHomework 1 first, then the start of module 2. Why treatment varies across physicians, what physician agency means, and the Dartmouth evidence on geographic variation, ending on why variation isn’t the same thing as waste. We ran the patient-side simulation at the end.",
-    "crumbs": [
-      "Recaps",
-      "10. Physician agency"
-    ]
-  },
-  {
-    "objectID": "recaps/class-10.html#key-points",
-    "href": "recaps/class-10.html#key-points",
-    "title": "Class 10 — Physician agency",
-    "section": "Key points",
-    "text": "Key points\n\nMedicine is learned by watching people work rather than from a rulebook, and there’s real gray area in what a patient needs. Some variation in treatment across physicians is therefore what you’d expect. The question for this module is how much of it comes from something other than patient need.\nPhysician agency doesn’t require anyone behaving badly. The case that matters is the one where the care genuinely helps, just not by much, and costs more than you’d have agreed to if anyone had told you the price.\nThe Dartmouth map shows utilization, not prices. It’s Medicare, which pays a formula adjusted for local wages, so adding up payments tells you how much care was delivered rather than what it cost. It’s also adjusted for race, age, and sex, which is why “sicker people live there” doesn’t account for the spread.\nVariation is not automatically waste. Waste is easy to name afterward and hard to identify in advance, since you’d have to know which patients would get no benefit before treating them. So the goal isn’t identical care for everyone. It’s understanding where the variation comes from, and payment incentives are where we go next.\nNot-for-profit status means one thing for certain, which is that revenue above costs doesn’t go to owners. Tax exemption and cheaper capital follow from it. What’s also supposed to follow, community benefit, isn’t well measured or well regulated, so in observable behavior a not-for-profit can look much like a for-profit. Either way it still needs a margin.",
-    "crumbs": [
-      "Recaps",
-      "10. Physician agency"
-    ]
-  },
-  {
-    "objectID": "recaps/class-10.html#thursday",
-    "href": "recaps/class-10.html#thursday",
-    "title": "Class 10 — Physician agency",
-    "section": "Thursday",
-    "text": "Thursday\nModel day, and the math is where this module trips people up. Read the slides and the chapter before you come so the notation isn’t new. Be comfortable with derivatives. We’ll do a constrained maximization, but in a simplified way by substitution rather than with a Lagrangian.",
-    "crumbs": [
-      "Recaps",
-      "10. Physician agency"
-    ]
-  },
-  {
-    "objectID": "recaps/class-10.html#homework",
-    "href": "recaps/class-10.html#homework",
-    "title": "Class 10 — Physician agency",
-    "section": "Homework",
-    "text": "Homework\nGrades and comments for homework 1 are in Canvas. Email me if something looks wrong, since we could have missed something in reviewing your repositories, and an answer key is coming.\nThree things to carry into homework 2. Merge on identifiers rather than names, since county names repeat across states and merging on the name duplicates rows. A national rate isn’t the average of the county rates, so weight by counts, or sum the numerator and the denominator and then divide. And use git properly, working locally, committing, then pushing; uploading files through the GitHub website cost nobody points this time and will cost points next time.",
-    "crumbs": [
-      "Recaps",
-      "10. Physician agency"
-    ]
   }
 ]
