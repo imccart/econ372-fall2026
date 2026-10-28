@@ -12,72 +12,73 @@ If something here looks wrong, please tell me and I'll fix it.
 
 ## What we covered
 
-Fee-for-service against capitation, a single model that holds both, and then what
-the real programs look like. Bundled payments, accountable care organizations, and
-pay for performance. Quiz at the end.
+Fee-for-service against capitation, a single model that holds both, and then
+what the real programs look like. Bundled payments, accountable care
+organizations, and pay for performance. Quiz at the end.
 
 ## Key points
 
 - Last week's model was a fee-for-service model, we just hadn't called it that.
-  The physician got paid for every unit of care, which is the definition. Worth
-  noting that traditional Medicare still counts as fee-for-service even though it
-  pays a fixed amount per inpatient stay, because it pays separately for every stay
+  The physician got paid for every unit of care, which is the definition.
+  Traditional Medicare still counts as fee-for-service too, even though it pays
+  a fixed amount per inpatient stay, because it pays separately for every stay
   and separately again for every outpatient procedure, visit, and home health
   episode. We do something, we get paid for it.
-- Capitation is a fixed amount per person, paid whether or not care happens. If the
-  year's care costs less than that, the providers keep the difference. If it costs
-  more, they absorb it. Since revenue is fixed, the only lever left on profit is
-  cost, so the incentive runs toward less care. Fee-for-service runs the other way
-  for the same reason.
-- Both are the same model with different parameter values, and everything turns on
-  the sign of $B'(x) - p_{d}$. With no capitated payment and a positive margin per
-  unit, marginal benefit ends up below the price you pay, which is overtreatment.
-  With a payment per patient and a loss on each unit, marginal benefit ends up
-  above price, which is undertreatment. Neither is the better system. They're
-  opposite distortions, which is why this is a live policy problem rather than a
-  solved one. And capitation doesn't drive care to zero, since you have to offer
-  enough benefit to attract patients at all.
-- The hybrids are hard for a reason that isn't about spending. Bundled payments are
-  meant to buy coordination, the hospital caring which skilled nursing facility you
-  get sent to, the physician not reordering an image taken last week. But paying
-  for coordination means writing a contract that pays providers for care they
-  don't deliver, and when many providers share the savings, each one's best move is
-  to let everyone else economize and collect a share anyway. That's a free rider
-  problem, and note the bind: you need a large group so one very sick patient
+- Capitation is a fixed amount per person, paid whether or not care happens. If
+  the year's care costs less than that, the providers keep the difference. If it
+  costs more, they absorb it. Since revenue is fixed, the only way left to raise
+  profit is to cut costs, so the incentive runs toward less care.
+  Fee-for-service runs the other way for the same reason.
+- Both are the same model with different parameter values, and everything turns
+  on the sign of $B'(x) - p_{d}$. With no capitated payment and a positive
+  margin per unit, marginal benefit ends up below the price you pay, which is
+  overtreatment. With a payment per patient and a loss on each unit, marginal
+  benefit ends up above price, which is undertreatment. Neither is the better
+  system. They're opposite distortions, which is why this is a live policy
+  problem rather than a solved one. And capitation doesn't drive care to zero,
+  since you have to offer enough benefit to attract patients at all.
+- The hybrids are hard for a reason that isn't about spending. Bundled payments
+  are meant to buy coordination, the hospital caring which skilled nursing
+  facility you get sent to, the physician not reordering an image taken last
+  week. But paying for coordination means writing a contract that pays providers
+  for care they don't deliver, and when many providers share the savings, each
+  one's best move is to let everyone else economize and collect a share anyway.
+  That's a free-rider problem. You need a large group so one very sick patient
   doesn't sink the budget, but the larger the group, the weaker any individual's
   reason to change.
 - Quality got attached to payment because both distortions can harm patients,
-  overtreating to the point of damage or undertreating to the point of damage. The
-  readmissions program is purely punitive, so the best outcome is losing nothing.
-  Value-based purchasing can reward or punish, and scores you against other
-  hospitals on readmissions, mortality, infections, complications, and the patient
-  survey. Quality of life isn't measured anywhere in it.
+  overtreating to the point of damage or undertreating to the point of damage.
+  The readmissions program is purely punitive, so the best outcome is losing
+  nothing. Value-based purchasing can reward or punish, and scores you against
+  other hospitals on readmissions, mortality, infections, complications, and the
+  patient survey. Quality of life isn't measured anywhere in it.
 
 ## One clarification
 
-I said early on that we're "close" to a capitated model, and then spent the end of
-class explaining why hospitals resist capitation and why the most popular
-accountable care track carries no downside risk. The second version is the right
-one. The U.S. has been experimenting steadily in this direction for twenty years
-and payment is still overwhelmingly fee-for-service with other arrangements layered
-on top. Don't leave with the impression that capitation is nearly here.
+I said early on that we're "close" to a capitated model, and then spent the end
+of class explaining why hospitals resist capitation and why the most popular
+accountable care track has no downside risk. The second version is the right
+one. The U.S. has been experimenting steadily in this direction for twenty
+years, and payment is still overwhelmingly fee-for-service with other
+arrangements layered on top. Don't leave with the impression that capitation is
+nearly here.
 
 ## Worth knowing for the exam
 
 Work the in-class problem. The answer keys are on the website with the worksheet
 answers, and some version of this model will be on the exam. Expect it in both
-directions: given $R$ and the prices, find the physician's $x$; or given a target
-$x$, find the $R$ that induces it. The second one is the point of the whole
-exercise, since it's how a payer actually moves care up or down.
+directions: given $R$ and the prices, find the physician's $x$; or given a
+target $x$, find the $R$ that induces it. The second one is the point of the
+whole exercise, since it's how a payer actually moves care up or down.
 
-Don't memorize the optimality condition. Memorize nothing, really. Know the profit
-function, take the derivative, and the condition falls out. Jumping straight to the
-condition is where mistakes happen, and you end up carrying a dozen equations in
-your head when there's only ever one problem.
+Don't memorize the optimality condition. Memorize nothing, really. Know the
+profit function, take the derivative, and the condition falls out. Jumping
+straight to the condition is where mistakes happen, and you end up trying to
+hold a dozen equations in your head when there's only ever one problem.
 
-Formula sheets are allowed. There are diminishing returns to how much you cram onto
-one, though, and the people with 0.5-point font tend to do worst. A sheet you built
-while studying helps. A sheet you built instead of studying doesn't.
+Formula sheets are allowed. There are diminishing returns to how much you cram
+onto one, though, and the people with 0.5-point font tend to do worst. A sheet
+you built while studying helps. A sheet you built instead of studying doesn't.
 
 ## Thursday
 
