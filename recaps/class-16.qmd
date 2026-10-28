@@ -81,18 +81,6 @@ in the same market. We started on ownership at the end.
   care. The same image costs far more inside a hospital than in a physician's
   office that happens to have an MRI down the hall.
 
-## One clarification
-
-At the end of class I said a for-profit hospital's price has to be higher because
-it pays taxes, so its costs are higher. The conclusion holds but that isn't the
-reason. A tax on profit doesn't change what it costs to provide a service, so it
-doesn't move the price a hospital would choose, and in the bargaining model we're
-about to build it scales both sides of the hospital's problem equally and leaves
-the split alone. The part of the tax treatment that does lower a not-for-profit's
-costs is the rest of it, no property tax, no sales tax, and access to tax-exempt
-borrowing. Those are real cost differences and they're where the price gap comes
-from.
-
 ## Still to come
 
 Two slides left over, on price transparency and on Parkview Health in Fort Wayne
