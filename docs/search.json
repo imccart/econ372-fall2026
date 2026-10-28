@@ -285,7 +285,7 @@
     "href": "recaps/index.html#fall-2026",
     "title": "Recaps",
     "section": "Fall 2026",
-    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance\n\n\nTue 9/15\n6\nWhat insurance is worth\n\n\nTue 9/22\n8\nAdverse selection\n\n\nTue 9/29\n10\nPhysician agency",
+    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance\n\n\nTue 9/15\n6\nWhat insurance is worth\n\n\nTue 9/22\n8\nAdverse selection\n\n\nTue 9/29\n10\nPhysician agency\n\n\nThu 10/1\n11\nFinancial incentives\n\n\nTue 10/6\n12\nPayment models\n\n\nThu 10/22\n16\nHospital prices",
     "crumbs": [
       "Recaps",
       "All recaps"
@@ -1438,6 +1438,182 @@
     "crumbs": [
       "Recaps",
       "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html",
+    "href": "recaps/class-16.html",
+    "title": "Class 16 — Hospital prices",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html#what-we-covered",
+    "href": "recaps/class-16.html#what-we-covered",
+    "title": "Class 16 — Hospital prices",
+    "section": "What we covered",
+    "text": "What we covered\nWhere U.S. hospitals came from and why that history still shows up in prices, then what the word “price” actually refers to. Charges and the charge master, the different payers and what each of them pays, and the variation across hospitals in the same market. We started on ownership at the end.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html#key-points",
+    "href": "recaps/class-16.html#key-points",
+    "title": "Class 16 — Hospital prices",
+    "section": "Key points",
+    "text": "Key points\n\nHospitals here began as charity care in dense areas, and nothing about that arrangement required anyone to think about price. Before 1900 you went to a hospital because you had nowhere else to go, and people who could afford a physician were treated at home. There’s no money in treating very sick, poor patients, so the institutions doing it weren’t trying to make any. Medicare and Medicaid then paid on a cost-plus basis from 1965 into the 1980s, which is exactly the stretch when hospitals took on most of their expensive technology. You report your costs, you get paid those costs plus a percentage. A guaranteed percentage of a bigger number is more dollar profit, so there was no reason to push back when a supplier asked for more. Nobody was inflating costs on purpose. They just had no reason to negotiate hard. Insurance was close to prepaid from the patient’s side over the same period, so nobody there was watching price either.\nA hospital price is whatever comes out of a negotiation with an insurer. The hospital wants a high number, the insurer wants a low one, and where it lands depends on which of them needs the other more. Two equally matched parties split the difference. Hospitals can’t set a price alone because their patients arrive through insurers, and being in network means agreeing to a price in a contract. The process is also less formal than you’d expect. It isn’t the two CEOs in a room, it’s mostly here’s what you paid last year, costs are up eight percent, can you pay eight percent more, how about six. Medicare’s rate works as a floor, since a hospital generally won’t go below it to join a network and insurers know that. And when the negotiated price rises, the insurer passes most of it into premiums, which is why you want an insurer large enough to negotiate hard but not so large that it stops caring what it pays.\nA charge is not a price. Every hospital keeps a charge master, a spreadsheet with a number for everything it might do or use, and that number isn’t negotiated, isn’t its cost, and isn’t what it gets paid. A hospital can set it to whatever it likes. The 2011 itemized bill on the slide charges about $18 for one blood glucose test strip, and a hundred strips cost less than half what that bill charged for five. What makes the charge matter anyway is who faces it. An uninsured patient gets the sum of the charges as a bill, and so does an insured patient who ends up out of network. That second case is what the No Surprises Act was written for. Go to an in-network hospital whose emergency department is staffed by an out-of-network practice, or have an out-of-network anesthesiologist brought into an in-network surgery, and the physician’s service reaches you as a charge. The Act takes the patient out of it and sends the provider and the insurer off to settle on a price, which in practice means arbitration. Hospitals keep charges high for two reasons. The gap between the charge and what they actually collect is what gets reported as uncompensated care, and some contracts are written as a percentage of charges because nobody negotiates ten thousand services one at a time.\nThose contracts come in two common forms, a markup over Medicare’s rate or a percentage of the hospital’s own charges, and a hospital can prefer one even when both pay the same on average. The difference is risk. Medicare’s payment is fixed once the DRG is set, so an extra day or an extra unit of blood is pure cost to the hospital. Charges rise with whatever gets used, so a percentage of charges moves with the resources a patient turns out to need. Hospitals in a stronger bargaining position are more likely to get the percentage-of-charges contract, so market power buys insulation from risk as well as a higher price.\nPrices for the same procedure vary enormously inside one market, and quality doesn’t explain it. Medicare pays nearly the same amount to every Atlanta-area hospital for a hip replacement, with the small differences coming from the teaching and disproportionate-share adjustments in the DRG formula, while negotiated rates at those same hospitals run from roughly $12,000 to $26,000. Quality is the natural explanation, so test it on a lower limb MRI, which is about as close to a homogeneous product as health care gets. The image doesn’t change with where you have it taken. Prices still run from a few hundred dollars to a couple of thousand. What’s left is market power and the site of care. The same image costs far more inside a hospital than in a physician’s office that happens to have an MRI down the hall.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html#one-clarification",
+    "href": "recaps/class-16.html#one-clarification",
+    "title": "Class 16 — Hospital prices",
+    "section": "One clarification",
+    "text": "One clarification\nAt the end of class I said a for-profit hospital’s price has to be higher because it pays taxes, so its costs are higher. The conclusion holds but that isn’t the reason. A tax on profit doesn’t change what it costs to provide a service, so it doesn’t move the price a hospital would choose, and in the bargaining model we’re about to build it scales both sides of the hospital’s problem equally and leaves the split alone. The part of the tax treatment that does lower a not-for-profit’s costs is the rest of it, no property tax, no sales tax, and access to tax-exempt borrowing. Those are real cost differences and they’re where the price gap comes from.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html#still-to-come",
+    "href": "recaps/class-16.html#still-to-come",
+    "title": "Class 16 — Hospital prices",
+    "section": "Still to come",
+    "text": "Still to come\nTwo slides left over, on price transparency and on Parkview Health in Fort Wayne as a case study in prices without competition. We’ll pick those up.\nTwo questions got deferred rather than dropped. The difference between a private and a public not-for-profit, and why prices stay high now that for-profit entry is possible, both belong to the class on profit status. And the bargaining split I described loosely here gets done with an actual model later in the module, where it depends on what each side loses by walking away.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html",
+    "href": "recaps/class-11.html",
+    "title": "Class 11 — Financial incentives",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#what-we-covered",
+    "href": "recaps/class-11.html#what-we-covered",
+    "title": "Class 11 — Financial incentives",
+    "section": "What we covered",
+    "text": "What we covered\nThe model behind physician agency. Why we think financial incentives change treatment, then a model where the physician sets both price and quantity, a numerical example, and finally the case where the price is fixed administratively.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#key-points",
+    "href": "recaps/class-11.html#key-points",
+    "title": "Class 11 — Financial incentives",
+    "section": "Key points",
+    "text": "Key points\n\nAgency isn’t special to medicine. It comes up whenever you hand a decision to someone who knows more than you do, which is why contracts and agency problems travel together in economics. The claim here is narrow. If you pay more for some things than others, then on average more of those things get done, and nothing about anyone behaving badly is required.\nWe believe that because of a research design rather than a pattern in the data. Medicare redefined its geographic payment regions in the late 1990s, so a physician’s payment formula changed while the physician changed nothing, not their location, not their practice, not their patients. Services shifted toward the ones that became better paid. The credibility comes from the change being in how the regions were drawn rather than in anything about the services themselves.\nThe entire result comes from one gap. The physician decides based on their own marginal cost, while you decide based on the price you pay. Since price exceeds cost, the physician pushes care past where you would have stopped. Notice what isn’t needed. Both sides know the same benefit function, so there’s no information problem in this model at all.\nPast your own optimum, each additional unit has marginal benefit below price. Net benefit that would have been yours becomes profit instead, and the only thing that stops the process is your outside option, the point where you’d walk away.\nFixed prices reverse the intuition, and this is the part worth being careful about. When the price is set administratively, cutting it increases the amount of care. It isn’t that lower prices raise demand. It’s that the constraint now has slack, so the physician can treat more before you’d walk away. Cutting fees to save money changes the quantity of care at the same time, and the savings are smaller than what you’d get by holding quantity fixed.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#worth-knowing-for-the-exam",
+    "href": "recaps/class-11.html#worth-knowing-for-the-exam",
+    "title": "Class 11 — Financial incentives",
+    "section": "Worth knowing for the exam",
+    "text": "Worth knowing for the exam\nShow your steps. If an answer is right, I don’t care how you got there, but if it’s wrong, I can’t tell a rushed algebra slip from not knowing the method unless the work is there.\nThis is also why the homework no longer has any theory on it. If I assign a derivation to do at home and ask you not to use AI, I can’t enforce that, and if you do use it you get a perfect answer and learn nothing.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#before-tuesday",
+    "href": "recaps/class-11.html#before-tuesday",
+    "title": "Class 11 — Financial incentives",
+    "section": "Before Tuesday",
+    "text": "Before Tuesday\nWork the in-class problem on the fixed-price case. We set it up but didn’t solve it, and it’s the same steps with the price handed to you.\nBe comfortable with the product rule and the chain rule. Tuesday’s model is the same idea with more structure, so the derivative work is a little heavier.\nQuiz Tuesday. Expect anything from this section of the course, including Tuesday’s own material, and expect it to be quick. You won’t be asked to solve a model from scratch.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-12.html",
+    "href": "recaps/class-12.html",
+    "title": "Class 12 — Payment models",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "12. Payment models"
+    ]
+  },
+  {
+    "objectID": "recaps/class-12.html#what-we-covered",
+    "href": "recaps/class-12.html#what-we-covered",
+    "title": "Class 12 — Payment models",
+    "section": "What we covered",
+    "text": "What we covered\nFee-for-service against capitation, a single model that holds both, and then what the real programs look like. Bundled payments, accountable care organizations, and pay for performance. Quiz at the end.",
+    "crumbs": [
+      "Recaps",
+      "12. Payment models"
+    ]
+  },
+  {
+    "objectID": "recaps/class-12.html#key-points",
+    "href": "recaps/class-12.html#key-points",
+    "title": "Class 12 — Payment models",
+    "section": "Key points",
+    "text": "Key points\n\nLast week’s model was a fee-for-service model, we just hadn’t called it that. The physician got paid for every unit of care, which is the definition. Traditional Medicare still counts as fee-for-service too, even though it pays a fixed amount per inpatient stay, because it pays separately for every stay and separately again for every outpatient procedure, visit, and home health episode. We do something, we get paid for it.\nCapitation is a fixed amount per person, paid whether or not care happens. If the year’s care costs less than that, the providers keep the difference. If it costs more, they absorb it. Since revenue is fixed, the only way left to raise profit is to cut costs, so the incentive runs toward less care. Fee-for-service runs the other way for the same reason.\nBoth are the same model with different parameter values, and everything turns on the sign of \\(B'(x) - p_{d}\\). With no capitated payment and a positive margin per unit, marginal benefit ends up below the price you pay, which is overtreatment. With a payment per patient and a loss on each unit, marginal benefit ends up above price, which is undertreatment. Neither is the better system. They’re opposite distortions, which is why this is a live policy problem rather than a solved one. And capitation doesn’t drive care to zero, since you have to offer enough benefit to attract patients at all.\nThe hybrids are hard for a reason that isn’t about spending. Bundled payments are meant to buy coordination, the hospital caring which skilled nursing facility you get sent to, the physician not reordering an image taken last week. But paying for coordination means writing a contract that pays providers for care they don’t deliver, and when many providers share the savings, each one’s best move is to let everyone else economize and collect a share anyway. That’s a free-rider problem. You need a large group so one very sick patient doesn’t sink the budget, but the larger the group, the weaker any individual’s reason to change.\nQuality got attached to payment because both distortions can harm patients, overtreating to the point of damage or undertreating to the point of damage. The readmissions program is purely punitive, so the best outcome is losing nothing. Value-based purchasing can reward or punish, and scores you against other hospitals on readmissions, mortality, infections, complications, and the patient survey. Quality of life isn’t measured anywhere in it.",
+    "crumbs": [
+      "Recaps",
+      "12. Payment models"
+    ]
+  },
+  {
+    "objectID": "recaps/class-12.html#one-clarification",
+    "href": "recaps/class-12.html#one-clarification",
+    "title": "Class 12 — Payment models",
+    "section": "One clarification",
+    "text": "One clarification\nI said early on that we’re “close” to a capitated model, and then spent the end of class explaining why hospitals resist capitation and why the most popular accountable care track has no downside risk. The second version is the right one. The U.S. has been experimenting steadily in this direction for twenty years, and payment is still overwhelmingly fee-for-service with other arrangements layered on top. Don’t leave with the impression that capitation is nearly here.",
+    "crumbs": [
+      "Recaps",
+      "12. Payment models"
+    ]
+  },
+  {
+    "objectID": "recaps/class-12.html#worth-knowing-for-the-exam",
+    "href": "recaps/class-12.html#worth-knowing-for-the-exam",
+    "title": "Class 12 — Payment models",
+    "section": "Worth knowing for the exam",
+    "text": "Worth knowing for the exam\nWork the in-class problem. The answer keys are on the website with the worksheet answers, and some version of this model will be on the exam. Expect it in both directions: given \\(R\\) and the prices, find the physician’s \\(x\\); or given a target \\(x\\), find the \\(R\\) that induces it. The second one is the point of the whole exercise, since it’s how a payer actually moves care up or down.\nDon’t memorize the optimality condition. Memorize nothing, really. Know the profit function, take the derivative, and the condition falls out. Jumping straight to the condition is where mistakes happen, and you end up trying to hold a dozen equations in your head when there’s only ever one problem.\nFormula sheets are allowed. There are diminishing returns to how much you cram onto one, though, and the people with 0.5-point font tend to do worst. A sheet you built while studying helps. A sheet you built instead of studying doesn’t.",
+    "crumbs": [
+      "Recaps",
+      "12. Payment models"
+    ]
+  },
+  {
+    "objectID": "recaps/class-12.html#thursday",
+    "href": "recaps/class-12.html#thursday",
+    "title": "Class 12 — Payment models",
+    "section": "Thursday",
+    "text": "Thursday\nPanel day. Several questions from today went unanswered when I cut the queue off for the quiz, so there’ll be time for those at the start.",
+    "crumbs": [
+      "Recaps",
+      "12. Payment models"
     ]
   }
 ]

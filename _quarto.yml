@@ -68,6 +68,8 @@ website:
           file: recaps/class-11.qmd
         - text: "12. Payment models"
           file: recaps/class-12.qmd
+        - text: "16. Hospital prices"
+          file: recaps/class-16.qmd
 
     - title: "Assignments"
       style: "docked"
