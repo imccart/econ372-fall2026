@@ -80,14 +80,3 @@ in the same market. We started on ownership at the end.
   dollars to a couple of thousand. What's left is market power and the site of
   care. The same image costs far more inside a hospital than in a physician's
   office that happens to have an MRI down the hall.
-
-## Still to come
-
-Two slides left over, on price transparency and on Parkview Health in Fort Wayne
-as a case study in prices without competition. We'll pick those up.
-
-Two questions got deferred rather than dropped. The difference between a private
-and a public not-for-profit, and why prices stay high now that for-profit entry
-is possible, both belong to the class on profit status. And the bargaining split
-I described loosely here gets done with an actual model later in the module,
-where it depends on what each side loses by walking away.
