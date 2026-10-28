@@ -64,6 +64,10 @@ website:
           file: recaps/class-08.qmd
         - text: "10. Physician agency"
           file: recaps/class-10.qmd
+        - text: "11. Financial incentives"
+          file: recaps/class-11.qmd
+        - text: "12. Payment models"
+          file: recaps/class-12.qmd
 
     - title: "Assignments"
       style: "docked"
