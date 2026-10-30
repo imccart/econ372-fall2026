@@ -1,10 +1,10 @@
 project:
   type: website
   output-dir: docs
-  # Panel guides are generated from healthcare-markets/panels/*.yml and the exam
-  # review problems from healthcare-markets/practice/*.yml (single sources, also
+  # Panel guides are generated from healthcare-markets/panels/*.yml and the
+  # practice exam from healthcare-markets/practice/*.yml (single sources, also
   # read by Commons). Edit the YAML, not assignments/panelN.qmd or
-  # resources/exam-review.qmd.
+  # resources/practice-exam.qmd.
   pre-render:
     - python ../../../healthcare-markets/tools/build-panels.py
     - python ../../../healthcare-markets/tools/build-practice-page.py
@@ -107,8 +107,8 @@ website:
         - section: "Midterm"
           href: assignments/index.qmd#midterm
           contents:
-            - text: "Review problems"
-              file: resources/exam-review.qmd
+            - text: "Practice exam"
+              file: resources/practice-exam.qmd
         - section: "Review"
           href: assignments/index.qmd#review
           contents:

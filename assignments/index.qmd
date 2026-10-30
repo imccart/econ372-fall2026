@@ -65,7 +65,7 @@ sometimes reworded.
 - **Panel 8 — Generics and the patent cliff** · Thu 12/3 · [guide](panel8.qmd)
 
 Tue 11/17 is an exam review day in the panel format: six panelists are drawn
-and each works one of the posted [review problems](../resources/exam-review.qmd)
+and each works one problem from the [practice exam](../resources/practice-exam.qmd)
 at the board while everyone else works it alongside them.
 
 The last class is a reverse panel, in which invited guests put the questions to
@@ -93,7 +93,7 @@ derivations. It is where you show your work and earn partial credit. There is no
 final exam. A documented absence can be made up, but there is otherwise no drop
 for the midterm, so plan for the date on the schedule.
 
-**Midterm review.** The [review problems](../resources/exam-review.qmd) are ten
+**Practice exam.** The [practice exam](../resources/practice-exam.qmd) is ten
 exam-style problems covering insurance, physicians, and hospitals. Six of them
 are worked in class on Tue 11/17, each led by a drawn panelist while the rest of
 the class works it alongside them in Commons. You work the other four on your

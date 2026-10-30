@@ -1,15 +1,15 @@
 ---
-title: "Midterm review problems"
+title: "Practice exam"
 ---
 
 <!-- Generated from healthcare-markets/practice/*.yml by tools/build-practice-page.py. Edit the YAML, not this file. -->
 
-Ten exam-style problems covering insurance, physicians, and hospitals, for the
-midterm review class on Tuesday 11/17. Six of them are worked in class, each led
-by a drawn panelist while everyone else works it alongside them in Commons; the
-rest are for you to work on your own. They are built on the in-class problems,
-so the solutions page is the place to check your method, but the numbers and
-some of the parts are new.
+A practice exam for the midterm: ten problems covering insurance, physicians,
+and hospitals. Six of them are worked in class on Tuesday 11/17, each led by a
+drawn panelist while everyone else works it alongside them in Commons; the rest
+are for you to work on your own. They are built on the in-class problems, so the
+solutions page is the place to check your method, but the numbers and some of
+the parts are new.
 
 ## 1. Expected utility and the risk premium
 
