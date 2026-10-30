@@ -82,37 +82,7 @@ A patient's net benefit is $NB(x) = B(x) - p_{d}x$, with $B(x) = 16x - 2x^{2}$ a
 (e) Pure capitation: $R = 2$ and $p_{s} - c = 0$. Find $x$ and explain the result in a sentence.
 
 
-## 6. Physician learning
-
-A new treatment's effectiveness $\theta$ is unknown. A trial finds that 70 of 100 patients improve. Physician 1 starts with a flat prior, $Beta(1, 1)$. Physician 2 is skeptical, with prior $Beta(0.01, 100)$. With a $Beta(\alpha_{0}, \beta_{0})$ prior and $s$ successes in $n$ patients, the posterior is $Beta(\alpha_{0} + s,\ \beta_{0} + n - s)$, and the mean of a $Beta(\alpha, \beta)$ is $\alpha/(\alpha + \beta)$.
-
-(a) Find Physician 1's posterior and its mean.
-
-(b) Find Physician 2's posterior and its mean.
-
-(c) Both physicians saw the same trial. Who adopts the treatment sooner, and why?
-
-(d) Physician 2 then tries the treatment on 50 of their own patients and 35 improve. What is their new posterior mean?
-
-(e) After 150 patients with a 70% success rate, Physician 2 still puts the effectiveness near 42%. What does this say about where differences in practice style can come from?
-
-
-## 7. The not-for-profit hospital
-
-A not-for-profit hospital chooses quantity of care $q$ and quality $z$ to maximize $u(q, z)$, subject to breaking even. At each quality level the hospital faces a demand curve and an average cost curve; higher quality raises both. Answer with graphs and words, no numbers needed.
-
-(a) Explain where the hospital's production possibilities curve between quantity and quality comes from.
-
-(b) More people in the hospital's market gain insurance. What happens to the frontier, and to quantity and quality?
-
-(c) A shortage of nurses forces the hospital to raise wages to keep its staff. What happens to the frontier, and to quantity and quality?
-
-(d) The state gives the hospital an annual grant that does not depend on how much care it provides or at what quality. What happens to the frontier?
-
-(e) Two not-for-profit hospitals face the same frontier but choose different points on it. What in the model explains that? And where would a for-profit hospital with the same demand and costs operate instead?
-
-
-## 8. Hospital pricing with market power
+## 6. Hospital pricing with market power
 
 A hospital faces inverse demand $P = 40 - 2q$, so marginal revenue is $40 - 4q$, and has cost $C(q) = 5q + \tfrac{1}{2}q^{2}$, so marginal cost is $5 + q$.
 
@@ -127,7 +97,7 @@ A hospital faces inverse demand $P = 40 - 2q$, so marginal revenue is $40 - 4q$,
 (e) The price fell when the competitor entered even though this hospital's costs did not change. In a sentence or two, why?
 
 
-## 9. The two-price market
+## 7. The two-price market
 
 A provider's inverse demand from privately insured patients is $P = 16 - q$, so marginal revenue is $16 - 2q$. Cost is $C(q) = 5 + q^{2}$ for $q$ total patients, so marginal cost is $2q$. A public insurer pays a fixed price $\bar{p} = 10$ per patient and will send as many patients as the provider will take.
 
@@ -142,7 +112,7 @@ A provider's inverse demand from privately insured patients is $P = 16 - q$, so 
 (e) Below what public price does the provider stop taking public patients altogether?
 
 
-## 10. Nash bargaining
+## 8. Nash bargaining
 
 Two parties split a surplus normalized to 1. With agreement, party 1 gets $x$ and party 2 gets $1 - x$. Without agreement, party 1 gets $t_{1}$ and party 2 gets $t_{2}$. The Nash bargaining solution maximizes $(u_{1} - t_{1})(u_{2} - t_{2})$, the product of each party's gain over its outside option.
 
