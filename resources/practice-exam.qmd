@@ -125,3 +125,14 @@ Two parties split a surplus normalized to 1. With agreement, party 1 gets $x$ an
 (d) With $a = 0.2$ and $b = 0.1$, what does each party get, and how much of the gain from agreeing does each capture?
 
 (e) Let party 1 be a hospital and party 2 an insurer negotiating the hospital's price. Name one thing that raises the hospital's outside option and one that raises the insurer's, and say what each does to the price.
+
+
+## On the exam, you might also be asked about...
+
+- why subsidies might lower the cost of individuals newly enrolling in health insurance (and how much those new enrollees cost on average)
+- discussion of recent payment reforms intended to maintain or improve quality
+- calculating the optimal amount of care in a physician agency model, or calculating the optimal contract to induce a given amount of care
+- in a physician agency model, you might be asked to calculate the surplus a price-setting physician takes from the patient and draw this on a graph
+- short definitions: Medicare Part A, Part B, Medicare Advantage, IPPS, Medicaid
+- in general, any graph we've drawn in class, you should be able to draw on the exam as well
+- non-linear payoffs in the Nash bargaining model, such as $(u_{1} - t_{1})^{\alpha}$
