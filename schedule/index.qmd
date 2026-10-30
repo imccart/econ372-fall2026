@@ -60,7 +60,7 @@ The schedule is provisional --- topics, readings, and the exact placement of qui
 | 21 | Tue 11/10 | Make the deal | | | [{{< fa gamepad title="Simulation" >}}](../assignments/index.qmd#simulations) | |
 | 22 | Thu 11/12 | When hospitals merge | [{{< fa book >}}](https://healthcare-markets.books.ianmccarthyecon.com/part3/hospitals-3-2.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/healthcare-markets-slides/03-hospitals/hospitals-06.html) | [{{< fa clipboard-question title="Quiz" >}}](../assignments/index.qmd#quizzes) | |
 |  | Fri 11/13 | **Homework 3 due** | | | [{{< fa pen title="Homework due" >}}](../assignments/homework3.qmd) | |
-| 23 | Tue 11/17 | Are hospitals too big? | | | [{{< fa comments title="Panel" >}}](../assignments/panel7.qmd) | |
+| 23 | Tue 11/17 | Exam review | | | [{{< fa pen-to-square title="Review problems" >}}](../resources/exam-review.qmd) | |
 : {tbl-colwidths="[7,11,36,8,8,10,10]"}
 
 ## Midterm

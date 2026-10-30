@@ -48,7 +48,8 @@ least once and most students twice, and only your best panel counts.
 
 On the panel days you are not drawn, you earn audience points from the floor, at
 2 points per question asked through the hand-raise queue, up to 20 for the
-semester.
+semester. On the exam review day (11/17), each practice problem you turn in
+through Commons counts one point toward the same 20.
 
 Each panel has a preparation guide, posted before class, with a list of questions
 to work through as you read. Some are answerable from the reading and some are
@@ -61,8 +62,11 @@ sometimes reworded.
 - **Panel 4 — Overtreated?** · Thu 10/8 · [guide](panel4.qmd)
 - **Panel 5 — The end of fee-for-service?** · Tue 10/20 · [guide](panel5.qmd)
 - **Panel 6 — Does profit status matter?** · Tue 10/27 · [guide](panel6.qmd)
-- **Panel 7 — Are hospitals too big?** · Tue 11/17 · [guide](panel7.qmd)
 - **Panel 8 — Generics and the patent cliff** · Thu 12/3 · [guide](panel8.qmd)
+
+Tue 11/17 is an exam review day in the panel format: six panelists are drawn
+and each works one of the posted [review problems](../resources/exam-review.qmd)
+at the board while everyone else works it alongside them.
 
 The last class is a reverse panel, in which invited guests put the questions to
 the class.
@@ -88,6 +92,13 @@ The midterm is one in-class exam worth 60 points, covering the heavier theory an
 derivations. It is where you show your work and earn partial credit. There is no
 final exam. A documented absence can be made up, but there is otherwise no drop
 for the midterm, so plan for the date on the schedule.
+
+**Midterm review.** The [review problems](../resources/exam-review.qmd) are ten
+exam-style problems covering insurance, physicians, and hospitals. Six of them
+are worked in class on Tue 11/17, each led by a drawn panelist while the rest of
+the class works it alongside them in Commons. You work the other four on your
+own. The [in-class problems and solutions](../resources/worksheets.qmd) are the
+place to check your method.
 
 ## Review
 
