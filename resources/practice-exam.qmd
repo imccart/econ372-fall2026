@@ -4,16 +4,12 @@ title: "Practice exam"
 
 <!-- Generated from healthcare-markets/practice/*.yml by tools/build-practice-page.py. Edit the YAML, not this file. -->
 
-A practice exam for the midterm: ten problems covering insurance, physicians,
-and hospitals. Six of them are worked in class on Tuesday 11/17, each led by a
-drawn panelist while everyone else works it alongside them in Commons; the rest
-are for you to work on your own. They are built on the in-class problems, so the
-solutions page is the place to check your method, but the numbers and some of
-the parts are new.
+Here are some practice problems for the exam, which we'll also work through as
+part of our revised Panel Day on 11/17.
 
 ## 1. Expected utility and the risk premium
 
-A person starts with wealth of \$100,000. With probability 0.3 they fall ill and pay \$40,000 in medical costs. Their utility of wealth is u(w) = w\^0.2.
+A person starts with wealth of \$100,000. With probability 0.3 they fall ill and pay \$40,000 in medical costs. Their utility of wealth is $u(w) = w^{0.2}$.
 
 (a) What is the expected cost of illness, and what is expected wealth?
 
@@ -28,7 +24,7 @@ A person starts with wealth of \$100,000. With probability 0.3 they fall ill and
 
 ## 2. Adverse selection
 
-An insurer's cost of covering q people is C(q) = 100q − 2q\^2, so average cost is AC = 100 − 2q and marginal cost is MC = 100 − 4q. Inverse demand for coverage is P = 110 − 3q, and there are 20 people in the market.
+An insurer's cost of covering $q$ people is $C(q) = 100q - 2q^{2}$, so average cost is $AC = 100 - 2q$ and marginal cost is $MC = 100 - 4q$. Inverse demand for coverage is $P = 110 - 3q$, and there are 20 people in the market.
 
 (a) The insurer enters the market at a price of \$65. How many people enroll, and what is the insurer's profit or loss?
 
@@ -43,52 +39,52 @@ An insurer's cost of covering q people is C(q) = 100q − 2q\^2, so average cost
 
 ## 3. Physician agency when the physician sets the price
 
-A patient's benefit from x units of care is B(x) = 20x − x\^2, so marginal benefit is 20 − 2x. The patient pays the full price p per unit, so net benefit is B(x) − px. Care costs the physician c = 10 per unit. The physician chooses both x and p, subject to leaving the patient at least NB0 = 5 of net benefit.
+A patient's benefit from $x$ units of care is $B(x) = 20x - x^{2}$, so marginal benefit is $20 - 2x$. The patient pays the full price $p$ per unit, so net benefit is $B(x) - px$. Care costs the physician $c = 10$ per unit. The physician chooses both $x$ and $p$, subject to leaving the patient at least $NB^{0} = 5$ of net benefit.
 
-(a) If the patient could choose x themselves at a given price p, what condition picks their x?
+(a) If the patient could choose $x$ themselves at a given price $p$, what condition picks their $x$?
 
-(b) Find the physician's optimal amount of care x\* and the price p\* that goes with it.
+(b) Find the physician's optimal amount of care $x^{\*}$ and the price $p^{\*}$ that goes with it.
 
-(c) At that price p\*, how much care would the patient have chosen on their own?
+(c) At that price $p^{\*}$, how much care would the patient have chosen on their own?
 
-(d) Sketch the marginal benefit line with p\*, c, x\*, and x̄ marked, and describe the region that is the surplus transferred from the patient to the physician.
+(d) Sketch the marginal benefit line with $p^{\*}$, $c$, $x^{\*}$, and $\bar{x}$ marked, and describe the region that is the surplus transferred from the patient to the physician.
 
 (e) How large is that transfer?
 
 
 ## 4. Physician agency with an administered price
 
-Now the price is fixed administratively at p̄. The patient's benefit is B(x) = 4x\^(1/2), so marginal benefit is 2x\^(−1/2), and the physician's cost is c = 1 per unit. The physician can push care up to the point where the patient's net benefit B(x) − p̄x falls to NB0 = 0.
+Now the price is fixed administratively at $\bar{p}$. The patient's benefit is $B(x) = 4x^{1/2}$, so marginal benefit is $2x^{-1/2}$, and the physician's cost is $c = 1$ per unit. The physician can push care up to the point where the patient's net benefit $B(x) - \bar{p}x$ falls to $NB^{0} = 0$.
 
-(a) With p̄ = 2, how much care does the physician provide, and how much would the patient choose on their own?
+(a) With $\bar{p} = 2$, how much care does the physician provide, and how much would the patient choose on their own?
 
-(b) The administered price rises to p̄ = 3. Recompute both amounts.
+(b) The administered price rises to $\bar{p} = 3$. Recompute both amounts.
 
 (c) How did the price increase change the gap between the physician's amount and the patient's?
 
-(d) Now the price is cut to p̄ = 1.5. Recompute both amounts. What happened to overtreatment?
+(d) Now the price is cut to $\bar{p} = 1.5$. Recompute both amounts. What happened to overtreatment?
 
 (e) In the usual supply model a higher price brings more output. Why is it the opposite here?
 
 
 ## 5. Fee-for-service, capitation, and the amount of care
 
-A patient's net benefit is NB(x) = B(x) − p\_d x, with B(x) = 16x − 2x\^2 and the patient fully insured, so p\_d = 0. The physician's number of patients rises with the net benefit offered, n(NB) = NB. For each patient the physician receives a fixed payment R plus a margin of (p\_s − c) on each unit of care, and gives every patient the same x.
+A patient's net benefit is $NB(x) = B(x) - p_{d}x$, with $B(x) = 16x - 2x^{2}$ and the patient fully insured, so $p_{d} = 0$. The physician's number of patients rises with the net benefit offered, $n(NB) = NB$. For each patient the physician receives a fixed payment $R$ plus a margin of $(p_{s} - c)$ on each unit of care, and gives every patient the same $x$.
 
 (a) What amount of care would the patient choose for themselves?
 
-(b) Write the physician's profit as a function of x, R, and (p\_s − c).
+(b) Write the physician's profit as a function of $x$, $R$, and $(p_{s} - c)$.
 
-(c) Pure fee-for-service: R = 0 and p\_s − c = 1. Find the physician's x.
+(c) Pure fee-for-service: $R = 0$ and $p_{s} - c = 1$. Find the physician's $x$.
 
-(d) A mix: R = 1 and p\_s − c = 1. Find x.
+(d) A mix: $R = 1$ and $p_{s} - c = 1$. Find $x$.
 
-(e) Pure capitation: R = 2 and p\_s − c = 0. Find x and explain the result in a sentence.
+(e) Pure capitation: $R = 2$ and $p_{s} - c = 0$. Find $x$ and explain the result in a sentence.
 
 
 ## 6. Physician learning
 
-A new treatment's effectiveness θ is unknown. A trial finds that 70 of 100 patients improve. Physician 1 starts with a flat prior, Beta(1, 1). Physician 2 is skeptical, with prior Beta(0.01, 100). With a Beta(α0, β0) prior and s successes in n patients, the posterior is Beta(α0 + s, β0 + n − s), and the mean of a Beta(α, β) is α/(α + β).
+A new treatment's effectiveness $\theta$ is unknown. A trial finds that 70 of 100 patients improve. Physician 1 starts with a flat prior, $Beta(1, 1)$. Physician 2 is skeptical, with prior $Beta(0.01, 100)$. With a $Beta(\alpha_{0}, \beta_{0})$ prior and $s$ successes in $n$ patients, the posterior is $Beta(\alpha_{0} + s,\ \beta_{0} + n - s)$, and the mean of a $Beta(\alpha, \beta)$ is $\alpha/(\alpha + \beta)$.
 
 (a) Find Physician 1's posterior and its mean.
 
@@ -103,7 +99,7 @@ A new treatment's effectiveness θ is unknown. A trial finds that 70 of 100 pati
 
 ## 7. The not-for-profit hospital
 
-A not-for-profit hospital chooses quantity of care q and quality z to maximize u(q, z), subject to breaking even. At each quality level the hospital faces a demand curve and an average cost curve; higher quality raises both. Answer with graphs and words, no numbers needed.
+A not-for-profit hospital chooses quantity of care $q$ and quality $z$ to maximize $u(q, z)$, subject to breaking even. At each quality level the hospital faces a demand curve and an average cost curve; higher quality raises both. Answer with graphs and words, no numbers needed.
 
 (a) Explain where the hospital's production possibilities curve between quantity and quality comes from.
 
@@ -118,28 +114,28 @@ A not-for-profit hospital chooses quantity of care q and quality z to maximize u
 
 ## 8. Hospital pricing with market power
 
-A hospital faces inverse demand P = 40 − 2q, so marginal revenue is 40 − 4q, and has cost C(q) = 5q + (1/2)q\^2, so marginal cost is 5 + q.
+A hospital faces inverse demand $P = 40 - 2q$, so marginal revenue is $40 - 4q$, and has cost $C(q) = 5q + \tfrac{1}{2}q^{2}$, so marginal cost is $5 + q$.
 
 (a) Find the profit-maximizing quantity and price.
 
 (b) What is the markup over marginal cost, in dollars and as a share of marginal cost?
 
-(c) Compute the Lerner index, (P − MC)/P. What price elasticity of demand does it imply at the optimum?
+(c) Compute the Lerner index, $(P - MC)/P$. What price elasticity of demand does it imply at the optimum?
 
-(d) A second hospital opens nearby and this hospital's demand falls to P = 30 − 2q (marginal revenue 30 − 4q). Recompute quantity, price, and the markup.
+(d) A second hospital opens nearby and this hospital's demand falls to $P = 30 - 2q$ (marginal revenue $30 - 4q$). Recompute quantity, price, and the markup.
 
 (e) The price fell when the competitor entered even though this hospital's costs did not change. In a sentence or two, why?
 
 
 ## 9. The two-price market
 
-A provider's inverse demand from privately insured patients is P = 16 − q, so marginal revenue is 16 − 2q. Cost is C(q) = 5 + q\^2 for q total patients, so marginal cost is 2q. A public insurer pays a fixed price p̄ = 10 per patient and will send as many patients as the provider will take.
+A provider's inverse demand from privately insured patients is $P = 16 - q$, so marginal revenue is $16 - 2q$. Cost is $C(q) = 5 + q^{2}$ for $q$ total patients, so marginal cost is $2q$. A public insurer pays a fixed price $\bar{p} = 10$ per patient and will send as many patients as the provider will take.
 
 (a) How many private patients does the provider serve?
 
 (b) How many public patients?
 
-(c) The public price falls to p̄ = 9. Recompute private, public, and total patients.
+(c) The public price falls to $\bar{p} = 9$. Recompute private, public, and total patients.
 
 (d) What is the private price before and after the cut in the public price? Did the cut push the private price up (cost shifting) or down?
 
@@ -148,14 +144,14 @@ A provider's inverse demand from privately insured patients is P = 16 − q, so 
 
 ## 10. Nash bargaining
 
-Two parties split a surplus normalized to 1. With agreement, party 1 gets x and party 2 gets 1 − x. Without agreement, party 1 gets t1 and party 2 gets t2. The Nash bargaining solution maximizes (u1 − t1)(u2 − t2), the product of each party's gain over its outside option.
+Two parties split a surplus normalized to 1. With agreement, party 1 gets $x$ and party 2 gets $1 - x$. Without agreement, party 1 gets $t_{1}$ and party 2 gets $t_{2}$. The Nash bargaining solution maximizes $(u_{1} - t_{1})(u_{2} - t_{2})$, the product of each party's gain over its outside option.
 
-(a) With t1 = 0 and t2 = a \> 0, find the solution x.
+(a) With $t_{1} = 0$ and $t_{2} = a > 0$, find the solution $x$.
 
-(b) How does party 1's share change as a rises, and why?
+(b) How does party 1's share change as $a$ rises, and why?
 
-(c) Now both have outside options, t1 = b and t2 = a. Find x.
+(c) Now both have outside options, $t_{1} = b$ and $t_{2} = a$. Find $x$.
 
-(d) With a = 0.2 and b = 0.1, what does each party get, and how much of the gain from agreeing does each capture?
+(d) With $a = 0.2$ and $b = 0.1$, what does each party get, and how much of the gain from agreeing does each capture?
 
 (e) Let party 1 be a hospital and party 2 an insurer negotiating the hospital's price. Name one thing that raises the hospital's outside option and one that raises the insurer's, and say what each does to the price.
