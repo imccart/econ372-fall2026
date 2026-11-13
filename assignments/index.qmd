@@ -48,10 +48,8 @@ least once and most students twice, and only your best panel counts.
 
 On the panel days you are not drawn, you earn audience points from the floor, at
 2 points per question asked through the hand-raise queue, up to 20 for the
-semester. A day you are drawn counts as three questions, since you can't ask
-from the floor while on the panel, so being drawn twice doesn't cost you
-audience points. On the exam review day (11/17), each practice problem you turn
-in through Commons counts one point toward the same 20.
+semester. On the exam review day (11/17), each practice problem you turn in
+through Commons counts one point toward the same 20.
 
 Each panel has a preparation guide, posted before class, with a list of questions
 to work through as you read. Some are answerable from the reading and some are

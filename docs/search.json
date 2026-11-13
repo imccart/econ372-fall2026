@@ -198,313 +198,97 @@
     ]
   },
   {
-    "objectID": "resources/practice-exam.html",
-    "href": "resources/practice-exam.html",
-    "title": "Practice exam",
+    "objectID": "resources/calculus-review.html",
+    "href": "resources/calculus-review.html",
+    "title": "Calculus Review",
     "section": "",
-    "text": "Here are some practice problems for the exam, which we’ll also work through as part of our revised Panel Day on 11/17.",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#expected-utility-and-the-risk-premium",
-    "href": "resources/practice-exam.html#expected-utility-and-the-risk-premium",
-    "title": "Practice exam",
-    "section": "1. Expected utility and the risk premium",
-    "text": "1. Expected utility and the risk premium\nA person starts with wealth of $100,000. With probability 0.3 they fall ill and pay $40,000 in medical costs. Their utility of wealth is \\(u(w) = w^{0.2}\\).\n\nWhat is the expected cost of illness, and what is expected wealth?\nWhat is this person’s expected utility?\nWhat is the certainty equivalent, the sure amount of wealth that gives the same utility as facing the risk?\nWhat is the risk premium, and what is the most this person would pay for full insurance?\nSuppose the probability of illness falls from 0.3 to 0.2. Does the risk premium rise or fall? Explain in a sentence, without recomputing.",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#adverse-selection",
-    "href": "resources/practice-exam.html#adverse-selection",
-    "title": "Practice exam",
-    "section": "2. Adverse selection",
-    "text": "2. Adverse selection\nAn insurer’s cost of covering \\(q\\) people is \\(C(q) = 100q - 2q^{2}\\), so average cost is \\(AC = 100 - 2q\\) and marginal cost is \\(MC = 100 - 4q\\). Inverse demand for coverage is \\(P = 110 - 3q\\), and there are 20 people in the market.\n\nThe insurer enters the market at a price of $65. How many people enroll, and what is the insurer’s profit or loss?\nNext year the insurer sets its price equal to last year’s average cost. What is the new price, and what happens to enrollment?\nWhat are the equilibrium price and quantity, where the insurer breaks even?\nThe government pays insurers a subsidy of $5 per enrollee. Find the new equilibrium and the number of additional enrollees.\nInstead of the subsidy, a $10 penalty is charged to anyone without coverage. What happens to enrollment, and how does the penalty differ from the subsidy in who pays for the extra coverage?",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#physician-agency-when-the-physician-sets-the-price",
-    "href": "resources/practice-exam.html#physician-agency-when-the-physician-sets-the-price",
-    "title": "Practice exam",
-    "section": "3. Physician agency when the physician sets the price",
-    "text": "3. Physician agency when the physician sets the price\nA patient’s benefit from \\(x\\) units of care is \\(B(x) = 20x - x^{2}\\), so marginal benefit is \\(20 - 2x\\). The patient pays the full price \\(p\\) per unit, so net benefit is \\(B(x) - px\\). Care costs the physician \\(c = 10\\) per unit. The physician chooses both \\(x\\) and \\(p\\), subject to leaving the patient at least \\(NB^{0} = 5\\) of net benefit.\n\nIf the patient could choose \\(x\\) themselves at a given price \\(p\\), what condition picks their \\(x\\)?\nFind the physician’s optimal amount of care \\(x^{\\*}\\) and the price \\(p^{\\*}\\) that goes with it.\nAt that price \\(p^{\\*}\\), how much care would the patient have chosen on their own?\nSketch the marginal benefit line with \\(p^{\\*}\\), \\(c\\), \\(x^{\\*}\\), and \\(\\bar{x}\\) marked, and describe the region that is the surplus transferred from the patient to the physician.\nHow large is that transfer?",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#physician-agency-with-an-administered-price",
-    "href": "resources/practice-exam.html#physician-agency-with-an-administered-price",
-    "title": "Practice exam",
-    "section": "4. Physician agency with an administered price",
-    "text": "4. Physician agency with an administered price\nNow the price is fixed administratively at \\(\\bar{p}\\). The patient’s benefit is \\(B(x) = 4x^{1/2}\\), so marginal benefit is \\(2x^{-1/2}\\), and the physician’s cost is \\(c = 1\\) per unit. The physician can push care up to the point where the patient’s net benefit \\(B(x) - \\bar{p}x\\) falls to \\(NB^{0} = 0\\).\n\nWith \\(\\bar{p} = 2\\), how much care does the physician provide, and how much would the patient choose on their own?\nThe administered price rises to \\(\\bar{p} = 3\\). Recompute both amounts.\nHow did the price increase change the gap between the physician’s amount and the patient’s?\nNow the price is cut to \\(\\bar{p} = 1.5\\). Recompute both amounts. What happened to overtreatment?\nIn the usual supply model a higher price brings more output. Why is it the opposite here?",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#fee-for-service-capitation-and-the-amount-of-care",
-    "href": "resources/practice-exam.html#fee-for-service-capitation-and-the-amount-of-care",
-    "title": "Practice exam",
-    "section": "5. Fee-for-service, capitation, and the amount of care",
-    "text": "5. Fee-for-service, capitation, and the amount of care\nA patient’s net benefit is \\(NB(x) = B(x) - p_{d}x\\), with \\(B(x) = 16x - 2x^{2}\\) and the patient fully insured, so \\(p_{d} = 0\\). The physician’s number of patients rises with the net benefit offered, \\(n(NB) = NB\\). For each patient the physician receives a fixed payment \\(R\\) plus a margin of \\((p_{s} - c)\\) on each unit of care, and gives every patient the same \\(x\\).\n\nWhat amount of care would the patient choose for themselves?\nWrite the physician’s profit as a function of \\(x\\), \\(R\\), and \\((p_{s} - c)\\).\nPure fee-for-service: \\(R = 0\\) and \\(p_{s} - c = 1\\). Find the physician’s \\(x\\).\nA mix: \\(R = 1\\) and \\(p_{s} - c = 1\\). Find \\(x\\).\nPure capitation: \\(R = 2\\) and \\(p_{s} - c = 0\\). Find \\(x\\) and explain the result in a sentence.",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#hospital-pricing-with-market-power",
-    "href": "resources/practice-exam.html#hospital-pricing-with-market-power",
-    "title": "Practice exam",
-    "section": "6. Hospital pricing with market power",
-    "text": "6. Hospital pricing with market power\nA hospital faces inverse demand \\(P = 40 - 2q\\), so marginal revenue is \\(40 - 4q\\), and has cost \\(C(q) = 5q + \\tfrac{1}{2}q^{2}\\), so marginal cost is \\(5 + q\\).\n\nFind the profit-maximizing quantity and price.\nWhat is the markup over marginal cost, in dollars and as a share of marginal cost?\nCompute the Lerner index, \\((P - MC)/P\\). What price elasticity of demand does it imply at the optimum?\nA second hospital opens nearby and this hospital’s demand falls to \\(P = 30 - 2q\\) (marginal revenue \\(30 - 4q\\)). Recompute quantity, price, and the markup.\nThe price fell when the competitor entered even though this hospital’s costs did not change. In a sentence or two, why?",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#the-two-price-market",
-    "href": "resources/practice-exam.html#the-two-price-market",
-    "title": "Practice exam",
-    "section": "7. The two-price market",
-    "text": "7. The two-price market\nA provider’s inverse demand from privately insured patients is \\(P = 16 - q\\), so marginal revenue is \\(16 - 2q\\). Cost is \\(C(q) = 5 + q^{2}\\) for \\(q\\) total patients, so marginal cost is \\(2q\\). A public insurer pays a fixed price \\(\\bar{p} = 10\\) per patient and will send as many patients as the provider will take.\n\nHow many private patients does the provider serve?\nHow many public patients?\nThe public price falls to \\(\\bar{p} = 9\\). Recompute private, public, and total patients.\nWhat is the private price before and after the cut in the public price? Did the cut push the private price up (cost shifting) or down?\nBelow what public price does the provider stop taking public patients altogether?",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#nash-bargaining",
-    "href": "resources/practice-exam.html#nash-bargaining",
-    "title": "Practice exam",
-    "section": "8. Nash bargaining",
-    "text": "8. Nash bargaining\nTwo parties split a surplus normalized to 1. With agreement, party 1 gets \\(x\\) and party 2 gets \\(1 - x\\). Without agreement, party 1 gets \\(t_{1}\\) and party 2 gets \\(t_{2}\\). The Nash bargaining solution maximizes \\((u_{1} - t_{1})(u_{2} - t_{2})\\), the product of each party’s gain over its outside option.\n\nWith \\(t_{1} = 0\\) and \\(t_{2} = a &gt; 0\\), find the solution \\(x\\).\nHow does party 1’s share change as \\(a\\) rises, and why?\nNow both have outside options, \\(t_{1} = b\\) and \\(t_{2} = a\\). Find \\(x\\).\nWith \\(a = 0.2\\) and \\(b = 0.1\\), what does each party get, and how much of the gain from agreeing does each capture?\nLet party 1 be a hospital and party 2 an insurer negotiating the hospital’s price. Name one thing that raises the hospital’s outside option and one that raises the insurer’s, and say what each does to the price.",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/practice-exam.html#on-the-exam-you-might-also-be-asked-about",
-    "href": "resources/practice-exam.html#on-the-exam-you-might-also-be-asked-about",
-    "title": "Practice exam",
-    "section": "On the exam, you might also be asked about…",
-    "text": "On the exam, you might also be asked about…\n\nwhy subsidies might lower the cost of individuals newly enrolling in health insurance (and how much those new enrollees cost on average)\ndiscussion of recent payment reforms intended to maintain or improve quality\ncalculating the optimal amount of care in a physician agency model, or calculating the optimal contract to induce a given amount of care\nin a physician agency model, you might be asked to calculate the surplus a price-setting physician takes from the patient and draw this on a graph\nshort definitions: Medicare Part A, Part B, Medicare Advantage, IPPS, Medicaid\nin general, any graph we’ve drawn in class, you should be able to draw on the exam as well\nnon-linear payoffs in the Nash bargaining model, such as \\((u_{1} - t_{1})^{\\alpha}\\)",
-    "crumbs": [
-      "Assignments",
-      "Midterm",
-      "Practice exam"
-    ]
-  },
-  {
-    "objectID": "resources/calculus-practice.html",
-    "href": "resources/calculus-practice.html",
-    "title": "Calculus Practice",
-    "section": "",
-    "text": "Below are just some review questions. If you can answer all of these without much trouble, then you should be in good shape in terms of the math requirements for the class.",
+    "text": "Throughout the course, we’ll use a handful of elementary concepts from calculus. These basic tools are straightforward and easily mastered. In fact, you have already used calculus when you considered marginal revenue and marginal cost in your other economics classes. Here, I provide some review material to help you get back up-to-speed with the necessary mathematical concepts for this class.",
     "crumbs": [
       "Assignments",
       "Review",
-      "Calculus practice"
+      "Calculus review"
     ]
   },
   {
-    "objectID": "resources/calculus-practice.html#basic-derivatives",
-    "href": "resources/calculus-practice.html#basic-derivatives",
-    "title": "Calculus Practice",
-    "section": "Basic derivatives",
-    "text": "Basic derivatives\nFind the derivative of the following functions\n\nQuestions\n\n\\(f(x)=3x^{9}\\)\n\\(f(x)=5x^{-2}\\)\n\\(f(x)=5x + 5x^{2}\\)\n\\(f(x)=(\\frac{1}{2}x - 4x^{2})^{2}\\)\n\n\n\nAnswers\n\n\\(f'(x) = 27x^{8}\\)\n\\(f'(x) = -10x^{-3}\\)\n\\(f'(x) = 5 + 10x\\)\n\\(f'(x) = 2 ( \\frac{1}{2}x - 4x^{2})(\\frac{1}{2} - 8x)\\)",
+    "objectID": "resources/calculus-review.html#functions",
+    "href": "resources/calculus-review.html#functions",
+    "title": "Calculus Review",
+    "section": "Functions",
+    "text": "Functions\nA function is just a formal way in which inputs (a function’s arguments) are converted into an output. For example, a firm’s total revenue (TR) is a function of the amount they produce (Q), such that: \\[TR = TR(Q).\\] This means that total revenue depends on \\(Q\\), the quantity of product produced and sold. Total cost is also a function of \\(Q\\): \\[TC = TC(Q).\\]\nAs a more explicit example, suppose that the inverse demand for a firm is \\[P = 100 - 0.10Q,\\] where \\(P\\) denotes price and \\(Q\\) denotes quantity. Since total revenue is the product of price and quantity, we have \\[TR = P \\times Q = (100 - 0.10Q) \\times Q = 100Q - 0.10Q^2.\\] Thus, total revenue is a function of quantity produced and sold.\nSome functions are more complicated. Producing health care, for example, requires a hospital or some facility (\\(x_{1}\\)); lots of equipment and medical supplies (\\(x_{2}\\)); and physicians, nurses, and staff (\\(x_{3}\\)). We can write the production function of hospitals as \\[Q = f(x_{1}, x_{2}, x_{3}),\\] where \\(Q\\) denotes the “amount” of health care provided and \\(f()\\) represents the production technology that converts inputs into outputs.",
     "crumbs": [
       "Assignments",
       "Review",
-      "Calculus practice"
+      "Calculus review"
     ]
   },
   {
-    "objectID": "resources/calculus-practice.html#demand-profits-and-production",
-    "href": "resources/calculus-practice.html#demand-profits-and-production",
-    "title": "Calculus Practice",
-    "section": "Demand, profits, and production",
-    "text": "Demand, profits, and production\n\nQuestions\n\nIf inverse demand is given by \\(P=80-Q\\), what is marginal revenue?\nIf a firm’s profit function is \\(\\pi = (80-Q)Q - 10Q\\), what quantity will maximize the firm’s profit? What is the price at this level of \\(Q\\) (hint: inverse demand is the same as in part 1)?\nThe production function is of the Cobb-Douglas form, \\(Q=AL^{\\alpha} K^{1-\\alpha}\\), where \\(A\\) and \\(\\alpha\\) are constants. What are the marginal products of labor (\\(L\\)) and capital (\\(K\\))?\n\n\n\nAnswers\n\nNote that total revenue is \\((80-Q)Q\\), so marginal revenue is \\(80-2Q\\).\nTo find the optimal \\(Q\\), we need to differentiate, set equal to 0, then solve for \\(Q\\). In this case, \\(\\pi'(Q) = 80 - 2Q - 10\\), which equals 0 for \\(Q=35\\). Price at this quantity is \\(P=80-Q=45\\).\nThe marginal product of labor or capital is just the partial derivative of each of those terms. So, \\[MP_{L} = \\frac{\\partial Q}{\\partial L} = \\alpha A L^{\\alpha-1} K^{1-\\alpha} = \\alpha A \\left(\\frac{K}{L}\\right)^{1-\\alpha}\\] and \\[MP_{K} = \\frac{\\partial Q}{\\partial K} = (1-\\alpha) A L^{\\alpha} K^{-\\alpha} = (1-\\alpha) A \\left( \\frac{L}{K} \\right)^{\\alpha}.\\]",
+    "objectID": "resources/calculus-review.html#simple-derivatives",
+    "href": "resources/calculus-review.html#simple-derivatives",
+    "title": "Calculus Review",
+    "section": "Simple derivatives",
+    "text": "Simple derivatives\nMarginal analysis involves analyzing the response of some outcome variable to a very small change in some other explanatory variable. Mathematically, these marginal effects are derivatives. For example, the derivative of \\(TR=TR(Q)\\) measures the rate of change in total revenue with respect to a small change in \\(Q\\). The derivative of a function is the slope of that function at a given point. By way of notation, we’ll write \\(\\frac{\\mathrm{d} TR}{\\mathrm{d} Q}\\) to represent the derivative of TR with respect to \\(Q\\). More generally, if \\(y=f(x)\\), then \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x}\\) is the derivative of \\(y\\) with respect to \\(x\\). We will also write this as \\(f'(x)\\).\nAs an example, consider the total revenue function, \\(TR = 100Q - 0.10Q^{2}\\). What is the derivative of the total revenue function at \\(Q=10\\)? Well, we know \\(\\frac{\\mathrm{d} TR}{\\mathrm{d} Q} = 100 - 0.20Q\\), so plugging in \\(Q=10\\) yields \\(98\\). So at a level of production of \\(Q=10\\), we know that our total revenue increases by 98 for one more unit produced.",
     "crumbs": [
       "Assignments",
       "Review",
-      "Calculus practice"
+      "Calculus review"
     ]
   },
   {
-    "objectID": "recaps/class-16.html",
-    "href": "recaps/class-16.html",
-    "title": "Class 16 — Hospital prices",
+    "objectID": "resources/calculus-review.html#optimization",
+    "href": "resources/calculus-review.html#optimization",
+    "title": "Calculus Review",
+    "section": "Optimization",
+    "text": "Optimization\nA common theme in all of economics is that firms and individuals optimize (i.e., maximize some objective function given their current information and constraints). In most simple cases, the optimum of a function occurs where the slope of that function (i.e., the first derivative) equals zero.\nFor example, suppose that total revenue is \\[TR = 100Q - 0.10Q^{2},\\] and assume that we want to choose \\(Q\\) so as to maximize our total revenue (we’ll ignore costs for now). We can find this revenue-maximizing level of \\(Q\\) by taking the derivative and setting it equal to 0, \\[\\frac{\\mathrm{d} TR}{\\mathrm{d} Q} = 100 - 0.20Q.\\] In other words, we know that the function is maximized when the derivative is 0, so we’re going to find the level of \\(Q\\) where that condition is satisfied. In our case, that is for \\(Q\\) such that \\(100 - 0.20Q=0\\), or \\(Q=500\\). So a quantity of 500 maximizes total revenue.",
+    "crumbs": [
+      "Assignments",
+      "Review",
+      "Calculus review"
+    ]
+  },
+  {
+    "objectID": "resources/calculus-review.html#rules-of-differentiation",
+    "href": "resources/calculus-review.html#rules-of-differentiation",
+    "title": "Calculus Review",
+    "section": "Rules of differentiation",
+    "text": "Rules of differentiation\nThere are several rules, or shortcuts, for finding derivatives of common functional forms. These rules are mechanical, but they are useful to remember and only require some basic algebra.\n\nThe derivative of a constant is 0\nThe power rule\n\nConsider the function, \\(y=f(x)=x^{n}\\). The derivative of \\(y\\) is \\(f'(x) = n x^{n-1}\\). For example:\n\nIf \\(y=x^{3}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = 3x^{2}\\).\nIf \\(y=x^{-2}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = -2x^{-3}\\).\nIf \\(y=x\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = x^{0} = 1\\).\n\n\nConstant multiples\n\nLet \\(k\\) be any constant. Then if \\(y=k x^{n}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = n k x^{n-1}\\). For example:\n\nIf \\(y=2x^{4}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = 8x^{3}\\).\nIf \\(y=-2x\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = -2\\)\n\n\nThe sum and difference rule\n\nLet \\(y=f(x) + g(x)\\). Then the derivative of \\(y\\) is just the sum of the derivatives of \\(f(x)\\) and \\(g(x)\\). Similarly, the derivative of \\(y=f(x) - g(x)\\) is the difference of the derivatives of \\(f(x)\\) and \\(g(x)\\). We just differentiate one term at a time.\n\nProduct rule\n\nIf \\(y=f(x) \\times g(x)\\), then the derivative is \\[\\frac{\\mathrm{d} y}{\\mathrm{d} x} = f(x) \\times \\frac{\\mathrm{d} g(x)}{\\mathrm{d} x} + g(x) \\times \\frac{\\mathrm{d} f(x)}{\\mathrm{d} x}.\\] In words, this is “the derivative of the first times the second plus the derivative of the second times the first.” For example:\nIf \\(y=(3x^{2} + 5)(x^{2}+1)\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = 6x \\times (x^{2} + 1) + 2x \\times (3x^{2} + 5)\\).\n\nChain rule\n\nWe use the chain rule when our dependent variable is a function of another function. For example, revenue is a function of \\(Q\\), which in turn may be a function of production inputs. Suppose that our short-run production function is \\(Q=Q(L)\\), where \\(L\\) is quantity of labor. The firm faces an inverse demand function, \\(P=P(Q)\\), such that revenue is \\[TR = P(Q) \\times Q(L).\\] So revenue is a function of \\(Q\\), which is itself a function of \\(L\\).\nTo find the derivative with respect to \\(L\\), we differentiate \\(P(Q) \\times Q\\) using the product rule, and then multiply the result by the derivative of \\(Q\\) with respect to \\(L\\): \\[\\frac{\\mathrm{d} TR}{\\mathrm{d} L} = \\left(P(Q) + Q \\times \\frac{\\mathrm{d} P(Q)}{\\mathrm{d} Q} \\right) \\frac{\\mathrm{d} Q}{\\mathrm{d} L}.\\]",
+    "crumbs": [
+      "Assignments",
+      "Review",
+      "Calculus review"
+    ]
+  },
+  {
+    "objectID": "resources/calculus-review.html#partial-derivatives",
+    "href": "resources/calculus-review.html#partial-derivatives",
+    "title": "Calculus Review",
+    "section": "Partial derivatives",
+    "text": "Partial derivatives\nIf \\(y=f(x,z)\\), then we may want to know how changes in one of the independent variables affects the outcome while holding the remaining independent variables constant. This is what a partial derivative does. Essentially, you take the usual derivative, treating all of the other variables as constants. So all of the rules above apply here as well. For example, say we have \\(y=3x^{2} + xz + 4z^{2}\\), then \\[\\frac{\\partial y}{\\partial x} = 6x + z,\\] and \\[\\frac{\\partial y}{\\partial z} = x + 8z.\\]",
+    "crumbs": [
+      "Assignments",
+      "Review",
+      "Calculus review"
+    ]
+  },
+  {
+    "objectID": "recaps/index.html",
+    "href": "recaps/index.html",
+    "title": "Recaps",
     "section": "",
-    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "text": "After most class days I’ll post a short recap here, with what we covered, the key points, and any corrections to something I said. Use these to fill gaps in your own notes. The models and derivations stay in the slides and the book.\nNot every class will have one.",
     "crumbs": [
       "Recaps",
-      "16. Hospital prices"
+      "All recaps"
     ]
   },
   {
-    "objectID": "recaps/class-16.html#what-we-covered",
-    "href": "recaps/class-16.html#what-we-covered",
-    "title": "Class 16 — Hospital prices",
-    "section": "What we covered",
-    "text": "What we covered\nWhere U.S. hospitals came from and why that history still shows up in prices, then what the word “price” actually refers to. Charges and the charge master, the different payers and what each of them pays, and the variation across hospitals in the same market. We started on ownership at the end.",
+    "objectID": "recaps/index.html#fall-2026",
+    "href": "recaps/index.html#fall-2026",
+    "title": "Recaps",
+    "section": "Fall 2026",
+    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance\n\n\nTue 9/15\n6\nWhat insurance is worth\n\n\nTue 9/22\n8\nAdverse selection\n\n\nTue 9/29\n10\nPhysician agency\n\n\nThu 10/1\n11\nFinancial incentives\n\n\nTue 10/6\n12\nPayment models\n\n\nThu 10/22\n16\nHospital prices",
     "crumbs": [
       "Recaps",
-      "16. Hospital prices"
-    ]
-  },
-  {
-    "objectID": "recaps/class-16.html#key-points",
-    "href": "recaps/class-16.html#key-points",
-    "title": "Class 16 — Hospital prices",
-    "section": "Key points",
-    "text": "Key points\n\nHospitals here began as charity care in dense areas, and nothing about that arrangement required anyone to think about price. Before 1900 you went to a hospital because you had nowhere else to go, and people who could afford a physician were treated at home. There’s no money in treating very sick, poor patients, so the institutions doing it weren’t trying to make any. Medicare and Medicaid then paid on a cost-plus basis from 1965 into the 1980s, which is exactly the stretch when hospitals took on most of their expensive technology. You report your costs, you get paid those costs plus a percentage. A guaranteed percentage of a bigger number is more dollar profit, so there was no reason to push back when a supplier asked for more. Nobody was inflating costs on purpose. They just had no reason to negotiate hard. Insurance was close to prepaid from the patient’s side over the same period, so nobody there was watching price either.\nA hospital price is whatever comes out of a negotiation with an insurer. The hospital wants a high number, the insurer wants a low one, and where it lands depends on which of them needs the other more. Two equally matched parties split the difference. Hospitals can’t set a price alone because their patients arrive through insurers, and being in network means agreeing to a price in a contract. The process is also less formal than you’d expect. It isn’t the two CEOs in a room, it’s mostly here’s what you paid last year, costs are up eight percent, can you pay eight percent more, how about six. Medicare’s rate works as a floor, since a hospital generally won’t go below it to join a network and insurers know that. And when the negotiated price rises, the insurer passes most of it into premiums, which is why you want an insurer large enough to negotiate hard but not so large that it stops caring what it pays.\nA charge is not a price. Every hospital keeps a charge master, a spreadsheet with a number for everything it might do or use, and that number isn’t negotiated, isn’t its cost, and isn’t what it gets paid. A hospital can set it to whatever it likes. The 2011 itemized bill on the slide charges about $18 for one blood glucose test strip, and a hundred strips cost less than half what that bill charged for five. What makes the charge matter anyway is who faces it. An uninsured patient gets the sum of the charges as a bill, and so does an insured patient who ends up out of network. That second case is what the No Surprises Act was written for. Go to an in-network hospital whose emergency department is staffed by an out-of-network practice, or have an out-of-network anesthesiologist brought into an in-network surgery, and the physician’s service reaches you as a charge. The Act takes the patient out of it and sends the provider and the insurer off to settle on a price, which in practice means arbitration. Hospitals keep charges high for two reasons. The gap between the charge and what they actually collect is what gets reported as uncompensated care, and some contracts are written as a percentage of charges because nobody negotiates ten thousand services one at a time.\nThose contracts come in two common forms, a markup over Medicare’s rate or a percentage of the hospital’s own charges, and a hospital can prefer one even when both pay the same on average. The difference is risk. Medicare’s payment is fixed once the DRG is set, so an extra day or an extra unit of blood is pure cost to the hospital. Charges rise with whatever gets used, so a percentage of charges moves with the resources a patient turns out to need. Hospitals in a stronger bargaining position are more likely to get the percentage-of-charges contract, so market power buys insulation from risk as well as a higher price.\nPrices for the same procedure vary enormously inside one market, and quality doesn’t explain it. Medicare pays nearly the same amount to every Atlanta-area hospital for a hip replacement, with the small differences coming from the teaching and disproportionate-share adjustments in the DRG formula, while negotiated rates at those same hospitals run from roughly $12,000 to $26,000. Quality is the natural explanation, so test it on a lower limb MRI, which is about as close to a homogeneous product as health care gets. The image doesn’t change with where you have it taken. Prices still run from a few hundred dollars to a couple of thousand. What’s left is market power and the site of care. The same image costs far more inside a hospital than in a physician’s office that happens to have an MRI down the hall.",
-    "crumbs": [
-      "Recaps",
-      "16. Hospital prices"
-    ]
-  },
-  {
-    "objectID": "recaps/class-11.html",
-    "href": "recaps/class-11.html",
-    "title": "Class 11 — Financial incentives",
-    "section": "",
-    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
-    "crumbs": [
-      "Recaps",
-      "11. Financial incentives"
-    ]
-  },
-  {
-    "objectID": "recaps/class-11.html#what-we-covered",
-    "href": "recaps/class-11.html#what-we-covered",
-    "title": "Class 11 — Financial incentives",
-    "section": "What we covered",
-    "text": "What we covered\nThe model behind physician agency. Why we think financial incentives change treatment, then a model where the physician sets both price and quantity, a numerical example, and finally the case where the price is fixed administratively.",
-    "crumbs": [
-      "Recaps",
-      "11. Financial incentives"
-    ]
-  },
-  {
-    "objectID": "recaps/class-11.html#key-points",
-    "href": "recaps/class-11.html#key-points",
-    "title": "Class 11 — Financial incentives",
-    "section": "Key points",
-    "text": "Key points\n\nAgency isn’t special to medicine. It comes up whenever you hand a decision to someone who knows more than you do, which is why contracts and agency problems travel together in economics. The claim here is narrow. If you pay more for some things than others, then on average more of those things get done, and nothing about anyone behaving badly is required.\nWe believe that because of a research design rather than a pattern in the data. Medicare redefined its geographic payment regions in the late 1990s, so a physician’s payment formula changed while the physician changed nothing, not their location, not their practice, not their patients. Services shifted toward the ones that became better paid. The credibility comes from the change being in how the regions were drawn rather than in anything about the services themselves.\nThe entire result comes from one gap. The physician decides based on their own marginal cost, while you decide based on the price you pay. Since price exceeds cost, the physician pushes care past where you would have stopped. Notice what isn’t needed. Both sides know the same benefit function, so there’s no information problem in this model at all.\nPast your own optimum, each additional unit has marginal benefit below price. Net benefit that would have been yours becomes profit instead, and the only thing that stops the process is your outside option, the point where you’d walk away.\nFixed prices reverse the intuition, and this is the part worth being careful about. When the price is set administratively, cutting it increases the amount of care. It isn’t that lower prices raise demand. It’s that the constraint now has slack, so the physician can treat more before you’d walk away. Cutting fees to save money changes the quantity of care at the same time, and the savings are smaller than what you’d get by holding quantity fixed.",
-    "crumbs": [
-      "Recaps",
-      "11. Financial incentives"
-    ]
-  },
-  {
-    "objectID": "recaps/class-11.html#worth-knowing-for-the-exam",
-    "href": "recaps/class-11.html#worth-knowing-for-the-exam",
-    "title": "Class 11 — Financial incentives",
-    "section": "Worth knowing for the exam",
-    "text": "Worth knowing for the exam\nShow your steps. If an answer is right, I don’t care how you got there, but if it’s wrong, I can’t tell a rushed algebra slip from not knowing the method unless the work is there.\nThis is also why the homework no longer has any theory on it. If I assign a derivation to do at home and ask you not to use AI, I can’t enforce that, and if you do use it you get a perfect answer and learn nothing.",
-    "crumbs": [
-      "Recaps",
-      "11. Financial incentives"
-    ]
-  },
-  {
-    "objectID": "recaps/class-11.html#before-tuesday",
-    "href": "recaps/class-11.html#before-tuesday",
-    "title": "Class 11 — Financial incentives",
-    "section": "Before Tuesday",
-    "text": "Before Tuesday\nWork the in-class problem on the fixed-price case. We set it up but didn’t solve it, and it’s the same steps with the price handed to you.\nBe comfortable with the product rule and the chain rule. Tuesday’s model is the same idea with more structure, so the derivative work is a little heavier.\nQuiz Tuesday. Expect anything from this section of the course, including Tuesday’s own material, and expect it to be quick. You won’t be asked to solve a model from scratch.",
-    "crumbs": [
-      "Recaps",
-      "11. Financial incentives"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html",
-    "href": "recaps/class-08.html",
-    "title": "Class 8 — Adverse selection",
-    "section": "",
-    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#what-we-covered",
-    "href": "recaps/class-08.html#what-we-covered",
-    "title": "Class 8 — Adverse selection",
-    "section": "What we covered",
-    "text": "What we covered\nWe started with homework questions, then moved from one person buying insurance to a market. Special enrollment periods as the motivating example, the demand, average cost, and marginal cost graph, the three cases (full insurance, partial unraveling, full unraveling), the numerical example, the Paul Ryan clip, and a first pass at policy solutions. We ran out of time partway through the policy section and will pick it up Thursday.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#key-points",
-    "href": "recaps/class-08.html#key-points",
-    "title": "Class 8 — Adverse selection",
-    "section": "Key points",
-    "text": "Key points\n\nReading the graph is three steps, and the quiz will ask for them. Pick a price, go across to the demand curve to find the quantity, go up from that quantity to the average cost curve, and compare the two. Practice it until it’s automatic.\nInsurance is unusual because an insurer’s costs are tied to the demand curve itself. In most markets what people will pay and what it costs to serve them are separate things.\nWhether a market is in a “death spiral” is the wrong question. There is some unraveling in any market with adverse selection and a common price. The question is how much, and whether the people left out are the healthiest, which we can live with, or the sickest, which we can’t.\nA subsidy paid to you shifts demand. It does not move the average cost curve, because your health hasn’t changed. What changes is who else buys, so observed average cost moves even though the curve doesn’t. A subsidy paid to insurers is the one that pulls the cost curve down.\nA subsidy and a penalty do the same thing. Twenty dollars off the price and twenty dollars owed if you don’t buy both shift demand out by twenty.\nZero profit is a convenience, not a claim about insurers. We assume it away so the only thing left moving the market is selection.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#the-life-insurance-question",
-    "href": "recaps/class-08.html#the-life-insurance-question",
-    "title": "Class 8 — Adverse selection",
-    "section": "The life insurance question",
-    "text": "The life insurance question\nSomeone asked why we don’t let insurers price each person individually in health insurance when other insurance markets do, and I said I didn’t have a good answer. Here’s a better one.\nLife insurance underwrites you individually, but only once. A level-term or whole-life policy fixes the premium when you buy it, and the insurer can’t raise it later when your health changes. So life insurance is already protecting you against being repriced. It just does it through the contract rather than through a rule.\nThat points at what health insurance regulation is actually protecting, and it isn’t the within-year risk we drew on Tuesday. It’s the risk that your premium jumps in the year you get sick and stays there. Health insurance is bought over and over across a lifetime, and a string of individually priced one-year policies leaves that risk completely uninsured, even though every one of those policies is fairly priced. Community rating is a substitute for the long-term contract this market won’t write, since people change jobs, the product can’t be specified decades ahead, and a healthy enrollee can always walk away.\nAuto insurance is the case that really is different, and the reason is that a driving record is mostly a choice. Pricing on it changes behavior. Health status mostly isn’t a choice, so pricing on it just moves money away from people who drew badly. That’s also why the rating factors states restrict in auto insurance, things like credit score and ZIP code, tend to be the ones with the least to do with how you actually drive.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#more-on-the-insurer-side-programs",
-    "href": "recaps/class-08.html#more-on-the-insurer-side-programs",
-    "title": "Class 8 — Adverse selection",
-    "section": "More on the insurer-side programs",
-    "text": "More on the insurer-side programs\nI went quickly over this in class and it’s worth separating out, because “subsidize insurers” in the ACA meant several different programs and they ended in different ways.\nRisk adjustment is permanent and still running. Money moves between insurers in the same state and market based on the relative risk of who actually enrolled, so an insurer that draws a sicker pool is compensated by one that draws a healthier pool. This is the one I acted out in class with two of you as the insurers, and it’s the same idea as the Medicare Advantage version we saw earlier in the term.\nReinsurance was temporary, 2014 through 2016, and covered the individual market. It paid insurers for enrollees with very high claims. It expired on schedule.\nRisk corridors were also temporary, 2014 through 2016. They compared an insurer’s actual costs against a target, with the government collecting from insurers who came in more than three percent under and paying insurers who came in more than three percent over. This is the one that didn’t get paid. Losses far exceeded gains, and an appropriations rider first enacted in December 2014 barred the agency from paying out more than it collected, so insurers received 12.6 percent of what they were owed for 2014. What came in for 2015 and 2016 went toward the 2014 shortfall, so those years paid nothing. In 2020 the Supreme Court held 8 to 1 that the government still owed the money, and insurers were eventually paid through the courts.\nCost-sharing reduction payments are a separate program, not one of the three above. Insurers are required to lower deductibles and copays for silver-plan enrollees under 250 percent of poverty, and these payments reimbursed them for doing it. They were stopped in October 2017. Insurers responded by concentrating premium increases in silver plans, which raised the benchmark plan, which raised the subsidy everyone received. The cut ended up costing the federal government more rather than less.\nThe economics is the same in each case. All of these pull the average cost curve down, which is the insurer-side policy we were drawing at the end of class. Taking one away pushes it back up.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
-    ]
-  },
-  {
-    "objectID": "recaps/class-08.html#thursday-and-the-homework",
-    "href": "recaps/class-08.html#thursday-and-the-homework",
-    "title": "Class 8 — Adverse selection",
-    "section": "Thursday and the homework",
-    "text": "Thursday and the homework\nPanel plus a short quiz, which finishes the insurance section. Bring questions on adverse selection and we can start with them.\nHomework 1 is due Friday. One thing I said after class that everyone should hear. The New Jersey historical rate file is a scanned PDF, and asking a model to read it will produce more mistakes than doing it by hand. Build that table yourself. Everything else on the assignment is fair game for the agent.",
-    "crumbs": [
-      "Recaps",
-      "8. Adverse selection"
+      "All recaps"
     ]
   },
   {
@@ -837,7 +621,7 @@
     "href": "assignments/index.html#sec-panels",
     "title": "Assignments",
     "section": "Panels",
-    "text": "Panels\nThe panel is worth 45 points. On panel days Commons draws a few students at random to sit as the panel while the rest of the class takes part from the floor, and you earn points in whichever role you are in that day.\nEach panel runs in two stages. First the panel answers a set of questions I put to them, and then the floor opens for the rest of the class to ask questions. A drawn panelist is scored out of 25 on a short checklist covering whether you answered the question put to you, whether your answer drew on the assigned reading, and whether you added to another panelist’s answer. Everyone is drawn at least once and most students twice, and only your best panel counts.\nOn the panel days you are not drawn, you earn audience points from the floor, at 2 points per question asked through the hand-raise queue, up to 20 for the semester. A day you are drawn counts as three questions, since you can’t ask from the floor while on the panel, so being drawn twice doesn’t cost you audience points. On the exam review day (11/17), each practice problem you turn in through Commons counts one point toward the same 20.\nEach panel has a preparation guide, posted before class, with a list of questions to work through as you read. Some are answerable from the reading and some are open-ended, and the questions I put to the panel come from these guides, sometimes reworded.\n\nPanel 1 — Who covers whom? · Thu 9/3 · guide\nPanel 2 — Why we buy insurance · Thu 9/10 · guide\nPanel 3 — Competition in insurance · Thu 9/24 · guide\nPanel 4 — Overtreated? · Thu 10/8 · guide\nPanel 5 — The end of fee-for-service? · Tue 10/20 · guide\nPanel 6 — Does profit status matter? · Tue 10/27 · guide\nPanel 8 — Generics and the patent cliff · Thu 12/3 · guide\n\nOn Tue 11/17 the panel works through the practice exam instead of a reading: each panelist takes one problem at the board and the rest of the class works it alongside them in Commons.\nThe last class is a reverse panel, in which invited guests put the questions to the class.",
+    "text": "Panels\nThe panel is worth 45 points. On panel days Commons draws a few students at random to sit as the panel while the rest of the class takes part from the floor, and you earn points in whichever role you are in that day.\nEach panel runs in two stages. First the panel answers a set of questions I put to them, and then the floor opens for the rest of the class to ask questions. A drawn panelist is scored out of 25 on a short checklist covering whether you answered the question put to you, whether your answer drew on the assigned reading, and whether you added to another panelist’s answer. Everyone is drawn at least once and most students twice, and only your best panel counts.\nOn the panel days you are not drawn, you earn audience points from the floor, at 2 points per question asked through the hand-raise queue, up to 20 for the semester.\nEach panel has a preparation guide, posted before class, with a list of questions to work through as you read. Some are answerable from the reading and some are open-ended, and the questions I put to the panel come from these guides, sometimes reworded.\n\nPanel 1 — Who covers whom? · Thu 9/3 · guide\nPanel 2 — Why we buy insurance · Thu 9/10 · guide\nPanel 3 — Competition in insurance · Thu 9/24 · guide\nPanel 4 — Overtreated? · Thu 10/8 · guide\nPanel 5 — The end of fee-for-service? · Tue 10/20 · guide\nPanel 6 — Does profit status matter? · Tue 10/27 · guide\nPanel 7 — Are hospitals too big? · Tue 11/17 · guide\nPanel 8 — Generics and the patent cliff · Thu 12/3 · guide\n\nThe last class is a reverse panel, in which invited guests put the questions to the class.",
     "crumbs": [
       "Assignments",
       "Overview"
@@ -870,7 +654,7 @@
     "href": "assignments/index.html#midterm",
     "title": "Assignments",
     "section": "Midterm",
-    "text": "Midterm\nThe midterm is one in-class exam worth 60 points, covering the heavier theory and derivations. It is where you show your work and earn partial credit. There is no final exam. A documented absence can be made up, but there is otherwise no drop for the midterm, so plan for the date on the schedule.\nPractice exam. Here are some practice problems for the exam, which we’ll also work through as part of our revised panel day on 11/17.",
+    "text": "Midterm\nThe midterm is one in-class exam worth 60 points, covering the heavier theory and derivations. It is where you show your work and earn partial credit. There is no final exam. A documented absence can be made up, but there is otherwise no drop for the midterm, so plan for the date on the schedule.",
     "crumbs": [
       "Assignments",
       "Overview"
@@ -1236,35 +1020,60 @@
     "href": "assignments/panel7.html",
     "title": "Panel 7 — Are Hospitals Too Big?",
     "section": "",
-    "text": "This panel builds on the merger material from last class, so the book chapter and the Hospital Mergers and Competitiveness slides are the place to review. Here’s a list of questions to think about as you prepare. There’s nothing to turn in — the questions I put to the panel come from this list."
+    "text": "This panel builds on the merger material from last class, so the book chapter and the Hospital Mergers and Competitiveness slides are the place to review. Here’s a list of questions to think about as you prepare. There’s nothing to turn in — the questions I put to the panel come from this list.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
   },
   {
     "objectID": "assignments/panel7.html#from-the-reading",
     "href": "assignments/panel7.html#from-the-reading",
     "title": "Panel 7 — Are Hospitals Too Big?",
     "section": "From the reading",
-    "text": "From the reading\nYou can find these in the chapter and slides.\n\nHow does competition among hospitals affect prices and quality, and how does the answer depend on whether prices are fixed (as in Medicare) or negotiated (as with private insurers)?\nWhy can a merger between nearby hospitals raise prices even if it does nothing to costs?\nWhat does the empirical evidence on hospital mergers generally find?\nWhat is vertical integration between physicians and hospitals, and why might it matter for competition?\nHow do economists measure competition and market power in a hospital market?"
+    "text": "From the reading\nYou can find these in the chapter and slides.\n\nHow does competition among hospitals affect prices and quality, and how does the answer depend on whether prices are fixed (as in Medicare) or negotiated (as with private insurers)?\nWhy can a merger between nearby hospitals raise prices even if it does nothing to costs?\nWhat does the empirical evidence on hospital mergers generally find?\nWhat is vertical integration between physicians and hospitals, and why might it matter for competition?\nHow do economists measure competition and market power in a hospital market?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
   },
   {
     "objectID": "assignments/panel7.html#bigger-questions",
     "href": "assignments/panel7.html#bigger-questions",
     "title": "Panel 7 — Are Hospitals Too Big?",
     "section": "Bigger questions",
-    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nHospitals often say mergers help them cut costs and coordinate care. When should we believe that, and when should we be skeptical?\nIf a merger raises prices but also improves quality, how should a regulator weigh the two against each other?\n“Too big” could mean too expensive, too powerful, or too hard to hold accountable. Which meaning worries you most?\nWhy might a rural community both need its hospital to survive and be worse off if it merges into a large system?\nIf you were the regulator deciding on a hospital merger, what would you most want to know before saying yes or no?"
+    "text": "Bigger questions\nNo single right answer here — these are the ones we’ll talk through together.\n\nHospitals often say mergers help them cut costs and coordinate care. When should we believe that, and when should we be skeptical?\nIf a merger raises prices but also improves quality, how should a regulator weigh the two against each other?\n“Too big” could mean too expensive, too powerful, or too hard to hold accountable. Which meaning worries you most?\nWhy might a rural community both need its hospital to survive and be worse off if it merges into a large system?\nIf you were the regulator deciding on a hospital merger, what would you most want to know before saying yes or no?",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
   },
   {
     "objectID": "assignments/panel7.html#your-take",
     "href": "assignments/panel7.html#your-take",
     "title": "Panel 7 — Are Hospitals Too Big?",
     "section": "Your take",
-    "text": "Your take\nHave you noticed hospitals or clinics near you joining larger systems or changing names? Could you tell whether anything changed for patients? Anything from your own experience is welcome."
+    "text": "Your take\nHave you noticed hospitals or clinics near you joining larger systems or changing names? Could you tell whether anything changed for patients? Anything from your own experience is welcome.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
   },
   {
     "objectID": "assignments/panel7.html#beyond-the-textbook",
     "href": "assignments/panel7.html#beyond-the-textbook",
     "title": "Panel 7 — Are Hospitals Too Big?",
     "section": "Beyond the textbook",
-    "text": "Beyond the textbook\nNot required, but they’ll make the discussion current — skim one or two.\n\nTen Things to Know About Consolidation in Health Care Provider Markets — KFF (2024). A plain-language summary of the evidence that provider consolidation tends to raise prices, with a section on antitrust enforcement.\nOne or two health systems control inpatient care in nearly half of metro areas — KFF (2026). A data brief finding that nearly half of metropolitan inpatient hospital markets are highly concentrated.\nFTC Sues to Block Novant Health’s Acquisition of Two Hospitals — Federal Trade Commission (2024). A real antitrust challenge to a hospital merger, showing how regulators weigh market power and prices."
+    "text": "Beyond the textbook\nNot required, but they’ll make the discussion current — skim one or two.\n\nTen Things to Know About Consolidation in Health Care Provider Markets — KFF (2024). A plain-language summary of the evidence that provider consolidation tends to raise prices, with a section on antitrust enforcement.\nOne or two health systems control inpatient care in nearly half of metro areas — KFF (2026). A data brief finding that nearly half of metropolitan inpatient hospital markets are highly concentrated.\nFTC Sues to Block Novant Health’s Acquisition of Two Hospitals — Federal Trade Commission (2024). A real antitrust challenge to a hospital merger, showing how regulators weigh market power and prices.",
+    "crumbs": [
+      "Assignments",
+      "Panels",
+      "Panel 7"
+    ]
   },
   {
     "objectID": "index.html#instructor",
@@ -1380,6 +1189,203 @@
     ]
   },
   {
+    "objectID": "resources/calculus-practice.html",
+    "href": "resources/calculus-practice.html",
+    "title": "Calculus Practice",
+    "section": "",
+    "text": "Below are just some review questions. If you can answer all of these without much trouble, then you should be in good shape in terms of the math requirements for the class.",
+    "crumbs": [
+      "Assignments",
+      "Review",
+      "Calculus practice"
+    ]
+  },
+  {
+    "objectID": "resources/calculus-practice.html#basic-derivatives",
+    "href": "resources/calculus-practice.html#basic-derivatives",
+    "title": "Calculus Practice",
+    "section": "Basic derivatives",
+    "text": "Basic derivatives\nFind the derivative of the following functions\n\nQuestions\n\n\\(f(x)=3x^{9}\\)\n\\(f(x)=5x^{-2}\\)\n\\(f(x)=5x + 5x^{2}\\)\n\\(f(x)=(\\frac{1}{2}x - 4x^{2})^{2}\\)\n\n\n\nAnswers\n\n\\(f'(x) = 27x^{8}\\)\n\\(f'(x) = -10x^{-3}\\)\n\\(f'(x) = 5 + 10x\\)\n\\(f'(x) = 2 ( \\frac{1}{2}x - 4x^{2})(\\frac{1}{2} - 8x)\\)",
+    "crumbs": [
+      "Assignments",
+      "Review",
+      "Calculus practice"
+    ]
+  },
+  {
+    "objectID": "resources/calculus-practice.html#demand-profits-and-production",
+    "href": "resources/calculus-practice.html#demand-profits-and-production",
+    "title": "Calculus Practice",
+    "section": "Demand, profits, and production",
+    "text": "Demand, profits, and production\n\nQuestions\n\nIf inverse demand is given by \\(P=80-Q\\), what is marginal revenue?\nIf a firm’s profit function is \\(\\pi = (80-Q)Q - 10Q\\), what quantity will maximize the firm’s profit? What is the price at this level of \\(Q\\) (hint: inverse demand is the same as in part 1)?\nThe production function is of the Cobb-Douglas form, \\(Q=AL^{\\alpha} K^{1-\\alpha}\\), where \\(A\\) and \\(\\alpha\\) are constants. What are the marginal products of labor (\\(L\\)) and capital (\\(K\\))?\n\n\n\nAnswers\n\nNote that total revenue is \\((80-Q)Q\\), so marginal revenue is \\(80-2Q\\).\nTo find the optimal \\(Q\\), we need to differentiate, set equal to 0, then solve for \\(Q\\). In this case, \\(\\pi'(Q) = 80 - 2Q - 10\\), which equals 0 for \\(Q=35\\). Price at this quantity is \\(P=80-Q=45\\).\nThe marginal product of labor or capital is just the partial derivative of each of those terms. So, \\[MP_{L} = \\frac{\\partial Q}{\\partial L} = \\alpha A L^{\\alpha-1} K^{1-\\alpha} = \\alpha A \\left(\\frac{K}{L}\\right)^{1-\\alpha}\\] and \\[MP_{K} = \\frac{\\partial Q}{\\partial K} = (1-\\alpha) A L^{\\alpha} K^{-\\alpha} = (1-\\alpha) A \\left( \\frac{L}{K} \\right)^{\\alpha}.\\]",
+    "crumbs": [
+      "Assignments",
+      "Review",
+      "Calculus practice"
+    ]
+  },
+  {
+    "objectID": "resources/probability-stats.html",
+    "href": "resources/probability-stats.html",
+    "title": "Probability and Statistics",
+    "section": "",
+    "text": "Throughout the course, we’ll use a handful of basic statistics concepts. Below is some review material to help you get back up-to-speed with the necessary statistical concepts for the class."
+  },
+  {
+    "objectID": "resources/probability-stats.html#distributions",
+    "href": "resources/probability-stats.html#distributions",
+    "title": "Probability and Statistics",
+    "section": "Distributions",
+    "text": "Distributions\nA distribution in statistics describes how the values of a random variable are spread or dispersed over possible outcomes. Distributions can represent both discrete and continuous variables. For discrete variables, the probability mass function (PMF) assigns a probability to each possible outcome. For continuous variables, the probability density function (PDF) represents how likely a random variable is to take a value within a certain range. The PDF doesn’t give probabilities directly but rather describes the density of probabilities over an interval; the area under the curve of a PDF between two points gives the probability that the variable falls within that range.\nThe cumulative distribution function (CDF) is another important concept related to distributions. It gives the probability that a random variable is less than or equal to a certain value. For continuous variables, the CDF is the integral of the PDF, and it ranges from 0 to 1 as the variable progresses from its minimum to maximum possible values. The CDF provides a way to understand the cumulative probability up to a given point and is useful for comparing probabilities across different intervals of a distribution.\nWhile we won’t work much with any distributions directly, the concept of distributions will arise when we discuss physician learning. We will make several simplifying assumptions to avoid doing much mathematical work with these distributions; however, it might be useful to understand key terms such as a “binomial”, “Bernoulli”, and the “Beta” distributions."
+  },
+  {
+    "objectID": "resources/probability-stats.html#bayes-theorem",
+    "href": "resources/probability-stats.html#bayes-theorem",
+    "title": "Probability and Statistics",
+    "section": "Bayes Theorem",
+    "text": "Bayes Theorem\nBayes’ Theorem is a fundamental concept in probability theory that allows us to update our beliefs based on new evidence. It relates the conditional probability of an event, given prior knowledge, to the likelihood of that event happening. In simple terms, Bayes’ Theorem helps us revise the probability of an event (such as having a disease) based on the accuracy of a test and the prior probability of the event occurring in the population.\nFor two events, A and B, Bayes’ Theorem formula is as follows:\n\\[P(A|B) = \\frac{P(B|A)P(A)}{P(B)}\\]\nAs an example, suppose 1% of a population has a rare disease. A diagnostic test for this disease is 90% accurate, meaning that it correctly identifies 90% of people with the disease (true positive) and 90% of people without the disease (true negative). If a person tests positive, what is the probability that they actually have the disease?\nWhere: - \\(P(A)\\) is the probability of having the disease (prior probability). - \\(P(B|A)\\) is the probability of testing positive given that the person has the disease (test sensitivity). - \\(P(B|\\neg A)\\) is the probability of testing positive given that the person does not have the disease (false positive rate). - \\(P(B)\\) is the total probability of testing positive, regardless of the actual disease status.\nWe are looking to calculate \\(P(A|B)\\), which is the probability of having the disease given a positive test result.\n# Define the known probabilities\nP_A &lt;- 0.01    # Probability of having the disease\nP_not_A &lt;- 1 - P_A   # Probability of not having the disease\nP_B_given_A &lt;- 0.90  # Probability of testing positive given disease\nP_B_given_not_A &lt;- 0.10  # Probability of testing positive without disease\n\n# Calculate the total probability of testing positive (P(B))\nP_B &lt;- (P_B_given_A * P_A) + (P_B_given_not_A * P_not_A)\n\n# Apply Bayes' Theorem to find P(A|B) - Probability of having the disease given a positive test\nP_A_given_B &lt;- (P_B_given_A * P_A) / P_B\n\n# Display the result\nP_A_given_B\nEven though the test is 90% accurate, the probability of actually having the disease given a positive test result is only about 8.3%. This is because the disease is rare, affecting only 1% of the population.\nThus, it’s essential to consider both the accuracy of the test and the prevalence of the disease when interpreting diagnostic test results."
+  },
+  {
+    "objectID": "schedule/index.html",
+    "href": "schedule/index.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). Most days are lectures, and the Activity column is usually blank. It flags the days that carry a graded event, namely a panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment. The Recap column () fills in after we meet, with the key points from that day and any corrections to something I said. Not every day will have one.\nOn lecture days we develop the model at the board and work an example. On panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions. A simulation is an in-class game followed by a debrief. The longer games fill the class, while the shorter ones run alongside that day’s lecture. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
+  },
+  {
+    "objectID": "schedule/index.html#module-0-welcome-to-the-class",
+    "href": "schedule/index.html#module-0-welcome-to-the-class",
+    "title": "Schedule",
+    "section": "Module 0: Welcome to the Class!",
+    "text": "Module 0: Welcome to the Class!\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n1\nThu 8/27\nThe U.S. health care paradox"
+  },
+  {
+    "objectID": "schedule/index.html#module-1-health-insurance",
+    "href": "schedule/index.html#module-1-health-insurance",
+    "title": "Schedule",
+    "section": "Module 1: Health Insurance",
+    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n\n3\nThu 9/3\nPrivate insurance\n\n\n\n\n\n\n4\nTue 9/8\nPublic insurance\n\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n\n\n\n\n7\nThu 9/17\nSet the premium\n\n\n \n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n\n\n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n \n\n\n\n\nFri 9/25\nHomework 1 due"
+  },
+  {
+    "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
+    "href": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
+    "title": "Schedule",
+    "section": "Module 2: Physician Agency and Treatment Decisions",
+    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n10\nTue 9/29\nDoes your doctor work for you?\n\n\n\n\n\n\n11\nThu 10/1\nDo incentives change treatment?\n\n\n\n\n\n\n12\nTue 10/6\nHow physicians are paid\n\n\n\n\n\n\n13\nThu 10/8\nOvertreated?\n\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n\n14\nThu 10/15\nYou’re the doctor\n\n\n\n\n\n\n\nFri 10/16\nHomework 2 due\n\n\n\n\n\n\n15\nTue 10/20\nThe end of fee-for-service?"
+  },
+  {
+    "objectID": "schedule/index.html#module-3-hospital-pricing-and-competition",
+    "href": "schedule/index.html#module-3-hospital-pricing-and-competition",
+    "title": "Schedule",
+    "section": "Module 3: Hospital Pricing and Competition",
+    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n16\nThu 10/22\nWhat is a hospital price?\n\n\n\n\n\n\n17\nTue 10/27\nDoes profit status matter?\n\n\n\n\n\n\n18\nThu 10/29\nHow hospitals set prices\n\n\n\n\n\n\n19\nTue 11/3\nThe two-price market\n\n\n\n\n\n\n20\nThu 11/5\nInsurer–hospital bargaining\n\n\n\n\n\n\n21\nTue 11/10\nMake the deal\n\n\n\n\n\n\n22\nThu 11/12\nWhen hospitals merge\n\n\n\n\n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n\n23\nTue 11/17\nAre hospitals too big?"
+  },
+  {
+    "objectID": "schedule/index.html#midterm",
+    "href": "schedule/index.html#midterm",
+    "title": "Schedule",
+    "section": "Midterm",
+    "text": "Midterm\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n24\nThu 11/19\nIn-class exam — insurance, physicians, and hospitals\n\n\nMidterm"
+  },
+  {
+    "objectID": "schedule/index.html#module-4-prescription-drugs",
+    "href": "schedule/index.html#module-4-prescription-drugs",
+    "title": "Schedule",
+    "section": "Module 4: Prescription Drugs",
+    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n25\nTue 11/24\nThe life of a drug\n\n\n\n\n\n\n\nWed–Fri 11/25–27\nThanksgiving — no class\n\n\n\n\n\n\n26\nTue 12/1\nWhy new drugs cost so much\n\n\n\n\n\n\n27\nThu 12/3\nGenerics and the patent cliff"
+  },
+  {
+    "objectID": "schedule/index.html#finale",
+    "href": "schedule/index.html#finale",
+    "title": "Schedule",
+    "section": "Finale",
+    "text": "Finale\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n28\nTue 12/8\nThe future of U.S. health care policy\n\n\n\n\n\n\n\nThe finale is a reverse panel covering the whole semester — invited guests put the questions to the class, now that you’re the experts."
+  },
+  {
+    "objectID": "schedule/index.html#bonus-optional",
+    "href": "schedule/index.html#bonus-optional",
+    "title": "Schedule",
+    "section": "Bonus / Optional",
+    "text": "Bonus / Optional\nMaterial we won’t cover in class, here if you want to go further:\n\nPhysician learning — how doctors update from experience (Bayesian learning):  \nPhysician training & location — where physicians train and practice:  \nBrand-name drug pricing (formal model) — monopoly and differentiated pricing, the formal version of the in-class simulation:  \nRegulation & innovation (formal) — R&D incentives and drug-pricing policy:"
+  },
+  {
+    "objectID": "recaps/class-08.html",
+    "href": "recaps/class-08.html",
+    "title": "Class 8 — Adverse selection",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#what-we-covered",
+    "href": "recaps/class-08.html#what-we-covered",
+    "title": "Class 8 — Adverse selection",
+    "section": "What we covered",
+    "text": "What we covered\nWe started with homework questions, then moved from one person buying insurance to a market. Special enrollment periods as the motivating example, the demand, average cost, and marginal cost graph, the three cases (full insurance, partial unraveling, full unraveling), the numerical example, the Paul Ryan clip, and a first pass at policy solutions. We ran out of time partway through the policy section and will pick it up Thursday.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#key-points",
+    "href": "recaps/class-08.html#key-points",
+    "title": "Class 8 — Adverse selection",
+    "section": "Key points",
+    "text": "Key points\n\nReading the graph is three steps, and the quiz will ask for them. Pick a price, go across to the demand curve to find the quantity, go up from that quantity to the average cost curve, and compare the two. Practice it until it’s automatic.\nInsurance is unusual because an insurer’s costs are tied to the demand curve itself. In most markets what people will pay and what it costs to serve them are separate things.\nWhether a market is in a “death spiral” is the wrong question. There is some unraveling in any market with adverse selection and a common price. The question is how much, and whether the people left out are the healthiest, which we can live with, or the sickest, which we can’t.\nA subsidy paid to you shifts demand. It does not move the average cost curve, because your health hasn’t changed. What changes is who else buys, so observed average cost moves even though the curve doesn’t. A subsidy paid to insurers is the one that pulls the cost curve down.\nA subsidy and a penalty do the same thing. Twenty dollars off the price and twenty dollars owed if you don’t buy both shift demand out by twenty.\nZero profit is a convenience, not a claim about insurers. We assume it away so the only thing left moving the market is selection.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#one-correction",
+    "href": "recaps/class-08.html#one-correction",
+    "title": "Class 8 — Adverse selection",
+    "section": "One correction",
+    "text": "One correction\nPaul Ryan was a congressman from Wisconsin and Speaker of the House, not a senator. Nothing else about the clip changes.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#thursday-and-the-homework",
+    "href": "recaps/class-08.html#thursday-and-the-homework",
+    "title": "Class 8 — Adverse selection",
+    "section": "Thursday and the homework",
+    "text": "Thursday and the homework\nPanel plus a short quiz, which finishes the insurance section. Bring questions on adverse selection and we can start with them.\nHomework 1 is due Friday. One thing I said after class that everyone should hear. The New Jersey historical rate file is a scanned PDF, and asking a model to read it will produce more mistakes than doing it by hand. Build that table yourself. Everything else on the assignment is fair game for the agent.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#more-on-the-insurer-side-programs",
+    "href": "recaps/class-08.html#more-on-the-insurer-side-programs",
+    "title": "Class 8 — Adverse selection",
+    "section": "More on the insurer-side programs",
+    "text": "More on the insurer-side programs\nI went quickly over this in class and it’s worth separating out, because “subsidize insurers” in the ACA meant several different programs and they ended in different ways.\nRisk adjustment is permanent and still running. Money moves between insurers in the same state and market based on the relative risk of who actually enrolled, so an insurer that draws a sicker pool is compensated by one that draws a healthier pool. This is the one I acted out in class with two of you as the insurers, and it’s the same idea as the Medicare Advantage version we saw earlier in the term.\nReinsurance was temporary, 2014 through 2016, and covered the individual market. It paid insurers for enrollees with very high claims. It expired on schedule.\nRisk corridors were also temporary, 2014 through 2016. They compared an insurer’s actual costs against a target, with the government collecting from insurers who came in more than three percent under and paying insurers who came in more than three percent over. This is the one that didn’t get paid. Losses far exceeded gains, and an appropriations rider first enacted in December 2014 barred the agency from paying out more than it collected, so insurers received 12.6 percent of what they were owed for 2014. What came in for 2015 and 2016 went toward the 2014 shortfall, so those years paid nothing. In 2020 the Supreme Court held 8 to 1 that the government still owed the money, and insurers were eventually paid through the courts.\nCost-sharing reduction payments are a separate program, not one of the three above. Insurers are required to lower deductibles and copays for silver-plan enrollees under 250 percent of poverty, and these payments reimbursed them for doing it. They were stopped in October 2017. Insurers responded by concentrating premium increases in silver plans, which raised the benchmark plan, which raised the subsidy everyone received. The cut ended up costing the federal government more rather than less.\nThe economics is the same in each case. All of these pull the average cost curve down, which is the insurer-side policy we were drawing at the end of class. Taking one away pushes it back up.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
+    "objectID": "recaps/class-08.html#the-life-insurance-question",
+    "href": "recaps/class-08.html#the-life-insurance-question",
+    "title": "Class 8 — Adverse selection",
+    "section": "The life insurance question",
+    "text": "The life insurance question\nSomeone asked why we don’t let insurers price each person individually in health insurance when other insurance markets do, and I said I didn’t have a good answer. Here’s a better one.\nLife insurance underwrites you individually, but only once. A level-term or whole-life policy fixes the premium when you buy it, and the insurer can’t raise it later when your health changes. So life insurance is already protecting you against being repriced. It just does it through the contract rather than through a rule.\nThat points at what health insurance regulation is actually protecting, and it isn’t the within-year risk we drew on Tuesday. It’s the risk that your premium jumps in the year you get sick and stays there. Health insurance is bought over and over across a lifetime, and a string of individually priced one-year policies leaves that risk completely uninsured, even though every one of those policies is fairly priced. Community rating is a substitute for the long-term contract this market won’t write, since people change jobs, the product can’t be specified decades ahead, and a healthy enrollee can always walk away.\nAuto insurance is the case that really is different, and the reason is that a driving record is mostly a choice. Pricing on it changes behavior. Health status mostly isn’t a choice, so pricing on it just moves money away from people who drew badly. That’s also why the rating factors states restrict in auto insurance, things like credit score and ZIP code, tend to be the ones with the least to do with how you actually drive.",
+    "crumbs": [
+      "Recaps",
+      "8. Adverse selection"
+    ]
+  },
+  {
     "objectID": "recaps/class-10.html",
     "href": "recaps/class-10.html",
     "title": "Class 10 — Physician agency",
@@ -1432,6 +1438,94 @@
     "crumbs": [
       "Recaps",
       "10. Physician agency"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html",
+    "href": "recaps/class-16.html",
+    "title": "Class 16 — Hospital prices",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html#what-we-covered",
+    "href": "recaps/class-16.html#what-we-covered",
+    "title": "Class 16 — Hospital prices",
+    "section": "What we covered",
+    "text": "What we covered\nWhere U.S. hospitals came from and why that history still shows up in prices, then what the word “price” actually refers to. Charges and the charge master, the different payers and what each of them pays, and the variation across hospitals in the same market. We started on ownership at the end.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-16.html#key-points",
+    "href": "recaps/class-16.html#key-points",
+    "title": "Class 16 — Hospital prices",
+    "section": "Key points",
+    "text": "Key points\n\nHospitals here began as charity care in dense areas, and nothing about that arrangement required anyone to think about price. Before 1900 you went to a hospital because you had nowhere else to go, and people who could afford a physician were treated at home. There’s no money in treating very sick, poor patients, so the institutions doing it weren’t trying to make any. Medicare and Medicaid then paid on a cost-plus basis from 1965 into the 1980s, which is exactly the stretch when hospitals took on most of their expensive technology. You report your costs, you get paid those costs plus a percentage. A guaranteed percentage of a bigger number is more dollar profit, so there was no reason to push back when a supplier asked for more. Nobody was inflating costs on purpose. They just had no reason to negotiate hard. Insurance was close to prepaid from the patient’s side over the same period, so nobody there was watching price either.\nA hospital price is whatever comes out of a negotiation with an insurer. The hospital wants a high number, the insurer wants a low one, and where it lands depends on which of them needs the other more. Two equally matched parties split the difference. Hospitals can’t set a price alone because their patients arrive through insurers, and being in network means agreeing to a price in a contract. The process is also less formal than you’d expect. It isn’t the two CEOs in a room, it’s mostly here’s what you paid last year, costs are up eight percent, can you pay eight percent more, how about six. Medicare’s rate works as a floor, since a hospital generally won’t go below it to join a network and insurers know that. And when the negotiated price rises, the insurer passes most of it into premiums, which is why you want an insurer large enough to negotiate hard but not so large that it stops caring what it pays.\nA charge is not a price. Every hospital keeps a charge master, a spreadsheet with a number for everything it might do or use, and that number isn’t negotiated, isn’t its cost, and isn’t what it gets paid. A hospital can set it to whatever it likes. The 2011 itemized bill on the slide charges about $18 for one blood glucose test strip, and a hundred strips cost less than half what that bill charged for five. What makes the charge matter anyway is who faces it. An uninsured patient gets the sum of the charges as a bill, and so does an insured patient who ends up out of network. That second case is what the No Surprises Act was written for. Go to an in-network hospital whose emergency department is staffed by an out-of-network practice, or have an out-of-network anesthesiologist brought into an in-network surgery, and the physician’s service reaches you as a charge. The Act takes the patient out of it and sends the provider and the insurer off to settle on a price, which in practice means arbitration. Hospitals keep charges high for two reasons. The gap between the charge and what they actually collect is what gets reported as uncompensated care, and some contracts are written as a percentage of charges because nobody negotiates ten thousand services one at a time.\nThose contracts come in two common forms, a markup over Medicare’s rate or a percentage of the hospital’s own charges, and a hospital can prefer one even when both pay the same on average. The difference is risk. Medicare’s payment is fixed once the DRG is set, so an extra day or an extra unit of blood is pure cost to the hospital. Charges rise with whatever gets used, so a percentage of charges moves with the resources a patient turns out to need. Hospitals in a stronger bargaining position are more likely to get the percentage-of-charges contract, so market power buys insulation from risk as well as a higher price.\nPrices for the same procedure vary enormously inside one market, and quality doesn’t explain it. Medicare pays nearly the same amount to every Atlanta-area hospital for a hip replacement, with the small differences coming from the teaching and disproportionate-share adjustments in the DRG formula, while negotiated rates at those same hospitals run from roughly $12,000 to $26,000. Quality is the natural explanation, so test it on a lower limb MRI, which is about as close to a homogeneous product as health care gets. The image doesn’t change with where you have it taken. Prices still run from a few hundred dollars to a couple of thousand. What’s left is market power and the site of care. The same image costs far more inside a hospital than in a physician’s office that happens to have an MRI down the hall.",
+    "crumbs": [
+      "Recaps",
+      "16. Hospital prices"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html",
+    "href": "recaps/class-11.html",
+    "title": "Class 11 — Financial incentives",
+    "section": "",
+    "text": "This recap comes from a recording of class, transcribed with Whisper and summarized with Claude, with a light edit from me. It’s meant as a convenience rather than a careful document, so the phrasing will sometimes be a little off. If something here looks wrong, please tell me and I’ll fix it.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#what-we-covered",
+    "href": "recaps/class-11.html#what-we-covered",
+    "title": "Class 11 — Financial incentives",
+    "section": "What we covered",
+    "text": "What we covered\nThe model behind physician agency. Why we think financial incentives change treatment, then a model where the physician sets both price and quantity, a numerical example, and finally the case where the price is fixed administratively.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#key-points",
+    "href": "recaps/class-11.html#key-points",
+    "title": "Class 11 — Financial incentives",
+    "section": "Key points",
+    "text": "Key points\n\nAgency isn’t special to medicine. It comes up whenever you hand a decision to someone who knows more than you do, which is why contracts and agency problems travel together in economics. The claim here is narrow. If you pay more for some things than others, then on average more of those things get done, and nothing about anyone behaving badly is required.\nWe believe that because of a research design rather than a pattern in the data. Medicare redefined its geographic payment regions in the late 1990s, so a physician’s payment formula changed while the physician changed nothing, not their location, not their practice, not their patients. Services shifted toward the ones that became better paid. The credibility comes from the change being in how the regions were drawn rather than in anything about the services themselves.\nThe entire result comes from one gap. The physician decides based on their own marginal cost, while you decide based on the price you pay. Since price exceeds cost, the physician pushes care past where you would have stopped. Notice what isn’t needed. Both sides know the same benefit function, so there’s no information problem in this model at all.\nPast your own optimum, each additional unit has marginal benefit below price. Net benefit that would have been yours becomes profit instead, and the only thing that stops the process is your outside option, the point where you’d walk away.\nFixed prices reverse the intuition, and this is the part worth being careful about. When the price is set administratively, cutting it increases the amount of care. It isn’t that lower prices raise demand. It’s that the constraint now has slack, so the physician can treat more before you’d walk away. Cutting fees to save money changes the quantity of care at the same time, and the savings are smaller than what you’d get by holding quantity fixed.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#worth-knowing-for-the-exam",
+    "href": "recaps/class-11.html#worth-knowing-for-the-exam",
+    "title": "Class 11 — Financial incentives",
+    "section": "Worth knowing for the exam",
+    "text": "Worth knowing for the exam\nShow your steps. If an answer is right, I don’t care how you got there, but if it’s wrong, I can’t tell a rushed algebra slip from not knowing the method unless the work is there.\nThis is also why the homework no longer has any theory on it. If I assign a derivation to do at home and ask you not to use AI, I can’t enforce that, and if you do use it you get a perfect answer and learn nothing.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
+    ]
+  },
+  {
+    "objectID": "recaps/class-11.html#before-tuesday",
+    "href": "recaps/class-11.html#before-tuesday",
+    "title": "Class 11 — Financial incentives",
+    "section": "Before Tuesday",
+    "text": "Before Tuesday\nWork the in-class problem on the fixed-price case. We set it up but didn’t solve it, and it’s the same steps with the price handed to you.\nBe comfortable with the product rule and the chain rule. Tuesday’s model is the same idea with more structure, so the derivative work is a little heavier.\nQuiz Tuesday. Expect anything from this section of the course, including Tuesday’s own material, and expect it to be quick. You won’t be asked to solve a model from scratch.",
+    "crumbs": [
+      "Recaps",
+      "11. Financial incentives"
     ]
   },
   {
@@ -1499,183 +1593,5 @@
       "Recaps",
       "12. Payment models"
     ]
-  },
-  {
-    "objectID": "recaps/index.html",
-    "href": "recaps/index.html",
-    "title": "Recaps",
-    "section": "",
-    "text": "After most class days I’ll post a short recap here, with what we covered, the key points, and any corrections to something I said. Use these to fill gaps in your own notes. The models and derivations stay in the slides and the book.\nNot every class will have one.",
-    "crumbs": [
-      "Recaps",
-      "All recaps"
-    ]
-  },
-  {
-    "objectID": "recaps/index.html#fall-2026",
-    "href": "recaps/index.html#fall-2026",
-    "title": "Recaps",
-    "section": "Fall 2026",
-    "text": "Fall 2026\n\n\n\n\n\n\n\n\nDate\nClass\nRecap\n\n\n\n\nThu 8/27\n1\nThe U.S. health care paradox\n\n\nTue 9/1\n2\nHow insurance works\n\n\nTue 9/8\n4\nPublic insurance\n\n\nTue 9/15\n6\nWhat insurance is worth\n\n\nTue 9/22\n8\nAdverse selection\n\n\nTue 9/29\n10\nPhysician agency\n\n\nThu 10/1\n11\nFinancial incentives\n\n\nTue 10/6\n12\nPayment models\n\n\nThu 10/22\n16\nHospital prices",
-    "crumbs": [
-      "Recaps",
-      "All recaps"
-    ]
-  },
-  {
-    "objectID": "resources/calculus-review.html",
-    "href": "resources/calculus-review.html",
-    "title": "Calculus Review",
-    "section": "",
-    "text": "Throughout the course, we’ll use a handful of elementary concepts from calculus. These basic tools are straightforward and easily mastered. In fact, you have already used calculus when you considered marginal revenue and marginal cost in your other economics classes. Here, I provide some review material to help you get back up-to-speed with the necessary mathematical concepts for this class.",
-    "crumbs": [
-      "Assignments",
-      "Review",
-      "Calculus review"
-    ]
-  },
-  {
-    "objectID": "resources/calculus-review.html#functions",
-    "href": "resources/calculus-review.html#functions",
-    "title": "Calculus Review",
-    "section": "Functions",
-    "text": "Functions\nA function is just a formal way in which inputs (a function’s arguments) are converted into an output. For example, a firm’s total revenue (TR) is a function of the amount they produce (Q), such that: \\[TR = TR(Q).\\] This means that total revenue depends on \\(Q\\), the quantity of product produced and sold. Total cost is also a function of \\(Q\\): \\[TC = TC(Q).\\]\nAs a more explicit example, suppose that the inverse demand for a firm is \\[P = 100 - 0.10Q,\\] where \\(P\\) denotes price and \\(Q\\) denotes quantity. Since total revenue is the product of price and quantity, we have \\[TR = P \\times Q = (100 - 0.10Q) \\times Q = 100Q - 0.10Q^2.\\] Thus, total revenue is a function of quantity produced and sold.\nSome functions are more complicated. Producing health care, for example, requires a hospital or some facility (\\(x_{1}\\)); lots of equipment and medical supplies (\\(x_{2}\\)); and physicians, nurses, and staff (\\(x_{3}\\)). We can write the production function of hospitals as \\[Q = f(x_{1}, x_{2}, x_{3}),\\] where \\(Q\\) denotes the “amount” of health care provided and \\(f()\\) represents the production technology that converts inputs into outputs.",
-    "crumbs": [
-      "Assignments",
-      "Review",
-      "Calculus review"
-    ]
-  },
-  {
-    "objectID": "resources/calculus-review.html#simple-derivatives",
-    "href": "resources/calculus-review.html#simple-derivatives",
-    "title": "Calculus Review",
-    "section": "Simple derivatives",
-    "text": "Simple derivatives\nMarginal analysis involves analyzing the response of some outcome variable to a very small change in some other explanatory variable. Mathematically, these marginal effects are derivatives. For example, the derivative of \\(TR=TR(Q)\\) measures the rate of change in total revenue with respect to a small change in \\(Q\\). The derivative of a function is the slope of that function at a given point. By way of notation, we’ll write \\(\\frac{\\mathrm{d} TR}{\\mathrm{d} Q}\\) to represent the derivative of TR with respect to \\(Q\\). More generally, if \\(y=f(x)\\), then \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x}\\) is the derivative of \\(y\\) with respect to \\(x\\). We will also write this as \\(f'(x)\\).\nAs an example, consider the total revenue function, \\(TR = 100Q - 0.10Q^{2}\\). What is the derivative of the total revenue function at \\(Q=10\\)? Well, we know \\(\\frac{\\mathrm{d} TR}{\\mathrm{d} Q} = 100 - 0.20Q\\), so plugging in \\(Q=10\\) yields \\(98\\). So at a level of production of \\(Q=10\\), we know that our total revenue increases by 98 for one more unit produced.",
-    "crumbs": [
-      "Assignments",
-      "Review",
-      "Calculus review"
-    ]
-  },
-  {
-    "objectID": "resources/calculus-review.html#optimization",
-    "href": "resources/calculus-review.html#optimization",
-    "title": "Calculus Review",
-    "section": "Optimization",
-    "text": "Optimization\nA common theme in all of economics is that firms and individuals optimize (i.e., maximize some objective function given their current information and constraints). In most simple cases, the optimum of a function occurs where the slope of that function (i.e., the first derivative) equals zero.\nFor example, suppose that total revenue is \\[TR = 100Q - 0.10Q^{2},\\] and assume that we want to choose \\(Q\\) so as to maximize our total revenue (we’ll ignore costs for now). We can find this revenue-maximizing level of \\(Q\\) by taking the derivative and setting it equal to 0, \\[\\frac{\\mathrm{d} TR}{\\mathrm{d} Q} = 100 - 0.20Q.\\] In other words, we know that the function is maximized when the derivative is 0, so we’re going to find the level of \\(Q\\) where that condition is satisfied. In our case, that is for \\(Q\\) such that \\(100 - 0.20Q=0\\), or \\(Q=500\\). So a quantity of 500 maximizes total revenue.",
-    "crumbs": [
-      "Assignments",
-      "Review",
-      "Calculus review"
-    ]
-  },
-  {
-    "objectID": "resources/calculus-review.html#rules-of-differentiation",
-    "href": "resources/calculus-review.html#rules-of-differentiation",
-    "title": "Calculus Review",
-    "section": "Rules of differentiation",
-    "text": "Rules of differentiation\nThere are several rules, or shortcuts, for finding derivatives of common functional forms. These rules are mechanical, but they are useful to remember and only require some basic algebra.\n\nThe derivative of a constant is 0\nThe power rule\n\nConsider the function, \\(y=f(x)=x^{n}\\). The derivative of \\(y\\) is \\(f'(x) = n x^{n-1}\\). For example:\n\nIf \\(y=x^{3}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = 3x^{2}\\).\nIf \\(y=x^{-2}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = -2x^{-3}\\).\nIf \\(y=x\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = x^{0} = 1\\).\n\n\nConstant multiples\n\nLet \\(k\\) be any constant. Then if \\(y=k x^{n}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = n k x^{n-1}\\). For example:\n\nIf \\(y=2x^{4}\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = 8x^{3}\\).\nIf \\(y=-2x\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = -2\\)\n\n\nThe sum and difference rule\n\nLet \\(y=f(x) + g(x)\\). Then the derivative of \\(y\\) is just the sum of the derivatives of \\(f(x)\\) and \\(g(x)\\). Similarly, the derivative of \\(y=f(x) - g(x)\\) is the difference of the derivatives of \\(f(x)\\) and \\(g(x)\\). We just differentiate one term at a time.\n\nProduct rule\n\nIf \\(y=f(x) \\times g(x)\\), then the derivative is \\[\\frac{\\mathrm{d} y}{\\mathrm{d} x} = f(x) \\times \\frac{\\mathrm{d} g(x)}{\\mathrm{d} x} + g(x) \\times \\frac{\\mathrm{d} f(x)}{\\mathrm{d} x}.\\] In words, this is “the derivative of the first times the second plus the derivative of the second times the first.” For example:\nIf \\(y=(3x^{2} + 5)(x^{2}+1)\\), the derivative is \\(\\frac{\\mathrm{d} y}{\\mathrm{d} x} = 6x \\times (x^{2} + 1) + 2x \\times (3x^{2} + 5)\\).\n\nChain rule\n\nWe use the chain rule when our dependent variable is a function of another function. For example, revenue is a function of \\(Q\\), which in turn may be a function of production inputs. Suppose that our short-run production function is \\(Q=Q(L)\\), where \\(L\\) is quantity of labor. The firm faces an inverse demand function, \\(P=P(Q)\\), such that revenue is \\[TR = P(Q) \\times Q(L).\\] So revenue is a function of \\(Q\\), which is itself a function of \\(L\\).\nTo find the derivative with respect to \\(L\\), we differentiate \\(P(Q) \\times Q\\) using the product rule, and then multiply the result by the derivative of \\(Q\\) with respect to \\(L\\): \\[\\frac{\\mathrm{d} TR}{\\mathrm{d} L} = \\left(P(Q) + Q \\times \\frac{\\mathrm{d} P(Q)}{\\mathrm{d} Q} \\right) \\frac{\\mathrm{d} Q}{\\mathrm{d} L}.\\]",
-    "crumbs": [
-      "Assignments",
-      "Review",
-      "Calculus review"
-    ]
-  },
-  {
-    "objectID": "resources/calculus-review.html#partial-derivatives",
-    "href": "resources/calculus-review.html#partial-derivatives",
-    "title": "Calculus Review",
-    "section": "Partial derivatives",
-    "text": "Partial derivatives\nIf \\(y=f(x,z)\\), then we may want to know how changes in one of the independent variables affects the outcome while holding the remaining independent variables constant. This is what a partial derivative does. Essentially, you take the usual derivative, treating all of the other variables as constants. So all of the rules above apply here as well. For example, say we have \\(y=3x^{2} + xz + 4z^{2}\\), then \\[\\frac{\\partial y}{\\partial x} = 6x + z,\\] and \\[\\frac{\\partial y}{\\partial z} = x + 8z.\\]",
-    "crumbs": [
-      "Assignments",
-      "Review",
-      "Calculus review"
-    ]
-  },
-  {
-    "objectID": "resources/probability-stats.html",
-    "href": "resources/probability-stats.html",
-    "title": "Probability and Statistics",
-    "section": "",
-    "text": "Throughout the course, we’ll use a handful of basic statistics concepts. Below is some review material to help you get back up-to-speed with the necessary statistical concepts for the class."
-  },
-  {
-    "objectID": "resources/probability-stats.html#distributions",
-    "href": "resources/probability-stats.html#distributions",
-    "title": "Probability and Statistics",
-    "section": "Distributions",
-    "text": "Distributions\nA distribution in statistics describes how the values of a random variable are spread or dispersed over possible outcomes. Distributions can represent both discrete and continuous variables. For discrete variables, the probability mass function (PMF) assigns a probability to each possible outcome. For continuous variables, the probability density function (PDF) represents how likely a random variable is to take a value within a certain range. The PDF doesn’t give probabilities directly but rather describes the density of probabilities over an interval; the area under the curve of a PDF between two points gives the probability that the variable falls within that range.\nThe cumulative distribution function (CDF) is another important concept related to distributions. It gives the probability that a random variable is less than or equal to a certain value. For continuous variables, the CDF is the integral of the PDF, and it ranges from 0 to 1 as the variable progresses from its minimum to maximum possible values. The CDF provides a way to understand the cumulative probability up to a given point and is useful for comparing probabilities across different intervals of a distribution.\nWhile we won’t work much with any distributions directly, the concept of distributions will arise when we discuss physician learning. We will make several simplifying assumptions to avoid doing much mathematical work with these distributions; however, it might be useful to understand key terms such as a “binomial”, “Bernoulli”, and the “Beta” distributions."
-  },
-  {
-    "objectID": "resources/probability-stats.html#bayes-theorem",
-    "href": "resources/probability-stats.html#bayes-theorem",
-    "title": "Probability and Statistics",
-    "section": "Bayes Theorem",
-    "text": "Bayes Theorem\nBayes’ Theorem is a fundamental concept in probability theory that allows us to update our beliefs based on new evidence. It relates the conditional probability of an event, given prior knowledge, to the likelihood of that event happening. In simple terms, Bayes’ Theorem helps us revise the probability of an event (such as having a disease) based on the accuracy of a test and the prior probability of the event occurring in the population.\nFor two events, A and B, Bayes’ Theorem formula is as follows:\n\\[P(A|B) = \\frac{P(B|A)P(A)}{P(B)}\\]\nAs an example, suppose 1% of a population has a rare disease. A diagnostic test for this disease is 90% accurate, meaning that it correctly identifies 90% of people with the disease (true positive) and 90% of people without the disease (true negative). If a person tests positive, what is the probability that they actually have the disease?\nWhere: - \\(P(A)\\) is the probability of having the disease (prior probability). - \\(P(B|A)\\) is the probability of testing positive given that the person has the disease (test sensitivity). - \\(P(B|\\neg A)\\) is the probability of testing positive given that the person does not have the disease (false positive rate). - \\(P(B)\\) is the total probability of testing positive, regardless of the actual disease status.\nWe are looking to calculate \\(P(A|B)\\), which is the probability of having the disease given a positive test result.\n# Define the known probabilities\nP_A &lt;- 0.01    # Probability of having the disease\nP_not_A &lt;- 1 - P_A   # Probability of not having the disease\nP_B_given_A &lt;- 0.90  # Probability of testing positive given disease\nP_B_given_not_A &lt;- 0.10  # Probability of testing positive without disease\n\n# Calculate the total probability of testing positive (P(B))\nP_B &lt;- (P_B_given_A * P_A) + (P_B_given_not_A * P_not_A)\n\n# Apply Bayes' Theorem to find P(A|B) - Probability of having the disease given a positive test\nP_A_given_B &lt;- (P_B_given_A * P_A) / P_B\n\n# Display the result\nP_A_given_B\nEven though the test is 90% accurate, the probability of actually having the disease given a positive test result is only about 8.3%. This is because the disease is rare, affecting only 1% of the population.\nThus, it’s essential to consider both the accuracy of the test and the prevalence of the disease when interpreting diagnostic test results."
-  },
-  {
-    "objectID": "schedule/index.html",
-    "href": "schedule/index.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Below is the plan for each class day.  links to the online book chapter and  to that day’s slides (a few days draw on two of each). Most days are lectures, and the Activity column is usually blank. It flags the days that carry a graded event, namely a panel discussion (), a simulation (), or the midterm. A short auto-graded quiz () or a homework due date () appears alongside and links to the assignment. The Recap column () fills in after we meet, with the key points from that day and any corrections to something I said. Not every day will have one.\nOn lecture days we develop the model at the board and work an example. On panel days a randomly drawn panel discusses the reading while the rest of the class earns points asking questions. A simulation is an in-class game followed by a debrief. The longer games fill the class, while the shorter ones run alongside that day’s lecture. Check-in, the panel draw, quizzes, and the question queue all run through our class platform (Commons).\nThe schedule is provisional — topics, readings, and the exact placement of quizzes and simulations may shift as the term unfolds. Optional material we won’t cover in class is listed under Bonus at the bottom."
-  },
-  {
-    "objectID": "schedule/index.html#module-0-welcome-to-the-class",
-    "href": "schedule/index.html#module-0-welcome-to-the-class",
-    "title": "Schedule",
-    "section": "Module 0: Welcome to the Class!",
-    "text": "Module 0: Welcome to the Class!\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n1\nThu 8/27\nThe U.S. health care paradox"
-  },
-  {
-    "objectID": "schedule/index.html#module-1-health-insurance",
-    "href": "schedule/index.html#module-1-health-insurance",
-    "title": "Schedule",
-    "section": "Module 1: Health Insurance",
-    "text": "Module 1: Health Insurance\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n2\nTue 9/1\nHow insurance works\n\n\n\n\n\n\n3\nThu 9/3\nPrivate insurance\n\n\n\n\n\n\n4\nTue 9/8\nPublic insurance\n\n\n\n\n\n\n5\nThu 9/10\nWhy we buy insurance\n\n\n\n\n\n\n6\nTue 9/15\nWhat insurance is worth\n\n\n\n\n\n\n7\nThu 9/17\nSet the premium\n\n\n \n\n\n\n8\nTue 9/22\nAdverse selection\n\n\n\n\n\n\n9\nThu 9/24\nDo we want competition in insurance?\n\n\n \n\n\n\n\nFri 9/25\nHomework 1 due"
-  },
-  {
-    "objectID": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
-    "href": "schedule/index.html#module-2-physician-agency-and-treatment-decisions",
-    "title": "Schedule",
-    "section": "Module 2: Physician Agency and Treatment Decisions",
-    "text": "Module 2: Physician Agency and Treatment Decisions\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n10\nTue 9/29\nDoes your doctor work for you?\n\n\n\n\n\n\n11\nThu 10/1\nDo incentives change treatment?\n\n\n\n\n\n\n12\nTue 10/6\nHow physicians are paid\n\n\n\n\n\n\n13\nThu 10/8\nOvertreated?\n\n\n\n\n\n\n\nMon–Tue 10/12–13\nFall break — no class\n\n\n\n\n\n\n14\nThu 10/15\nYou’re the doctor\n\n\n\n\n\n\n\nFri 10/16\nHomework 2 due\n\n\n\n\n\n\n15\nTue 10/20\nThe end of fee-for-service?"
-  },
-  {
-    "objectID": "schedule/index.html#module-3-hospital-pricing-and-competition",
-    "href": "schedule/index.html#module-3-hospital-pricing-and-competition",
-    "title": "Schedule",
-    "section": "Module 3: Hospital Pricing and Competition",
-    "text": "Module 3: Hospital Pricing and Competition\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n16\nThu 10/22\nWhat is a hospital price?\n\n\n\n\n\n\n17\nTue 10/27\nDoes profit status matter?\n\n\n\n\n\n\n18\nThu 10/29\nHow hospitals set prices\n\n\n\n\n\n\n19\nTue 11/3\nThe two-price market\n\n\n\n\n\n\n20\nThu 11/5\nInsurer–hospital bargaining\n\n\n\n\n\n\n21\nTue 11/10\nMake the deal\n\n\n\n\n\n\n22\nThu 11/12\nWhen hospitals merge\n\n\n\n\n\n\n\nFri 11/13\nHomework 3 due\n\n\n\n\n\n\n23\nTue 11/17\nPractice exam"
-  },
-  {
-    "objectID": "schedule/index.html#midterm",
-    "href": "schedule/index.html#midterm",
-    "title": "Schedule",
-    "section": "Midterm",
-    "text": "Midterm\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n24\nThu 11/19\nIn-class exam — insurance, physicians, and hospitals\n\n\nMidterm"
-  },
-  {
-    "objectID": "schedule/index.html#module-4-prescription-drugs",
-    "href": "schedule/index.html#module-4-prescription-drugs",
-    "title": "Schedule",
-    "section": "Module 4: Prescription Drugs",
-    "text": "Module 4: Prescription Drugs\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n25\nTue 11/24\nThe life of a drug\n\n\n\n\n\n\n\nWed–Fri 11/25–27\nThanksgiving — no class\n\n\n\n\n\n\n26\nTue 12/1\nWhy new drugs cost so much\n\n\n\n\n\n\n27\nThu 12/3\nGenerics and the patent cliff"
-  },
-  {
-    "objectID": "schedule/index.html#finale",
-    "href": "schedule/index.html#finale",
-    "title": "Schedule",
-    "section": "Finale",
-    "text": "Finale\n\n\n\n\n\n\n\n\n\n\n\n\nClass\nDate\nTopic\nReading\nSlides\nActivity\nRecap\n\n\n\n\n28\nTue 12/8\nThe future of U.S. health care policy\n\n\n\n\n\n\n\nThe finale is a reverse panel covering the whole semester — invited guests put the questions to the class, now that you’re the experts."
-  },
-  {
-    "objectID": "schedule/index.html#bonus-optional",
-    "href": "schedule/index.html#bonus-optional",
-    "title": "Schedule",
-    "section": "Bonus / Optional",
-    "text": "Bonus / Optional\nMaterial we won’t cover in class, here if you want to go further:\n\nPhysician learning — how doctors update from experience (Bayesian learning):  \nPhysician training & location — where physicians train and practice:  \nBrand-name drug pricing (formal model) — monopoly and differentiated pricing, the formal version of the in-class simulation:  \nRegulation & innovation (formal) — R&D incentives and drug-pricing policy:"
   }
 ]
