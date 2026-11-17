@@ -21,4 +21,6 @@ Not every class will have one.
 | Thu 10/1 | 11 | [Financial incentives](class-11.qmd) |
 | Tue 10/6 | 12 | [Payment models](class-12.qmd) |
 | Thu 10/22 | 16 | [Hospital prices](class-16.qmd) |
+| Thu 10/29 | 18 | [How hospitals set prices](class-18.qmd) |
+| Thu 11/12 | 22 | [When hospitals merge](class-22.qmd) |
 : {tbl-colwidths="[18,10,72]"}

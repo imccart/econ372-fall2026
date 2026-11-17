@@ -74,6 +74,10 @@ website:
           file: recaps/class-12.qmd
         - text: "16. Hospital prices"
           file: recaps/class-16.qmd
+        - text: "18. How hospitals set prices"
+          file: recaps/class-18.qmd
+        - text: "22. When hospitals merge"
+          file: recaps/class-22.qmd
 
     - title: "Assignments"
       style: "docked"
