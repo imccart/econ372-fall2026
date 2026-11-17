@@ -62,25 +62,3 @@ one. The U.S. has been experimenting steadily in this direction for twenty
 years, and payment is still overwhelmingly fee-for-service with other
 arrangements layered on top. Don't leave with the impression that capitation is
 nearly here.
-
-## Worth knowing for the exam
-
-Work the in-class problem. The answer keys are on the website with the worksheet
-answers, and some version of this model will be on the exam. Expect it in both
-directions: given $R$ and the prices, find the physician's $x$; or given a
-target $x$, find the $R$ that induces it. The second one is the point of the
-whole exercise, since it's how a payer actually moves care up or down.
-
-Don't memorize the optimality condition. Memorize nothing, really. Know the
-profit function, take the derivative, and the condition falls out. Jumping
-straight to the condition is where mistakes happen, and you end up trying to
-hold a dozen equations in your head when there's only ever one problem.
-
-Formula sheets are allowed. There are diminishing returns to how much you cram
-onto one, though, and the people with 0.5-point font tend to do worst. A sheet
-you built while studying helps. A sheet you built instead of studying doesn't.
-
-## Thursday
-
-Panel day. Several questions from today went unanswered when I cut the queue off
-for the quiz, so there'll be time for those at the start.

@@ -43,11 +43,3 @@ week early. We skipped the in-class problem for time.
 
 In the worked example the full willingness to pay is $5,426, the $5,000
 expected cost plus the $426 risk premium.
-
-## Thursday
-
-Short quiz, open note, then the simulation. Calculations on expected value,
-certainty equivalent, risk premium, and willingness to pay are fair game. On
-the homework, the New Jersey enrollment history sits under the tabs labeled
-historical below the recent quarters, and quarterly enrollment is the same
-people each quarter, so pick one quarter per year rather than adding them.

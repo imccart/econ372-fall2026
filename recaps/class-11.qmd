@@ -46,25 +46,3 @@ administratively.
   has slack, so the physician can treat more before you'd walk away. Cutting
   fees to save money changes the quantity of care at the same time, and the
   savings are smaller than what you'd get by holding quantity fixed.
-
-## Worth knowing for the exam
-
-Show your steps. If an answer is right, I don't care how you got there, but if
-it's wrong, I can't tell a rushed algebra slip from not knowing the method
-unless the work is there.
-
-This is also why the homework no longer has any theory on it. If I assign a
-derivation to do at home and ask you not to use AI, I can't enforce that, and if
-you do use it you get a perfect answer and learn nothing.
-
-## Before Tuesday
-
-Work the in-class problem on the fixed-price case. We set it up but didn't solve
-it, and it's the same steps with the price handed to you.
-
-Be comfortable with the product rule and the chain rule. Tuesday's model is the
-same idea with more structure, so the derivative work is a little heavier.
-
-Quiz Tuesday. Expect anything from this section of the course, including
-Tuesday's own material, and expect it to be quick. You won't be asked to solve a
-model from scratch.

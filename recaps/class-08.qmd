@@ -108,13 +108,3 @@ more rather than less.
 The economics is the same in each case. All of these pull the average cost curve
 down, which is the insurer-side policy we were drawing at the end of class.
 Taking one away pushes it back up.
-
-## Thursday and the homework
-
-Panel plus a short quiz, which finishes the insurance section. Bring questions
-on adverse selection and we can start with them.
-
-Homework 1 is due Friday. One thing I said after class that everyone should
-hear. The New Jersey historical rate file is a scanned PDF, and asking a model
-to read it will produce more mistakes than doing it by hand. Build that table
-yourself. Everything else on the assignment is fair game for the agent.
